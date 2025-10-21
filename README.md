@@ -70,7 +70,6 @@ Desarrollar un sistema analítico que identifique segmentos de riesgo, descubra 
 | Población en situación de pobreza                             | Contexto territorial para riesgo de abandono | [🔗 INEGI Pobreza](https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Hogares_Hogares_15_d495789b-8be5-42a9-9189-511f3953702a) |
 
 
-
 ##  Metodología CRISP-DM
 
 1. **Comprensión del negocio**
@@ -88,29 +87,3 @@ Desarrollar un sistema analítico que identifique segmentos de riesgo, descubra 
    Métricas cuantitativas y validación cualitativa con expertos de plantel/tutorías.
    Resultados presentados en tablero y narrativa clara.
 
-##  Estructura del repositorio
-
-```
- mineria-educativa-unam/
-├── README.md
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── docs/
-├── notebooks/
-│   ├── A1_segmentation.ipynb
-│   ├── A2_cluster_profiling.ipynb
-│   ├── A3_logit_calibration.ipynb
-│   ├── B1_rules_sequences.ipynb
-│   ├── C1_ingesta_limpieza.ipynb
-│   ├── C2_discretizacion.ipynb
-│   └── C3_calidad_tablero.ipynb
-├── src/
-│   ├── utils/
-│   ├── mining/
-│   └── dashboards/
-└── reports/
-    ├── resultados/
-    ├── catalogos/
-    └── presentaciones/
-```
