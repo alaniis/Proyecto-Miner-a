@@ -1,4 +1,4 @@
-## Contexto y motivación
+## Contexto
 
 En la UNAM, los fenómenos de rezago, irregularidad y abandono escolar varían significativamente por plantel, área y cohorte. Este proyecto busca extraer conocimiento útil de los datos académicos, administrativos y socioeconómicos para comprender el cómo y por qué del abandono, y con ello diseñar palancas de intervención y modelos de predicción.
 
