@@ -96,10 +96,28 @@ El contrato debe quedar inmutable durante la evaluación. Si se necesitan cambio
 Aunque se trata de un entorno académico, es importante contemplar ataques triviales: entradas gigantes, tipos incorrectos, JSON malformados. La aplicación debe imponer límites de tamaño al cuerpo, validar tipos y valores permitidos, y registrar de manera controlada los errores sin volcar datos sensibles. Los logs deben incluir timestamp, ruta, código de estado y, si procede, un identificador de solicitud. No deben imprimirse tracebacks completos al cliente. Toda la experimentación debe ser reproducible con una semilla global definida. El repositorio debe fijar versiones mínimas en app/requirements.txt para la ejecución de la API y, si se desea, disponer de un requirements-dev.txt con dependencias de análisis (Jupyter, gráficos) que no se instalan en la imagen. Los artefactos que afectan la inferencia ( preprocessor.pkl y model.pkl ) se versionan mediante nombres estables y se incluyen en la imagen. El cuaderno de comparación notebooks/ contiene las celdas que generan las métricas reportadas y puede regenerar figuras y tablas.
 
 ## 9. Estructura del repositorio
+```
 
+│
+├── model/
+│   ├── adaboost_custom.py
+│   ├── adaboost_sklearn.py
+│   ├── preprocessor.pkl
+│   └── model.pkl
+│
+├── app/
+│   └── main.py
+│
+├── notebooks/
+│   └── nb_template.ipynb
+│
+├── train_set.csv
+├── requirements.txt
+├── Dockerfile
+├── Makefile
+└── README.md
 
-
-
+```
 ## 10. Docker y Makefile: Protocolo de ejecución y comprobación
 
 La imagen de Docker se basa en python:3.10-slim, copia el repositorio, instala dependencias y levanta uvicorn . El puerto de exposición es 8000 . Un Makefile con reglas build, run, status, stop, clean y package automatiza el ciclo. La regla package genera un tarball equipo_<NOMBRE>.tar.gz con todo lo necesario para evaluar. Se recomienda comprobar localmente que el flujo funciona en limpio: extraer el tarball en un directorio nuevo, construir la imagen, iniciar el contenedor, consultar /health $y$ /predict con un ejemplo mínimo. Para construir y ejecutar, primero se crea la imagen. Luego se ejecuta el contenedor con mapeo del puerto 8000 al host. Se verifica la salud con una petición GET a /health. Se inspecciona /info para comprobar que el modelo y el preprocesamiento se cargaron como se esperaba. Finalmente, se envía un registro de prueba a /predict. La salida debe ser determinista dada la semilla y el pipeline. Si el preprocesamiento espera columnas categóricas específicas, el ejemplo de prueba debe respetar exactamente esos dominios para evitar respuestas de error.
