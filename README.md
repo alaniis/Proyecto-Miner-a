@@ -4,7 +4,19 @@ En este repositorio se explica el propósito de la práctica, desarrolla con rig
 
 ## 1. Motivación y objetivos
 
-Boosting es una metodología para transformar clasificadores débiles en un clasificador fuerte mediante la combinación aditiva de modelos entrenados secuencialmente. En particular, AdaBoost es uno de los algoritmos más influyentes por su simplicidad y por las garantías teóricas que lo acompañan. En esta práctica se pide: implementar AdaBoost desde cero utilizando *decision stumps* como clasificadores base; comparar su desempeño contra AdaBoostClassifier de scikit-learn bajo un protocolo experimental controlado; exponer el pipeline de inferencia mediante una API REST que aplica el mismo preprocesamiento que el entrenamiento; y entregar un entorno reproducible vía Docker y Makefile. El énfasis está en el rigor: trazabilidad del preprocesamiento, control de semillas, reporte de métricas en conjuntos separados y descripción explícita de supuestos.
+Boosting es una metodología para transformar clasificadores débiles en un clasificador fuerte mediante la combinación aditiva de modelos entrenados secuencialmente. En particular, AdaBoost es uno de los algoritmos más influyentes por su simplicidad y por las garantías teóricas que lo acompañan. En esta práctica se pide: implementar AdaBoost desde cero utilizando *decision stumps* como clasificadores base; comparar su desempeño contra AdaBoostClassifier de scikit-learn bajo un protocolo experimental controlado; exponer el pipeline de inferencia mediante una API REST que aplica el mismo preprocesamiento que el entrenamiento; y entregar un entorno reproducible vía Docker y Makefile. El énfasis está en el rigor: trazabilidad del preprocesamiento, control de semillas, reporte de métricas en conjuntos separados y descripción explícita de supuestos. La práctica se estructura en tres elementos principales, cada uno con sus propios objetivos específicos:
+
+### Elemento 1: Implementación desde cero de AdaBoost
+El objetivo es comprender y programar el principio del algoritmo AdaBoost (Adaptive Boosting), utilizando clasificadores débiles secuenciales para construir un modelo fuerte.\
+El enfoque principal de este elemento es aprender cómo el modelo ajusta los pesos de las observaciones en función de los errores previos, logrando una combinación ponderada de predictores débiles que reduce el sesgo del sistema.
+
+### Elemento 2: Comparativa con sklearn
+El objetivo es evaluar la implementación propia de AdaBoost frente al modelo de referencia \texttt{sklearn.ensemble.AdaBoostClassifier}.\
+Esto implica analizar la precisión, estabilidad y convergencia del ensamble. El propósito de esta comparación es validar que la versión implementada capture correctamente el comportamiento adaptativo del algoritmo y comprender los efectos del número de clasificadores y la distribución de pesos.
+
+### Elemento 3: API, contenedor Docker y automatización con Makefile
+El objetivo es exponer el modelo de AdaBoost entrenado mediante una API REST simple.\
+Adicionalmente, se debe empaquetar la aplicación en un contenedor Docker ejecutable en local y automatizar las tareas principales (construir, ejecutar, detener y empaquetar; es decir, \textit{build}, \textit{run}, \textit{stop}, \textit{package}) utilizando un Makefile. La meta de este elemento es que el docente pueda evaluar cada solución de forma reproducible, ejecutando unos cuantos comandos \texttt{make} y probando la API.
 
 ## 2. Fundamentos teóricos de AdaBoost
 
@@ -13,14 +25,15 @@ Boosting es una metodología para transformar clasificadores débiles en un clas
 El punto de partida es suponer que contamos con un clasificador débil capaz de tener un error ligeramente menor que el azar sobre la distribución de entrenamiento. El boosting entrena una sucesión de clasificadores débiles $h_1, \ldots, h_T$ sobre reponderaciones adaptativas de los ejemplos y los combina por una regla de voto ponderado. Sea $\left(x_i, y_i\right)_{i=1}^n$ el conjunto de entrenamiento con etiquetas binarias $y_i \in\{-1,+1\}$. En la iteración $t$ se mantiene una distribución de pesos $D_t$ sobre los índices $i$, se entrena $h_t$ minimizando el error ponderado $\epsilon_t=\sum_i D_t(i) \mathbf{1}\left[h_t\left(x_i\right) \neq y_i\right]$ y se asigna un peso al clasificador $\alpha_t=\frac{1}{2} \log \left(\frac{1-\epsilon_t}{\epsilon_t}\right)$. A continuación se actualiza la distribución:
 
 $$
-D_{t+1}(i)=\frac{D_t(i) \exp \left(-\alpha_t y_i h_t\left(x_i\right)\right)}{Z_t},
+D_{t+1}(i)=\frac{D_t(i)\,\exp(-\alpha_t\, y_i\, h_t(x_i))}{Z_t}
 $$
 
-donde $Z_t$ es un factor de normalización. El clasificador final es el signo de la suma ponderada:
+donde \(Z_t\) es un factor de normalización. El clasificador final es el signo de la suma ponderada:
 
 $$
-F_T(x)=\sum_{t=1}^T \alpha_t h_t(x), \quad \hat{y}(x)=\operatorname{sign}\left(F_T(x)\right) .
+F_T(x)=\sum_{t=1}^T \alpha_t\, h_t(x), \qquad \hat{y}(x)=\operatorname{sign}(F_T(x))
 $$
+
 
 ### 2.2. Conexión con minimización de pérdida exponencial
 
@@ -36,15 +49,11 @@ mediante forward stagewise additive modeling. en cada paso se agrega un término
 
 Un resultado clásico muestra que el error de entrenamiento de AdaBoost está acotado por $\prod_{t=1}^T Z_t$, y que $Z_t=2 \sqrt{\epsilon_t\left(1-\epsilon_t\right)}$ en el caso binario. Por tanto, si cada $\epsilon_t<1 / 2$, el error de entrenamiento decrece exponencialmente con $T$. Más interesante aún, a pesar de que la pérdida exponencial puede seguir decreciendo, el error de generalización puede estabilizarse o incluso mejorar si el algoritmo continúa incrementando márgenes, un fenómeno frecuentemente observado en práctica. La teoría de márgenes sugiere que la distribución de márgenes (no solo su promedio) es crítica para explicar el buen comportamiento de AdaBoost frente a sobreajuste en muchos conjuntos.
 
-### 2.4. Sensibilidad a ruido y valores atípicos
+### 2.4. Sensibilidad a ruido, valores atípicos y extensiones multiclase (SAMME y SAMME.R)
 
-La pérdida exponencial es más agresiva que la logística frente a ejemplos dificiles. En presencia de ruido de etiqueta, AdaBoost puede asignar pesos desproporcionados a observaciones imposibles de clasificar, causando inestabilidad en $\alpha_t$ y degradación de desempeño. Por ello, es recomendable introducir mecanismos de regularización: shrinkage (tasa de aprendizaje), tope en $\alpha_t$, parada temprana o control de la complejidad del débil (p. ej., mantener stumps de profundidad 1 o 2 , o realizar poda).
+La pérdida exponencial es más agresiva que la logística frente a ejemplos dificiles. En presencia de ruido de etiqueta, AdaBoost puede asignar pesos desproporcionados a observaciones imposibles de clasificar, causando inestabilidad en $\alpha_t$ y degradación de desempeño. Por ello, es recomendable introducir mecanismos de regularización: shrinkage (tasa de aprendizaje), tope en $\alpha_t$, parada temprana o control de la complejidad del débil (p. ej., mantener stumps de profundidad 1 o 2 , o realizar poda). Para $K>2$ clases, scikit-learn utiliza SAMME (Stagewise Additive Modeling using a Multiclass Exponential loss) y su variante real SAMME.R. En SAMME, la actualización de $\alpha_t$ incorpora un término $\log (K-1)$, y los clasificadores débiles devuelven etiquetas discretas; en SAMME.R, los débiles devuelven estimaciones de probabilidad y las actualizaciones se hacen con funciones reales, típicamente mejorando la eficiencia. En esta práctica nos centramos en el caso binario, pero la implementación puede generalizarse si el débil provee $\hat{p}(y \mid x)$.
 
-### 2.5. Extensiones multiclase: SAMME y SAMME.R
-
-Para $K>2$ clases, scikit-learn utiliza SAMME (Stagewise Additive Modeling using a Multiclass Exponential loss) y su variante real SAMME.R. En SAMME, la actualización de $\alpha_t$ incorpora un término $\log (K-1)$, y los clasificadores débiles devuelven etiquetas discretas; en SAMME.R, los débiles devuelven estimaciones de probabilidad y las actualizaciones se hacen con funciones reales, típicamente mejorando la eficiencia. En esta práctica nos centramos en el caso binario, pero la implementación puede generalizarse si el débil provee $\hat{p}(y \mid x)$.
-
-### 2.6. Relación con logística y *gradient boosting*
+### 2.5. Relación con logística y *gradient boosting*
 
 AdaBoost es forward stagewise con pérdida exponencial, mientras que el gradient boosting con pérdida logística desciende en la dirección del gradiente negativo en el espacio de funciones, ajustando regresores a los residuos de la pérdida. En datasets ruidosos, la logística suele ser más robusta. Teóricamente, con aprendizaje suficientemente pequeño y gran número de iteraciones, ambos métodos se acercan a soluciones con buenos márgenes, aunque con perfiles de regularización distintos.
 
