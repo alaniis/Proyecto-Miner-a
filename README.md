@@ -1,64 +1,101 @@
-# **Poke-Laboratorio 7: Ensambles de Votación: ¡Atrapa el mejor modelo!**
+# Laboratorio 9: AdaBoost y contenedores
 
-## **Introducción y Objetivos**
+En este repositorio se explica el propósito de la práctica, desarrolla con rigor la teoría fundamental de AdaBoost, describe el diseño de la implementación propia y detalla el protocolo experimental de comparación contra scikit-learn. Además, especifica el contrato de la API de inferencia, los criterios de validación de entradas, y los lineamientos de empaquetado y despliegue con Docker y Makefile. La intención es que el lector pueda comprender, reproducir y auditar cada decisión sin consultar fuentes externas.
 
-Este proyecto investiga si la combinación de clasificadores heterogéneos mejora la capacidad para distinguir Pokémon "fuertes" y "no fuertes" cuando sólo se observan variables simples y estables. Partimos de la PokéAPI para construir un conjunto de datos reproducible; definimos la etiqueta de "fuerza" a partir del percentil 75 del puntaje total (suma de las seis estadísticas base); y, para lograr estimaciones más estables y comparables entre subpoblaciones, extraemos una muestra estratificada jerárquica de tamaño 500 según la intersección type_main $x$ strong. Sobre esa muestra entrenamos cuatro modelos base (KNN, Regresión Logística, Árbol de Decisión y SVM) utilizando únicamente variables visibles ( height , weight , base_experience, type_main codificado). Finalmente integramos tres esquemas de votación (dura, suave y ponderada) y seleccionamos el ensamble con mejor desempeño validado para generar el archivo de predicciones con el formato requerido para evaluación externa. En conjunto, el flujo garantiza trazabilidad (desde la API hasta el CSV final), control de sesgo por composición (vía estratificación), y una comparación justa entre clasificadores y ensambles.
+## 1. Motivación y objetivos
 
-## **Integrantes:**
+Boosting es una metodología para transformar clasificadores débiles en un clasificador fuerte mediante la combinación aditiva de modelos entrenados secuencialmente. En particular, AdaBoost es uno de los algoritmos más influyentes por su simplicidad y por las garantías teóricas que lo acompañan. En esta práctica se pide: implementar AdaBoost desde cero utilizando *decision stumps* como clasificadores base; comparar su desempeño contra AdaBoostClassifier de scikit-learn bajo un protocolo experimental controlado; exponer el pipeline de inferencia mediante una API REST que aplica el mismo preprocesamiento que el entrenamiento; y entregar un entorno reproducible vía Docker y Makefile. El énfasis está en el rigor: trazabilidad del preprocesamiento, control de semillas, reporte de métricas en conjuntos separados y descripción explícita de supuestos.
 
-| Participante | Rol en el proyecto | Aportes  |
-| :--- | :--- | :--- |
-| Abril Minerva Estrada Montaño | Adquisición y curación de datos | Descarga desde PokéAPI, construcción del CSV canónico, cálculo de power_score y strong |
-| Erick José Fabián Sandoval | Muestreo y preparación | Diseño del muestreo estratificado type_main $\times$ strong, codificación de type_mai |
-| Alanis González Sebastian | Modelado base | Entrenamiento y sintonía de KNN, Regresión Logística, Árbol y SVM |
-| Melisa Ashareth Arano Bejarano | Ensambles y reporte | Implementación de votación dura/suave/ponderada, selección del ensamble final|
+## 2. Fundamentos teóricos de AdaBoost
 
-# **Parte 1. Construcción del dataset: descarga, etiqueta y muestra estratificada**
+### 2.1. De la idea de boosting a la formulación de AdaBoost
 
-El proceso inicia con la descarga sistemática del universo de Pokémon a través de la ruta pública https://pokeapi.co/api/v2/pokemon/\{id\} . No se toma una muestra temprana ni un subconjunto adhoc. Se recorre la secuencia de identificadores y, para cada registro válido, se extraen de forma homogénea los campos necesarios. El CSV canónico resultante reúne, por fila, las cuatro características visibles ( height , weight , base_experience, type_main) y las seis estadísticas base (hp, attack, defense, special_attack, special_defense, speed) que se usan únicamente para construir la etiqueta. A partir de esas seis se define el power_score como suma simple y la etiqueta binaria strong como indicador de si el power_score cae por encima del percentil 75 del universo. Esa decisión evita fugas de información porque las estadísticas que definen la etiqueta no entran en el vector de entrada; también hace que la noción de "fuerte" sea objetiva y reproducible. Para la trazabilidad, el CSV final conserva al menos trece columnas en orden lógico: identificador/nombre, las cuatro visibles, las seis estadísticas, power_score y strong Además, el pipeline tolera alias razonables de nombres (por ejemplo, "altura" por height, "tipo" por type_main) normalizando encabezados y detectando equivalentes comunes, de modo que no se rompa si alguien exporta columnas con variantes simples.
-
-Con el universo calculado, no entrenamos directamente sobre él. Para estabilizar las métricas y hacer comparables los resultados por subpoblaciones, fijamos una muestra de trabajo de tamaño 500 mediante muestreo estratificado jerárquico en el producto type_main $\times$ strong . El orden es deliberado: primero se calculan power_score y strong en el universo; después se forman los estratos combinando el tipo elemental con la clase fuerte/no fuerte; por último, se asignan cuotas para sumar exactamente 500 observaciones, ajustando estratos muy pequeños cuando es necesario para no perder cobertura. El resultado se materializa en un segundo CSV por ejemplo, pokemon_samples_500.csv y es la base de modelado. Este diseño reduce varianza muestral, evita dominancias de tipos mayoritarios y mejora la lectura por subpoblaciones, porque tanto la clase strong $=1$ como strong $=0$ quedan representadas dentro de cada tipo elemental en la medida en que lo permite el universo.
-
-# **Parte 2. Modelos individuales (KNN, Regresión Logística, Árbol y SVM)**
-
-Con la muestra estratificada establecida, definimos el vector de entrada con las cuatro características visibles ( height , weight , base_experience y la codificación explicita de type_main ) y fijamos strong como la variable objetivo. Las estadísticas que fabrican la etiqueta y el propio power_score no entran en el entrenamiento, para preservar el principio de no fugas. Trabajamos con un esquema de partición de entrenamiento y validación dentro de la muestra de 500, dejando el test externo del profesor como un conjunto completamente ciego hasta la fase final.
-
-Entrenamos cuatro familias de clasificadores que ofrecen sesgos inductivos complementarios. El KNN captura estructuras locales en el espacio de características, por lo que requiere escalamiento cuidadoso $y$ una elección de $k$ que balancee sesgovarianza. La Regresión Logística plantea una frontera lineal, entrega probabilidades y con frecuencia provee una base sólida para la combinación suave. El Árbol de Decisión modela interacciones no lineales mediante particiones jerárquicas; su poder expresivo se controla con límites de profundidad u otros parámetros para evitar sobreajuste. La SVM busca maximizar el margen; con kernel lineal o RBF, reclama estandarización y una sintonía cuidadosa de c (y de v si se usa RBF). De cada modelo documentamos desempeño en validación y una lectura cualitativa que explica cuándo y por qué funciona mejor o peor (por ejemplo, sensibilidad de KNN a escalas, estabilidad de la Logística, trade-off de profundidad en Árbol, efecto de márgenes en SVM). El objetivo de esta parte no es encontrar "el mejor modelo absoluto", sino preparar una base diversa que tenga sentido combinar.
-
-Todos los modelos se empacan en pipelines de scikit-learn que aplican imputación mediana a variables numéricas, escalamiento estándar cuando corresponde y codificación one-hot de type_main. Esto asegura que el mismo preprocesamiento se replique idéntico en validación y, más tarde, en el test externo. En consola registramos una EDA mínima: balance de clases, algunas correlaciones entre numéricas y la etiqueta, y tasas de strong por tipo elemental, útiles para interpretar resultados. Para estimar el rendimiento individual, realizamos validación cruzada estratificada con tres particiones y reportamos media y desviación estándar de accuracy por modelo. Además, mantenemos una verificación de prohibidos en tiempo de ejecución que revisa el nombre de las clases y aborta si alguien intenta colar AdaBoost, Gradient Boosting, Random Forest, XGBoost o equivalentes.
-
-# **Parte 3. Ensambles de votación: dura, suave y ponderada**
-
-Los métodos de ensamble de votación combinan las predicciones de varios clasificadores base para obtener una decisión final más robusta. Sea un conjunto de $M$ modelos $\left\{h_1, h_2, \ldots, h_M\right\}$ que predicen una etiqueta binaria $y \in\{0,1\}$ a partir de una entrada $x$.
-
-**Votación dura** (majority voting): cada clasificador emite una votación $h_j(x) \in \{0,1\}$, y la clase final se determina por mayoría:
+El punto de partida es suponer que contamos con un clasificador débil capaz de tener un error ligeramente menor que el azar sobre la distribución de entrenamiento. El boosting entrena una sucesión de clasificadores débiles $h_1, \ldots, h_T$ sobre reponderaciones adaptativas de los ejemplos y los combina por una regla de voto ponderado. Sea $\left(x_i, y_i\right)_{i=1}^n$ el conjunto de entrenamiento con etiquetas binarias $y_i \in\{-1,+1\}$. En la iteración $t$ se mantiene una distribución de pesos $D_t$ sobre los índices $i$, se entrena $h_t$ minimizando el error ponderado $\epsilon_t=\sum_i D_t(i) \mathbf{1}\left[h_t\left(x_i\right) \neq y_i\right]$ y se asigna un peso al clasificador $\alpha_t=\frac{1}{2} \log \left(\frac{1-\epsilon_t}{\epsilon_t}\right)$. A continuación se actualiza la distribución:
 
 $$
-\hat{y}= \begin{cases}1, & \text { si } \sum_{j=1}^M h_j(x)>\frac{M}{2} \\ 0, & \text { en otro caso. }\end{cases}
+D_{t+1}(i)=\frac{D_t(i) \exp \left(-\alpha_t y_i h_t\left(x_i\right)\right)}{Z_t},
 $$
 
-Este método asume que todos los clasificadores tienen el mismo peso y que los errores individuales son independientes. La votación dura toma las etiquetas binarias de todos los modelos y decide por mayoría simple; en términos de cómputo, se apilan las predicciones en una matriz de tamaño $M \times n$ (M modelos por n ejemplos) y se predice 1 si el conteo de unos supera M/2. Es robusta y muy interpretable, pero al ignorar la intensidad de la evidencia puede quedarse corta cuando algunos clasificadores son mucho más confiables que otros.
-
-**Votación suave** (soft voting): en lugar de usar decisiones binarias, cada modelo produce una probabilidad $p_j(y=1 \mid x)$. La predicción final se obtiene al promediar las probabilidades:
+donde $Z_t$ es un factor de normalización. El clasificador final es el signo de la suma ponderada:
 
 $$
-\hat{y}= \begin{cases}1, & \text { si } \frac{1}{M} \sum_{j=1}^M p_j(y=1 \mid x) \geq 0.5 \\ 0, & \text { en otro caso. }\end{cases}
+F_T(x)=\sum_{t=1}^T \alpha_t h_t(x), \quad \hat{y}(x)=\operatorname{sign}\left(F_T(x)\right) .
 $$
 
-Este método suele ser más estable porque aprovecha la confianza de cada modelo. La votación suave utiliza probabilidades $P(y=1 \mid x)$ de cada modelo que las expone. Promedia las probabilidades y decide por umbral 0.5. Esta estrategia suele estabilizar el desempeño cuando al menos una parte de los modelos emite probabilidades razonablemente calibradas (la Regresión Logística y LDA suelen ayudar). En el pipeline solo se añaden al "panel suave" los modelos con predict_proba disponible, para no introducir aproximaciones frágiles.
+### 2.2. Conexión con minimización de pérdida exponencial
 
-**Votación ponderada** (weighted voting): asigna un peso $w_j$ a cada clasificador en función de su desempeño (por ejemplo, su exactitud en validación):
+AdaBoost puede verse como un procedimiento de minimización de la pérdida exponencial
 
 $$
-\hat{y}= \begin{cases}1, & \text { si } \frac{\sum_{j=1}^M w_j p_j(y=1 \mid x)}{\sum_{j=1}^{M 1} w_j} \geq 0.5 \\ 0, & \text { en otro caso. }\end{cases}
+\mathcal{L}(F)=\sum_{i=1}^n \exp \left(-y_i F\left(x_i\right)\right),
 $$
 
-Los pesos permiten dar mayor influencia a los modelos más confiables. La votación ponderada es una extensión de la suave que aprende pesos para cada modelo a partir del desempeño validado. En cada fold se reentrenan los modelos con el conjunto de entrenamiento del fold, se estima su accuracy en el conjunto de validación del mismo fold y esas exactitudes se usan como pesos, normalizados para sumar uno. La probabilidad final del ensamble se calcula como promedio ponderado de las probabilidades individuales. Este mecanismo permite que el ensamble confie más en los clasificadores que mejor funcionan en esa partición, sin necesidad de introducir modelos prohibidos ni optimizaciones meta-complejas. Si por cualquier motivo los pesos de un fold degeneran (caso límite), se recurre a un promedio uniforme como red de seguridad.
+mediante forward stagewise additive modeling. en cada paso se agrega un término $\alpha h$ eligiendo $h$ en una clase base $\mathcal{H}$ y un peso $\alpha$ que minimizan la pérdida en dirección greedy. Con etiquetas en $\{-1,+1\}$, el margen en $x_i$ es $y_i F\left(x_i\right)$, y la pérdida exponencial penaliza márgenes negativos de forma muy severa, lo que induce a concentrar masa sobre ejemplos mal clasificados. La fórmula cerrada para $\alpha_t$ es consecuencia de minimizar $\sum_i D_t(i) \exp \left(-\alpha y_i h_t\left(x_i\right)\right)$ respecto a $\alpha$, con $D_t(i)$ ya incorporando la historia previa.
 
-El principio fundamental es que, si los clasificadores cometen errores de manera no correlacionada, la combinación por votación tiende a reducir la varianza del sistema y mejorar la capacidad de generalización. Para comparar objetivamente los tres votadores, utilizamos validación cruzada estratificada con la misma partición y preprocesamiento. En cada fold se reentrenan los modelos base, se instancia el votador correspondiente (duro, suave o ponderado) y se mide la accuracy en el subconjunto de validación del fold. Al final se reportan media y desviación estándar por votador. Ese mismo loop nos da una lectura clara de estabilidad: si un votador fluctúa mucho entre folds, se documenta y se prefiere el que mantenga rendimiento alto con menor dispersión. Con esa evidencia se elige el ensamble final: el que combina mayor exactitud validada con mejor estabilidad.
+### 2.3. Márgenes, error de entrenamiento y capacidad de generalización
+
+Un resultado clásico muestra que el error de entrenamiento de AdaBoost está acotado por $\prod_{t=1}^T Z_t$, y que $Z_t=2 \sqrt{\epsilon_t\left(1-\epsilon_t\right)}$ en el caso binario. Por tanto, si cada $\epsilon_t<1 / 2$, el error de entrenamiento decrece exponencialmente con $T$. Más interesante aún, a pesar de que la pérdida exponencial puede seguir decreciendo, el error de generalización puede estabilizarse o incluso mejorar si el algoritmo continúa incrementando márgenes, un fenómeno frecuentemente observado en práctica. La teoría de márgenes sugiere que la distribución de márgenes (no solo su promedio) es crítica para explicar el buen comportamiento de AdaBoost frente a sobreajuste en muchos conjuntos.
+
+### 2.4. Sensibilidad a ruido y valores atípicos
+
+La pérdida exponencial es más agresiva que la logística frente a ejemplos dificiles. En presencia de ruido de etiqueta, AdaBoost puede asignar pesos desproporcionados a observaciones imposibles de clasificar, causando inestabilidad en $\alpha_t$ y degradación de desempeño. Por ello, es recomendable introducir mecanismos de regularización: shrinkage (tasa de aprendizaje), tope en $\alpha_t$, parada temprana o control de la complejidad del débil (p. ej., mantener stumps de profundidad 1 o 2 , o realizar poda).
+
+### 2.5. Extensiones multiclase: SAMME y SAMME.R
+
+Para $K>2$ clases, scikit-learn utiliza SAMME (Stagewise Additive Modeling using a Multiclass Exponential loss) y su variante real SAMME.R. En SAMME, la actualización de $\alpha_t$ incorpora un término $\log (K-1)$, y los clasificadores débiles devuelven etiquetas discretas; en SAMME.R, los débiles devuelven estimaciones de probabilidad y las actualizaciones se hacen con funciones reales, típicamente mejorando la eficiencia. En esta práctica nos centramos en el caso binario, pero la implementación puede generalizarse si el débil provee $\hat{p}(y \mid x)$.
+
+### 2.6. Relación con logística y *gradient boosting*
+
+AdaBoost es forward stagewise con pérdida exponencial, mientras que el gradient boosting con pérdida logística desciende en la dirección del gradiente negativo en el espacio de funciones, ajustando regresores a los residuos de la pérdida. En datasets ruidosos, la logística suele ser más robusta. Teóricamente, con aprendizaje suficientemente pequeño y gran número de iteraciones, ambos métodos se acercan a soluciones con buenos márgenes, aunque con perfiles de regularización distintos.
+
+## 3. Especificación del algoritmo implementado
+
+La implementación propia ( SimpleAdaBoost ) emplea como débil un árbol de decisión con max_depth=1 . Se espera lo siguiente:
+1. Etiquetas en $\{-1,+1\}$ durante el fit. Si el conjunto original usa $\{0,1\}$, se mapea $\{0 \mapsto-1,1 \mapsto+1\}$ de forma consistente y se documenta en el preprocesamiento.
+2. Inicialización uniforme $D_1(i)=1 / n$.
+3. Entrenamiento del stump con sample_weight=D_t.
+4. Cálculo del error ponderado $\epsilon_t$, con recorte numérico $\epsilon_t \leftarrow \min \left(\max \left(\epsilon_t, 10^{-12}\right), 1-10^{-12}\right)$.
+5. Peso del clasificador $\alpha_t=\frac{1}{2} \log \left(\frac{1-\epsilon_t}{\epsilon_t}\right)$.
+6. Actualización y normalización de $D_{t+1}$ -
+7. Predicción como signo de la suma ponderada.
+
+Se registran por iteración $\epsilon_t, \alpha_t \mathrm{y}$, si se desea para diagnóstico, estadísticas agregadas de $D_t$ (mínimo, máximo, entropía). La clase expone learners_, alphas_, errors_ y predict . La estabilidad numérica se cuida evitando $\epsilon_t \in\{0,1\}$ exactos y controlando funciones exponenciales.
+
+## 4. Preprocesamiento, datos y consistencia de la API
+
+El preprocesamiento define imputación de faltantes, codificación de categóricas (p. ej., one-hot) y estandarización de numéricas. Se serializa el pipeline como preprocessor.pk1 . El modelo entrenado -implementación propia o AdaBoostClassifier - se serializa como model.pkl. La API de inferencia debe aplicar el mismo preprocessor.transform antes de invocar model.predict. El contrato de entrada se define sobre nombres de columnas "crudas" legibles. La coherencia entre entrenamiento y despliegue exige que las columnas del JSON coincidan exactamente con las esperadas por el preprocesador. Si el objetivo del entrenamiento se representó como $\{-1,+1\}$, la API devuelve por convenio $\{0,1\}$ o $\{-1,+1\}$, pero ese convenio debe quedar explícito y ser estable.
+
+## 5. Protocolo experimental, regularización, *tuning* y consideraciones prácticas
+
+El protocolo mínimo considera una división estratificada entrenamiento/validación con semilla fija. Las métricas a reportar incluyen exactitud, precisión, recall y F1. Además de comparar la implementación propia contra AdaBoostClassifier manteniendo el mismo stump y el mismo número de estimadores, se estudia la sensibilidad a n_estimators y, cuando sea aplicable, la evolución del error por iteración $\epsilon_t$. Los resultados deben presentarse con tablas o texto explicativo, no solo con figuras, y deben incluir una interpretación: concordancias, discrepancias, causas probables (ruido, atípicos, colinealidad), y una discusión del compromiso sesgo-varianza al incrementar $T$. El control de sobreajuste en AdaBoost se consigue mediante varias palancas. La primera es la complejidad del débil: stumps tienden a ser más estables que árboles profundos. La segunda es el número de iteraciones $T$ : puede fijarse por validación cruzada o emplearse parada temprana cuando la métrica en validación deje de mejorar. La tercera es la tasa de aprendizaje $\nu \in(0,1]$, aplicando una reducción $\alpha_t \leftarrow \nu \alpha_t$ (shrinkage), lo que típicamente requiere más iteraciones pero suaviza el ajuste. Otras variantes incluyen ponderar clases desbalanceadas mediante sample_weight inicial no uniforme, o incorporar penalizaciones que limiten la influencia de ejemplos con pérdidas extremas. El tuning debe realizarse en un conjunto de validación o por CV para evitar sesgo optimista.
+
+## 6. Complejidad computacional
+
+Con stumps entrenados por particiones binarias, el costo por iteración es del orden de $O(n d \log n)$ si se clasifican umbrales por característica, o $O(n d)$ con estrategias lineales y pocas categorías; multiplicado por $T$, la complejidad total es $O(T \cdot$ coste_stump $)$. En la práctica, la implementación de scikit-learn es altamente optimizada; nuestra versión docente prioriza claridad sobre micro-optimizaciones. El consumo de memoria crece linealmente con el número de débiles almacenados. Aunque AdaBoost produce puntajes $F_T(x)$ que correlacionan con confianza, no son probabilidades calibradas. Si el uso requiere umbrales distintos o probabilidades bien calibradas, conviene aplicar Platt scaling o isotonic regression sobre los puntajes en un conjunto de calibración separado. La API podría exponer, opcionalmente, un endpoint de calibración o devolver además del rótulo un puntaje continuo para decisiones con umbral.
+
+## 7. Diseño de la API de inferencia
+
+La API se implementa típicamente con FastAPI. Debe cargar preprocessor.pk1 y model.pkl al iniciar. Se recomiendan tres rutas:
+- /health devuelve un diagnóstico mínimo para orquestación.
+- /info expone metadatos del modelo, del pipeline y del equipo, de modo que un evaluador pueda confirmar versión, número de estimadores y columnas esperadas.
+- /predict recibe un único registro en un objeto JSON con la clave "features" y un diccionario de columna: valor. La función construye un DataFrame de una fila, aplica preprocessor.transform y llama a model.predict. Los errores de validación (faltantes, categorías inválidas, tipos incompatibles) devuelven 400/422 con un mensaje detallado que enumere los campos problemáticos.
+
+El contrato debe quedar inmutable durante la evaluación. Si se necesitan cambios, deben versionarse explícitamente (por ejemplo, /v2/predict ) para no romper clientes.
+
+## 8. Seguridad, robustez y auditoría de entradas
+
+Aunque se trata de un entorno académico, es importante contemplar ataques triviales: entradas gigantes, tipos incorrectos, JSON malformados. La aplicación debe imponer límites de tamaño al cuerpo, validar tipos y valores permitidos, y registrar de manera controlada los errores sin volcar datos sensibles. Los logs deben incluir timestamp, ruta, código de estado y, si procede, un identificador de solicitud. No deben imprimirse tracebacks completos al cliente. Toda la experimentación debe ser reproducible con una semilla global definida. El repositorio debe fijar versiones mínimas en app/requirements.txt para la ejecución de la API y, si se desea, disponer de un requirements-dev.txt con dependencias de análisis (Jupyter, gráficos) que no se instalan en la imagen. Los artefactos que afectan la inferencia ( preprocessor.pkl y model.pkl ) se versionan mediante nombres estables y se incluyen en la imagen. El cuaderno de comparación notebooks/ contiene las celdas que generan las métricas reportadas y puede regenerar figuras y tablas.
+
+## 9. Estructura del repositorio
 
 
 
 
+## 10. Docker y Makefile: Protocolo de ejecución y comprobación
 
+La imagen de Docker se basa en python:3.10-slim, copia el repositorio, instala dependencias y levanta uvicorn . El puerto de exposición es 8000 . Un Makefile con reglas build, run, status, stop, clean y package automatiza el ciclo. La regla package genera un tarball equipo_<NOMBRE>.tar.gz con todo lo necesario para evaluar. Se recomienda comprobar localmente que el flujo funciona en limpio: extraer el tarball en un directorio nuevo, construir la imagen, iniciar el contenedor, consultar /health $y$ /predict con un ejemplo mínimo. Para construir y ejecutar, primero se crea la imagen. Luego se ejecuta el contenedor con mapeo del puerto 8000 al host. Se verifica la salud con una petición GET a /health. Se inspecciona /info para comprobar que el modelo y el preprocesamiento se cargaron como se esperaba. Finalmente, se envía un registro de prueba a /predict. La salida debe ser determinista dada la semilla y el pipeline. Si el preprocesamiento espera columnas categóricas específicas, el ejemplo de prueba debe respetar exactamente esos dominios para evitar respuestas de error.
+
+## 11. Resultados esperados y limitaciones
+
+En conjuntos moderadamente limpios, la implementación propia con stumps debería aproximarse a AdaBoostClassifier cuando se igualan n_estimators y la semilla del débil. Las diferencias residuales suelen provenir de detalles internos de partición y manejo de empates en el árbol base. Es importante reportar no solo un número agregado de exactitud sino una discusión del comportamiento frente a cambios en $T$, y, si es viable, una inspección de la curva de $\epsilon_{\ell}$. Un patrón típico muestra $\epsilon_{\ell}<0.5$ de forma consistente y una disminución de la pérdida exponencial incluso cuando la exactitud valida se estabiliza, lo que merece explicación en términos de márgenes y de la sensibilidad a ejemplos difíciles. AdaBoost es potente y, a la vez, frágil frente a etiquetas ruidosas. En presencia de ruido sustancial se recomiendan estrategias como shrinkage y parada temprana. Para clasificación multiclase real, SAMME.R suele ser preferible si el débil produce probabilidades. Más allá de esta práctica, se pueden explorar pérdidas alternativas (logística) y conectarlas con gradient boosting, así como el uso de regularización explícita en los débiles o reglas de recorte de $\alpha_t$ ante $\epsilon_t$ extremos. Otra extensión útil es la calibración posterior de puntajes para producir probabilidades bien calibradas cuando la aplicación lo requiera.
 
