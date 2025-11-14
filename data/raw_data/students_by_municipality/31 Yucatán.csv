@@ -1,0 +1,2692 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,P18A24A
+31,Yucatán,000,Total de la entidad Yucatán,0000,Total de la Entidad,101047
+31,Yucatán,000,Total de la entidad Yucatán,9998,Localidades de una vivienda,71
+31,Yucatán,000,Total de la entidad Yucatán,9999,Localidades de dos viviendas,17
+31,Yucatán,001,Abalá,0000,Total del Municipio,138
+31,Yucatán,001,Abalá,0001,Abalá,65
+31,Yucatán,001,Abalá,0003,Mucuyché,8
+31,Yucatán,001,Abalá,0005,Sihunchén,13
+31,Yucatán,001,Abalá,0006,Temozón,26
+31,Yucatán,001,Abalá,0007,Uayalceh,18
+31,Yucatán,001,Abalá,0008,Peba,5
+31,Yucatán,001,Abalá,0009,Cacao,3
+31,Yucatán,001,Abalá,0065,Arturo Caamal Carrillo,*
+31,Yucatán,001,Abalá,0069,Margaritas,*
+31,Yucatán,001,Abalá,9998,Localidades de una vivienda,*
+31,Yucatán,002,Acanceh,0000,Total del Municipio,619
+31,Yucatán,002,Acanceh,0001,Acanceh,501
+31,Yucatán,002,Acanceh,0002,Canicab,17
+31,Yucatán,002,Acanceh,0003,Cibceh,0
+31,Yucatán,002,Acanceh,0005,Petectunich,7
+31,Yucatán,002,Acanceh,0006,Sacchich,7
+31,Yucatán,002,Acanceh,0010,Tepich Carrillo,30
+31,Yucatán,002,Acanceh,0011,Ticopó,54
+31,Yucatán,002,Acanceh,0012,Yabucú,*
+31,Yucatán,002,Acanceh,0014,Dzitiná,1
+31,Yucatán,002,Acanceh,0028,San Emilio,*
+31,Yucatán,002,Acanceh,0054,Plantel Siete,*
+31,Yucatán,002,Acanceh,0061,Mega Servicios [Gasolinera],*
+31,Yucatán,002,Acanceh,0064,Ninguno,*
+31,Yucatán,002,Acanceh,0071,Chakahil,*
+31,Yucatán,002,Acanceh,0072,Las Concordias,*
+31,Yucatán,002,Acanceh,0076,Matilde,*
+31,Yucatán,002,Acanceh,0079,Las Margaritas,*
+31,Yucatán,002,Acanceh,0083,María Luisa Chan,*
+31,Yucatán,002,Acanceh,0088,Garrido [Quinta],*
+31,Yucatán,002,Acanceh,0090,San Antonio Dos,*
+31,Yucatán,002,Acanceh,9998,Localidades de una vivienda,2
+31,Yucatán,002,Acanceh,9999,Localidades de dos viviendas,0
+31,Yucatán,003,Akil,0000,Total del Municipio,320
+31,Yucatán,003,Akil,0001,Akil,318
+31,Yucatán,003,Akil,0003,San Diego,1
+31,Yucatán,003,Akil,0004,San Víctor,0
+31,Yucatán,003,Akil,0013,Plan Chac Pozo Tres,0
+31,Yucatán,003,Akil,0028,Ox-Ac II,0
+31,Yucatán,003,Akil,0035,Santa Teresa,*
+31,Yucatán,003,Akil,0043,Plan Chac Pozo Cuatro,0
+31,Yucatán,003,Akil,0044,San Bernardo,0
+31,Yucatán,003,Akil,0051,Cinco de Mayo,1
+31,Yucatán,003,Akil,0054,Luis Echeverría Álvarez,0
+31,Yucatán,003,Akil,0055,Las Perlas,*
+31,Yucatán,003,Akil,0057,Ox-Ac IV,*
+31,Yucatán,003,Akil,0060,La Lupita,*
+31,Yucatán,003,Akil,0061,La Ceiba,*
+31,Yucatán,003,Akil,0062,San Vicente,*
+31,Yucatán,003,Akil,9998,Localidades de una vivienda,0
+31,Yucatán,004,Baca,0000,Total del Municipio,236
+31,Yucatán,004,Baca,0001,Baca,199
+31,Yucatán,004,Baca,0004,San Isidro Kuxub,3
+31,Yucatán,004,Baca,0009,Santo Domingo,*
+31,Yucatán,004,Baca,0010,Tixkuncheil,32
+31,Yucatán,004,Baca,0012,Kankabchén Gamboa,1
+31,Yucatán,004,Baca,0034,Kankabchén,*
+31,Yucatán,004,Baca,0048,Put-Ku,*
+31,Yucatán,004,Baca,0049,Concepción Xtuc,*
+31,Yucatán,004,Baca,0053,Bugambilias,*
+31,Yucatán,004,Baca,0061,La Fe,*
+31,Yucatán,004,Baca,0064,La Esperanza,*
+31,Yucatán,004,Baca,0069,Santa Cruz,*
+31,Yucatán,004,Baca,0075,Los Potrillos,*
+31,Yucatán,004,Baca,0079,Chelito Lindo,*
+31,Yucatán,004,Baca,0080,Esmeralda,*
+31,Yucatán,004,Baca,0083,Chan Chegor,*
+31,Yucatán,004,Baca,0092,Los Conejos [Club de Tiro],*
+31,Yucatán,004,Baca,0095,Los Flamboyanes,*
+31,Yucatán,004,Baca,0096,Garza,*
+31,Yucatán,004,Baca,0103,San José,*
+31,Yucatán,004,Baca,0111,Santa Cruz Sábila,*
+31,Yucatán,004,Baca,0112,Tumben Há,*
+31,Yucatán,004,Baca,0119,La Sulianita,*
+31,Yucatán,004,Baca,0120,El Pueblo Guardado [Residencial de Jubilados],*
+31,Yucatán,004,Baca,0123,Santa Elena,*
+31,Yucatán,004,Baca,0124,Mi Lindo Cielo,*
+31,Yucatán,004,Baca,0125,Familia Orozco,*
+31,Yucatán,004,Baca,0126,Familia Pelayo,*
+31,Yucatán,004,Baca,0128,Santa María,*
+31,Yucatán,004,Baca,0133,El Capricho,*
+31,Yucatán,004,Baca,0134,Basto Chalé,*
+31,Yucatán,004,Baca,9998,Localidades de una vivienda,1
+31,Yucatán,004,Baca,9999,Localidades de dos viviendas,0
+31,Yucatán,005,Bokobá,0000,Total del Municipio,67
+31,Yucatán,005,Bokobá,0001,Bokobá,67
+31,Yucatán,006,Buctzotz,0000,Total del Municipio,252
+31,Yucatán,006,Buctzotz,0001,Buctzotz,236
+31,Yucatán,006,Buctzotz,0002,X-Bec,4
+31,Yucatán,006,Buctzotz,0003,Santo Domingo,5
+31,Yucatán,006,Buctzotz,0004,La Gran Lucha,6
+31,Yucatán,006,Buctzotz,0005,Unidad Juárez,*
+31,Yucatán,006,Buctzotz,0028,Chen Chomac Uno y Dos,*
+31,Yucatán,006,Buctzotz,0029,Che'en Pato,*
+31,Yucatán,006,Buctzotz,0047,Jujum Pit,*
+31,Yucatán,006,Buctzotz,0064,El Sacrificio,*
+31,Yucatán,006,Buctzotz,0080,San Francisco,1
+31,Yucatán,006,Buctzotz,0152,San Enrique,*
+31,Yucatán,006,Buctzotz,0183,Los Gavilanes,*
+31,Yucatán,006,Buctzotz,0199,San Lorenzo,*
+31,Yucatán,006,Buctzotz,0341,Rebeca Uno [Rancho],*
+31,Yucatán,006,Buctzotz,0353,San Carlos,*
+31,Yucatán,006,Buctzotz,0367,San Jorge,*
+31,Yucatán,006,Buctzotz,0387,San Miguel,*
+31,Yucatán,006,Buctzotz,0390,San José,*
+31,Yucatán,006,Buctzotz,0451,Kusbá,*
+31,Yucatán,006,Buctzotz,0452,Las Margaritas,*
+31,Yucatán,006,Buctzotz,0458,San Manuel,*
+31,Yucatán,006,Buctzotz,0485,La Ubre,*
+31,Yucatán,006,Buctzotz,0487,San Carlos,*
+31,Yucatán,006,Buctzotz,0499,No Ho Lum,*
+31,Yucatán,006,Buctzotz,0501,San Antonio,*
+31,Yucatán,006,Buctzotz,0512,San Ignacio Choch,*
+31,Yucatán,006,Buctzotz,0517,La Ceiba,*
+31,Yucatán,006,Buctzotz,9998,Localidades de una vivienda,0
+31,Yucatán,007,Cacalchén,0000,Total del Municipio,201
+31,Yucatán,007,Cacalchén,0001,Cacalchén,199
+31,Yucatán,007,Cacalchén,0019,San Felipe,*
+31,Yucatán,007,Cacalchén,0074,San Pedro Dzulá,*
+31,Yucatán,007,Cacalchén,0075,Onil,*
+31,Yucatán,007,Cacalchén,0080,La Candelaria,*
+31,Yucatán,007,Cacalchén,0085,María Maricela Yam Pool,*
+31,Yucatán,007,Cacalchén,0086,Carlos Santos López,*
+31,Yucatán,007,Cacalchén,0088,Ángel Santos Vergara,*
+31,Yucatán,007,Cacalchén,0095,Santa Elena,*
+31,Yucatán,007,Cacalchén,9998,Localidades de una vivienda,2
+31,Yucatán,008,Calotmul,0000,Total del Municipio,89
+31,Yucatán,008,Calotmul,0001,Calotmul,57
+31,Yucatán,008,Calotmul,0006,Pocoboch,19
+31,Yucatán,008,Calotmul,0011,La Ceiba,*
+31,Yucatán,008,Calotmul,0013,Tahcabo,13
+31,Yucatán,008,Calotmul,0014,Tres A,*
+31,Yucatán,008,Calotmul,0033,La Ponderosa,*
+31,Yucatán,008,Calotmul,0037,San Miguel,*
+31,Yucatán,008,Calotmul,0056,Calotmul,*
+31,Yucatán,008,Calotmul,0067,Kambul,*
+31,Yucatán,008,Calotmul,0072,El Coral,*
+31,Yucatán,008,Calotmul,0093,Chen L,0
+31,Yucatán,008,Calotmul,0098,Las Palmas,*
+31,Yucatán,008,Calotmul,0099,Mavira [Rancho],*
+31,Yucatán,008,Calotmul,0102,San Carlos,*
+31,Yucatán,008,Calotmul,0112,Balche,*
+31,Yucatán,008,Calotmul,9998,Localidades de una vivienda,0
+31,Yucatán,009,Cansahcab,0000,Total del Municipio,171
+31,Yucatán,009,Cansahcab,0001,Cansahcab,164
+31,Yucatán,009,Cansahcab,0002,Kancabchén,*
+31,Yucatán,009,Cansahcab,0003,San Antonio Xiat,2
+31,Yucatán,009,Cansahcab,0004,Santa María,5
+31,Yucatán,009,Cansahcab,0005,San Mateo,*
+31,Yucatán,009,Cansahcab,0006,Sahcatzín,*
+31,Yucatán,009,Cansahcab,0008,Chac Xul,*
+31,Yucatán,009,Cansahcab,0040,Ninguno,*
+31,Yucatán,009,Cansahcab,0066,Pistolita,*
+31,Yucatán,009,Cansahcab,9998,Localidades de una vivienda,0
+31,Yucatán,010,Cantamayec,0000,Total del Municipio,51
+31,Yucatán,010,Cantamayec,0001,Cantamayec,41
+31,Yucatán,010,Cantamayec,0005,Chacanteil,*
+31,Yucatán,010,Cantamayec,0012,Cholul,4
+31,Yucatán,010,Cantamayec,0023,Nenelá,5
+31,Yucatán,010,Cantamayec,0033,San Juan Chuc,*
+31,Yucatán,010,Cantamayec,0035,Tzutzil,*
+31,Yucatán,010,Cantamayec,0039,Tab-Ek,0
+31,Yucatán,010,Cantamayec,0052,Chan Chuchub,*
+31,Yucatán,010,Cantamayec,0053,Dos Potrillos,*
+31,Yucatán,010,Cantamayec,0056,San Pedro Hu-Kal Número 1,*
+31,Yucatán,010,Cantamayec,0057,Huntulchac,*
+31,Yucatán,010,Cantamayec,0059,La Luz,*
+31,Yucatán,010,Cantamayec,0067,San Pedro,*
+31,Yucatán,010,Cantamayec,0068,San Pedro Hu-Kal Número 2,*
+31,Yucatán,010,Cantamayec,0076,San Miguel Yokdzonot,*
+31,Yucatán,010,Cantamayec,0083,Chac-Dzan,*
+31,Yucatán,010,Cantamayec,0107,San Higinio,*
+31,Yucatán,010,Cantamayec,9998,Localidades de una vivienda,1
+31,Yucatán,010,Cantamayec,9999,Localidades de dos viviendas,*
+31,Yucatán,011,Celestún,0000,Total del Municipio,162
+31,Yucatán,011,Celestún,0001,Celestún,162
+31,Yucatán,011,Celestún,0009,La Victoria,*
+31,Yucatán,011,Celestún,0023,Chiabal,*
+31,Yucatán,011,Celestún,0024,Chichitos,*
+31,Yucatán,011,Celestún,0043,Poolnuxi,*
+31,Yucatán,011,Celestún,0045,Trian,*
+31,Yucatán,011,Celestún,0059,Flamingos,0
+31,Yucatán,011,Celestún,0082,Tzabtún,*
+31,Yucatán,011,Celestún,0083,Leonel Rosado Mena,*
+31,Yucatán,011,Celestún,9998,Localidades de una vivienda,0
+31,Yucatán,012,Cenotillo,0000,Total del Municipio,72
+31,Yucatán,012,Cenotillo,0001,Cenotillo,63
+31,Yucatán,012,Cenotillo,0003,Chun-Ox,*
+31,Yucatán,012,Cenotillo,0009,Tixbacab,8
+31,Yucatán,012,Cenotillo,0013,X-Lobos Chen,*
+31,Yucatán,012,Cenotillo,0043,Ebtún,*
+31,Yucatán,012,Cenotillo,0055,Las Palomas,*
+31,Yucatán,012,Cenotillo,0066,San Hipólito,*
+31,Yucatán,012,Cenotillo,0077,San Román,*
+31,Yucatán,012,Cenotillo,0079,Santa Elena,*
+31,Yucatán,012,Cenotillo,0099,Texas el Grande,*
+31,Yucatán,012,Cenotillo,0124,Pakchén,*
+31,Yucatán,012,Cenotillo,0130,Kax-Ek,*
+31,Yucatán,012,Cenotillo,0146,San Antonio,*
+31,Yucatán,012,Cenotillo,0149,San Isidro,*
+31,Yucatán,012,Cenotillo,0157,Villa Flor,*
+31,Yucatán,012,Cenotillo,0169,Los Almendros,*
+31,Yucatán,012,Cenotillo,0196,Bernardino Canul,*
+31,Yucatán,012,Cenotillo,0198,San Raymundo,*
+31,Yucatán,012,Cenotillo,9998,Localidades de una vivienda,1
+31,Yucatán,013,Conkal,0000,Total del Municipio,810
+31,Yucatán,013,Conkal,0001,Conkal,720
+31,Yucatán,013,Conkal,0002,Kantoyna,4
+31,Yucatán,013,Conkal,0003,San Antonio Holactún,*
+31,Yucatán,013,Conkal,0006,X-Cuyum,55
+31,Yucatán,013,Conkal,0011,San Lorenzo,*
+31,Yucatán,013,Conkal,0012,San Lorenzo,*
+31,Yucatán,013,Conkal,0016,Águilas del Sureste,*
+31,Yucatán,013,Conkal,0023,Santa Isabel,*
+31,Yucatán,013,Conkal,0026,Denisse [Quinta],*
+31,Yucatán,013,Conkal,0028,San Diego Cutz Dos,15
+31,Yucatán,013,Conkal,0031,San Alberto,*
+31,Yucatán,013,Conkal,0032,Santa Úrsula,*
+31,Yucatán,013,Conkal,0035,Las Palomas,*
+31,Yucatán,013,Conkal,0044,El Huero [Deshuesadero],*
+31,Yucatán,013,Conkal,0056,Ninguno,*
+31,Yucatán,013,Conkal,0057,Ninguno,*
+31,Yucatán,013,Conkal,0064,Manuel Reyes Zaldívar [Lienzo Charro],*
+31,Yucatán,013,Conkal,0071,Rubí Guadalupe,*
+31,Yucatán,013,Conkal,0075,San Juan,*
+31,Yucatán,013,Conkal,0077,San Rafael,*
+31,Yucatán,013,Conkal,0078,San Rafael,*
+31,Yucatán,013,Conkal,0081,La Triple Z,0
+31,Yucatán,013,Conkal,0089,Santa Cecilia,*
+31,Yucatán,013,Conkal,0092,El Reto,*
+31,Yucatán,013,Conkal,0104,Isaac Tres,*
+31,Yucatán,013,Conkal,0111,Lirium,0
+31,Yucatán,013,Conkal,0114,Malas Pulgas,*
+31,Yucatán,013,Conkal,0117,San Antonio,*
+31,Yucatán,013,Conkal,0118,Villas Conkal,2
+31,Yucatán,013,Conkal,0129,Doble R,2
+31,Yucatán,013,Conkal,0139,Loret [Rancho],*
+31,Yucatán,013,Conkal,0142,Ninguno [Granja Porcícola],*
+31,Yucatán,013,Conkal,0143,Ninguno [Granja Porcícola],*
+31,Yucatán,013,Conkal,0144,La Reserva [Complejo Residencial],0
+31,Yucatán,013,Conkal,0145,Las Palomas,*
+31,Yucatán,013,Conkal,0148,Paseos del Mayab,5
+31,Yucatán,013,Conkal,0149,Praderas del Mayab,4
+31,Yucatán,013,Conkal,0153,Tres Reyes,*
+31,Yucatán,013,Conkal,0155,Los Vergara [Rancho],*
+31,Yucatán,013,Conkal,0156,Los Cinco Hermanos,*
+31,Yucatán,013,Conkal,0157,Las Flores [Quinta],*
+31,Yucatán,013,Conkal,0158,Alzamed,*
+31,Yucatán,013,Conkal,0159,Bugambilia,*
+31,Yucatán,013,Conkal,0162,Kunkal [Privada Campestre],1
+31,Yucatán,013,Conkal,0163,Hermanos Kantún Poot,*
+31,Yucatán,013,Conkal,9998,Localidades de una vivienda,2
+31,Yucatán,013,Conkal,9999,Localidades de dos viviendas,0
+31,Yucatán,014,Cuncunul,0000,Total del Municipio,62
+31,Yucatán,014,Cuncunul,0001,Cuncunul,49
+31,Yucatán,014,Cuncunul,0010,San Francisco,3
+31,Yucatán,014,Cuncunul,0013,Chebalam,1
+31,Yucatán,014,Cuncunul,0025,San Diego,9
+31,Yucatán,014,Cuncunul,0040,X-Akabchén,0
+31,Yucatán,015,Cuzamá,0000,Total del Municipio,100
+31,Yucatán,015,Cuzamá,0001,Cuzamá,83
+31,Yucatán,015,Cuzamá,0002,Cuchbalam,*
+31,Yucatán,015,Cuzamá,0003,Chunkanán,2
+31,Yucatán,015,Cuzamá,0005,Eknakán,11
+31,Yucatán,015,Cuzamá,0006,Nohchakán,4
+31,Yucatán,015,Cuzamá,0032,Ninguno,*
+31,Yucatán,015,Cuzamá,9998,Localidades de una vivienda,*
+31,Yucatán,016,Chacsinkín,0000,Total del Municipio,81
+31,Yucatán,016,Chacsinkín,0001,Chacsinkín,74
+31,Yucatán,016,Chacsinkín,0004,San Dionisio,*
+31,Yucatán,016,Chacsinkín,0009,X-Box,7
+31,Yucatán,016,Chacsinkín,0012,Xno-Huayab,0
+31,Yucatán,016,Chacsinkín,0031,Santa Juliana,*
+31,Yucatán,016,Chacsinkín,9998,Localidades de una vivienda,*
+31,Yucatán,017,Chankom,0000,Total del Municipio,125
+31,Yucatán,017,Chankom,0001,Chankom,23
+31,Yucatán,017,Chankom,0003,Nicte-Há,0
+31,Yucatán,017,Chankom,0006,San Isidro,*
+31,Yucatán,017,Chankom,0011,Ticimul,9
+31,Yucatán,017,Chankom,0012,Tzukmuc,11
+31,Yucatán,017,Chankom,0013,Xanlá,8
+31,Yucatán,017,Chankom,0014,X-Bohom,4
+31,Yucatán,017,Chankom,0015,Xkalakdzonot,25
+31,Yucatán,017,Chankom,0016,X-Cocail,8
+31,Yucatán,017,Chankom,0017,Xkopteil,20
+31,Yucatán,017,Chankom,0018,Xkatún,2
+31,Yucatán,017,Chankom,0035,San Juan Xkalakdzonot,0
+31,Yucatán,017,Chankom,0043,X-Kopchén,*
+31,Yucatán,017,Chankom,0083,Muchucuxcáh,15
+31,Yucatán,017,Chankom,0089,Najilcab,0
+31,Yucatán,017,Chankom,9998,Localidades de una vivienda,*
+31,Yucatán,017,Chankom,9999,Localidades de dos viviendas,*
+31,Yucatán,018,Chapab,0000,Total del Municipio,148
+31,Yucatán,018,Chapab,0001,Chapab,112
+31,Yucatán,018,Chapab,0002,Aguada Polol,0
+31,Yucatán,018,Chapab,0003,Citincabchén,36
+31,Yucatán,018,Chapab,0004,Hunabchén,0
+31,Yucatán,018,Chapab,0017,Xaybé,*
+31,Yucatán,018,Chapab,0025,Rosalía Alvarado Alvarado,*
+31,Yucatán,018,Chapab,0031,Mía Valentina,*
+31,Yucatán,018,Chapab,9998,Localidades de una vivienda,0
+31,Yucatán,019,Chemax,0000,Total del Municipio,655
+31,Yucatán,019,Chemax,0001,Chemax,365
+31,Yucatán,019,Chemax,0005,X-Catzín (Catzín),14
+31,Yucatán,019,Chemax,0006,Cocoyol,17
+31,Yucatán,019,Chemax,0008,Champolín,*
+31,Yucatán,019,Chemax,0016,Cholul,2
+31,Yucatán,019,Chemax,0019,Chulután,6
+31,Yucatán,019,Chemax,0026,Kuxeb,7
+31,Yucatán,019,Chemax,0029,Mucel,30
+31,Yucatán,019,Chemax,0041,San Juan Chen,9
+31,Yucatán,019,Chemax,0042,San Pedro Chemax,3
+31,Yucatán,019,Chemax,0043,San Román,0
+31,Yucatán,019,Chemax,0045,Santa Clara,1
+31,Yucatán,019,Chemax,0046,Santa Cruz,3
+31,Yucatán,019,Chemax,0049,Santa María,*
+31,Yucatán,019,Chemax,0054,Sisbichén,15
+31,Yucatán,019,Chemax,0056,Kantó,2
+31,Yucatán,019,Chemax,0059,Uspibil,13
+31,Yucatán,019,Chemax,0062,Xalaú (X-Alau),47
+31,Yucatán,019,Chemax,0063,X-Can,76
+31,Yucatán,019,Chemax,0066,Chechmil,18
+31,Yucatán,019,Chemax,0069,X-Huech,0
+31,Yucatán,019,Chemax,0083,Pabalam,6
+31,Yucatán,019,Chemax,0088,Xuneb,1
+31,Yucatán,019,Chemax,0098,Lol-Bé,8
+31,Yucatán,019,Chemax,0112,Mariposa,*
+31,Yucatán,019,Chemax,0113,X-Cocom,*
+31,Yucatán,019,Chemax,0115,Dzonot,*
+31,Yucatán,019,Chemax,0144,San José,*
+31,Yucatán,019,Chemax,0151,Kulché,*
+31,Yucatán,019,Chemax,0160,San Pedro,0
+31,Yucatán,019,Chemax,0221,Santa Rita,*
+31,Yucatán,019,Chemax,0267,San José (San José Balam),*
+31,Yucatán,019,Chemax,0275,Santa María Ancla,*
+31,Yucatán,019,Chemax,0276,Buenavista,0
+31,Yucatán,019,Chemax,0295,Yaaxdzonot,*
+31,Yucatán,019,Chemax,0296,La Esperanza,1
+31,Yucatán,019,Chemax,0307,Konsahcab,0
+31,Yucatán,019,Chemax,0309,Kulinché,*
+31,Yucatán,019,Chemax,0321,San Antonio,*
+31,Yucatán,019,Chemax,0323,Blanca Flor,*
+31,Yucatán,019,Chemax,0324,San José Chahuay,2
+31,Yucatán,019,Chemax,0326,San Juan Chen,*
+31,Yucatán,019,Chemax,0330,San Román,*
+31,Yucatán,019,Chemax,0336,Santa María,*
+31,Yucatán,019,Chemax,0339,Xim-Há,0
+31,Yucatán,019,Chemax,0361,San Felipe,*
+31,Yucatán,019,Chemax,0362,Coxlei (Kochila),*
+31,Yucatán,019,Chemax,0384,Santa Cruz,*
+31,Yucatán,019,Chemax,0385,Yaxché,*
+31,Yucatán,019,Chemax,0411,X-Canabail,*
+31,Yucatán,019,Chemax,0412,San José Konlún,*
+31,Yucatán,019,Chemax,0413,San Javier,0
+31,Yucatán,019,Chemax,0418,San Miguel,*
+31,Yucatán,019,Chemax,0423,X-Catil,*
+31,Yucatán,019,Chemax,0425,San Miguel,*
+31,Yucatán,019,Chemax,0430,Blanca Flor,2
+31,Yucatán,019,Chemax,0458,Los Monos,*
+31,Yucatán,019,Chemax,0460,Hoteoch,2
+31,Yucatán,019,Chemax,0462,Chan Pistemax,*
+31,Yucatán,019,Chemax,0468,Tulín,1
+31,Yucatán,019,Chemax,0469,X-Jujilchén,0
+31,Yucatán,019,Chemax,0471,Yodzonot,*
+31,Yucatán,019,Chemax,0487,Estrella,0
+31,Yucatán,019,Chemax,0505,San Antonio,*
+31,Yucatán,019,Chemax,0523,Chenchén,*
+31,Yucatán,019,Chemax,0529,Blanca Flor,*
+31,Yucatán,019,Chemax,0538,San Juan,*
+31,Yucatán,019,Chemax,0545,San Pedro,*
+31,Yucatán,019,Chemax,0561,Chan Kom,*
+31,Yucatán,019,Chemax,0570,Poxil Número Dos,*
+31,Yucatán,019,Chemax,0593,Miraflor,*
+31,Yucatán,019,Chemax,0600,Dzonkeil,*
+31,Yucatán,019,Chemax,0606,San Isidro,*
+31,Yucatán,019,Chemax,0616,Akabchén,*
+31,Yucatán,019,Chemax,0626,Chemax [Centro Espiritual],0
+31,Yucatán,019,Chemax,9998,Localidades de una vivienda,3
+31,Yucatán,019,Chemax,9999,Localidades de dos viviendas,1
+31,Yucatán,020,Chicxulub Pueblo,0000,Total del Municipio,192
+31,Yucatán,020,Chicxulub Pueblo,0001,Chicxulub Pueblo,189
+31,Yucatán,020,Chicxulub Pueblo,0007,Santa María Ontiveros,*
+31,Yucatán,020,Chicxulub Pueblo,0025,Almendros,*
+31,Yucatán,020,Chicxulub Pueblo,0028,San Martín,*
+31,Yucatán,020,Chicxulub Pueblo,0031,La Guadalupana,*
+31,Yucatán,020,Chicxulub Pueblo,0033,El Arco,*
+31,Yucatán,020,Chicxulub Pueblo,0039,San Gabriel,*
+31,Yucatán,020,Chicxulub Pueblo,0040,Santa Cruz,*
+31,Yucatán,020,Chicxulub Pueblo,0043,California [Rancho Porcícola],*
+31,Yucatán,020,Chicxulub Pueblo,0049,La Candelaria [Quinta],1
+31,Yucatán,020,Chicxulub Pueblo,9998,Localidades de una vivienda,1
+31,Yucatán,020,Chicxulub Pueblo,9999,Localidades de dos viviendas,*
+31,Yucatán,021,Chichimilá,0000,Total del Municipio,336
+31,Yucatán,021,Chichimilá,0001,Chichimilá,293
+31,Yucatán,021,Chichimilá,0004,Celtún,2
+31,Yucatán,021,Chichimilá,0008,Dzitox,17
+31,Yucatán,021,Chichimilá,0013,San Fernando,*
+31,Yucatán,021,Chichimilá,0014,San José,*
+31,Yucatán,021,Chichimilá,0018,San Pedro,13
+31,Yucatán,021,Chichimilá,0021,Tixcancal Dzonot,0
+31,Yucatán,021,Chichimilá,0022,Chan X-Cail,10
+31,Yucatán,021,Chichimilá,0023,X-Chay,0
+31,Yucatán,021,Chichimilá,0024,Nuevo X-Habín,1
+31,Yucatán,021,Chichimilá,0025,X-Luch,*
+31,Yucatán,021,Chichimilá,0029,Álamo,0
+31,Yucatán,021,Chichimilá,0033,Chan Pich,0
+31,Yucatán,021,Chichimilá,0049,Suykac,*
+31,Yucatán,021,Chichimilá,0064,Chibilub,0
+31,Yucatán,021,Chichimilá,0070,San José Che,*
+31,Yucatán,021,Chichimilá,0071,San Lorenzo,0
+31,Yucatán,021,Chichimilá,0083,Yuyumal,*
+31,Yucatán,021,Chichimilá,0093,San Mateo,0
+31,Yucatán,021,Chichimilá,0100,Xtanail,*
+31,Yucatán,021,Chichimilá,0117,Santa Elena,*
+31,Yucatán,021,Chichimilá,0131,La Cruz,*
+31,Yucatán,021,Chichimilá,0132,María Bonita [Rancho],*
+31,Yucatán,021,Chichimilá,9998,Localidades de una vivienda,0
+31,Yucatán,021,Chichimilá,9999,Localidades de dos viviendas,0
+31,Yucatán,022,Chikindzonot,0000,Total del Municipio,79
+31,Yucatán,022,Chikindzonot,0001,Chikindzonot,42
+31,Yucatán,022,Chikindzonot,0002,Chan-Chichimilá,11
+31,Yucatán,022,Chikindzonot,0003,Ichmul,26
+31,Yucatán,022,Chikindzonot,0012,Chan Santa María,0
+31,Yucatán,022,Chikindzonot,0023,Chucteil,0
+31,Yucatán,022,Chikindzonot,0049,Chan Kankabdzonot,*
+31,Yucatán,022,Chikindzonot,0055,El Arca de Noé,*
+31,Yucatán,022,Chikindzonot,0062,San Isidro,0
+31,Yucatán,022,Chikindzonot,0063,Wilberth Kauil Alcocer,*
+31,Yucatán,022,Chikindzonot,9998,Localidades de una vivienda,0
+31,Yucatán,023,Chocholá,0000,Total del Municipio,185
+31,Yucatán,023,Chocholá,0001,Chocholá,185
+31,Yucatán,023,Chocholá,0033,Misko,*
+31,Yucatán,023,Chocholá,0041,Santa María,*
+31,Yucatán,023,Chocholá,0042,San Miguel,*
+31,Yucatán,023,Chocholá,0044,San Pablo X'Yaxché,*
+31,Yucatán,023,Chocholá,0049,Takín Lol,*
+31,Yucatán,023,Chocholá,0068,La Guadalupana,*
+31,Yucatán,023,Chocholá,9998,Localidades de una vivienda,0
+31,Yucatán,024,Chumayel,0000,Total del Municipio,100
+31,Yucatán,024,Chumayel,0001,Chumayel,100
+31,Yucatán,024,Chumayel,0007,San Diego,*
+31,Yucatán,024,Chumayel,0012,Chumayel [El Entronque],*
+31,Yucatán,024,Chumayel,0033,Santa Ana,*
+31,Yucatán,024,Chumayel,9998,Localidades de una vivienda,0
+31,Yucatán,025,Dzán,0000,Total del Municipio,183
+31,Yucatán,025,Dzán,0001,Dzan,183
+31,Yucatán,025,Dzán,0027,Candelaria,*
+31,Yucatán,025,Dzán,0052,Dzan Uno [Parcela],*
+31,Yucatán,025,Dzán,9998,Localidades de una vivienda,*
+31,Yucatán,026,Dzemul,0000,Total del Municipio,144
+31,Yucatán,026,Dzemul,0001,Dzemul,136
+31,Yucatán,026,Dzemul,0004,San Bruno,0
+31,Yucatán,026,Dzemul,0005,San Diego,2
+31,Yucatán,026,Dzemul,0006,San Eduardo,2
+31,Yucatán,026,Dzemul,0012,Las Magnolias,*
+31,Yucatán,026,Dzemul,0035,San Benito,4
+31,Yucatán,026,Dzemul,0037,Tilí,*
+31,Yucatán,026,Dzemul,0040,San Antonio de Padua,*
+31,Yucatán,026,Dzemul,0052,San Alfonso,*
+31,Yucatán,026,Dzemul,0069,Xtampú,0
+31,Yucatán,026,Dzemul,0083,El León,*
+31,Yucatán,026,Dzemul,9998,Localidades de una vivienda,0
+31,Yucatán,027,Dzidzantún,0000,Total del Municipio,403
+31,Yucatán,027,Dzidzantún,0001,Dzidzantún,374
+31,Yucatán,027,Dzidzantún,0002,San Francisco Manzanilla,27
+31,Yucatán,027,Dzidzantún,0004,Santa Clara,1
+31,Yucatán,027,Dzidzantún,0008,El Porvenir,*
+31,Yucatán,027,Dzidzantún,0036,Santa Rita,*
+31,Yucatán,027,Dzidzantún,0050,Faller,*
+31,Yucatán,027,Dzidzantún,0065,José Luis Aguilar,*
+31,Yucatán,027,Dzidzantún,0076,Lácteos Dos Mil,*
+31,Yucatán,027,Dzidzantún,0077,Lázaro Cárdenas,*
+31,Yucatán,027,Dzidzantún,0105,Valdez Segundo,*
+31,Yucatán,027,Dzidzantún,0109,San Alejandro,*
+31,Yucatán,027,Dzidzantún,0112,Tercera Generación,*
+31,Yucatán,027,Dzidzantún,0115,San Francisco,*
+31,Yucatán,027,Dzidzantún,0117,San Felipe Peireida,*
+31,Yucatán,027,Dzidzantún,0118,Shabath [Aldea],*
+31,Yucatán,027,Dzidzantún,0119,Don Cebra,*
+31,Yucatán,027,Dzidzantún,0120,Delia Milda Bolio Aguilar,*
+31,Yucatán,027,Dzidzantún,9998,Localidades de una vivienda,1
+31,Yucatán,028,Dzilam de Bravo,0000,Total del Municipio,93
+31,Yucatán,028,Dzilam de Bravo,0001,Dzilam de Bravo,84
+31,Yucatán,028,Dzilam de Bravo,0016,Socorro,*
+31,Yucatán,028,Dzilam de Bravo,0044,Santa Teresa,*
+31,Yucatán,028,Dzilam de Bravo,0067,San Francisco,*
+31,Yucatán,028,Dzilam de Bravo,0080,Pueblo Nuevo,5
+31,Yucatán,028,Dzilam de Bravo,0092,San Manuel,*
+31,Yucatán,028,Dzilam de Bravo,0120,Alemar,*
+31,Yucatán,028,Dzilam de Bravo,0122,San Judas,*
+31,Yucatán,028,Dzilam de Bravo,0132,El Sauce,*
+31,Yucatán,028,Dzilam de Bravo,0139,Dzilam de Bravo [Unidad Habitacional],4
+31,Yucatán,028,Dzilam de Bravo,0140,La Mano Poderosa,*
+31,Yucatán,028,Dzilam de Bravo,0146,Tres Reyes,*
+31,Yucatán,028,Dzilam de Bravo,0148,Las Iguanitas,*
+31,Yucatán,028,Dzilam de Bravo,0151,Cabaña Villa Flores,*
+31,Yucatán,028,Dzilam de Bravo,0152,Mariano Peraza,*
+31,Yucatán,028,Dzilam de Bravo,0153,Limbo,*
+31,Yucatán,028,Dzilam de Bravo,0158,Rancho Don Li,*
+31,Yucatán,028,Dzilam de Bravo,0161,Los Coquitos,*
+31,Yucatán,028,Dzilam de Bravo,0166,FONDEN [Unidad Habitacional],0
+31,Yucatán,028,Dzilam de Bravo,9998,Localidades de una vivienda,0
+31,Yucatán,028,Dzilam de Bravo,9999,Localidades de dos viviendas,*
+31,Yucatán,029,Dzilam González,0000,Total del Municipio,211
+31,Yucatán,029,Dzilam González,0001,Dzilam González,208
+31,Yucatán,029,Dzilam González,0013,Holontún,*
+31,Yucatán,029,Dzilam González,0015,Santa Úrsula,*
+31,Yucatán,029,Dzilam González,0017,Guadalupe,*
+31,Yucatán,029,Dzilam González,0023,Chen-Cimé,*
+31,Yucatán,029,Dzilam González,0024,Dzidzilché,*
+31,Yucatán,029,Dzilam González,0031,Noc-Zal,*
+31,Yucatán,029,Dzilam González,0034,Sonora,*
+31,Yucatán,029,Dzilam González,0045,San Felipe,*
+31,Yucatán,029,Dzilam González,0048,San Fernando,*
+31,Yucatán,029,Dzilam González,0071,Santa Bárbara,*
+31,Yucatán,029,Dzilam González,0074,Santa Isabel,*
+31,Yucatán,029,Dzilam González,0084,Xkan-Há,*
+31,Yucatán,029,Dzilam González,0099,Las Cruces,*
+31,Yucatán,029,Dzilam González,0105,Dzonot Trejo,*
+31,Yucatán,029,Dzilam González,0119,San Antonio,*
+31,Yucatán,029,Dzilam González,0124,San Miguel Siete,*
+31,Yucatán,029,Dzilam González,0131,Santa Elena,*
+31,Yucatán,029,Dzilam González,0136,Santa Clara,*
+31,Yucatán,029,Dzilam González,0137,San Fernando,*
+31,Yucatán,029,Dzilam González,0140,San Judas,*
+31,Yucatán,029,Dzilam González,0142,La Bendición de Dios,*
+31,Yucatán,029,Dzilam González,0152,Kan-Há,*
+31,Yucatán,029,Dzilam González,0158,Sac-Nicté,*
+31,Yucatán,029,Dzilam González,0183,San Martín,*
+31,Yucatán,029,Dzilam González,0188,San Miguel Cinco,*
+31,Yucatán,029,Dzilam González,0199,Santa Elena,*
+31,Yucatán,029,Dzilam González,0202,Santa María,*
+31,Yucatán,029,Dzilam González,0203,Santa Martha,*
+31,Yucatán,029,Dzilam González,0241,San Ramón,*
+31,Yucatán,029,Dzilam González,0259,La Herradura,*
+31,Yucatán,029,Dzilam González,9998,Localidades de una vivienda,3
+31,Yucatán,029,Dzilam González,9999,Localidades de dos viviendas,*
+31,Yucatán,030,Dzitás,0000,Total del Municipio,83
+31,Yucatán,030,Dzitás,0001,Dzitás,75
+31,Yucatán,030,Dzitás,0008,Xocempich,8
+31,Yucatán,030,Dzitás,0063,Santa Rosa,*
+31,Yucatán,030,Dzitás,0076,Yaxché,0
+31,Yucatán,030,Dzitás,9998,Localidades de una vivienda,*
+31,Yucatán,031,Dzoncauich,0000,Total del Municipio,91
+31,Yucatán,031,Dzoncauich,0001,Dzoncauich,78
+31,Yucatán,031,Dzoncauich,0002,Chacmay,13
+31,Yucatán,031,Dzoncauich,0038,Santa Elena,*
+31,Yucatán,031,Dzoncauich,0069,San Adrián [Rancho],*
+31,Yucatán,031,Dzoncauich,9998,Localidades de una vivienda,*
+31,Yucatán,032,Espita,0000,Total del Municipio,433
+31,Yucatán,032,Espita,0001,Espita,337
+31,Yucatán,032,Espita,0002,Holcá,10
+31,Yucatán,032,Espita,0003,Kunché,33
+31,Yucatán,032,Espita,0004,Nacuché,26
+31,Yucatán,032,Espita,0005,San Pedro Chenchelá,4
+31,Yucatán,032,Espita,0006,Santa Cruz Regadío,1
+31,Yucatán,032,Espita,0007,Tuzik,4
+31,Yucatán,032,Espita,0008,X-Ualtez,8
+31,Yucatán,032,Espita,0009,Xuilub,10
+31,Yucatán,032,Espita,0023,San Vicente,*
+31,Yucatán,032,Espita,0028,San Luis Yohtzatz,*
+31,Yucatán,032,Espita,0054,Bulak,*
+31,Yucatán,032,Espita,0086,Xluch,*
+31,Yucatán,032,Espita,0088,El Álamo,*
+31,Yucatán,032,Espita,0098,Dzadz Pichí,*
+31,Yucatán,032,Espita,0103,San Antonio,*
+31,Yucatán,032,Espita,0111,San Juan,*
+31,Yucatán,032,Espita,0112,Dzibi-Ac,*
+31,Yucatán,032,Espita,0128,Estrella de Oriente,*
+31,Yucatán,032,Espita,0133,Las Dos Marías,*
+31,Yucatán,032,Espita,0135,Los Abuelos,*
+31,Yucatán,032,Espita,0136,San Isidro,*
+31,Yucatán,032,Espita,0138,San José,*
+31,Yucatán,032,Espita,0140,Santa Rita,*
+31,Yucatán,032,Espita,0141,Santa Rita,*
+31,Yucatán,032,Espita,0173,Pénjamo,*
+31,Yucatán,032,Espita,0185,San Antonio Uno,*
+31,Yucatán,032,Espita,0189,San Francisco,*
+31,Yucatán,032,Espita,0196,Jardines de Ixchel,*
+31,Yucatán,032,Espita,9998,Localidades de una vivienda,0
+31,Yucatán,033,Halachó,0000,Total del Municipio,680
+31,Yucatán,033,Halachó,0001,Halachó,367
+31,Yucatán,033,Halachó,0002,Cepeda,92
+31,Yucatán,033,Halachó,0003,Cuch Holoch,57
+31,Yucatán,033,Halachó,0004,Kancabchén,3
+31,Yucatán,033,Halachó,0005,San Mateo,10
+31,Yucatán,033,Halachó,0006,Santa María Acú,62
+31,Yucatán,033,Halachó,0007,Sihó,66
+31,Yucatán,033,Halachó,0008,Dzidzibachí,22
+31,Yucatán,033,Halachó,0044,San Pedro,*
+31,Yucatán,033,Halachó,0077,Santa María,*
+31,Yucatán,033,Halachó,0087,San Diego,*
+31,Yucatán,033,Halachó,0089,Unidad Cervera,*
+31,Yucatán,033,Halachó,0101,Ku Polón,*
+31,Yucatán,033,Halachó,0119,San Lorenzo [Rancho],*
+31,Yucatán,033,Halachó,0121,Santa Cruz,*
+31,Yucatán,033,Halachó,9998,Localidades de una vivienda,0
+31,Yucatán,033,Halachó,9999,Localidades de dos viviendas,1
+31,Yucatán,034,Hocabá,0000,Total del Municipio,124
+31,Yucatán,034,Hocabá,0001,Hocabá,94
+31,Yucatán,034,Hocabá,0003,Sahcabá,29
+31,Yucatán,034,Hocabá,0015,San José,*
+31,Yucatán,034,Hocabá,0016,San Juan de Dios,*
+31,Yucatán,034,Hocabá,0024,Centro de Investigaciones Agrícolas,*
+31,Yucatán,034,Hocabá,0027,Chaltún Há,*
+31,Yucatán,034,Hocabá,0047,Ninguno,0
+31,Yucatán,034,Hocabá,0049,Santa María,*
+31,Yucatán,034,Hocabá,0053,Nance II,*
+31,Yucatán,034,Hocabá,0059,Barbasiana,*
+31,Yucatán,034,Hocabá,9998,Localidades de una vivienda,1
+31,Yucatán,034,Hocabá,9999,Localidades de dos viviendas,*
+31,Yucatán,035,Hoctún,0000,Total del Municipio,129
+31,Yucatán,035,Hoctún,0001,Hoctún,123
+31,Yucatán,035,Hoctún,0004,Dziuché,*
+31,Yucatán,035,Hoctún,0007,San José Oriente,6
+31,Yucatán,035,Hoctún,0008,San José Poniente,*
+31,Yucatán,035,Hoctún,0024,San Nicolás,*
+31,Yucatán,035,Hoctún,0038,La Virgen de Guadalupe,*
+31,Yucatán,035,Hoctún,0053,Servicio Hoctún [Gasolinera],*
+31,Yucatán,035,Hoctún,9998,Localidades de una vivienda,0
+31,Yucatán,035,Hoctún,9999,Localidades de dos viviendas,*
+31,Yucatán,036,Homún,0000,Total del Municipio,198
+31,Yucatán,036,Homún,0001,Homún,181
+31,Yucatán,036,Homún,0007,Kampepén,0
+31,Yucatán,036,Homún,0010,Polabán,0
+31,Yucatán,036,Homún,0012,San Isidro Ochil,17
+31,Yucatán,036,Homún,0036,San Antonio,*
+31,Yucatán,036,Homún,0046,Kankabchén,0
+31,Yucatán,036,Homún,0055,Erika Carbajal,*
+31,Yucatán,036,Homún,0057,Antonia Pisté Oy,*
+31,Yucatán,036,Homún,0058,María Feliz Chim Dzul,*
+31,Yucatán,036,Homún,0071,María Esperanza Balam,*
+31,Yucatán,036,Homún,0072,Irma Canché Pacheco,*
+31,Yucatán,036,Homún,0075,San Juan,*
+31,Yucatán,036,Homún,0077,El Charquito,*
+31,Yucatán,036,Homún,0080,José Alejandro Ayil Tuyub,*
+31,Yucatán,036,Homún,0083,María Guadalupe León Chan,*
+31,Yucatán,036,Homún,9998,Localidades de una vivienda,0
+31,Yucatán,037,Huhí,0000,Total del Municipio,107
+31,Yucatán,037,Huhí,0001,Huhí,107
+31,Yucatán,037,Huhí,0002,Tixcacal Quintero,0
+31,Yucatán,037,Huhí,0082,San Gaspar,*
+31,Yucatán,037,Huhí,9998,Localidades de una vivienda,*
+31,Yucatán,038,Hunucmá,0000,Total del Municipio,1257
+31,Yucatán,038,Hunucmá,0001,Hunucmá,1041
+31,Yucatán,038,Hunucmá,0002,Hunkanab,16
+31,Yucatán,038,Hunucmá,0003,San Antonio Chel,4
+31,Yucatán,038,Hunucmá,0004,Sisal,88
+31,Yucatán,038,Hunucmá,0005,Texán de Palomeque,108
+31,Yucatán,038,Hunucmá,0073,San Joaquín,*
+31,Yucatán,038,Hunucmá,0162,Felipe Canul,*
+31,Yucatán,038,Hunucmá,0173,El Portón Negro,*
+31,Yucatán,038,Hunucmá,0179,Ma' Tubzquen,*
+31,Yucatán,038,Hunucmá,0180,Popolá,*
+31,Yucatán,038,Hunucmá,0185,Las Tejas,*
+31,Yucatán,038,Hunucmá,0201,Los Martínez,*
+31,Yucatán,038,Hunucmá,9998,Localidades de una vivienda,0
+31,Yucatán,039,Ixil,0000,Total del Municipio,177
+31,Yucatán,039,Ixil,0001,Ixil,175
+31,Yucatán,039,Ixil,0002,Concepción,*
+31,Yucatán,039,Ixil,0022,San Isidro Dos,0
+31,Yucatán,039,Ixil,0023,El Faro,1
+31,Yucatán,039,Ixil,0030,Xtum,0
+31,Yucatán,039,Ixil,0032,Escondido [Rancho],*
+31,Yucatán,039,Ixil,0035,Santa Cruz,0
+31,Yucatán,039,Ixil,0047,La Joya,*
+31,Yucatán,039,Ixil,0048,Los Cascabeles,*
+31,Yucatán,039,Ixil,9998,Localidades de una vivienda,1
+31,Yucatán,039,Ixil,9999,Localidades de dos viviendas,*
+31,Yucatán,040,Izamal,0000,Total del Municipio,845
+31,Yucatán,040,Izamal,0001,Izamal,580
+31,Yucatán,040,Izamal,0003,Citilcum,66
+31,Yucatán,040,Izamal,0004,Cuauhtémoc,12
+31,Yucatán,040,Izamal,0005,Chacón,*
+31,Yucatán,040,Izamal,0008,Chuiché,*
+31,Yucatán,040,Izamal,0024,Sitilpech,41
+31,Yucatán,040,Izamal,0028,Xanabá,38
+31,Yucatán,040,Izamal,0041,Kimbilá,107
+31,Yucatán,040,Izamal,0045,Cax-Ek,*
+31,Yucatán,040,Izamal,0056,Kanab,*
+31,Yucatán,040,Izamal,0067,Sac-Nicté,*
+31,Yucatán,040,Izamal,0069,San Dimas,*
+31,Yucatán,040,Izamal,0117,Balantún,*
+31,Yucatán,040,Izamal,0140,Yohmac,*
+31,Yucatán,040,Izamal,0149,Treinta y Tres [Unidad Citrícola],*
+31,Yucatán,040,Izamal,0163,El Pájaro,*
+31,Yucatán,040,Izamal,0168,Gustavo Burgos Candil,*
+31,Yucatán,040,Izamal,0171,Santa Rosa,*
+31,Yucatán,040,Izamal,0173,Las Margaritas,*
+31,Yucatán,040,Izamal,0175,San Yazké,*
+31,Yucatán,040,Izamal,0179,San Miguel Arcángel,*
+31,Yucatán,040,Izamal,0202,Tres Potrillos,*
+31,Yucatán,040,Izamal,0204,Villa Albores,*
+31,Yucatán,040,Izamal,0205,Sahaltún,*
+31,Yucatán,040,Izamal,0206,La Veleta,*
+31,Yucatán,040,Izamal,0208,Mis Amores,*
+31,Yucatán,040,Izamal,0213,Ruz Koyoc [Familia],*
+31,Yucatán,040,Izamal,0218,Los Tres Reyes,*
+31,Yucatán,040,Izamal,0222,El Jabín [Rancho],*
+31,Yucatán,040,Izamal,0223,Santos Pat Uitz [Granja],*
+31,Yucatán,040,Izamal,0224,Familia Ake Euan,*
+31,Yucatán,040,Izamal,9998,Localidades de una vivienda,1
+31,Yucatán,041,Kanasín,0000,Total del Municipio,4565
+31,Yucatán,041,Kanasín,0001,Kanasín,4506
+31,Yucatán,041,Kanasín,0003,San Antonio Tehuitz,30
+31,Yucatán,041,Kanasín,0006,Teya,15
+31,Yucatán,041,Kanasín,0008,El Campanario,*
+31,Yucatán,041,Kanasín,0021,Villa Cristina,*
+31,Yucatán,041,Kanasín,0040,El Pedregal,*
+31,Yucatán,041,Kanasín,0051,Los Toriles,*
+31,Yucatán,041,Kanasín,0054,Santa Teresa,0
+31,Yucatán,041,Kanasín,0130,Lol-Há [Hacienda],*
+31,Yucatán,041,Kanasín,0131,San Antonio,*
+31,Yucatán,041,Kanasín,0135,Dzoyolá,7
+31,Yucatán,041,Kanasín,0141,Las Garzas,*
+31,Yucatán,041,Kanasín,0176,Los Canes [Rancho],*
+31,Yucatán,041,Kanasín,0190,San Haroldo,*
+31,Yucatán,041,Kanasín,0205,San Arturo,*
+31,Yucatán,041,Kanasín,0231,Balché,*
+31,Yucatán,041,Kanasín,0243,Jardines de Tahdzibichén,5
+31,Yucatán,041,Kanasín,0266,Yolanda Beatriz Kuk Baas,*
+31,Yucatán,041,Kanasín,0287,Pedro Chan Tun,*
+31,Yucatán,041,Kanasín,0288,Caba [Quinta],*
+31,Yucatán,041,Kanasín,0290,Modesto Huicab Canché [Quinta],*
+31,Yucatán,041,Kanasín,0292,Samkam Church,*
+31,Yucatán,041,Kanasín,0309,Renán Rosas,*
+31,Yucatán,041,Kanasín,0312,Jalapa,*
+31,Yucatán,041,Kanasín,0323,El Jesús,*
+31,Yucatán,041,Kanasín,0326,Lomas de la Barranca,*
+31,Yucatán,041,Kanasín,9998,Localidades de una vivienda,2
+31,Yucatán,041,Kanasín,9999,Localidades de dos viviendas,*
+31,Yucatán,042,Kantunil,0000,Total del Municipio,115
+31,Yucatán,042,Kantunil,0001,Kantunil,78
+31,Yucatán,042,Kantunil,0002,Holcá,37
+31,Yucatán,042,Kantunil,0018,Puhá,*
+31,Yucatán,042,Kantunil,0042,Granja Agrícola San Felipe,*
+31,Yucatán,042,Kantunil,0055,María Andrea Gómez Fuentes,*
+31,Yucatán,042,Kantunil,0059,Ninguno,*
+31,Yucatán,042,Kantunil,0061,San Juan,*
+31,Yucatán,042,Kantunil,9998,Localidades de una vivienda,0
+31,Yucatán,043,Kaua,0000,Total del Municipio,83
+31,Yucatán,043,Kaua,0001,Kaua,74
+31,Yucatán,043,Kaua,0003,Dzibiac,1
+31,Yucatán,043,Kaua,0006,Dzeal,6
+31,Yucatán,043,Kaua,0012,Yaxlé,1
+31,Yucatán,043,Kaua,0022,San Enrique,*
+31,Yucatán,043,Kaua,0023,San Esteban,0
+31,Yucatán,043,Kaua,0037,Xtóhil,*
+31,Yucatán,043,Kaua,0043,Aldea Maya,*
+31,Yucatán,043,Kaua,0044,Pambá,1
+31,Yucatán,043,Kaua,0047,Xcanahaltún,*
+31,Yucatán,043,Kaua,9998,Localidades de una vivienda,0
+31,Yucatán,044,Kinchil,0000,Total del Municipio,190
+31,Yucatán,044,Kinchil,0001,Kinchil,185
+31,Yucatán,044,Kinchil,0002,Tamchén,5
+31,Yucatán,044,Kinchil,0059,San José Pachul,*
+31,Yucatán,044,Kinchil,0106,Tabacón [Quinta],*
+31,Yucatán,044,Kinchil,0110,Los Pinos,*
+31,Yucatán,044,Kinchil,9998,Localidades de una vivienda,0
+31,Yucatán,045,Kopomá,0000,Total del Municipio,63
+31,Yucatán,045,Kopomá,0001,Kopomá,49
+31,Yucatán,045,Kopomá,0002,San Bernardo,14
+31,Yucatán,046,Mama,0000,Total del Municipio,100
+31,Yucatán,046,Mama,0001,Mama,99
+31,Yucatán,046,Mama,0018,Kulmanchac,*
+31,Yucatán,046,Mama,0060,San Genaro,*
+31,Yucatán,046,Mama,0065,Nuevo San Juan,1
+31,Yucatán,046,Mama,9998,Localidades de una vivienda,*
+31,Yucatán,047,Maní,0000,Total del Municipio,193
+31,Yucatán,047,Maní,0001,Maní,168
+31,Yucatán,047,Maní,0009,Tipikal,24
+31,Yucatán,047,Maní,0012,Plan Chac Pozo Diez,*
+31,Yucatán,047,Maní,0016,San Filemón,*
+31,Yucatán,047,Maní,0022,San Román,*
+31,Yucatán,047,Maní,0040,San Miguel,*
+31,Yucatán,047,Maní,0041,Adriana Cardona [Quinta],*
+31,Yucatán,047,Maní,0058,Pozo Nueve,1
+31,Yucatán,047,Maní,0062,Teodora Chan,*
+31,Yucatán,047,Maní,0067,La Bendición de Dios,*
+31,Yucatán,047,Maní,0068,Emiliano Zapata [Pozo],*
+31,Yucatán,047,Maní,0069,Laban Subin Dos,*
+31,Yucatán,047,Maní,9998,Localidades de una vivienda,0
+31,Yucatán,047,Maní,9999,Localidades de dos viviendas,*
+31,Yucatán,048,Maxcanú,0000,Total del Municipio,689
+31,Yucatán,048,Maxcanú,0001,Maxcanú,545
+31,Yucatán,048,Maxcanú,0002,Coahuila (Santa Teresa Coahuila),11
+31,Yucatán,048,Maxcanú,0003,Chactún (San José Chactún),3
+31,Yucatán,048,Maxcanú,0004,Chan Chocholá (Santa Eduviges Chan Chocholá),5
+31,Yucatán,048,Maxcanú,0006,Chunchucmil,30
+31,Yucatán,048,Maxcanú,0007,Granada (Chican Granada),12
+31,Yucatán,048,Maxcanú,0010,Kanachén,12
+31,Yucatán,048,Maxcanú,0011,Kochol,16
+31,Yucatán,048,Maxcanú,0012,Paraíso,10
+31,Yucatán,048,Maxcanú,0014,San Fernando,2
+31,Yucatán,048,Maxcanú,0017,San Rafael,15
+31,Yucatán,048,Maxcanú,0018,Santa Cruz,2
+31,Yucatán,048,Maxcanú,0020,Santa Rosa (Santa Rosa de Lima),7
+31,Yucatán,048,Maxcanú,0021,Santo Domingo,17
+31,Yucatán,048,Maxcanú,0023,Zodzil,*
+31,Yucatán,048,Maxcanú,0056,X-Cacal,*
+31,Yucatán,048,Maxcanú,0059,Buena Esperanza,*
+31,Yucatán,048,Maxcanú,0063,Compartir,*
+31,Yucatán,048,Maxcanú,0080,Lázaro Cárdenas,*
+31,Yucatán,048,Maxcanú,0094,Plantel Uno,*
+31,Yucatán,048,Maxcanú,0112,San Jacinto,*
+31,Yucatán,048,Maxcanú,0161,Santa Úrsula,*
+31,Yucatán,048,Maxcanú,0165,Miguel Cocom,*
+31,Yucatán,048,Maxcanú,0169,Chacsi,*
+31,Yucatán,048,Maxcanú,0170,Tres Marías,*
+31,Yucatán,048,Maxcanú,0175,José Froylán Koh Argaez,*
+31,Yucatán,048,Maxcanú,0185,Xunam Bom Bum,*
+31,Yucatán,048,Maxcanú,0192,Yaxchee 1,*
+31,Yucatán,048,Maxcanú,0193,San Felipe,*
+31,Yucatán,048,Maxcanú,0194,Las Margaritas,*
+31,Yucatán,048,Maxcanú,9998,Localidades de una vivienda,2
+31,Yucatán,049,Mayapán,0000,Total del Municipio,61
+31,Yucatán,049,Mayapán,0001,Mayapán,61
+31,Yucatán,049,Mayapán,0008,San Antonio Techoh,*
+31,Yucatán,049,Mayapán,0029,Onichén,*
+31,Yucatán,049,Mayapán,0063,Santa María Manzanero,*
+31,Yucatán,049,Mayapán,0064,Santa María Uc,*
+31,Yucatán,049,Mayapán,9998,Localidades de una vivienda,0
+31,Yucatán,050,Mérida,0000,Total del Municipio,58367
+31,Yucatán,050,Mérida,0001,Mérida,55458
+31,Yucatán,050,Mérida,0075,Caucel,345
+31,Yucatán,050,Mérida,0076,Cosgaya,26
+31,Yucatán,050,Mérida,0077,Chablekal,211
+31,Yucatán,050,Mérida,0079,Chalmuch,12
+31,Yucatán,050,Mérida,0081,Cheumán,6
+31,Yucatán,050,Mérida,0084,Cholul,599
+31,Yucatán,050,Mérida,0086,Dzibilchaltún,8
+31,Yucatán,050,Mérida,0087,Dzidzilché,3
+31,Yucatán,050,Mérida,0088,Dzityá,91
+31,Yucatán,050,Mérida,0089,Dzoyaxché,19
+31,Yucatán,050,Mérida,0090,Dzununcán,71
+31,Yucatán,050,Mérida,0092,Kikteil,5
+31,Yucatán,050,Mérida,0093,Komchén,187
+31,Yucatán,050,Mérida,0095,Molas,86
+31,Yucatán,050,Mérida,0097,Noc Ac,19
+31,Yucatán,050,Mérida,0100,Petac,4
+31,Yucatán,050,Mérida,0102,Sac-Nicté,8
+31,Yucatán,050,Mérida,0103,San Antonio Hool,8
+31,Yucatán,050,Mérida,0108,San Ignacio Tesip,10
+31,Yucatán,050,Mérida,0111,San José Tzal,93
+31,Yucatán,050,Mérida,0116,San Pedro Chimay,46
+31,Yucatán,050,Mérida,0117,Santa Cruz Palomeque,28
+31,Yucatán,050,Mérida,0119,Santa María Chí,17
+31,Yucatán,050,Mérida,0120,Sierra Papacal,45
+31,Yucatán,050,Mérida,0121,Sitpach,100
+31,Yucatán,050,Mérida,0123,Susulá,11
+31,Yucatán,050,Mérida,0124,Suytunchén,0
+31,Yucatán,050,Mérida,0125,Tahdzibichén,13
+31,Yucatán,050,Mérida,0128,Temozón Norte,79
+31,Yucatán,050,Mérida,0129,Texán Cámara,12
+31,Yucatán,050,Mérida,0130,Opichén,36
+31,Yucatán,050,Mérida,0131,Tixcacal,28
+31,Yucatán,050,Mérida,0132,Tixcuytún,13
+31,Yucatán,050,Mérida,0133,San Antonio Tzacalá,29
+31,Yucatán,050,Mérida,0135,Xcanatún,93
+31,Yucatán,050,Mérida,0138,Xmatkuil,35
+31,Yucatán,050,Mérida,0140,Yaxché Casares,4
+31,Yucatán,050,Mérida,0141,Yaxnic,22
+31,Yucatán,050,Mérida,0144,Xcunyá,43
+31,Yucatán,050,Mérida,0145,Santa María Yaxché,3
+31,Yucatán,050,Mérida,0158,La Ceiba,91
+31,Yucatán,050,Mérida,0159,La Ceiba Dos,3
+31,Yucatán,050,Mérida,0190,Caney [Establo Lechero],*
+31,Yucatán,050,Mérida,0222,Santa Rosa [Unidad Ovina],*
+31,Yucatán,050,Mérida,0224,California [Rancho],*
+31,Yucatán,050,Mérida,0225,San Diego Texán,1
+31,Yucatán,050,Mérida,0228,San José Kuché,*
+31,Yucatán,050,Mérida,0238,Tamanché,37
+31,Yucatán,050,Mérida,0249,Xcauaka,*
+31,Yucatán,050,Mérida,0254,Francisco Villa,*
+31,Yucatán,050,Mérida,0268,Oncán,19
+31,Yucatán,050,Mérida,0305,Los Capomos,*
+31,Yucatán,050,Mérida,0306,Los Tres Reyes,*
+31,Yucatán,050,Mérida,0323,Kampepén,*
+31,Yucatán,050,Mérida,0336,Hunxectamán,1
+31,Yucatán,050,Mérida,0345,Gelsy Guadalupe,*
+31,Yucatán,050,Mérida,0346,Itzamatul,*
+31,Yucatán,050,Mérida,0414,Los Castellanos,9
+31,Yucatán,050,Mérida,0438,La Guadalupana,*
+31,Yucatán,050,Mérida,0445,Santa Elena,*
+31,Yucatán,050,Mérida,0496,Monte Alto,*
+31,Yucatán,050,Mérida,0528,Jardines de Tahdzibichén,7
+31,Yucatán,050,Mérida,0561,Villa Paraíso,0
+31,Yucatán,050,Mérida,0606,Paseos Country,*
+31,Yucatán,050,Mérida,0660,Soluna,*
+31,Yucatán,050,Mérida,0666,Villas Cholul,25
+31,Yucatán,050,Mérida,0669,Santa Isabel,*
+31,Yucatán,050,Mérida,0688,José Luis Puc,*
+31,Yucatán,050,Mérida,0693,Galdino (San Felipe),*
+31,Yucatán,050,Mérida,0695,Don Juan,*
+31,Yucatán,050,Mérida,0696,Santa Bárbara,*
+31,Yucatán,050,Mérida,0733,Santos Galo Chalé Cauich,*
+31,Yucatán,050,Mérida,0735,Claudia Lach,*
+31,Yucatán,050,Mérida,0741,Almendros,*
+31,Yucatán,050,Mérida,0742,Las Nubes,*
+31,Yucatán,050,Mérida,0745,Pastor [Rancho],*
+31,Yucatán,050,Mérida,0749,San Pedro,*
+31,Yucatán,050,Mérida,0753,Villas Xcanatún,6
+31,Yucatán,050,Mérida,0756,Tío Gato [Cabaña],*
+31,Yucatán,050,Mérida,0757,Campo Bravo,*
+31,Yucatán,050,Mérida,0758,Cango,*
+31,Yucatán,050,Mérida,0759,San Miguel,*
+31,Yucatán,050,Mérida,0768,Los Farahones,*
+31,Yucatán,050,Mérida,0775,Guadalupe,*
+31,Yucatán,050,Mérida,0804,Rubí Cocom,*
+31,Yucatán,050,Mérida,0805,María Cen Pech,0
+31,Yucatán,050,Mérida,0809,Yaxché de Peón,*
+31,Yucatán,050,Mérida,0812,Doña Reyna,*
+31,Yucatán,050,Mérida,0813,Lol-Bé,1
+31,Yucatán,050,Mérida,0835,Quinta Teresita,*
+31,Yucatán,050,Mérida,0858,Las Adelaidas,*
+31,Yucatán,050,Mérida,0862,Las Ranas,*
+31,Yucatán,050,Mérida,0868,Roberto Pérez Ortiz,*
+31,Yucatán,050,Mérida,0869,Coppsa,0
+31,Yucatán,050,Mérida,0870,Av-Breu [Constructora],*
+31,Yucatán,050,Mérida,0872,Los Corceles,*
+31,Yucatán,050,Mérida,0875,Santiago Kuri,*
+31,Yucatán,050,Mérida,0876,Reina Rivas,*
+31,Yucatán,050,Mérida,0881,San José,*
+31,Yucatán,050,Mérida,0885,González Canto,*
+31,Yucatán,050,Mérida,0886,El Tzalam,*
+31,Yucatán,050,Mérida,0888,San Ermilo,*
+31,Yucatán,050,Mérida,0893,Francisco,*
+31,Yucatán,050,Mérida,0898,Hernández,*
+31,Yucatán,050,Mérida,0901,Martha,*
+31,Yucatán,050,Mérida,0908,El Caribeño [Paradero],*
+31,Yucatán,050,Mérida,0914,Las Palmas,*
+31,Yucatán,050,Mérida,0915,Puertas del Mayab,2
+31,Yucatán,050,Mérida,0920,El Potrillo,0
+31,Yucatán,050,Mérida,0921,Renacimiento,*
+31,Yucatán,050,Mérida,0929,San Lorenzo,*
+31,Yucatán,050,Mérida,0940,El Borreo Alux,*
+31,Yucatán,050,Mérida,0944,La Rejoyada,30
+31,Yucatán,050,Mérida,0945,Yucatán Country Club,154
+31,Yucatán,050,Mérida,0953,Yucatán Polo Club,*
+31,Yucatán,050,Mérida,0955,La Ceiba [Villas],3
+31,Yucatán,050,Mérida,0959,Alfonso Mena,*
+31,Yucatán,050,Mérida,0965,Tirzo Fernando Suárez Nuñez,*
+31,Yucatán,050,Mérida,0968,Humberto González Morales,*
+31,Yucatán,050,Mérida,0969,José Yamá,*
+31,Yucatán,050,Mérida,0970,El Encuentro [Rancho],*
+31,Yucatán,050,Mérida,0971,Familia Góngora Mendoza,*
+31,Yucatán,050,Mérida,0973,Gema [Rancho],*
+31,Yucatán,050,Mérida,0974,El Forrajero [Rancho],*
+31,Yucatán,050,Mérida,0986,Mulsay,*
+31,Yucatán,050,Mérida,0994,Coqueluche,*
+31,Yucatán,050,Mérida,0999,Los Cedros,*
+31,Yucatán,050,Mérida,1006,San Miguel,*
+31,Yucatán,050,Mérida,1008,La Brecha [Calle 6],*
+31,Yucatán,050,Mérida,1012,Cuatrocientos Once [Invernadero],*
+31,Yucatán,050,Mérida,1015,Terreno Apá,*
+31,Yucatán,050,Mérida,1016,El Xux,*
+31,Yucatán,050,Mérida,1017,Yóok'sojol,*
+31,Yucatán,050,Mérida,1019,Chaactún,7
+31,Yucatán,050,Mérida,1022,La Casita del Sabor,*
+31,Yucatán,050,Mérida,1023,Altosano,16
+31,Yucatán,050,Mérida,1024,Blue Cedar [Privada Residencial],15
+31,Yucatán,050,Mérida,1034,Bethel,*
+31,Yucatán,050,Mérida,1035,La Brea,*
+31,Yucatán,050,Mérida,1036,Los Cocos,*
+31,Yucatán,050,Mérida,1039,El Jabín,*
+31,Yucatán,050,Mérida,1045,El Papayal,*
+31,Yucatán,050,Mérida,1047,El Picacho,*
+31,Yucatán,050,Mérida,1055,Terra Nova,*
+31,Yucatán,050,Mérida,1069,Komchén [Privada],*
+31,Yucatán,050,Mérida,1074,Komchén [Santuario],*
+31,Yucatán,050,Mérida,1076,Dzidzil-Há,*
+31,Yucatán,050,Mérida,1081,Papacal,*
+31,Yucatán,050,Mérida,1099,Misnebalam Dos,*
+31,Yucatán,050,Mérida,1108,El Jabín  Dos,*
+31,Yucatán,050,Mérida,1109,El Jabín,*
+31,Yucatán,050,Mérida,1111,Las Palmeras,*
+31,Yucatán,050,Mérida,1113,San Antonio,*
+31,Yucatán,050,Mérida,1115,La Casa Azul,*
+31,Yucatán,050,Mérida,1116,Los Rosales,*
+31,Yucatán,050,Mérida,1117,Santa Ana,*
+31,Yucatán,050,Mérida,1129,El Jabín,*
+31,Yucatán,050,Mérida,1130,Los Moreno,*
+31,Yucatán,050,Mérida,1133,Santa Julia,*
+31,Yucatán,050,Mérida,1137,La Chichí,*
+31,Yucatán,050,Mérida,1140,San Ramón,*
+31,Yucatán,050,Mérida,1142,El Solar del Húngaro,*
+31,Yucatán,050,Mérida,1143,Otoch,*
+31,Yucatán,050,Mérida,1144,Zua Zua,*
+31,Yucatán,050,Mérida,1148,La Roca,*
+31,Yucatán,050,Mérida,9998,Localidades de una vivienda,12
+31,Yucatán,050,Mérida,9999,Localidades de dos viviendas,2
+31,Yucatán,051,Mocochá,0000,Total del Municipio,135
+31,Yucatán,051,Mocochá,0001,Mocochá,99
+31,Yucatán,051,Mocochá,0005,Chacnicté,*
+31,Yucatán,051,Mocochá,0006,Tekat,22
+31,Yucatán,051,Mocochá,0007,Toó,12
+31,Yucatán,051,Mocochá,0008,Mocochá [Residencial Henequenes],*
+31,Yucatán,051,Mocochá,0012,Peniche,*
+31,Yucatán,051,Mocochá,0015,El Coraje [Rancho],*
+31,Yucatán,051,Mocochá,0017,San Francisco,*
+31,Yucatán,051,Mocochá,0034,San Judas Tadeo [Quinta],*
+31,Yucatán,051,Mocochá,0038,Paraíso [Rancho],1
+31,Yucatán,051,Mocochá,0044,Guadalupe,*
+31,Yucatán,051,Mocochá,0046,Ninguno,*
+31,Yucatán,051,Mocochá,0050,Xochimilco [Vivero],*
+31,Yucatán,051,Mocochá,0061,Chan Xunan,*
+31,Yucatán,051,Mocochá,0066,Chacnicté II,*
+31,Yucatán,051,Mocochá,0068,La Flor del Siglo XXI,0
+31,Yucatán,051,Mocochá,0071,Las Palmas,*
+31,Yucatán,051,Mocochá,9998,Localidades de una vivienda,1
+31,Yucatán,051,Mocochá,9999,Localidades de dos viviendas,*
+31,Yucatán,052,Motul,0000,Total del Municipio,1338
+31,Yucatán,052,Motul,0001,Motul de Carrillo Puerto,1003
+31,Yucatán,052,Motul,0002,Ucí,35
+31,Yucatán,052,Motul,0003,Timul,23
+31,Yucatán,052,Motul,0005,Sacapuc,29
+31,Yucatán,052,Motul,0008,Kopté,38
+31,Yucatán,052,Motul,0011,Kancabchén,10
+31,Yucatán,052,Motul,0012,Santa Cruz Pachón,10
+31,Yucatán,052,Motul,0013,Kambul,2
+31,Yucatán,052,Motul,0014,Mesatunich,25
+31,Yucatán,052,Motul,0015,Kaxatah,39
+31,Yucatán,052,Motul,0016,San Pedro Cámara,7
+31,Yucatán,052,Motul,0017,San Pedro Chacabal,11
+31,Yucatán,052,Motul,0018,Tanyá,30
+31,Yucatán,052,Motul,0020,Kancabchén Ucí,0
+31,Yucatán,052,Motul,0021,Komchén Martínez,2
+31,Yucatán,052,Motul,0022,Miguel Hidalgo y Costilla,3
+31,Yucatán,052,Motul,0023,Kiní,46
+31,Yucatán,052,Motul,0024,San José Hili,4
+31,Yucatán,052,Motul,0029,Kancabal,13
+31,Yucatán,052,Motul,0030,Dzununcán,6
+31,Yucatán,052,Motul,0032,Agrícola Maya,*
+31,Yucatán,052,Motul,0033,Sakolá,1
+31,Yucatán,052,Motul,0041,Anicabil de Guadalupe,*
+31,Yucatán,052,Motul,0046,San Isidro,*
+31,Yucatán,052,Motul,0052,San Miguel,*
+31,Yucatán,052,Motul,0058,Santa María,*
+31,Yucatán,052,Motul,0075,Paparux [Quinta],*
+31,Yucatán,052,Motul,0086,La Esperanza,*
+31,Yucatán,052,Motul,0089,San Agustín,*
+31,Yucatán,052,Motul,0093,San Juan Bautista,*
+31,Yucatán,052,Motul,0094,San Miguel,*
+31,Yucatán,052,Motul,0101,San Juan,*
+31,Yucatán,052,Motul,0102,San Fernando,*
+31,Yucatán,052,Motul,0103,Texas,*
+31,Yucatán,052,Motul,0113,La Cruz de Piedra,*
+31,Yucatán,052,Motul,0118,San Manuel,*
+31,Yucatán,052,Motul,0125,San Francisco,*
+31,Yucatán,052,Motul,0127,San José,*
+31,Yucatán,052,Motul,0132,San Lázaro,*
+31,Yucatán,052,Motul,0139,El Divino Niño,0
+31,Yucatán,052,Motul,0148,Medina,*
+31,Yucatán,052,Motul,0150,San Miguel,*
+31,Yucatán,052,Motul,0151,San Miguel,*
+31,Yucatán,052,Motul,0166,Isaías,*
+31,Yucatán,052,Motul,0171,Las Bechitas [Paraje],*
+31,Yucatán,052,Motul,0185,Casa Rosa,*
+31,Yucatán,052,Motul,0186,San Miguel Arcángel,*
+31,Yucatán,052,Motul,0191,El Juguete,*
+31,Yucatán,052,Motul,0197,Irving Zuriel Uicab Pech,*
+31,Yucatán,052,Motul,0198,Priscila Pech Ek,*
+31,Yucatán,052,Motul,0213,El Rosario,*
+31,Yucatán,052,Motul,0216,Ucí,*
+31,Yucatán,052,Motul,0217,Keyri,*
+31,Yucatán,052,Motul,0219,Verde Lucero de Mixtán,*
+31,Yucatán,052,Motul,0222,La Bendición de Dios,*
+31,Yucatán,052,Motul,9998,Localidades de una vivienda,1
+31,Yucatán,052,Motul,9999,Localidades de dos viviendas,*
+31,Yucatán,053,Muna,0000,Total del Municipio,459
+31,Yucatán,053,Muna,0001,Muna,437
+31,Yucatán,053,Muna,0002,Choyob,3
+31,Yucatán,053,Muna,0003,San José Tipceh,13
+31,Yucatán,053,Muna,0004,Yaxhá,6
+31,Yucatán,053,Muna,0006,Xocchel,*
+31,Yucatán,053,Muna,0018,Sahcabá,*
+31,Yucatán,053,Muna,0023,San Miguel,*
+31,Yucatán,053,Muna,0026,Tejas,*
+31,Yucatán,053,Muna,0079,Rubén Góngora Ku,*
+31,Yucatán,053,Muna,0080,El Desvío,*
+31,Yucatán,053,Muna,0081,Mun-Há,*
+31,Yucatán,053,Muna,9998,Localidades de una vivienda,0
+31,Yucatán,054,Muxupip,0000,Total del Municipio,103
+31,Yucatán,054,Muxupip,0001,Muxupip,93
+31,Yucatán,054,Muxupip,0005,San José Grande,0
+31,Yucatán,054,Muxupip,0006,San Juan Koop,10
+31,Yucatán,054,Muxupip,0028,Ninguno,*
+31,Yucatán,054,Muxupip,0038,El Huerto,*
+31,Yucatán,054,Muxupip,9998,Localidades de una vivienda,*
+31,Yucatán,055,Opichén,0000,Total del Municipio,177
+31,Yucatán,055,Opichén,0001,Opichén,148
+31,Yucatán,055,Opichén,0002,Calcehtok,29
+31,Yucatán,055,Opichén,0009,El Pozo [Rancho],*
+31,Yucatán,055,Opichén,0056,Pedro Estrella Ordoñez,*
+31,Yucatán,055,Opichén,9998,Localidades de una vivienda,*
+31,Yucatán,056,Oxkutzcab,0000,Total del Municipio,1033
+31,Yucatán,056,Oxkutzcab,0001,Oxkutzcab,944
+31,Yucatán,056,Oxkutzcab,0004,Emiliano Zapata,28
+31,Yucatán,056,Oxkutzcab,0007,X-Kobenhaltún,3
+31,Yucatán,056,Oxkutzcab,0010,Sahcahmucuy,0
+31,Yucatán,056,Oxkutzcab,0013,Xohuayán,17
+31,Yucatán,056,Oxkutzcab,0014,Xul,14
+31,Yucatán,056,Oxkutzcab,0016,Yaxhachén,19
+31,Yucatán,056,Oxkutzcab,0018,San José Kunché,0
+31,Yucatán,056,Oxkutzcab,0020,Plan Chac Pozo Cuatro,*
+31,Yucatán,056,Oxkutzcab,0022,Bombahaltún,1
+31,Yucatán,056,Oxkutzcab,0033,Nohcacab,*
+31,Yucatán,056,Oxkutzcab,0036,Pozo Siete,*
+31,Yucatán,056,Oxkutzcab,0037,Potoit,0
+31,Yucatán,056,Oxkutzcab,0039,Sabacché,*
+31,Yucatán,056,Oxkutzcab,0042,San Francisco,*
+31,Yucatán,056,Oxkutzcab,0044,San Isidro,*
+31,Yucatán,056,Oxkutzcab,0050,San Víctor,*
+31,Yucatán,056,Oxkutzcab,0057,X-Canajelé,*
+31,Yucatán,056,Oxkutzcab,0064,San Antonio Yaaxhom,3
+31,Yucatán,056,Oxkutzcab,0073,Pixoy,*
+31,Yucatán,056,Oxkutzcab,0084,Venustiano Carranza,*
+31,Yucatán,056,Oxkutzcab,0087,Tabí Pozo Tres,*
+31,Yucatán,056,Oxkutzcab,0091,Luis Donaldo Colosio,0
+31,Yucatán,056,Oxkutzcab,0093,Plan Chac Pozo Nueve,*
+31,Yucatán,056,Oxkutzcab,0097,X-Kakal,0
+31,Yucatán,056,Oxkutzcab,0099,Crucero Tabí,0
+31,Yucatán,056,Oxkutzcab,0105,Sinitún [Unidad],0
+31,Yucatán,056,Oxkutzcab,0106,Esmeralda,*
+31,Yucatán,056,Oxkutzcab,0107,Yaxhom Antiguo,0
+31,Yucatán,056,Oxkutzcab,0108,Chunhuaymil,0
+31,Yucatán,056,Oxkutzcab,0109,Las Águilas,0
+31,Yucatán,056,Oxkutzcab,0114,Linduras de mi Tierra,*
+31,Yucatán,056,Oxkutzcab,0117,Martha Imelda Calderón,*
+31,Yucatán,056,Oxkutzcab,0119,Plan Chac Pozo Uno,0
+31,Yucatán,056,Oxkutzcab,0121,Jaime,*
+31,Yucatán,056,Oxkutzcab,0122,Pozo Dos,0
+31,Yucatán,056,Oxkutzcab,0123,Pozo Seis,1
+31,Yucatán,056,Oxkutzcab,0124,Pozo Unidad Ceres,*
+31,Yucatán,056,Oxkutzcab,0126,San Francisco Yaaxhom,0
+31,Yucatán,056,Oxkutzcab,0132,Potoit Dos (Las Hermanas),0
+31,Yucatán,056,Oxkutzcab,0133,Pozo 644,0
+31,Yucatán,056,Oxkutzcab,0136,Unidad 645,*
+31,Yucatán,056,Oxkutzcab,0137,Plan Chaac Pozo 4 [Anexo],0
+31,Yucatán,056,Oxkutzcab,0140,San Isidro Labrador,*
+31,Yucatán,056,Oxkutzcab,0143,Chac Pichí,*
+31,Yucatán,056,Oxkutzcab,0145,San Eleazar,0
+31,Yucatán,056,Oxkutzcab,0147,Dolores Otero,0
+31,Yucatán,056,Oxkutzcab,0149,Huntochac,2
+31,Yucatán,056,Oxkutzcab,0150,Manuel Balam Us,*
+31,Yucatán,056,Oxkutzcab,0151,Nicolasa Ek Puc,0
+31,Yucatán,056,Oxkutzcab,9998,Localidades de una vivienda,0
+31,Yucatán,056,Oxkutzcab,9999,Localidades de dos viviendas,1
+31,Yucatán,057,Panabá,0000,Total del Municipio,227
+31,Yucatán,057,Panabá,0001,Panabá,193
+31,Yucatán,057,Panabá,0002,Loché,19
+31,Yucatán,057,Panabá,0005,San Juan del Río,0
+31,Yucatán,057,Panabá,0006,Cenote Yalsihón Buena Fe,10
+31,Yucatán,057,Panabá,0008,Santa Martha,*
+31,Yucatán,057,Panabá,0015,El Álamo,*
+31,Yucatán,057,Panabá,0022,Yaxcabá,*
+31,Yucatán,057,Panabá,0032,Santa Cruz,*
+31,Yucatán,057,Panabá,0056,Kanhá,*
+31,Yucatán,057,Panabá,0063,Huapango,*
+31,Yucatán,057,Panabá,0067,Texas,*
+31,Yucatán,057,Panabá,0077,Dzidziyá,*
+31,Yucatán,057,Panabá,0086,X-Cristal,*
+31,Yucatán,057,Panabá,0094,Los Cuatro Hermanos,*
+31,Yucatán,057,Panabá,0096,X' Arroba,*
+31,Yucatán,057,Panabá,0139,La Bendición de Dios,*
+31,Yucatán,057,Panabá,0158,San Francisco,3
+31,Yucatán,057,Panabá,0163,Santa Margarita,*
+31,Yucatán,057,Panabá,0164,Dzonot Caamal,*
+31,Yucatán,057,Panabá,0165,Santa Rosalía,*
+31,Yucatán,057,Panabá,0179,La Costa y el Río,*
+31,Yucatán,057,Panabá,0184,Chiquibchulul,*
+31,Yucatán,057,Panabá,0198,San Juan,*
+31,Yucatán,057,Panabá,0200,San Manuel,*
+31,Yucatán,057,Panabá,0203,El Último Suspiro,*
+31,Yucatán,057,Panabá,0204,Sotzitún,*
+31,Yucatán,057,Panabá,0225,San Juan,*
+31,Yucatán,057,Panabá,0253,Muldzonot,*
+31,Yucatán,057,Panabá,0284,Santa Inés Dzonot,*
+31,Yucatán,057,Panabá,0291,San Jorge,*
+31,Yucatán,057,Panabá,0293,Acancún,*
+31,Yucatán,057,Panabá,0307,Los Ángeles,*
+31,Yucatán,057,Panabá,0308,Almendros,0
+31,Yucatán,057,Panabá,0311,Kulemis Dos,*
+31,Yucatán,057,Panabá,0323,California,*
+31,Yucatán,057,Panabá,0324,San Ricardo,*
+31,Yucatán,057,Panabá,0335,Xiat,*
+31,Yucatán,057,Panabá,0340,San Felipe,*
+31,Yucatán,057,Panabá,0345,Kanacruz,*
+31,Yucatán,057,Panabá,0365,Otzil,*
+31,Yucatán,057,Panabá,0376,San Francisco,*
+31,Yucatán,057,Panabá,0385,San Carlos,*
+31,Yucatán,057,Panabá,0398,San Víctor,*
+31,Yucatán,057,Panabá,0415,San Román,*
+31,Yucatán,057,Panabá,0418,San Juan Bautista,*
+31,Yucatán,057,Panabá,0425,Los Ceibos,*
+31,Yucatán,057,Panabá,0439,El Girasol,*
+31,Yucatán,057,Panabá,0444,Oxcal,*
+31,Yucatán,057,Panabá,0454,San Gabriel,*
+31,Yucatán,057,Panabá,0466,La Comarca de Villuercas,*
+31,Yucatán,057,Panabá,0476,San Pedro,*
+31,Yucatán,057,Panabá,0489,Santa Liria,*
+31,Yucatán,057,Panabá,0490,Santa María,*
+31,Yucatán,057,Panabá,0491,Santa Martha,*
+31,Yucatán,057,Panabá,0503,Ninguno,*
+31,Yucatán,057,Panabá,0541,El Rey,*
+31,Yucatán,057,Panabá,0543,Santa Paola,*
+31,Yucatán,057,Panabá,0544,San Isidro,*
+31,Yucatán,057,Panabá,0549,Samaria,*
+31,Yucatán,057,Panabá,0559,El Chaparral,*
+31,Yucatán,057,Panabá,0572,Chaclol Dos,*
+31,Yucatán,057,Panabá,0577,La Joya del Faisán,*
+31,Yucatán,057,Panabá,0588,San Gabriel,*
+31,Yucatán,057,Panabá,0598,Santa María,*
+31,Yucatán,057,Panabá,0603,Santa María,*
+31,Yucatán,057,Panabá,0604,El Roble [Lienzo],*
+31,Yucatán,057,Panabá,0605,San Judas Tadeo Dos,*
+31,Yucatán,057,Panabá,0607,La Esperanza,*
+31,Yucatán,057,Panabá,0618,San Rafael,*
+31,Yucatán,057,Panabá,9998,Localidades de una vivienda,2
+31,Yucatán,057,Panabá,9999,Localidades de dos viviendas,0
+31,Yucatán,058,Peto,0000,Total del Municipio,825
+31,Yucatán,058,Peto,0001,Peto,734
+31,Yucatán,058,Peto,0003,Chan Calotmul,1
+31,Yucatán,058,Peto,0007,Dzonotchel,8
+31,Yucatán,058,Peto,0013,Mac-May,0
+31,Yucatán,058,Peto,0014,Papacal,6
+31,Yucatán,058,Peto,0016,Petulillo,2
+31,Yucatán,058,Peto,0018,Progresito,9
+31,Yucatán,058,Peto,0022,San Diego,*
+31,Yucatán,058,Peto,0023,San Dionisio,4
+31,Yucatán,058,Peto,0029,San Mateo,2
+31,Yucatán,058,Peto,0031,San Sebastián,0
+31,Yucatán,058,Peto,0037,Temozón,3
+31,Yucatán,058,Peto,0040,Tixhualatún,11
+31,Yucatán,058,Peto,0041,Tobxilá,0
+31,Yucatán,058,Peto,0042,Uitziná,0
+31,Yucatán,058,Peto,0044,Xcabanché,0
+31,Yucatán,058,Peto,0047,Kambul,5
+31,Yucatán,058,Peto,0048,Xoy,11
+31,Yucatán,058,Peto,0049,X-Pechil,3
+31,Yucatán,058,Peto,0051,Yaxcopil,5
+31,Yucatán,058,Peto,0055,La Esperanza,0
+31,Yucatán,058,Peto,0060,Justicia Social,14
+31,Yucatán,058,Peto,0068,San Bernabé,*
+31,Yucatán,058,Peto,0078,Kanlol,0
+31,Yucatán,058,Peto,0079,Santa Elena,*
+31,Yucatán,058,Peto,0080,San Francisco de Asís,1
+31,Yucatán,058,Peto,0084,San Juan Nohkanka,*
+31,Yucatán,058,Peto,0098,San Agustín Yam,*
+31,Yucatán,058,Peto,0103,Liberato Campos,*
+31,Yucatán,058,Peto,0108,Caseta Fitozoosanitaria,*
+31,Yucatán,058,Peto,0122,Moo,*
+31,Yucatán,058,Peto,0142,San José Hermenegildo,*
+31,Yucatán,058,Peto,0147,San Juan Número Cinco,*
+31,Yucatán,058,Peto,0158,San Nicolás Yoactún,0
+31,Yucatán,058,Peto,0160,San Pedro Número Uno,*
+31,Yucatán,058,Peto,0172,Santa María,*
+31,Yucatán,058,Peto,0202,Kutzá,*
+31,Yucatán,058,Peto,0205,La Mejorada,*
+31,Yucatán,058,Peto,0215,Las Palmas (San Miguel),*
+31,Yucatán,058,Peto,0218,San Sebastián Yaxché,5
+31,Yucatán,058,Peto,0233,X'Tepal,*
+31,Yucatán,058,Peto,0237,Reforma Agraria,*
+31,Yucatán,058,Peto,0284,San Juan,*
+31,Yucatán,058,Peto,0293,Rancho Cary,*
+31,Yucatán,058,Peto,0297,San Pedro,*
+31,Yucatán,058,Peto,0300,Pedro López,*
+31,Yucatán,058,Peto,0305,Hacienda Márquez,*
+31,Yucatán,058,Peto,0317,Virgilio,*
+31,Yucatán,058,Peto,0326,Lluvia de Oro,*
+31,Yucatán,058,Peto,0333,Los Tres Reyes,*
+31,Yucatán,058,Peto,0336,Marcelina [Quinta],*
+31,Yucatán,058,Peto,0337,San Antonio,*
+31,Yucatán,058,Peto,9998,Localidades de una vivienda,1
+31,Yucatán,058,Peto,9999,Localidades de dos viviendas,0
+31,Yucatán,059,Progreso,0000,Total del Municipio,2518
+31,Yucatán,059,Progreso,0001,Progreso,1724
+31,Yucatán,059,Progreso,0003,Chelem,114
+31,Yucatán,059,Progreso,0004,Chicxulub (Chicxulub Puerto),309
+31,Yucatán,059,Progreso,0005,Chuburná,124
+31,Yucatán,059,Progreso,0009,San Ignacio,24
+31,Yucatán,059,Progreso,0018,Chen Huayún,*
+31,Yucatán,059,Progreso,0024,Estopas Peninsulares,*
+31,Yucatán,059,Progreso,0026,Campestre Flamboyanes,206
+31,Yucatán,059,Progreso,0028,Los Flamencos,*
+31,Yucatán,059,Progreso,0076,Montesino,0
+31,Yucatán,059,Progreso,0078,El Paraíso,17
+31,Yucatán,059,Progreso,0100,Ha Uay,*
+31,Yucatán,059,Progreso,0111,San Antonio,*
+31,Yucatán,059,Progreso,0126,La Lupita,*
+31,Yucatán,059,Progreso,0127,La Cruz,*
+31,Yucatán,059,Progreso,0128,Yudija [Rancho],*
+31,Yucatán,059,Progreso,0131,San Román,*
+31,Yucatán,059,Progreso,0132,Andrés Quintana Roo,*
+31,Yucatán,059,Progreso,0133,Sergaf,*
+31,Yucatán,059,Progreso,0134,Santa Julia,*
+31,Yucatán,059,Progreso,9998,Localidades de una vivienda,0
+31,Yucatán,059,Progreso,9999,Localidades de dos viviendas,*
+31,Yucatán,060,Quintana Roo,0000,Total del Municipio,30
+31,Yucatán,060,Quintana Roo,0001,Quintana Roo,30
+31,Yucatán,060,Quintana Roo,0017,San Isidro,*
+31,Yucatán,060,Quintana Roo,9998,Localidades de una vivienda,*
+31,Yucatán,061,Río Lagartos,0000,Total del Municipio,86
+31,Yucatán,061,Río Lagartos,0001,Río Lagartos,74
+31,Yucatán,061,Río Lagartos,0002,Las Coloradas,12
+31,Yucatán,061,Río Lagartos,0004,San Manuel Tres,*
+31,Yucatán,061,Río Lagartos,0008,Haydzonot,*
+31,Yucatán,061,Río Lagartos,0011,Paraíso,*
+31,Yucatán,061,Río Lagartos,0012,Elías Collí,*
+31,Yucatán,061,Río Lagartos,0017,San Joaquín,*
+31,Yucatán,061,Río Lagartos,0021,Santa Cruz,*
+31,Yucatán,061,Río Lagartos,0022,Taciste San Luis,*
+31,Yucatán,061,Río Lagartos,0028,San Pedro,*
+31,Yucatán,061,Río Lagartos,0034,Yohdzadz,*
+31,Yucatán,061,Río Lagartos,0043,Akachén,*
+31,Yucatán,061,Río Lagartos,0046,Santa Pilar,*
+31,Yucatán,061,Río Lagartos,0050,El Rosario de María,*
+31,Yucatán,061,Río Lagartos,0051,San Vicente,*
+31,Yucatán,061,Río Lagartos,0055,Santa Rosalía,*
+31,Yucatán,061,Río Lagartos,0073,Chen Roque Dos,*
+31,Yucatán,061,Río Lagartos,0081,San Ángel,*
+31,Yucatán,061,Río Lagartos,0095,Los Gavilanes,*
+31,Yucatán,061,Río Lagartos,0097,Miraflor,*
+31,Yucatán,061,Río Lagartos,0103,San Carlos,*
+31,Yucatán,061,Río Lagartos,0105,San Francisco,*
+31,Yucatán,061,Río Lagartos,0106,San Isidro,*
+31,Yucatán,061,Río Lagartos,0116,San Salvador,*
+31,Yucatán,061,Río Lagartos,0117,San Víctor,*
+31,Yucatán,061,Río Lagartos,0118,Santa Ana,*
+31,Yucatán,061,Río Lagartos,0121,Santa Lucía Dos,*
+31,Yucatán,061,Río Lagartos,0124,Santa Teresita,*
+31,Yucatán,061,Río Lagartos,0128,Beder,*
+31,Yucatán,061,Río Lagartos,0134,Alquímedes Gil,*
+31,Yucatán,061,Río Lagartos,0136,San José,*
+31,Yucatán,061,Río Lagartos,0145,San Luis,*
+31,Yucatán,061,Río Lagartos,9998,Localidades de una vivienda,0
+31,Yucatán,061,Río Lagartos,9999,Localidades de dos viviendas,0
+31,Yucatán,062,Sacalum,0000,Total del Municipio,135
+31,Yucatán,062,Sacalum,0001,Sacalum,105
+31,Yucatán,062,Sacalum,0002,San Antonio Sodzil,18
+31,Yucatán,062,Sacalum,0003,Teac,*
+31,Yucatán,062,Sacalum,0006,Yunkú,2
+31,Yucatán,062,Sacalum,0007,Plan Chac,10
+31,Yucatán,062,Sacalum,0016,Honco,*
+31,Yucatán,062,Sacalum,0031,San Juan,*
+31,Yucatán,062,Sacalum,0033,Álamo [Quinta],*
+31,Yucatán,062,Sacalum,0042,El Olvido [Finca],*
+31,Yucatán,062,Sacalum,9998,Localidades de una vivienda,0
+31,Yucatán,063,Samahil,0000,Total del Municipio,146
+31,Yucatán,063,Samahil,0001,Samahil,80
+31,Yucatán,063,Samahil,0003,Kuchel,38
+31,Yucatán,063,Samahil,0004,San Antonio Tedzidz,27
+31,Yucatán,063,Samahil,0006,San Antonio Balché,*
+31,Yucatán,063,Samahil,0011,Imersa,*
+31,Yucatán,063,Samahil,0026,Buenaventura,*
+31,Yucatán,063,Samahil,0064,San Martín,*
+31,Yucatán,063,Samahil,9998,Localidades de una vivienda,1
+31,Yucatán,063,Samahil,9999,Localidades de dos viviendas,*
+31,Yucatán,064,Sanahcat,0000,Total del Municipio,57
+31,Yucatán,064,Sanahcat,0001,Sanahcat,57
+31,Yucatán,065,San Felipe,0000,Total del Municipio,73
+31,Yucatán,065,San Felipe,0001,San Felipe,73
+31,Yucatán,065,San Felipe,0016,San Esteban,*
+31,Yucatán,065,San Felipe,0023,San Martín,*
+31,Yucatán,065,San Felipe,0024,San Miguel,*
+31,Yucatán,065,San Felipe,0028,Santa Cruz,*
+31,Yucatán,065,San Felipe,0039,Actún Há,*
+31,Yucatán,065,San Felipe,0046,Los Canarios,*
+31,Yucatán,065,San Felipe,0050,La Costa,*
+31,Yucatán,065,San Felipe,0063,Santa Clara,*
+31,Yucatán,065,San Felipe,0076,San Isidro,*
+31,Yucatán,065,San Felipe,0087,San Román Uno,*
+31,Yucatán,065,San Felipe,0102,Santa Teresa,*
+31,Yucatán,065,San Felipe,0131,Santa Lucía,*
+31,Yucatán,065,San Felipe,0151,El Sagrario,*
+31,Yucatán,065,San Felipe,0156,Guadalupe,*
+31,Yucatán,065,San Felipe,0175,Miraflor,*
+31,Yucatán,065,San Felipe,0177,Montecristo,*
+31,Yucatán,065,San Felipe,0207,San Néstor,*
+31,Yucatán,065,San Felipe,0222,Santa Rita,*
+31,Yucatán,065,San Felipe,0240,Los Girasoles,*
+31,Yucatán,065,San Felipe,0245,San Luis,*
+31,Yucatán,065,San Felipe,0259,San José Tizimín,*
+31,Yucatán,065,San Felipe,0265,Contreras Díaz [Finca],*
+31,Yucatán,065,San Felipe,9998,Localidades de una vivienda,0
+31,Yucatán,066,Santa Elena,0000,Total del Municipio,157
+31,Yucatán,066,Santa Elena,0001,Santa Elena,145
+31,Yucatán,066,Santa Elena,0005,San Simón,12
+31,Yucatán,066,Santa Elena,0014,San Agustín,*
+31,Yucatán,066,Santa Elena,0018,Doña Petrona [Parcela],*
+31,Yucatán,066,Santa Elena,0022,Lidia Margarita Caamal Díaz,*
+31,Yucatán,066,Santa Elena,0023,María Hilda Ek Lara,*
+31,Yucatán,066,Santa Elena,0024,Santa Ana,*
+31,Yucatán,066,Santa Elena,0045,María Mata Huchin,*
+31,Yucatán,066,Santa Elena,0047,Beh Haltún,*
+31,Yucatán,066,Santa Elena,9998,Localidades de una vivienda,0
+31,Yucatán,067,Seyé,0000,Total del Municipio,246
+31,Yucatán,067,Seyé,0001,Seyé,227
+31,Yucatán,067,Seyé,0003,San Bernardino,8
+31,Yucatán,067,Seyé,0007,Xukú,0
+31,Yucatán,067,Seyé,0015,Bacoc,*
+31,Yucatán,067,Seyé,0020,San Miguel Arcángel,*
+31,Yucatán,067,Seyé,0026,Bolonixán,1
+31,Yucatán,067,Seyé,0046,Holactún,10
+31,Yucatán,067,Seyé,0049,San Julián,*
+31,Yucatán,067,Seyé,0057,San Ignacio,*
+31,Yucatán,067,Seyé,0069,San Pedro,*
+31,Yucatán,067,Seyé,0083,Ninguno,*
+31,Yucatán,067,Seyé,0085,Tres Potrillos,*
+31,Yucatán,067,Seyé,0094,San Carlos [Rancho],*
+31,Yucatán,067,Seyé,0104,El Cerro,*
+31,Yucatán,067,Seyé,0108,Juan Chan Chan,*
+31,Yucatán,067,Seyé,9998,Localidades de una vivienda,0
+31,Yucatán,067,Seyé,9999,Localidades de dos viviendas,*
+31,Yucatán,068,Sinanché,0000,Total del Municipio,105
+31,Yucatán,068,Sinanché,0001,Sinanché,83
+31,Yucatán,068,Sinanché,0003,San Crisanto,22
+31,Yucatán,068,Sinanché,0006,San Luis,*
+31,Yucatán,068,Sinanché,0008,Chunhabín,*
+31,Yucatán,068,Sinanché,0012,Xculiá,*
+31,Yucatán,068,Sinanché,0022,Lol Bé,*
+31,Yucatán,068,Sinanché,0039,Santa Elena de la Cruz,*
+31,Yucatán,068,Sinanché,0046,Casa Tortuga,*
+31,Yucatán,068,Sinanché,0050,Dee Paul,*
+31,Yucatán,068,Sinanché,9998,Localidades de una vivienda,0
+31,Yucatán,068,Sinanché,9999,Localidades de dos viviendas,*
+31,Yucatán,069,Sotuta,0000,Total del Municipio,199
+31,Yucatán,069,Sotuta,0001,Sotuta,139
+31,Yucatán,069,Sotuta,0003,Tabí,13
+31,Yucatán,069,Sotuta,0004,Tibolón,36
+31,Yucatán,069,Sotuta,0005,Zavala,11
+31,Yucatán,069,Sotuta,0023,Kalil,*
+31,Yucatán,069,Sotuta,0036,Sambulá,*
+31,Yucatán,069,Sotuta,0049,San Pedro,*
+31,Yucatán,069,Sotuta,0141,Manuel González,*
+31,Yucatán,069,Sotuta,0159,San Andrés,*
+31,Yucatán,069,Sotuta,0166,San Marcos,*
+31,Yucatán,069,Sotuta,0167,Kinkanché,*
+31,Yucatán,069,Sotuta,0168,Akachén,*
+31,Yucatán,069,Sotuta,9998,Localidades de una vivienda,0
+31,Yucatán,069,Sotuta,9999,Localidades de dos viviendas,0
+31,Yucatán,070,Sucilá,0000,Total del Municipio,144
+31,Yucatán,070,Sucilá,0001,Sucilá,142
+31,Yucatán,070,Sucilá,0004,Chuc Ac,*
+31,Yucatán,070,Sucilá,0008,Jerusalén,*
+31,Yucatán,070,Sucilá,0011,San Antonio,*
+31,Yucatán,070,Sucilá,0015,San Miguel,*
+31,Yucatán,070,Sucilá,0021,San Isidro,*
+31,Yucatán,070,Sucilá,0045,Las Coloradas,*
+31,Yucatán,070,Sucilá,0062,Buena Esperanza,*
+31,Yucatán,070,Sucilá,0068,Bohchén,*
+31,Yucatán,070,Sucilá,0072,San Gabriel,*
+31,Yucatán,070,Sucilá,0076,San Ramón,*
+31,Yucatán,070,Sucilá,0100,La Natividad,*
+31,Yucatán,070,Sucilá,0101,San José,*
+31,Yucatán,070,Sucilá,0109,San Pedro,*
+31,Yucatán,070,Sucilá,0130,Kandzonot,*
+31,Yucatán,070,Sucilá,0137,Xlahká,*
+31,Yucatán,070,Sucilá,0145,San Martín,*
+31,Yucatán,070,Sucilá,0148,San Felipe,*
+31,Yucatán,070,Sucilá,0149,El Arcángel,*
+31,Yucatán,070,Sucilá,0169,África,*
+31,Yucatán,070,Sucilá,0187,Justo Juez,*
+31,Yucatán,070,Sucilá,0249,El Chivo,*
+31,Yucatán,070,Sucilá,0252,San José,*
+31,Yucatán,070,Sucilá,0266,Santa Librada,*
+31,Yucatán,070,Sucilá,0273,Tres Reyes,*
+31,Yucatán,070,Sucilá,0279,Chan Hugo,*
+31,Yucatán,070,Sucilá,0301,Yok Naranja Número Dos,*
+31,Yucatán,070,Sucilá,0303,Natividad Uno,*
+31,Yucatán,070,Sucilá,0304,La Natividad,*
+31,Yucatán,070,Sucilá,0310,Dzinup,*
+31,Yucatán,070,Sucilá,0311,Los Cerros [Establo],*
+31,Yucatán,070,Sucilá,0321,San Juan,*
+31,Yucatán,070,Sucilá,0325,Santa Martha Cuatro,*
+31,Yucatán,070,Sucilá,0329,Los Cerros (Rancho Nuevo),*
+31,Yucatán,070,Sucilá,0333,San Carlos,*
+31,Yucatán,070,Sucilá,0337,Xtul [Anexa],*
+31,Yucatán,070,Sucilá,0343,Los Laureles,*
+31,Yucatán,070,Sucilá,0352,San Martín,*
+31,Yucatán,070,Sucilá,0358,San Angel,*
+31,Yucatán,070,Sucilá,0366,Sacrificio,*
+31,Yucatán,070,Sucilá,0368,Tapachula,*
+31,Yucatán,070,Sucilá,9998,Localidades de una vivienda,2
+31,Yucatán,070,Sucilá,9999,Localidades de dos viviendas,0
+31,Yucatán,071,Sudzal,0000,Total del Municipio,32
+31,Yucatán,071,Sudzal,0001,Sudzal,22
+31,Yucatán,071,Sudzal,0003,Chumbec,8
+31,Yucatán,071,Sudzal,0006,Kancabchén de Valencia,0
+31,Yucatán,071,Sudzal,0012,Yaxcach,*
+31,Yucatán,071,Sudzal,0060,Kalax,*
+31,Yucatán,071,Sudzal,0063,Flor de Mayo,*
+31,Yucatán,071,Sudzal,0068,Chansuytún,*
+31,Yucatán,071,Sudzal,0078,Nuevo Tzalam,2
+31,Yucatán,071,Sudzal,0087,San Juan,*
+31,Yucatán,071,Sudzal,0100,San Bernardino,0
+31,Yucatán,071,Sudzal,0103,San Martín,*
+31,Yucatán,071,Sudzal,0104,Las Bugambilias,*
+31,Yucatán,071,Sudzal,9998,Localidades de una vivienda,0
+31,Yucatán,071,Sudzal,9999,Localidades de dos viviendas,*
+31,Yucatán,072,Suma,0000,Total del Municipio,56
+31,Yucatán,072,Suma,0001,Suma,56
+31,Yucatán,072,Suma,0003,San Nicolás,*
+31,Yucatán,072,Suma,0031,Catalino Mac Tuz,*
+31,Yucatán,072,Suma,9998,Localidades de una vivienda,*
+31,Yucatán,072,Suma,9999,Localidades de dos viviendas,*
+31,Yucatán,073,Tahdziú,0000,Total del Municipio,62
+31,Yucatán,073,Tahdziú,0001,Tahdziú,55
+31,Yucatán,073,Tahdziú,0009,Mocté,1
+31,Yucatán,073,Tahdziú,0025,San Lorenzo,0
+31,Yucatán,073,Tahdziú,0027,San Miguel,0
+31,Yucatán,073,Tahdziú,0051,San Felipe,*
+31,Yucatán,073,Tahdziú,0076,Timul,4
+31,Yucatán,073,Tahdziú,0083,San Isidro Uno,0
+31,Yucatán,073,Tahdziú,0100,San Pablo,*
+31,Yucatán,073,Tahdziú,0103,San Cristóbal,*
+31,Yucatán,073,Tahdziú,0114,Santa Generosa,*
+31,Yucatán,073,Tahdziú,0118,Mocté Dos,*
+31,Yucatán,073,Tahdziú,9998,Localidades de una vivienda,2
+31,Yucatán,073,Tahdziú,9999,Localidades de dos viviendas,*
+31,Yucatán,074,Tahmek,0000,Total del Municipio,137
+31,Yucatán,074,Tahmek,0001,Tahmek,135
+31,Yucatán,074,Tahmek,0005,Xtabay,2
+31,Yucatán,074,Tahmek,0024,Santa María,*
+31,Yucatán,074,Tahmek,0027,Los 4 Hermanos,*
+31,Yucatán,074,Tahmek,0055,El Paisa,*
+31,Yucatán,074,Tahmek,9998,Localidades de una vivienda,0
+31,Yucatán,075,Teabo,0000,Total del Municipio,235
+31,Yucatán,075,Teabo,0001,Teabo,235
+31,Yucatán,075,Teabo,0006,San Juan,*
+31,Yucatán,075,Teabo,0119,San Refugio Kulché,0
+31,Yucatán,075,Teabo,0137,San Diego Número 4,0
+31,Yucatán,075,Teabo,9998,Localidades de una vivienda,*
+31,Yucatán,076,Tecoh,0000,Total del Municipio,381
+31,Yucatán,076,Tecoh,0001,Tecoh,236
+31,Yucatán,076,Tecoh,0002,Chinkilá,8
+31,Yucatán,076,Tecoh,0003,Itzincab,16
+31,Yucatán,076,Tecoh,0005,Lepán,26
+31,Yucatán,076,Tecoh,0006,Mahzucil,6
+31,Yucatán,076,Tecoh,0007,Oxtapacab,10
+31,Yucatán,076,Tecoh,0008,Pixyá,9
+31,Yucatán,076,Tecoh,0009,Sabacché,1
+31,Yucatán,076,Tecoh,0010,Santa Rita,*
+31,Yucatán,076,Tecoh,0011,Sotuta de Peón,3
+31,Yucatán,076,Tecoh,0012,Telchaquillo,49
+31,Yucatán,076,Tecoh,0013,X-Kanchakán,17
+31,Yucatán,076,Tecoh,0014,Ayinal,*
+31,Yucatán,076,Tecoh,0039,San Isidro,*
+31,Yucatán,076,Tecoh,0061,La Candelaria,*
+31,Yucatán,076,Tecoh,0076,Los Grillos,*
+31,Yucatán,076,Tecoh,0077,Paraíso,*
+31,Yucatán,076,Tecoh,0079,Santa Cruz,*
+31,Yucatán,076,Tecoh,0086,Mool Chí,*
+31,Yucatán,076,Tecoh,0087,Box Balam,0
+31,Yucatán,076,Tecoh,0088,El Roble,*
+31,Yucatán,076,Tecoh,0099,San Juan,*
+31,Yucatán,076,Tecoh,0102,Fiesta [Campamento],*
+31,Yucatán,076,Tecoh,0103,San Miguel,*
+31,Yucatán,076,Tecoh,9998,Localidades de una vivienda,0
+31,Yucatán,076,Tecoh,9999,Localidades de dos viviendas,0
+31,Yucatán,077,Tekal de Venegas,0000,Total del Municipio,45
+31,Yucatán,077,Tekal de Venegas,0001,Tekal de Venegas,45
+31,Yucatán,077,Tekal de Venegas,0012,San Felipe,0
+31,Yucatán,078,Tekantó,0000,Total del Municipio,105
+31,Yucatán,078,Tekantó,0001,Tekantó,94
+31,Yucatán,078,Tekantó,0003,San Francisco Dzón,3
+31,Yucatán,078,Tekantó,0004,Sanlatah,1
+31,Yucatán,078,Tekantó,0005,Tixkochoh,7
+31,Yucatán,078,Tekantó,0018,San Miguel,*
+31,Yucatán,078,Tekantó,9998,Localidades de una vivienda,*
+31,Yucatán,079,Tekax,0000,Total del Municipio,1502
+31,Yucatán,079,Tekax,0001,Tekax de Álvaro Obregón,1130
+31,Yucatán,079,Tekax,0002,Becanchén,49
+31,Yucatán,079,Tekax,0003,Candelaria,0
+31,Yucatán,079,Tekax,0004,Canek,1
+31,Yucatán,079,Tekax,0005,Manuel Cepeda Peraza,32
+31,Yucatán,079,Tekax,0006,Chacmultún,2
+31,Yucatán,079,Tekax,0009,Alfonso Caso,18
+31,Yucatán,079,Tekax,0010,Kancab,47
+31,Yucatán,079,Tekax,0011,Kinil,39
+31,Yucatán,079,Tekax,0012,Nohalal,0
+31,Yucatán,079,Tekax,0015,Pencuyut,37
+31,Yucatán,079,Tekax,0020,San Diego Buenavista,3
+31,Yucatán,079,Tekax,0021,San Diego Tekax,*
+31,Yucatán,079,Tekax,0024,San Felipe Segundo,0
+31,Yucatán,079,Tekax,0027,Mac-Yan (San Isidro Mac-Yan),1
+31,Yucatán,079,Tekax,0031,Nueva Santa Cruz (Santa Cruz Cutzá),2
+31,Yucatán,079,Tekax,0033,Ticum,31
+31,Yucatán,079,Tekax,0034,Tixcuytún,20
+31,Yucatán,079,Tekax,0035,Tzekelhaltún,*
+31,Yucatán,079,Tekax,0036,Xaya,47
+31,Yucatán,079,Tekax,0039,San Pedro Xtokil,1
+31,Yucatán,079,Tekax,0041,Sinaí,*
+31,Yucatán,079,Tekax,0044,San Martín Hili (Kichmó),1
+31,Yucatán,079,Tekax,0046,San Juan Tekax,4
+31,Yucatán,079,Tekax,0048,Chan Dzinup,3
+31,Yucatán,079,Tekax,0051,Pocoboch,1
+31,Yucatán,079,Tekax,0058,Ayim Dos,0
+31,Yucatán,079,Tekax,0062,San Isidro Yaxché,3
+31,Yucatán,079,Tekax,0063,San Salvador,1
+31,Yucatán,079,Tekax,0072,Holcá Nuevo,0
+31,Yucatán,079,Tekax,0076,Guadalupe,*
+31,Yucatán,079,Tekax,0083,Balam [Quinta],*
+31,Yucatán,079,Tekax,0085,Benito Juárez,6
+31,Yucatán,079,Tekax,0086,San Agustín (Salvador Alvarado),1
+31,Yucatán,079,Tekax,0087,San Pedro Dzulá,2
+31,Yucatán,079,Tekax,0088,Yalcobá Nuevo,1
+31,Yucatán,079,Tekax,0105,Plan Chac Pozo Uno,0
+31,Yucatán,079,Tekax,0117,San Anastacio,1
+31,Yucatán,079,Tekax,0119,Houitz,0
+31,Yucatán,079,Tekax,0124,San Marcelino,0
+31,Yucatán,079,Tekax,0132,Sacpukenhá,0
+31,Yucatán,079,Tekax,0175,Comanches,*
+31,Yucatán,079,Tekax,0191,José López Portillo,0
+31,Yucatán,079,Tekax,0192,Kantemó,12
+31,Yucatán,079,Tekax,0196,Mesatunich,0
+31,Yucatán,079,Tekax,0202,Poccheil,*
+31,Yucatán,079,Tekax,0203,Poltok,*
+31,Yucatán,079,Tekax,0205,San Pedro Rompoy,*
+31,Yucatán,079,Tekax,0207,Sudzal Chico,2
+31,Yucatán,079,Tekax,0220,San Jorge,*
+31,Yucatán,079,Tekax,0229,San Luis Huechil,0
+31,Yucatán,079,Tekax,0232,San Marcos,2
+31,Yucatán,079,Tekax,0237,San Cristóbal (San Nicolás),*
+31,Yucatán,079,Tekax,0242,San Marcelo,*
+31,Yucatán,079,Tekax,0246,Santa María,*
+31,Yucatán,079,Tekax,0257,El Trébol,*
+31,Yucatán,079,Tekax,0261,Xcunyá,*
+31,Yucatán,079,Tekax,0297,San Luis,0
+31,Yucatán,079,Tekax,0320,El Huiro Dos,*
+31,Yucatán,079,Tekax,0323,San Arturo,0
+31,Yucatán,079,Tekax,0359,Felipe Cabañas,*
+31,Yucatán,079,Tekax,0366,La Veleta,*
+31,Yucatán,079,Tekax,0367,Alborada Chun Wuitz,*
+31,Yucatán,079,Tekax,0373,San Isidro Dos,0
+31,Yucatán,079,Tekax,0385,San Carlos,*
+31,Yucatán,079,Tekax,0390,Hectáreas Verdes,*
+31,Yucatán,079,Tekax,0391,San Cristobal de Pixoy,*
+31,Yucatán,079,Tekax,0394,San Fernando,*
+31,Yucatán,079,Tekax,0395,Santa Rita,*
+31,Yucatán,079,Tekax,0397,Chulbalam,*
+31,Yucatán,079,Tekax,0398,Ichmul,*
+31,Yucatán,079,Tekax,0400,Antonio Basto,*
+31,Yucatán,079,Tekax,0406,Aristeo,*
+31,Yucatán,079,Tekax,0417,Kadi [Rancho],*
+31,Yucatán,079,Tekax,0425,Mactunich,*
+31,Yucatán,079,Tekax,0430,Tres Hermanitas,*
+31,Yucatán,079,Tekax,0439,Anexo Nohalal,0
+31,Yucatán,079,Tekax,0442,Cruz Nok Tunich,0
+31,Yucatán,079,Tekax,0444,La Flor de Nayarit,*
+31,Yucatán,079,Tekax,0452,Limonarias,*
+31,Yucatán,079,Tekax,0469,Santa Lucía,*
+31,Yucatán,079,Tekax,0476,San Antonio Tuk,0
+31,Yucatán,079,Tekax,0478,Sartenejas [Rancho],*
+31,Yucatán,079,Tekax,0480,Paraíso [Colonia],*
+31,Yucatán,079,Tekax,0482,El Sol [Rancho],*
+31,Yucatán,079,Tekax,0492,Don Abel [Rancho],*
+31,Yucatán,079,Tekax,0496,Las Palmas,*
+31,Yucatán,079,Tekax,9998,Localidades de una vivienda,2
+31,Yucatán,079,Tekax,9999,Localidades de dos viviendas,0
+31,Yucatán,080,Tekit,0000,Total del Municipio,292
+31,Yucatán,080,Tekit,0001,Tekit,292
+31,Yucatán,080,Tekit,0048,San Antonio Panabchén,*
+31,Yucatán,080,Tekit,0076,Holchén,*
+31,Yucatán,080,Tekit,9998,Localidades de una vivienda,*
+31,Yucatán,081,Tekom,0000,Total del Municipio,129
+31,Yucatán,081,Tekom,0001,Tekom,123
+31,Yucatán,081,Tekom,0002,Chibilub,2
+31,Yucatán,081,Tekom,0011,X-Cocmil,0
+31,Yucatán,081,Tekom,0013,Pocbichén,4
+31,Yucatán,081,Tekom,0014,Xuxcáb,0
+31,Yucatán,081,Tekom,0015,X-Habín,*
+31,Yucatán,081,Tekom,0021,Chindzonot,0
+31,Yucatán,081,Tekom,0031,San Diego,*
+31,Yucatán,081,Tekom,0046,San Martín,*
+31,Yucatán,081,Tekom,0052,Blanca Flor,*
+31,Yucatán,081,Tekom,0065,Los Cedros,*
+31,Yucatán,081,Tekom,0066,Finca de la Salud,*
+31,Yucatán,081,Tekom,0067,El Tormento,*
+31,Yucatán,081,Tekom,9998,Localidades de una vivienda,0
+31,Yucatán,081,Tekom,9999,Localidades de dos viviendas,0
+31,Yucatán,082,Telchac Pueblo,0000,Total del Municipio,113
+31,Yucatán,082,Telchac Pueblo,0001,Telchac,113
+31,Yucatán,082,Telchac Pueblo,0007,San Juan de Lizárraga,*
+31,Yucatán,082,Telchac Pueblo,0008,Santa Rosa,*
+31,Yucatán,082,Telchac Pueblo,0028,Yum Kaax,*
+31,Yucatán,082,Telchac Pueblo,0054,La Lupita,*
+31,Yucatán,082,Telchac Pueblo,0062,El Orégano [Rancho],*
+31,Yucatán,082,Telchac Pueblo,0063,Pabellón San Juan,*
+31,Yucatán,082,Telchac Pueblo,0064,Pedro Ake Caamal,*
+31,Yucatán,082,Telchac Pueblo,9998,Localidades de una vivienda,0
+31,Yucatán,083,Telchac Puerto,0000,Total del Municipio,62
+31,Yucatán,083,Telchac Puerto,0001,Telchac Puerto,62
+31,Yucatán,083,Telchac Puerto,0026,Telchac Puerto [Basurero Municipal],*
+31,Yucatán,083,Telchac Puerto,9998,Localidades de una vivienda,*
+31,Yucatán,084,Temax,0000,Total del Municipio,269
+31,Yucatán,084,Temax,0001,Temax,260
+31,Yucatán,084,Temax,0002,Cauaca,*
+31,Yucatán,084,Temax,0003,Chenché de las Torres,5
+31,Yucatán,084,Temax,0004,Chucmichén,1
+31,Yucatán,084,Temax,0005,San Antonio Cámara,3
+31,Yucatán,084,Temax,0033,Pichichén,*
+31,Yucatán,084,Temax,0035,Santiago,*
+31,Yucatán,084,Temax,0072,Santa Cruz,*
+31,Yucatán,084,Temax,0135,San Pedro,*
+31,Yucatán,084,Temax,9998,Localidades de una vivienda,0
+31,Yucatán,085,Temozón,0000,Total del Municipio,415
+31,Yucatán,085,Temozón,0001,Temozón,255
+31,Yucatán,085,Temozón,0002,Actuncoh,10
+31,Yucatán,085,Temozón,0013,Chelem,*
+31,Yucatán,085,Temozón,0016,Dzalbay,13
+31,Yucatán,085,Temozón,0021,Hunukú,57
+31,Yucatán,085,Temozón,0024,X-Kanchechén,1
+31,Yucatán,085,Temozón,0030,Nahbalam,34
+31,Yucatán,085,Temozón,0033,Sac Boc,*
+31,Yucatán,085,Temozón,0057,Santa Rita,8
+31,Yucatán,085,Temozón,0074,X-Eb,*
+31,Yucatán,085,Temozón,0094,X'Tut,3
+31,Yucatán,085,Temozón,0095,X-Uch,5
+31,Yucatán,085,Temozón,0114,Santa Clara,*
+31,Yucatán,085,Temozón,0115,Tusik,*
+31,Yucatán,085,Temozón,0118,San Basilio,2
+31,Yucatán,085,Temozón,0130,Nenelá 2,*
+31,Yucatán,085,Temozón,0147,Santa Cruz,*
+31,Yucatán,085,Temozón,0178,Ekbalam,12
+31,Yucatán,085,Temozón,0197,X-Tohil,*
+31,Yucatán,085,Temozón,0233,Chan Santa Clara,*
+31,Yucatán,085,Temozón,0243,Santa María Kambul,*
+31,Yucatán,085,Temozón,0262,San Miguel,*
+31,Yucatán,085,Temozón,0285,Yokdzonot Presentado,14
+31,Yucatán,085,Temozón,0297,Xnoh-Butún,*
+31,Yucatán,085,Temozón,0322,Kankab Lu'um,*
+31,Yucatán,085,Temozón,0323,San Máximo,*
+31,Yucatán,085,Temozón,0328,Halachó,*
+31,Yucatán,085,Temozón,0380,Kuncheil,*
+31,Yucatán,085,Temozón,0382,Nenela Uno,0
+31,Yucatán,085,Temozón,0397,Villa Guadalupe,*
+31,Yucatán,085,Temozón,0407,Yal Xan,1
+31,Yucatán,085,Temozón,0422,El Carajo,*
+31,Yucatán,085,Temozón,0447,San Manuel,*
+31,Yucatán,085,Temozón,0469,Tzek,*
+31,Yucatán,085,Temozón,0473,San Juan Dohbichén,*
+31,Yucatán,085,Temozón,0474,Guadalupe [Parcela],*
+31,Yucatán,085,Temozón,0478,Dzecú,*
+31,Yucatán,085,Temozón,0480,Ixbalanque,*
+31,Yucatán,085,Temozón,0481,Las Patronas,*
+31,Yucatán,085,Temozón,0483,San Pedro,*
+31,Yucatán,085,Temozón,0485,Uh Najil Yum Kin,*
+31,Yucatán,085,Temozón,0487,Xpich,*
+31,Yucatán,085,Temozón,0498,San Salvador,*
+31,Yucatán,085,Temozón,0507,Xtoil,*
+31,Yucatán,085,Temozón,0509,Xch'e'en,*
+31,Yucatán,085,Temozón,0510,Chen San Francisco,*
+31,Yucatán,085,Temozón,9998,Localidades de una vivienda,0
+31,Yucatán,085,Temozón,9999,Localidades de dos viviendas,0
+31,Yucatán,086,Tepakán,0000,Total del Municipio,52
+31,Yucatán,086,Tepakán,0001,Tepakán,49
+31,Yucatán,086,Tepakán,0002,Kantirix,3
+31,Yucatán,086,Tepakán,0003,Poccheiná,*
+31,Yucatán,086,Tepakán,0014,Tioc,*
+31,Yucatán,086,Tepakán,0021,Kanán,*
+31,Yucatán,086,Tepakán,0035,San Felipe,*
+31,Yucatán,086,Tepakán,9998,Localidades de una vivienda,0
+31,Yucatán,086,Tepakán,9999,Localidades de dos viviendas,*
+31,Yucatán,087,Tetiz,0000,Total del Municipio,80
+31,Yucatán,087,Tetiz,0001,Tetiz,72
+31,Yucatán,087,Tetiz,0002,Nohuayún,8
+31,Yucatán,087,Tetiz,0059,San Luis,*
+31,Yucatán,087,Tetiz,0066,Santa Rita,*
+31,Yucatán,087,Tetiz,0081,San Martín de Porres,*
+31,Yucatán,087,Tetiz,0086,Tapatío,*
+31,Yucatán,087,Tetiz,0087,Serapio Rendón [Telesecundaria],*
+31,Yucatán,087,Tetiz,0091,La Palmera,*
+31,Yucatán,087,Tetiz,9998,Localidades de una vivienda,0
+31,Yucatán,088,Teya,0000,Total del Municipio,35
+31,Yucatán,088,Teya,0001,Teya,35
+31,Yucatán,089,Ticul,0000,Total del Municipio,1679
+31,Yucatán,089,Ticul,0001,Ticul,1498
+31,Yucatán,089,Ticul,0004,Xtuc,*
+31,Yucatán,089,Ticul,0007,Pustunich,112
+31,Yucatán,089,Ticul,0012,Ticul [Unidad del Valle],0
+31,Yucatán,089,Ticul,0014,Yotholín,64
+31,Yucatán,089,Ticul,0015,Plan Chac Número Seis,*
+31,Yucatán,089,Ticul,0032,Sac-Akal,*
+31,Yucatán,089,Ticul,0036,San Juan,*
+31,Yucatán,089,Ticul,0038,Santa Catarina,*
+31,Yucatán,089,Ticul,0046,Yotholín Cuatro [Unidad],*
+31,Yucatán,089,Ticul,0064,Plan Chac Pozo Uno,*
+31,Yucatán,089,Ticul,0066,Plan Chac Pozo Cinco,0
+31,Yucatán,089,Ticul,0082,La Cueva,*
+31,Yucatán,089,Ticul,0094,Plan Tabí Pozo Seis,1
+31,Yucatán,089,Ticul,0097,San Juan,*
+31,Yucatán,089,Ticul,0105,Plan Chac Pozo III,0
+31,Yucatán,089,Ticul,0112,San Orlando,*
+31,Yucatán,089,Ticul,0115,San Antonio [Rancho],*
+31,Yucatán,089,Ticul,0128,Brasilia,*
+31,Yucatán,089,Ticul,0132,Chaytania [SRI],*
+31,Yucatán,089,Ticul,0141,Plan Chac,*
+31,Yucatán,089,Ticul,0155,Pepes,*
+31,Yucatán,089,Ticul,9998,Localidades de una vivienda,4
+31,Yucatán,089,Ticul,9999,Localidades de dos viviendas,*
+31,Yucatán,090,Timucuy,0000,Total del Municipio,177
+31,Yucatán,090,Timucuy,0001,Timucuy,117
+31,Yucatán,090,Timucuy,0002,Subincancab,26
+31,Yucatán,090,Timucuy,0003,Tekik de Regil,34
+31,Yucatán,090,Timucuy,0004,Sihonal,0
+31,Yucatán,090,Timucuy,0021,Kichpachupal,0
+31,Yucatán,090,Timucuy,0023,Oxpeh Ek,*
+31,Yucatán,090,Timucuy,0031,Palmas de Lorán,*
+31,Yucatán,090,Timucuy,0034,El Rosario,*
+31,Yucatán,090,Timucuy,0036,La Loma,*
+31,Yucatán,090,Timucuy,0040,Jacinto Chan,*
+31,Yucatán,090,Timucuy,0043,San Isidro,*
+31,Yucatán,090,Timucuy,0047,Los Cocos,*
+31,Yucatán,090,Timucuy,0058,Darío Hernández Marquez,*
+31,Yucatán,090,Timucuy,0064,Santa Ana,*
+31,Yucatán,090,Timucuy,0065,Don Ezequiel,*
+31,Yucatán,090,Timucuy,0072,Gerardo Jiménez,*
+31,Yucatán,090,Timucuy,0073,Los Naranjos,*
+31,Yucatán,090,Timucuy,0075,Alejandro Quintal,*
+31,Yucatán,090,Timucuy,0076,Guadalupe,*
+31,Yucatán,090,Timucuy,0077,El Coronel,*
+31,Yucatán,090,Timucuy,0080,San Joaquín,*
+31,Yucatán,090,Timucuy,0081,Avalón,*
+31,Yucatán,090,Timucuy,9998,Localidades de una vivienda,0
+31,Yucatán,090,Timucuy,9999,Localidades de dos viviendas,0
+31,Yucatán,091,Tinum,0000,Total del Municipio,351
+31,Yucatán,091,Tinum,0001,Tinum,47
+31,Yucatán,091,Tinum,0005,Loop Xul,0
+31,Yucatán,091,Tinum,0006,Pisté,200
+31,Yucatán,091,Tinum,0008,San Felipe,3
+31,Yucatán,091,Tinum,0009,San Francisco Grande,43
+31,Yucatán,091,Tinum,0011,Tohopkú,16
+31,Yucatán,091,Tinum,0012,X-Calakoop,40
+31,Yucatán,091,Tinum,0019,San Fabián,1
+31,Yucatán,091,Tinum,0021,San Felipe Nuevo,1
+31,Yucatán,091,Tinum,0048,Balmi,*
+31,Yucatán,091,Tinum,0057,Chendzonot,0
+31,Yucatán,091,Tinum,0079,Xmahkabá,0
+31,Yucatán,091,Tinum,0089,San Cristóbal,0
+31,Yucatán,091,Tinum,0147,Nuevo Jerusalén,*
+31,Yucatán,091,Tinum,0163,El Crucero,*
+31,Yucatán,091,Tinum,0164,Juan Dzib Dzul,*
+31,Yucatán,091,Tinum,9998,Localidades de una vivienda,0
+31,Yucatán,091,Tinum,9999,Localidades de dos viviendas,*
+31,Yucatán,092,Tixcacalcupul,0000,Total del Municipio,163
+31,Yucatán,092,Tixcacalcupul,0001,Tixcacalcupul,103
+31,Yucatán,092,Tixcacalcupul,0002,Carolina,0
+31,Yucatán,092,Tixcacalcupul,0004,Ekpedz,18
+31,Yucatán,092,Tixcacalcupul,0007,Mahas,13
+31,Yucatán,092,Tixcacalcupul,0008,Monte Verde,0
+31,Yucatán,092,Tixcacalcupul,0009,Poop,16
+31,Yucatán,092,Tixcacalcupul,0019,X-Tohbil,1
+31,Yucatán,092,Tixcacalcupul,0021,Yaxcheil,*
+31,Yucatán,092,Tixcacalcupul,0023,San José,12
+31,Yucatán,092,Tixcacalcupul,0056,Kilómetro Cuarenta,*
+31,Yucatán,092,Tixcacalcupul,0077,San Luis [Hortícola],*
+31,Yucatán,092,Tixcacalcupul,0081,Culupnah,*
+31,Yucatán,092,Tixcacalcupul,0099,Sinaí,*
+31,Yucatán,092,Tixcacalcupul,0111,Dzucyá,*
+31,Yucatán,092,Tixcacalcupul,0119,Etunchen,*
+31,Yucatán,092,Tixcacalcupul,9998,Localidades de una vivienda,0
+31,Yucatán,093,Tixkokob,0000,Total del Municipio,903
+31,Yucatán,093,Tixkokob,0001,Tixkokob,627
+31,Yucatán,093,Tixkokob,0002,El Mulix,*
+31,Yucatán,093,Tixkokob,0003,San Antonio Millet,15
+31,Yucatán,093,Tixkokob,0004,Ekmul,110
+31,Yucatán,093,Tixkokob,0005,Euán,63
+31,Yucatán,093,Tixkokob,0006,Hubilá,16
+31,Yucatán,093,Tixkokob,0007,Kancabchén,0
+31,Yucatán,093,Tixkokob,0009,Nolo,55
+31,Yucatán,093,Tixkokob,0010,Ruinas de Aké,15
+31,Yucatán,093,Tixkokob,0011,Santa Bárbara,*
+31,Yucatán,093,Tixkokob,0013,Santa Cruz,1
+31,Yucatán,093,Tixkokob,0016,Marcos Canché,*
+31,Yucatán,093,Tixkokob,0018,Benito Juárez,*
+31,Yucatán,093,Tixkokob,0021,Kanichén,*
+31,Yucatán,093,Tixkokob,0034,San Carlos,*
+31,Yucatán,093,Tixkokob,0044,San Manuel,*
+31,Yucatán,093,Tixkokob,0056,Santa María Dzonot,*
+31,Yucatán,093,Tixkokob,0065,La Ilusión,*
+31,Yucatán,093,Tixkokob,0067,San José,*
+31,Yucatán,093,Tixkokob,0073,La Guadalupana,*
+31,Yucatán,093,Tixkokob,0081,San José Dos,*
+31,Yucatán,093,Tixkokob,0087,Pepe Puerto,*
+31,Yucatán,093,Tixkokob,0090,Elí [Rancho],*
+31,Yucatán,093,Tixkokob,0094,Santa Cruz Ticún,*
+31,Yucatán,093,Tixkokob,0097,Humpicdziu [Hacienda],*
+31,Yucatán,093,Tixkokob,0103,El Ramonal,*
+31,Yucatán,093,Tixkokob,0106,La Mariposa y el Yucateco,*
+31,Yucatán,093,Tixkokob,0107,San Juan Bautista,*
+31,Yucatán,093,Tixkokob,0109,Huhil,*
+31,Yucatán,093,Tixkokob,0120,La Esperanza 2,*
+31,Yucatán,093,Tixkokob,0123,Don Milo Sansores,*
+31,Yucatán,093,Tixkokob,0125,Tres Reyes,*
+31,Yucatán,093,Tixkokob,9998,Localidades de una vivienda,1
+31,Yucatán,094,Tixmehuac,0000,Total del Municipio,107
+31,Yucatán,094,Tixmehuac,0001,Tixmehuac,63
+31,Yucatán,094,Tixmehuac,0004,Chaltunpuhuy,1
+31,Yucatán,094,Tixmehuac,0005,Chicán,17
+31,Yucatán,094,Tixmehuac,0007,Chuchub,2
+31,Yucatán,094,Tixmehuac,0008,Dzutoh,2
+31,Yucatán,094,Tixmehuac,0010,Kimbilá,7
+31,Yucatán,094,Tixmehuac,0015,Sabacché,9
+31,Yucatán,094,Tixmehuac,0023,Sisbic,6
+31,Yucatán,094,Tixmehuac,0025,Xcohil,0
+31,Yucatán,094,Tixmehuac,0026,Xholenchén,*
+31,Yucatán,094,Tixmehuac,0027,San Antonio Xpela,*
+31,Yucatán,094,Tixmehuac,0043,San José Balché,*
+31,Yucatán,094,Tixmehuac,0083,San Martín,*
+31,Yucatán,094,Tixmehuac,9998,Localidades de una vivienda,0
+31,Yucatán,094,Tixmehuac,9999,Localidades de dos viviendas,*
+31,Yucatán,095,Tixpéhual,0000,Total del Municipio,217
+31,Yucatán,095,Tixpéhual,0001,Tixpéhual,183
+31,Yucatán,095,Tixpéhual,0003,Chochoh,7
+31,Yucatán,095,Tixpéhual,0004,Kilinché,8
+31,Yucatán,095,Tixpéhual,0005,Sahé,15
+31,Yucatán,095,Tixpéhual,0006,Techoh,4
+31,Yucatán,095,Tixpéhual,0018,Paraje Palomé,*
+31,Yucatán,095,Tixpéhual,0023,Cucá,0
+31,Yucatán,095,Tixpéhual,0047,Los Naranjos,*
+31,Yucatán,095,Tixpéhual,0053,Don Canul,*
+31,Yucatán,095,Tixpéhual,0054,Marlet,*
+31,Yucatán,095,Tixpéhual,0067,María Paola Ciau Cen,*
+31,Yucatán,095,Tixpéhual,0068,San Román,*
+31,Yucatán,095,Tixpéhual,0084,Dzibichaltún,*
+31,Yucatán,095,Tixpéhual,9998,Localidades de una vivienda,0
+31,Yucatán,096,Tizimín,0000,Total del Municipio,2687
+31,Yucatán,096,Tizimín,0001,Tizimín,2128
+31,Yucatán,096,Tizimín,0003,Xbohom,1
+31,Yucatán,096,Tizimín,0007,Cenote Azul,5
+31,Yucatán,096,Tizimín,0008,Colonia Yucatán,27
+31,Yucatán,096,Tizimín,0009,El Cuyo,48
+31,Yucatán,096,Tizimín,0011,Chan San Antonio,5
+31,Yucatán,096,Tizimín,0013,Chenkekén,2
+31,Yucatán,096,Tizimín,0014,Chunsubul,*
+31,Yucatán,096,Tizimín,0017,Dzonot Aké,16
+31,Yucatán,096,Tizimín,0018,Dzonot Box,4
+31,Yucatán,096,Tizimín,0019,Dzonot Carretero,51
+31,Yucatán,096,Tizimín,0021,Dzonot Mezo,13
+31,Yucatán,096,Tizimín,0022,Dzonot Tigre,1
+31,Yucatán,096,Tizimín,0023,El Edén (Yaxic),5
+31,Yucatán,096,Tizimín,0026,Kikil,2
+31,Yucatán,096,Tizimín,0027,La Libertad,1
+31,Yucatán,096,Tizimín,0029,Manuel Cepeda Peraza,10
+31,Yucatán,096,Tizimín,0031,Moctezuma,8
+31,Yucatán,096,Tizimín,0033,X-Panhatoro,2
+31,Yucatán,096,Tizimín,0034,Popolnáh,26
+31,Yucatán,096,Tizimín,0039,Samaria,7
+31,Yucatán,096,Tizimín,0041,San Arturo,0
+31,Yucatán,096,Tizimín,0044,San Francisco Yohactún,3
+31,Yucatán,096,Tizimín,0045,San Isidro Kilómetro Catorce (San Isidro),3
+31,Yucatán,096,Tizimín,0050,San Lorenzo Chiquilá,16
+31,Yucatán,096,Tizimín,0051,San Luis,0
+31,Yucatán,096,Tizimín,0052,San Luis Tzuctuk,9
+31,Yucatán,096,Tizimín,0055,Kalax Yokdzonot,3
+31,Yucatán,096,Tizimín,0058,San Pedro Juárez,7
+31,Yucatán,096,Tizimín,0060,Santa Clara Dzibalkú,2
+31,Yucatán,096,Tizimín,0063,Santa Elena,3
+31,Yucatán,096,Tizimín,0064,Santa Isabel,0
+31,Yucatán,096,Tizimín,0067,Santa Rosa Concepción,8
+31,Yucatán,096,Tizimín,0068,La Sierra,11
+31,Yucatán,096,Tizimín,0069,Sucopó,36
+31,Yucatán,096,Tizimín,0070,Tezoco Nuevo,4
+31,Yucatán,096,Tizimín,0071,Tixcancal,41
+31,Yucatán,096,Tizimín,0073,Xkalax de Dzibalkú,1
+31,Yucatán,096,Tizimín,0074,X-Makulán,2
+31,Yucatán,096,Tizimín,0075,X-Pambihá,3
+31,Yucatán,096,Tizimín,0076,Yaxchekú,11
+31,Yucatán,096,Tizimín,0077,Yohactún de Hidalgo,7
+31,Yucatán,096,Tizimín,0080,Akankún,*
+31,Yucatán,096,Tizimín,0092,La Central,*
+31,Yucatán,096,Tizimín,0093,Villa Concepción,*
+31,Yucatán,096,Tizimín,0142,San Isidro Kancabdzonot,4
+31,Yucatán,096,Tizimín,0153,Moctezuma,*
+31,Yucatán,096,Tizimín,0187,San Carlos Yokdzonot,*
+31,Yucatán,096,Tizimín,0190,Haltún,*
+31,Yucatán,096,Tizimín,0192,San Felipe,*
+31,Yucatán,096,Tizimín,0213,San José Conde,5
+31,Yucatán,096,Tizimín,0218,San Manuel Kilómetro Once,10
+31,Yucatán,096,Tizimín,0223,San Miguel,*
+31,Yucatán,096,Tizimín,0230,San Pedro Bacab,0
+31,Yucatán,096,Tizimín,0231,San Pedro Xtumpech,*
+31,Yucatán,096,Tizimín,0232,San Rafael,*
+31,Yucatán,096,Tizimín,0241,Santa Clara,*
+31,Yucatán,096,Tizimín,0314,San Hipólito,1
+31,Yucatán,096,Tizimín,0315,Luis Rosado Vega,10
+31,Yucatán,096,Tizimín,0316,Lázaro Cárdenas,*
+31,Yucatán,096,Tizimín,0317,Felipe Carrillo Puerto Dos,0
+31,Yucatán,096,Tizimín,0319,Felipe Carrillo Puerto Número Uno,1
+31,Yucatán,096,Tizimín,0322,San José Montecristo,4
+31,Yucatán,096,Tizimín,0323,Emiliano Zapata,1
+31,Yucatán,096,Tizimín,0327,Francisco Villa,0
+31,Yucatán,096,Tizimín,0329,El Limonar,0
+31,Yucatán,096,Tizimín,0331,La Pampa,*
+31,Yucatán,096,Tizimín,0345,San Nicolás,*
+31,Yucatán,096,Tizimín,0349,San Martín,*
+31,Yucatán,096,Tizimín,0352,X-Lapak,*
+31,Yucatán,096,Tizimín,0359,El Cafetal,*
+31,Yucatán,096,Tizimín,0360,Nuevo León,0
+31,Yucatán,096,Tizimín,0363,Dzibalkú,*
+31,Yucatán,096,Tizimín,0375,Santa Rosa y Anexas,18
+31,Yucatán,096,Tizimín,0377,Santa María,6
+31,Yucatán,096,Tizimín,0378,El Colorado,*
+31,Yucatán,096,Tizimín,0385,Yoknicté,*
+31,Yucatán,096,Tizimín,0389,San Antonio,*
+31,Yucatán,096,Tizimín,0391,Topoxkú,*
+31,Yucatán,096,Tizimín,0394,El Cafetal,*
+31,Yucatán,096,Tizimín,0397,Vista Hermosa (Los Tres Reyes),*
+31,Yucatán,096,Tizimín,0398,San Juan Kilómetro Cuatro,5
+31,Yucatán,096,Tizimín,0404,Teapa,0
+31,Yucatán,096,Tizimín,0413,San Diego,*
+31,Yucatán,096,Tizimín,0416,San Francisco,*
+31,Yucatán,096,Tizimín,0436,Adolfo López Mateos,0
+31,Yucatán,096,Tizimín,0440,Trascorral,1
+31,Yucatán,096,Tizimín,0442,Vista Alegre,*
+31,Yucatán,096,Tizimín,0468,La Montaña,*
+31,Yucatán,096,Tizimín,0469,Santa Cecilia,*
+31,Yucatán,096,Tizimín,0470,Santa Ana,7
+31,Yucatán,096,Tizimín,0471,San Andrés,8
+31,Yucatán,096,Tizimín,0472,Santa Catalina,*
+31,Yucatán,096,Tizimín,0476,San Ramón,*
+31,Yucatán,096,Tizimín,0488,Benito Juárez,*
+31,Yucatán,096,Tizimín,0491,San Buenaventura,*
+31,Yucatán,096,Tizimín,0493,Buenavista,*
+31,Yucatán,096,Tizimín,0497,Kabichén,5
+31,Yucatán,096,Tizimín,0506,Chan Tres Reyes,2
+31,Yucatán,096,Tizimín,0509,Chan Cenote,51
+31,Yucatán,096,Tizimín,0531,Dzadz Mahas,*
+31,Yucatán,096,Tizimín,0534,Dzidzilá,*
+31,Yucatán,096,Tizimín,0536,Yokdzonot Regadío,*
+31,Yucatán,096,Tizimín,0538,Dzununcán (San Juan Bautista Dzununcán),*
+31,Yucatán,096,Tizimín,0539,Yaax Kaaj,*
+31,Yucatán,096,Tizimín,0545,Gameba,*
+31,Yucatán,096,Tizimín,0583,Kincab,*
+31,Yucatán,096,Tizimín,0590,Los Laureles,*
+31,Yucatán,096,Tizimín,0591,Los Laureles,*
+31,Yucatán,096,Tizimín,0592,Los Laureles,*
+31,Yucatán,096,Tizimín,0595,Luis Echeverría Álvarez,*
+31,Yucatán,096,Tizimín,0596,Chan José,*
+31,Yucatán,096,Tizimín,0603,Costa Mar,*
+31,Yucatán,096,Tizimín,0606,San Carlos,*
+31,Yucatán,096,Tizimín,0607,Mulux Tun,*
+31,Yucatán,096,Tizimín,0617,Las Palmas,*
+31,Yucatán,096,Tizimín,0618,Las Palmas,*
+31,Yucatán,096,Tizimín,0627,Pixtón,*
+31,Yucatán,096,Tizimín,0641,El Retiro,*
+31,Yucatán,096,Tizimín,0642,Sac Nicté,*
+31,Yucatán,096,Tizimín,0655,San Antonio,*
+31,Yucatán,096,Tizimín,0656,San Antonio,*
+31,Yucatán,096,Tizimín,0657,San Antonio Número Dos,*
+31,Yucatán,096,Tizimín,0662,San Antonio Número Uno,*
+31,Yucatán,096,Tizimín,0663,San Antonio Ponce (San Antonio Dos),*
+31,Yucatán,096,Tizimín,0673,San Enrique,*
+31,Yucatán,096,Tizimín,0675,El Gran Reto,*
+31,Yucatán,096,Tizimín,0689,San Francisco,*
+31,Yucatán,096,Tizimín,0695,San Isidro,*
+31,Yucatán,096,Tizimín,0711,San José de la Montaña,*
+31,Yucatán,096,Tizimín,0716,San José Cañabrava,*
+31,Yucatán,096,Tizimín,0721,San Juan,*
+31,Yucatán,096,Tizimín,0723,San Juan,*
+31,Yucatán,096,Tizimín,0732,San Lorenzo,*
+31,Yucatán,096,Tizimín,0739,San Luis,*
+31,Yucatán,096,Tizimín,0740,La Joya,*
+31,Yucatán,096,Tizimín,0747,San Manuel,*
+31,Yucatán,096,Tizimín,0749,San Manuel,*
+31,Yucatán,096,Tizimín,0776,San Juan,*
+31,Yucatán,096,Tizimín,0787,Tree Star,*
+31,Yucatán,096,Tizimín,0789,San Pedro,*
+31,Yucatán,096,Tizimín,0802,Santa Cruz,*
+31,Yucatán,096,Tizimín,0804,Santa Elena,*
+31,Yucatán,096,Tizimín,0806,Santa Inés Martín,*
+31,Yucatán,096,Tizimín,0807,Santa Inés,*
+31,Yucatán,096,Tizimín,0815,Santa María,*
+31,Yucatán,096,Tizimín,0819,Santa Mercedes,*
+31,Yucatán,096,Tizimín,0822,Santa Pilar,*
+31,Yucatán,096,Tizimín,0823,Santa Rita,*
+31,Yucatán,096,Tizimín,0827,San José,*
+31,Yucatán,096,Tizimín,0830,Santa Teresita,*
+31,Yucatán,096,Tizimín,0837,Tres Reyes,*
+31,Yucatán,096,Tizimín,0845,Villa Concepción,*
+31,Yucatán,096,Tizimín,0849,X-Cail,*
+31,Yucatán,096,Tizimín,0858,X-Lal,*
+31,Yucatán,096,Tizimín,0864,San Antonio Tres,*
+31,Yucatán,096,Tizimín,0869,X-Uenkal,*
+31,Yucatán,096,Tizimín,0870,San Román Yaxcabá,*
+31,Yucatán,096,Tizimín,0875,Yokpita,*
+31,Yucatán,096,Tizimín,0886,Álamo,0
+31,Yucatán,096,Tizimín,0892,El Edén,*
+31,Yucatán,096,Tizimín,0899,Yoactún,*
+31,Yucatán,096,Tizimín,0914,Paraíso,0
+31,Yucatán,096,Tizimín,0915,Rancho Grande,3
+31,Yucatán,096,Tizimín,0922,San Agustín,*
+31,Yucatán,096,Tizimín,0923,La Ilusión,*
+31,Yucatán,096,Tizimín,0928,Don Antonio,*
+31,Yucatán,096,Tizimín,0942,Los Compadres,*
+31,Yucatán,096,Tizimín,0946,Santa Lupita,*
+31,Yucatán,096,Tizimín,0947,Santa Teresa,*
+31,Yucatán,096,Tizimín,0961,San Manuel,*
+31,Yucatán,096,Tizimín,0962,Santa Rosa,*
+31,Yucatán,096,Tizimín,0967,San José (Los Tres Hermanos),*
+31,Yucatán,096,Tizimín,1001,San Pedro Sacboc,*
+31,Yucatán,096,Tizimín,1003,Tres Reyes,*
+31,Yucatán,096,Tizimín,1007,Tres Marías,*
+31,Yucatán,096,Tizimín,1013,Santa Patricia Dos,*
+31,Yucatán,096,Tizimín,1024,San Pedro,*
+31,Yucatán,096,Tizimín,1026,María de los Ángeles [Rancho],*
+31,Yucatán,096,Tizimín,1031,Tres Reyes,*
+31,Yucatán,096,Tizimín,1035,Las Trancas,*
+31,Yucatán,096,Tizimín,1042,El Colorado,*
+31,Yucatán,096,Tizimín,1056,Yoactún,*
+31,Yucatán,096,Tizimín,1057,San Manuel,*
+31,Yucatán,096,Tizimín,1065,Guadalupe,*
+31,Yucatán,096,Tizimín,1074,Cuzam,*
+31,Yucatán,096,Tizimín,1086,Diamante,*
+31,Yucatán,096,Tizimín,1093,Chan Oxkal,*
+31,Yucatán,096,Tizimín,1094,X-Cabil,*
+31,Yucatán,096,Tizimín,1115,Santa Ana,*
+31,Yucatán,096,Tizimín,1123,Las Potrancas,*
+31,Yucatán,096,Tizimín,1168,San Felipe,*
+31,Yucatán,096,Tizimín,1171,El Ochenta y Nueve,*
+31,Yucatán,096,Tizimín,1185,Chacara Uberaba,*
+31,Yucatán,096,Tizimín,1187,Chan Santa Lucía,0
+31,Yucatán,096,Tizimín,1193,Chun Hule,*
+31,Yucatán,096,Tizimín,1197,Las Dalias,*
+31,Yucatán,096,Tizimín,1198,Dos Arbolitos,*
+31,Yucatán,096,Tizimín,1202,Maidy Berenice,*
+31,Yucatán,096,Tizimín,1203,Emal San Lorenzo,*
+31,Yucatán,096,Tizimín,1209,Las Dos Hermanitas,*
+31,Yucatán,096,Tizimín,1221,Lilian Analí,*
+31,Yucatán,096,Tizimín,1243,La Rejollada,*
+31,Yucatán,096,Tizimín,1246,Los Rosales,*
+31,Yucatán,096,Tizimín,1252,San Alonso,*
+31,Yucatán,096,Tizimín,1254,Los Tres Reyes,*
+31,Yucatán,096,Tizimín,1257,San Francisco,*
+31,Yucatán,096,Tizimín,1266,Los Tres Reyes,*
+31,Yucatán,096,Tizimín,1267,San Enrique,*
+31,Yucatán,096,Tizimín,1275,San Fernando,*
+31,Yucatán,096,Tizimín,1287,San Javier,*
+31,Yucatán,096,Tizimín,1291,San Jorge,*
+31,Yucatán,096,Tizimín,1295,San Chemas,*
+31,Yucatán,096,Tizimín,1312,San Lorenzo,*
+31,Yucatán,096,Tizimín,1322,San Juan,*
+31,Yucatán,096,Tizimín,1324,San Manuel,*
+31,Yucatán,096,Tizimín,1330,San Eustaquio,*
+31,Yucatán,096,Tizimín,1345,San Isidro,*
+31,Yucatán,096,Tizimín,1355,San José,*
+31,Yucatán,096,Tizimín,1358,San Venancio,*
+31,Yucatán,096,Tizimín,1363,Santa Candelaria,*
+31,Yucatán,096,Tizimín,1370,Santa Cruz,*
+31,Yucatán,096,Tizimín,1389,Santa Patricia,*
+31,Yucatán,096,Tizimín,1396,San José,*
+31,Yucatán,096,Tizimín,1403,San Carlos,*
+31,Yucatán,096,Tizimín,1405,San Isidro,*
+31,Yucatán,096,Tizimín,1408,Los Tres Reyes,*
+31,Yucatán,096,Tizimín,1442,Tabasquillo,*
+31,Yucatán,096,Tizimín,1453,Xpop,*
+31,Yucatán,096,Tizimín,1460,San Ramón,*
+31,Yucatán,096,Tizimín,1473,Claro de Luna,*
+31,Yucatán,096,Tizimín,1493,Monte Pedro,*
+31,Yucatán,096,Tizimín,1522,Emmanuel,*
+31,Yucatán,096,Tizimín,1526,El Forastero I,*
+31,Yucatán,096,Tizimín,1530,San Cosme,*
+31,Yucatán,096,Tizimín,1537,El Crucero,*
+31,Yucatán,096,Tizimín,1540,San Francisco,*
+31,Yucatán,096,Tizimín,1542,San Jorge,*
+31,Yucatán,096,Tizimín,1554,El Cerrito,0
+31,Yucatán,096,Tizimín,1563,Dos Potrillos,*
+31,Yucatán,096,Tizimín,1569,El Grano de Oro,*
+31,Yucatán,096,Tizimín,1575,Guadalupana,*
+31,Yucatán,096,Tizimín,1581,Florianí,*
+31,Yucatán,096,Tizimín,1619,Tuzikchén,*
+31,Yucatán,096,Tizimín,1621,San Judas Tadeo,*
+31,Yucatán,096,Tizimín,1631,San Ángel Libre Unión,*
+31,Yucatán,096,Tizimín,1633,Santa Cruz,*
+31,Yucatán,096,Tizimín,1644,San José,*
+31,Yucatán,096,Tizimín,1658,San Pedro,*
+31,Yucatán,096,Tizimín,1671,Santa Rita,*
+31,Yucatán,096,Tizimín,1688,Caribe,*
+31,Yucatán,096,Tizimín,1692,Los Dos Potrillos,*
+31,Yucatán,096,Tizimín,1719,San Isidro,*
+31,Yucatán,096,Tizimín,1721,San Isidro,*
+31,Yucatán,096,Tizimín,1729,San Pedro Tres,*
+31,Yucatán,096,Tizimín,1733,Santa María,*
+31,Yucatán,096,Tizimín,1735,Santa Teresita,*
+31,Yucatán,096,Tizimín,1787,San Raúl,*
+31,Yucatán,096,Tizimín,1794,Marianito,*
+31,Yucatán,096,Tizimín,1799,Emmanuel,*
+31,Yucatán,096,Tizimín,1803,Fátima del Rosario,*
+31,Yucatán,096,Tizimín,1806,Nohoch Kín,*
+31,Yucatán,096,Tizimín,1819,San Bernardo,*
+31,Yucatán,096,Tizimín,1825,San Francisco Dos,*
+31,Yucatán,096,Tizimín,1833,San Martín,*
+31,Yucatán,096,Tizimín,1840,Las Gabrielas Dos,*
+31,Yucatán,096,Tizimín,1847,Santa Ana,*
+31,Yucatán,096,Tizimín,1848,San Antonio,*
+31,Yucatán,096,Tizimín,1849,Los Dos Potrillos,*
+31,Yucatán,096,Tizimín,1850,Las Lomas,*
+31,Yucatán,096,Tizimín,1866,Los Dos Potrillos,*
+31,Yucatán,096,Tizimín,1870,Chenkal,*
+31,Yucatán,096,Tizimín,1878,San Juan,*
+31,Yucatán,096,Tizimín,1884,Santa Clara,*
+31,Yucatán,096,Tizimín,1886,Santa Rosario,*
+31,Yucatán,096,Tizimín,1891,Ninguno [Rancho Ganadero],*
+31,Yucatán,096,Tizimín,1897,Los Cocoyoles,*
+31,Yucatán,096,Tizimín,1902,El Potrillo,*
+31,Yucatán,096,Tizimín,1904,Sagrado Corazón de Jesús,*
+31,Yucatán,096,Tizimín,1905,San Pablo,*
+31,Yucatán,096,Tizimín,1910,San Felipe,*
+31,Yucatán,096,Tizimín,1929,La Espuela,*
+31,Yucatán,096,Tizimín,1931,La Sorpresa,*
+31,Yucatán,096,Tizimín,1943,San Agustín,*
+31,Yucatán,096,Tizimín,1945,Capricornio,*
+31,Yucatán,096,Tizimín,1949,San José,*
+31,Yucatán,096,Tizimín,1956,San Gabriel,*
+31,Yucatán,096,Tizimín,1958,San Isidro,*
+31,Yucatán,096,Tizimín,1962,San Martín,*
+31,Yucatán,096,Tizimín,1969,Santa Martha,*
+31,Yucatán,096,Tizimín,1995,Quintana,0
+31,Yucatán,096,Tizimín,2009,San Miguel,*
+31,Yucatán,096,Tizimín,2013,El Palomar Dos,*
+31,Yucatán,096,Tizimín,2014,San Marcos,*
+31,Yucatán,096,Tizimín,2018,Los Aluxes,*
+31,Yucatán,096,Tizimín,2022,Los Dátiles,*
+31,Yucatán,096,Tizimín,2025,Dos Hermanos,*
+31,Yucatán,096,Tizimín,2027,La Esperanza,*
+31,Yucatán,096,Tizimín,2032,Linda Flor,*
+31,Yucatán,096,Tizimín,2034,Santa Gertrudis,*
+31,Yucatán,096,Tizimín,2054,El Pocito,*
+31,Yucatán,096,Tizimín,2056,Rancho Chico,*
+31,Yucatán,096,Tizimín,2061,El Rincón,*
+31,Yucatán,096,Tizimín,2066,San Ángel,*
+31,Yucatán,096,Tizimín,2070,San Antonio Dos,*
+31,Yucatán,096,Tizimín,2082,San Leonardo,*
+31,Yucatán,096,Tizimín,2094,Santa Rosa,*
+31,Yucatán,096,Tizimín,2096,Santa Rosa,*
+31,Yucatán,096,Tizimín,2102,Tres Estrellas,*
+31,Yucatán,096,Tizimín,2103,Tres Reyes,*
+31,Yucatán,096,Tizimín,2107,El Wanal,*
+31,Yucatán,096,Tizimín,2110,La Bendición de Dios,*
+31,Yucatán,096,Tizimín,2112,Cannan,*
+31,Yucatán,096,Tizimín,2113,Las Palmas,*
+31,Yucatán,096,Tizimín,2120,Kankaja,*
+31,Yucatán,096,Tizimín,2123,Sak Bej,*
+31,Yucatán,096,Tizimín,2126,El Paraíso,*
+31,Yucatán,096,Tizimín,2130,San Agustín,*
+31,Yucatán,096,Tizimín,2138,San Isidro,*
+31,Yucatán,096,Tizimín,2143,San Martín Uno,*
+31,Yucatán,096,Tizimín,2145,San Nicolás,*
+31,Yucatán,096,Tizimín,2146,Santa Ana (Libre Unión),*
+31,Yucatán,096,Tizimín,2149,Santa Gilda,*
+31,Yucatán,096,Tizimín,2150,Santa Margarita,*
+31,Yucatán,096,Tizimín,2152,Santa Otila,*
+31,Yucatán,096,Tizimín,2154,Santísima,*
+31,Yucatán,096,Tizimín,2157,Sagrado Corazón,*
+31,Yucatán,096,Tizimín,2158,Dos Hermanos,*
+31,Yucatán,096,Tizimín,2163,San Enrique,*
+31,Yucatán,096,Tizimín,2169,El Paraíso,*
+31,Yucatán,096,Tizimín,2170,San Manuel,*
+31,Yucatán,096,Tizimín,2172,La Bendición de Dios,*
+31,Yucatán,096,Tizimín,2173,San Román,*
+31,Yucatán,096,Tizimín,2176,Yaax-kaaj Uno,*
+31,Yucatán,096,Tizimín,2181,La Guadalupana,*
+31,Yucatán,096,Tizimín,2183,Candela Tizimín,*
+31,Yucatán,096,Tizimín,2185,Villa Guadalupe,*
+31,Yucatán,096,Tizimín,2186,San Eduardo,*
+31,Yucatán,096,Tizimín,2190,Tres Britos,*
+31,Yucatán,096,Tizimín,2200,San Martín,*
+31,Yucatán,096,Tizimín,2212,Vista Alegre,*
+31,Yucatán,096,Tizimín,2242,Cenote Azul,*
+31,Yucatán,096,Tizimín,2246,Actunhá,*
+31,Yucatán,096,Tizimín,2256,San Pedro,*
+31,Yucatán,096,Tizimín,2260,Manahim,*
+31,Yucatán,096,Tizimín,2270,La Natividad,*
+31,Yucatán,096,Tizimín,2279,Hermanos López,*
+31,Yucatán,096,Tizimín,2280,Hermanos Castillo,*
+31,Yucatán,096,Tizimín,2282,Villaflor,*
+31,Yucatán,096,Tizimín,2285,San Juan,*
+31,Yucatán,096,Tizimín,2286,Los Mangos,*
+31,Yucatán,096,Tizimín,2293,Los Piches,*
+31,Yucatán,096,Tizimín,2299,Montecristo,*
+31,Yucatán,096,Tizimín,2303,La Chepis,*
+31,Yucatán,096,Tizimín,2341,Tejeros [Rancho],*
+31,Yucatán,096,Tizimín,2343,San José,*
+31,Yucatán,096,Tizimín,2348,San Isidro Uno,*
+31,Yucatán,096,Tizimín,2349,San Isidro Dos,*
+31,Yucatán,096,Tizimín,2357,Los García,*
+31,Yucatán,096,Tizimín,2363,Centro Trokero [Asadero],*
+31,Yucatán,096,Tizimín,2364,Santiaguito [Finca],*
+31,Yucatán,096,Tizimín,2369,La Gaviota,*
+31,Yucatán,096,Tizimín,9998,Localidades de una vivienda,11
+31,Yucatán,096,Tizimín,9999,Localidades de dos viviendas,2
+31,Yucatán,097,Tunkás,0000,Total del Municipio,64
+31,Yucatán,097,Tunkás,0001,Tunkás,53
+31,Yucatán,097,Tunkás,0003,Chahua,*
+31,Yucatán,097,Tunkás,0005,San José Pibtuch,4
+31,Yucatán,097,Tunkás,0007,San Antonio Chuc,3
+31,Yucatán,097,Tunkás,0018,Chabak,*
+31,Yucatán,097,Tunkás,0019,El Tiburón,*
+31,Yucatán,097,Tunkás,0062,Santa Cruz,*
+31,Yucatán,097,Tunkás,0068,Onichén,2
+31,Yucatán,097,Tunkás,0079,Yaxhá,*
+31,Yucatán,097,Tunkás,0097,San Jorge,*
+31,Yucatán,097,Tunkás,0110,San Juan,*
+31,Yucatán,097,Tunkás,0118,El Chaparral,*
+31,Yucatán,097,Tunkás,0119,Chaltún-Há,*
+31,Yucatán,097,Tunkás,9998,Localidades de una vivienda,0
+31,Yucatán,097,Tunkás,9999,Localidades de dos viviendas,2
+31,Yucatán,098,Tzucacab,0000,Total del Municipio,440
+31,Yucatán,098,Tzucacab,0001,Tzucacab,360
+31,Yucatán,098,Tzucacab,0002,El Águila,*
+31,Yucatán,098,Tzucacab,0003,San Francisco,*
+31,Yucatán,098,Tzucacab,0005,Catmís,37
+31,Yucatán,098,Tzucacab,0006,Caxaytuk,2
+31,Yucatán,098,Tzucacab,0008,Corral,5
+31,Yucatán,098,Tzucacab,0010,Dzemucut,2
+31,Yucatán,098,Tzucacab,0011,Dzí,8
+31,Yucatán,098,Tzucacab,0012,Ek-Balam,10
+31,Yucatán,098,Tzucacab,0022,Noh-Bec,7
+31,Yucatán,098,Tzucacab,0024,San Salvador Piste Akal,1
+31,Yucatán,098,Tzucacab,0025,Polhuacxil,2
+31,Yucatán,098,Tzucacab,0028,Sacbecán,2
+31,Yucatán,098,Tzucacab,0037,Tigre Grande,0
+31,Yucatán,098,Tzucacab,0039,Xcobiakal (Xcobilakal),0
+31,Yucatán,098,Tzucacab,0043,El Escondido,2
+31,Yucatán,098,Tzucacab,0045,Blanca Flor,1
+31,Yucatán,098,Tzucacab,0050,Montana,0
+31,Yucatán,098,Tzucacab,0056,San José,*
+31,Yucatán,098,Tzucacab,0068,Guadalupe de Catmis (Las Carretas),*
+31,Yucatán,098,Tzucacab,0074,La Esperanza,*
+31,Yucatán,098,Tzucacab,0080,Huntura Uno,0
+31,Yucatán,098,Tzucacab,0081,San Isidro Huntura Tres,*
+31,Yucatán,098,Tzucacab,0096,San Francisco,*
+31,Yucatán,098,Tzucacab,0097,San Francisco,*
+31,Yucatán,098,Tzucacab,0099,San Felipe,*
+31,Yucatán,098,Tzucacab,0106,San Luis,*
+31,Yucatán,098,Tzucacab,0112,San Pedro,*
+31,Yucatán,098,Tzucacab,0133,Los Laureles,*
+31,Yucatán,098,Tzucacab,0165,San Manuel,*
+31,Yucatán,098,Tzucacab,0199,San Antonio,*
+31,Yucatán,098,Tzucacab,0200,San José,*
+31,Yucatán,098,Tzucacab,0203,San Medardo,*
+31,Yucatán,098,Tzucacab,0209,Kaxán Kuxtal,0
+31,Yucatán,098,Tzucacab,0213,Resurrección [Rancho],*
+31,Yucatán,098,Tzucacab,0223,El Castillo,*
+31,Yucatán,098,Tzucacab,0224,Cirilo Ek,*
+31,Yucatán,098,Tzucacab,0234,Escondido,*
+31,Yucatán,098,Tzucacab,0239,San Israel,*
+31,Yucatán,098,Tzucacab,0242,San Manuel,*
+31,Yucatán,098,Tzucacab,9998,Localidades de una vivienda,1
+31,Yucatán,098,Tzucacab,9999,Localidades de dos viviendas,*
+31,Yucatán,099,Uayma,0000,Total del Municipio,83
+31,Yucatán,099,Uayma,0001,Uayma,74
+31,Yucatán,099,Uayma,0023,Santa María Aznar,9
+31,Yucatán,099,Uayma,0080,San Lorenzo,0
+31,Yucatán,099,Uayma,0089,Utzi Chen,*
+31,Yucatán,099,Uayma,0092,X-Noh Bo,*
+31,Yucatán,099,Uayma,9998,Localidades de una vivienda,*
+31,Yucatán,100,Ucú,0000,Total del Municipio,145
+31,Yucatán,100,Ucú,0001,Ucú,118
+31,Yucatán,100,Ucú,0003,Yaxché de Peón,26
+31,Yucatán,100,Ucú,0004,Yohdzonot,*
+31,Yucatán,100,Ucú,0016,Santa Rita,*
+31,Yucatán,100,Ucú,0022,Las Palomas [Quinta],*
+31,Yucatán,100,Ucú,0027,Muchil,*
+31,Yucatán,100,Ucú,0029,Matute [Quinta],*
+31,Yucatán,100,Ucú,9998,Localidades de una vivienda,1
+31,Yucatán,100,Ucú,9999,Localidades de dos viviendas,*
+31,Yucatán,101,Umán,0000,Total del Municipio,2450
+31,Yucatán,101,Umán,0001,Umán,2096
+31,Yucatán,101,Umán,0002,Bolón,40
+31,Yucatán,101,Umán,0005,Dzibikak,37
+31,Yucatán,101,Umán,0006,Hotzuc,5
+31,Yucatán,101,Umán,0007,Hunxectamán,4
+31,Yucatán,101,Umán,0009,Oxcum,18
+31,Yucatán,101,Umán,0010,Oxholón,42
+31,Yucatán,101,Umán,0011,Poxilá,19
+31,Yucatán,101,Umán,0012,San Antonio Chum,25
+31,Yucatán,101,Umán,0013,San Antonio Mulix,3
+31,Yucatán,101,Umán,0014,Taníl,12
+31,Yucatán,101,Umán,0015,Tebec,15
+31,Yucatán,101,Umán,0016,Ticimul,34
+31,Yucatán,101,Umán,0017,Xcucul Sur,17
+31,Yucatán,101,Umán,0018,Xtepén,16
+31,Yucatán,101,Umán,0019,Yaxcopoil,49
+31,Yucatán,101,Umán,0023,Blanca Flor,*
+31,Yucatán,101,Umán,0031,Chacho Lugo [Lienzo Charro],*
+31,Yucatán,101,Umán,0055,San Agustín,*
+31,Yucatán,101,Umán,0057,Sac Nicté,5
+31,Yucatán,101,Umán,0068,San Gabriel,*
+31,Yucatán,101,Umán,0089,Santa Fe,0
+31,Yucatán,101,Umán,0111,San Antonio Homodzonot,*
+31,Yucatán,101,Umán,0113,Petec Biltún,10
+31,Yucatán,101,Umán,0129,El Refugio,*
+31,Yucatán,101,Umán,0131,Pastoral del Amor,*
+31,Yucatán,101,Umán,0183,Las Bugambilias,*
+31,Yucatán,101,Umán,0212,San Pedro,*
+31,Yucatán,101,Umán,0229,La Guadalupana,*
+31,Yucatán,101,Umán,0232,Osmar Castillo,*
+31,Yucatán,101,Umán,0238,Santa María,*
+31,Yucatán,101,Umán,0240,Don Omar,*
+31,Yucatán,101,Umán,0242,Irma Xool,0
+31,Yucatán,101,Umán,0243,Eutimio Rodríguez Cauich,*
+31,Yucatán,101,Umán,0251,San Miguel,*
+31,Yucatán,101,Umán,0256,Castaño [Rancho],*
+31,Yucatán,101,Umán,0258,San Gerónimo,0
+31,Yucatán,101,Umán,0265,San Alberto,*
+31,Yucatán,101,Umán,0277,Concepción Tres,*
+31,Yucatán,101,Umán,0279,Miguel Camacho,*
+31,Yucatán,101,Umán,0280,Plantel Santa Rita,*
+31,Yucatán,101,Umán,0282,El Retiro,*
+31,Yucatán,101,Umán,0285,Yaya I,0
+31,Yucatán,101,Umán,0292,El Toro,*
+31,Yucatán,101,Umán,0300,San José,0
+31,Yucatán,101,Umán,0301,Don Jalisco [Freddy],*
+31,Yucatán,101,Umán,0331,La Flor de Abigail [Vivero],*
+31,Yucatán,101,Umán,0333,José y Franklin Domínguez,*
+31,Yucatán,101,Umán,0347,Kal-Dzonot,*
+31,Yucatán,101,Umán,0349,Los Padrinos,*
+31,Yucatán,101,Umán,0350,Rablalicana,*
+31,Yucatán,101,Umán,0357,Ninguno,*
+31,Yucatán,101,Umán,0359,Las Margaritas,*
+31,Yucatán,101,Umán,0367,Los Venados,*
+31,Yucatán,101,Umán,0370,Hotzuc [Quinta],*
+31,Yucatán,101,Umán,0374,El Cocal,*
+31,Yucatán,101,Umán,0375,Los Ramonales de Santa Candelaria,*
+31,Yucatán,101,Umán,0379,San Juan [Quinta],*
+31,Yucatán,101,Umán,0381,El Vaquero,*
+31,Yucatán,101,Umán,0384,Mamá Toñita,*
+31,Yucatán,101,Umán,0387,San José [Quinta],*
+31,Yucatán,101,Umán,0398,José Antonio Quintal Tinal,*
+31,Yucatán,101,Umán,0403,La Capillita,*
+31,Yucatán,101,Umán,0404,La Aventura [Quinta],*
+31,Yucatán,101,Umán,0406,Doña Lola  [Quinta],*
+31,Yucatán,101,Umán,0407,Canutos [Rancho],*
+31,Yucatán,101,Umán,0408,Elizabeth Aldana,*
+31,Yucatán,101,Umán,9998,Localidades de una vivienda,2
+31,Yucatán,101,Umán,9999,Localidades de dos viviendas,1
+31,Yucatán,102,Valladolid,0000,Total del Municipio,3958
+31,Yucatán,102,Valladolid,0001,Valladolid,3202
+31,Yucatán,102,Valladolid,0036,Chompool,0
+31,Yucatán,102,Valladolid,0037,Chuc-Yuc,*
+31,Yucatán,102,Valladolid,0044,Dzibil,1
+31,Yucatán,102,Valladolid,0045,Dzitnup,46
+31,Yucatán,102,Valladolid,0046,Dzoyolá,*
+31,Yucatán,102,Valladolid,0047,Ebtún,23
+31,Yucatán,102,Valladolid,0049,Izhuá,*
+31,Yucatán,102,Valladolid,0051,Xkampepén,1
+31,Yucatán,102,Valladolid,0055,Kanxoc,74
+31,Yucatán,102,Valladolid,0060,Koopchén,0
+31,Yucatán,102,Valladolid,0068,Xnoh-Ox,*
+31,Yucatán,102,Valladolid,0069,Nohsuytún,14
+31,Yucatán,102,Valladolid,0075,Pixoy,62
+31,Yucatán,102,Valladolid,0077,Popolá,178
+31,Yucatán,102,Valladolid,0081,San Andrés X-Bac,3
+31,Yucatán,102,Valladolid,0082,San Antonio,*
+31,Yucatán,102,Valladolid,0116,Santa Rosa,1
+31,Yucatán,102,Valladolid,0117,San Vicente,1
+31,Yucatán,102,Valladolid,0119,Sidrakín,0
+31,Yucatán,102,Valladolid,0127,Tahmuy,31
+31,Yucatán,102,Valladolid,0129,Tesoco,25
+31,Yucatán,102,Valladolid,0130,Tikuch,39
+31,Yucatán,102,Valladolid,0132,Tixhualactún,62
+31,Yucatán,102,Valladolid,0145,Chan X-Batún,0
+31,Yucatán,102,Valladolid,0149,X-Cohuó,10
+31,Yucatán,102,Valladolid,0150,Chakán,*
+31,Yucatán,102,Valladolid,0168,X-Marina,*
+31,Yucatán,102,Valladolid,0169,X-Mitán,0
+31,Yucatán,102,Valladolid,0174,Xocén,73
+31,Yucatán,102,Valladolid,0183,Xuilub,14
+31,Yucatán,102,Valladolid,0184,Xunchan,0
+31,Yucatán,102,Valladolid,0187,Yokdzonot,1
+31,Yucatán,102,Valladolid,0188,Yalcobá,46
+31,Yucatán,102,Valladolid,0189,Yalcón,9
+31,Yucatán,102,Valladolid,0192,Yaxché,6
+31,Yucatán,102,Valladolid,0196,Chan Yohalal,*
+31,Yucatán,102,Valladolid,0202,Chan Suytum,*
+31,Yucatán,102,Valladolid,0214,Teya,*
+31,Yucatán,102,Valladolid,0217,X-Bohbat,*
+31,Yucatán,102,Valladolid,0221,Dzekul,*
+31,Yucatán,102,Valladolid,0224,Rancho Tekal,*
+31,Yucatán,102,Valladolid,0228,Chablé,*
+31,Yucatán,102,Valladolid,0233,Yokdzonot Dos,*
+31,Yucatán,102,Valladolid,0262,San Antonio,0
+31,Yucatán,102,Valladolid,0263,Chan Yokdzonot,6
+31,Yucatán,102,Valladolid,0271,X-Bahil,*
+31,Yucatán,102,Valladolid,0275,Yokdzonot,*
+31,Yucatán,102,Valladolid,0280,Akabchén,1
+31,Yucatán,102,Valladolid,0282,Blanca Flor,*
+31,Yucatán,102,Valladolid,0293,Cocom,*
+31,Yucatán,102,Valladolid,0300,Chamul,2
+31,Yucatán,102,Valladolid,0302,Chan Hunukú,0
+31,Yucatán,102,Valladolid,0303,Chan Popolá,*
+31,Yucatán,102,Valladolid,0311,Chuyche,*
+31,Yucatán,102,Valladolid,0322,Rancho Cervera [Granja Porcícola],*
+31,Yucatán,102,Valladolid,0324,Uspib,1
+31,Yucatán,102,Valladolid,0331,X-Kambul,*
+31,Yucatán,102,Valladolid,0344,Xnohbutún,*
+31,Yucatán,102,Valladolid,0345,Nohtoc,*
+31,Yucatán,102,Valladolid,0348,K'an Ac,*
+31,Yucatán,102,Valladolid,0352,Las Palomas,*
+31,Yucatán,102,Valladolid,0356,La Piedra,*
+31,Yucatán,102,Valladolid,0359,Chan Puhuy,1
+31,Yucatán,102,Valladolid,0371,San Cristóbal,*
+31,Yucatán,102,Valladolid,0372,La Ceiba,*
+31,Yucatán,102,Valladolid,0375,Santo Domingo,0
+31,Yucatán,102,Valladolid,0391,San Mateo,*
+31,Yucatán,102,Valladolid,0392,San Miguel,*
+31,Yucatán,102,Valladolid,0395,San Pedro Sula,*
+31,Yucatán,102,Valladolid,0397,San Pedro,0
+31,Yucatán,102,Valladolid,0409,Villa Elidé,*
+31,Yucatán,102,Valladolid,0423,Tres Reyes,*
+31,Yucatán,102,Valladolid,0431,X-Nohbutún,*
+31,Yucatán,102,Valladolid,0445,Lachén,*
+31,Yucatán,102,Valladolid,0456,Yax-Kax,*
+31,Yucatán,102,Valladolid,0460,Yaxché,*
+31,Yucatán,102,Valladolid,0465,Yok-Halal,*
+31,Yucatán,102,Valladolid,0477,Kantunil,*
+31,Yucatán,102,Valladolid,0479,Katil,*
+31,Yucatán,102,Valladolid,0481,X-Bacab,2
+31,Yucatán,102,Valladolid,0483,San Isidro,0
+31,Yucatán,102,Valladolid,0485,San Gerónimo,0
+31,Yucatán,102,Valladolid,0488,San Diego,0
+31,Yucatán,102,Valladolid,0489,Agua Azul,*
+31,Yucatán,102,Valladolid,0494,San Miguel,*
+31,Yucatán,102,Valladolid,0510,San Andrés Kampocolché,0
+31,Yucatán,102,Valladolid,0515,Ningún Santo,*
+31,Yucatán,102,Valladolid,0523,X-Batún,0
+31,Yucatán,102,Valladolid,0533,Chumpila,*
+31,Yucatán,102,Valladolid,0535,Chan Kot Kahum (Los Cocales),*
+31,Yucatán,102,Valladolid,0536,X-Wó,*
+31,Yucatán,102,Valladolid,0538,Zodzilchén,1
+31,Yucatán,102,Valladolid,0539,Chanil,0
+31,Yucatán,102,Valladolid,0541,X-Bojón,*
+31,Yucatán,102,Valladolid,0549,San Antonio,0
+31,Yucatán,102,Valladolid,0551,Santa Cruz Uno,*
+31,Yucatán,102,Valladolid,0554,Santa Rosa,1
+31,Yucatán,102,Valladolid,0574,Pol-Kee,*
+31,Yucatán,102,Valladolid,0580,El Gato Negro,0
+31,Yucatán,102,Valladolid,0588,X-Kanahaltún,*
+31,Yucatán,102,Valladolid,0590,Santa Teresa,*
+31,Yucatán,102,Valladolid,0592,X-Sac-Uil,*
+31,Yucatán,102,Valladolid,0600,Cuzanchén,*
+31,Yucatán,102,Valladolid,0603,Yohkoop,*
+31,Yucatán,102,Valladolid,0605,Suytún,*
+31,Yucatán,102,Valladolid,0608,Tepakán,3
+31,Yucatán,102,Valladolid,0621,Timas,0
+31,Yucatán,102,Valladolid,0626,Kanxoc-Chen,*
+31,Yucatán,102,Valladolid,0627,San Salvador,*
+31,Yucatán,102,Valladolid,0628,Ce-Ac,*
+31,Yucatán,102,Valladolid,0631,Bolmay,7
+31,Yucatán,102,Valladolid,0632,Bretaña,*
+31,Yucatán,102,Valladolid,0636,El Diezmo,*
+31,Yucatán,102,Valladolid,0638,Halal,*
+31,Yucatán,102,Valladolid,0640,Chi-Ac,*
+31,Yucatán,102,Valladolid,0644,Nah-Capat,*
+31,Yucatán,102,Valladolid,0646,Quex,*
+31,Yucatán,102,Valladolid,0652,San Pedro,*
+31,Yucatán,102,Valladolid,0653,San Ramón,*
+31,Yucatán,102,Valladolid,0655,Santa Eleuteria,2
+31,Yucatán,102,Valladolid,0667,Suytún,*
+31,Yucatán,102,Valladolid,0671,Yaax-Hal,1
+31,Yucatán,102,Valladolid,0676,X-Chiceh,*
+31,Yucatán,102,Valladolid,0679,San Francisco,*
+31,Yucatán,102,Valladolid,0687,Kuchechén,*
+31,Yucatán,102,Valladolid,0689,X-Poom,*
+31,Yucatán,102,Valladolid,0704,Juchín,*
+31,Yucatán,102,Valladolid,0707,Chac-Halal,*
+31,Yucatán,102,Valladolid,0710,La Choza,*
+31,Yucatán,102,Valladolid,0711,Curtiduría Chávez,*
+31,Yucatán,102,Valladolid,0720,San Ángel,*
+31,Yucatán,102,Valladolid,0728,La Piedra Angular,*
+31,Yucatán,102,Valladolid,0729,Sahcabá Dos,*
+31,Yucatán,102,Valladolid,0734,San Judas Tadeo,*
+31,Yucatán,102,Valladolid,0735,San Lorenzo,*
+31,Yucatán,102,Valladolid,0737,Cowboys Land,*
+31,Yucatán,102,Valladolid,0738,Dos Gallos,*
+31,Yucatán,102,Valladolid,0740,Kauán,*
+31,Yucatán,102,Valladolid,0745,Chanyokdzonot Dos,0
+31,Yucatán,102,Valladolid,0755,San Marcos,*
+31,Yucatán,102,Valladolid,0760,La Fátima,*
+31,Yucatán,102,Valladolid,0763,Sinail,*
+31,Yucatán,102,Valladolid,0767,Xcojil,*
+31,Yucatán,102,Valladolid,0773,Chansus,*
+31,Yucatán,102,Valladolid,0775,San José 2,*
+31,Yucatán,102,Valladolid,0783,Chanchén,*
+31,Yucatán,102,Valladolid,0785,Humberto Díaz Martínez,*
+31,Yucatán,102,Valladolid,0787,Xisbic,*
+31,Yucatán,102,Valladolid,0797,Chan Xkauil,*
+31,Yucatán,102,Valladolid,0811,Xojolchén,*
+31,Yucatán,102,Valladolid,0814,Ninguno,*
+31,Yucatán,102,Valladolid,0818,Chan Xbutum Dos,*
+31,Yucatán,102,Valladolid,0821,Yaax Hom Timas,*
+31,Yucatán,102,Valladolid,0823,Ka'anan,*
+31,Yucatán,102,Valladolid,0825,X-Juubil,*
+31,Yucatán,102,Valladolid,0827,Nenelá,*
+31,Yucatán,102,Valladolid,0838,Lodgecol,*
+31,Yucatán,102,Valladolid,0844,Santa Cecilia,*
+31,Yucatán,102,Valladolid,0848,Ninguno [Rancho Ganadero],*
+31,Yucatán,102,Valladolid,0858,Chan Yokdzonot Dos [Sistema De Riego],*
+31,Yucatán,102,Valladolid,0860,San Isidro,0
+31,Yucatán,102,Valladolid,0866,Santa Cruz,*
+31,Yucatán,102,Valladolid,0868,San Luis Potosí,*
+31,Yucatán,102,Valladolid,0871,Kankirixche,*
+31,Yucatán,102,Valladolid,0875,Sagrado Corazón,*
+31,Yucatán,102,Valladolid,0876,San José,*
+31,Yucatán,102,Valladolid,0883,San Francisco,*
+31,Yucatán,102,Valladolid,0884,El Potrillo [Rancho],*
+31,Yucatán,102,Valladolid,0889,San Manuel,*
+31,Yucatán,102,Valladolid,0893,El Paraíso,*
+31,Yucatán,102,Valladolid,0894,El Jordán,*
+31,Yucatán,102,Valladolid,0899,Las Cúpulas,*
+31,Yucatán,102,Valladolid,0900,Los Ficus,*
+31,Yucatán,102,Valladolid,0901,Yalcón,*
+31,Yucatán,102,Valladolid,0902,San Juan,*
+31,Yucatán,102,Valladolid,9998,Localidades de una vivienda,3
+31,Yucatán,102,Valladolid,9999,Localidades de dos viviendas,5
+31,Yucatán,103,Xocchel,0000,Total del Municipio,59
+31,Yucatán,103,Xocchel,0001,Xocchel,59
+31,Yucatán,103,Xocchel,0045,Clara Cetina,*
+31,Yucatán,103,Xocchel,0048,Ichkí,*
+31,Yucatán,103,Xocchel,9998,Localidades de una vivienda,*
+31,Yucatán,104,Yaxcabá,0000,Total del Municipio,273
+31,Yucatán,104,Yaxcabá,0001,Yaxcabá,74
+31,Yucatán,104,Yaxcabá,0002,Canakom,11
+31,Yucatán,104,Yaxcabá,0010,Tinuncah,1
+31,Yucatán,104,Yaxcabá,0011,Cipché,0
+31,Yucatán,104,Yaxcabá,0015,Xnicteil,*
+31,Yucatán,104,Yaxcabá,0016,San Rafael,*
+31,Yucatán,104,Yaxcabá,0018,San Pedro,3
+31,Yucatán,104,Yaxcabá,0019,Tiholop,30
+31,Yucatán,104,Yaxcabá,0021,Xlapak,2
+31,Yucatán,104,Yaxcabá,0024,Cholul,*
+31,Yucatán,104,Yaxcabá,0027,Yokdzonot-Hú,0
+31,Yucatán,104,Yaxcabá,0031,Huechen Balam,3
+31,Yucatán,104,Yaxcabá,0032,Libre Unión,30
+31,Yucatán,104,Yaxcabá,0035,Yokdzonot,13
+31,Yucatán,104,Yaxcabá,0036,Nachicocom,0
+31,Yucatán,104,Yaxcabá,0041,X-Mexil,1
+31,Yucatán,104,Yaxcabá,0043,Yaxunah,16
+31,Yucatán,104,Yaxcabá,0045,Chimay,0
+31,Yucatán,104,Yaxcabá,0047,Santa María,4
+31,Yucatán,104,Yaxcabá,0051,Kancabdzonot,16
+31,Yucatán,104,Yaxcabá,0052,Tixcacaltuyub,23
+31,Yucatán,104,Yaxcabá,0054,San Marcos,7
+31,Yucatán,104,Yaxcabá,0056,Popolá,4
+31,Yucatán,104,Yaxcabá,0059,Xanlá,*
+31,Yucatán,104,Yaxcabá,0060,Tahdzibichén,33
+31,Yucatán,104,Yaxcabá,0064,Sahcabá,*
+31,Yucatán,104,Yaxcabá,0067,Cisteil,0
+31,Yucatán,104,Yaxcabá,0071,Rancho Grande,*
+31,Yucatán,104,Yaxcabá,0105,El Faisán,*
+31,Yucatán,104,Yaxcabá,0131,X-Pom,0
+31,Yucatán,104,Yaxcabá,0142,Ayil,*
+31,Yucatán,104,Yaxcabá,0147,San Juan,*
+31,Yucatán,104,Yaxcabá,0156,San Mateo Dos,*
+31,Yucatán,104,Yaxcabá,0164,San Valerio,*
+31,Yucatán,104,Yaxcabá,0169,Santa María,0
+31,Yucatán,104,Yaxcabá,0197,Xpondzonot,*
+31,Yucatán,104,Yaxcabá,0198,Xtojil,1
+31,Yucatán,104,Yaxcabá,0203,San Arnulfo,0
+31,Yucatán,104,Yaxcabá,0230,Robles,*
+31,Yucatán,104,Yaxcabá,0237,Santa Isabel,0
+31,Yucatán,104,Yaxcabá,0245,San Marcos,*
+31,Yucatán,104,Yaxcabá,0271,Nueva Santa Cruz,*
+31,Yucatán,104,Yaxcabá,0284,San Bernardino,*
+31,Yucatán,104,Yaxcabá,0286,Emiliano Zapata,*
+31,Yucatán,104,Yaxcabá,0288,Margarito Yama Cox,*
+31,Yucatán,104,Yaxcabá,9998,Localidades de una vivienda,0
+31,Yucatán,104,Yaxcabá,9999,Localidades de dos viviendas,1
+31,Yucatán,105,Yaxkukul,0000,Total del Municipio,165
+31,Yucatán,105,Yaxkukul,0001,Yaxkukul,157
+31,Yucatán,105,Yaxkukul,0007,San Francisco,3
+31,Yucatán,105,Yaxkukul,0023,Aldea Conkal,4
+31,Yucatán,105,Yaxkukul,0027,Ya'ax Lu'um,0
+31,Yucatán,105,Yaxkukul,0036,Canto,*
+31,Yucatán,105,Yaxkukul,0042,Andrés Morales,0
+31,Yucatán,105,Yaxkukul,0044,Chester,1
+31,Yucatán,105,Yaxkukul,9998,Localidades de una vivienda,*
+31,Yucatán,106,Yobaín,0000,Total del Municipio,96
+31,Yucatán,106,Yobaín,0001,Yobaín,84
+31,Yucatán,106,Yobaín,0002,Chabihau,12
+31,Yucatán,106,Yobaín,0015,Chehuayacán,*
+31,Yucatán,106,Yobaín,0054,Puerto de Abrigo,0
+31,Yucatán,106,Yobaín,0064,Los Ladrones [Privada],*
+31,Yucatán,106,Yobaín,0066,San Nicolás,*
+31,Yucatán,106,Yobaín,9998,Localidades de una vivienda,0

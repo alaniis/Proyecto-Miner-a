@@ -1,0 +1,2801 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,P18A24A
+04,Campeche,000,Total de la entidad Campeche,0000,Total de la Entidad,37620
+04,Campeche,000,Total de la entidad Campeche,9998,Localidades de una vivienda,84
+04,Campeche,000,Total de la entidad Campeche,9999,Localidades de dos viviendas,15
+04,Campeche,001,Calkiní,0000,Total del Municipio,2780
+04,Campeche,001,Calkiní,0001,Calkiní,909
+04,Campeche,001,Calkiní,0002,Isla Arena,42
+04,Campeche,001,Calkiní,0003,Bacabchén,90
+04,Campeche,001,Calkiní,0004,Bécal,306
+04,Campeche,001,Calkiní,0005,Concepción,14
+04,Campeche,001,Calkiní,0006,San Agustín Chunhuás,11
+04,Campeche,001,Calkiní,0007,Dzitbalché,678
+04,Campeche,001,Calkiní,0008,Nunkiní,341
+04,Campeche,001,Calkiní,0009,Pucnachén,35
+04,Campeche,001,Calkiní,0010,San Antonio Sahcabchén,67
+04,Campeche,001,Calkiní,0011,San Nicolás,4
+04,Campeche,001,Calkiní,0012,Santa Cruz Ex-Hacienda,31
+04,Campeche,001,Calkiní,0013,Santa Cruz Pueblo,77
+04,Campeche,001,Calkiní,0014,Tankuché,30
+04,Campeche,001,Calkiní,0015,Tepakán,120
+04,Campeche,001,Calkiní,0016,Santa María,6
+04,Campeche,001,Calkiní,0026,Frente Chuc Say,2
+04,Campeche,001,Calkiní,0038,El Gran Poder,*
+04,Campeche,001,Calkiní,0058,San Dieguito,*
+04,Campeche,001,Calkiní,0073,San Mateo,*
+04,Campeche,001,Calkiní,0112,El Remolino (Noventa y Medio),*
+04,Campeche,001,Calkiní,0120,San Carlos,*
+04,Campeche,001,Calkiní,0126,El Buen Pastor,*
+04,Campeche,001,Calkiní,0134,San Juan,0
+04,Campeche,001,Calkiní,0150,Anexo San Mateo,1
+04,Campeche,001,Calkiní,0155,Colonia Coca-Cola,3
+04,Campeche,001,Calkiní,0174,La Huerta [Paradero Turístico],*
+04,Campeche,001,Calkiní,0196,Las Almendras,*
+04,Campeche,001,Calkiní,0198,K'an Peepen,*
+04,Campeche,001,Calkiní,0201,La Fátima (Cocbilín),2
+04,Campeche,001,Calkiní,0204,San Miguel Dos,*
+04,Campeche,001,Calkiní,0208,Ninguno,*
+04,Campeche,001,Calkiní,0220,Ninguno,*
+04,Campeche,001,Calkiní,0225,San Martín,*
+04,Campeche,001,Calkiní,0227,San Miguelito,*
+04,Campeche,001,Calkiní,0229,Xbilincoc,*
+04,Campeche,001,Calkiní,0232,Xkakoch,5
+04,Campeche,001,Calkiní,0233,Yaxhaltún,0
+04,Campeche,001,Calkiní,0250,Tanchí,*
+04,Campeche,001,Calkiní,0256,Eben Ezer,*
+04,Campeche,001,Calkiní,0279,La Señal,*
+04,Campeche,001,Calkiní,0281,Ninguno,*
+04,Campeche,001,Calkiní,0298,Ninguno,*
+04,Campeche,001,Calkiní,0300,Los Limonares,*
+04,Campeche,001,Calkiní,0302,Niño de Atocha,*
+04,Campeche,001,Calkiní,0303,Los Pinos,*
+04,Campeche,001,Calkiní,0306,Polar,*
+04,Campeche,001,Calkiní,0310,Colonia Si-Ho,0
+04,Campeche,001,Calkiní,0312,El Puente [Motel],*
+04,Campeche,001,Calkiní,0314,Los Abuelos,*
+04,Campeche,001,Calkiní,0316,Ninguno,*
+04,Campeche,001,Calkiní,0319,Ninguno,0
+04,Campeche,001,Calkiní,0320,Ninguno,*
+04,Campeche,001,Calkiní,0325,La Nueva Esperanza,*
+04,Campeche,001,Calkiní,0326,Santa Gilda,*
+04,Campeche,001,Calkiní,0327,El Tulum,*
+04,Campeche,001,Calkiní,0330,Los Ciricotes,*
+04,Campeche,001,Calkiní,0331,Los Flamboyanes,*
+04,Campeche,001,Calkiní,0332,Los Limones,*
+04,Campeche,001,Calkiní,0334,San José,*
+04,Campeche,001,Calkiní,0339,Ninguno [Rancho],*
+04,Campeche,001,Calkiní,0340,Crucero Juan Diego [Rancho],*
+04,Campeche,001,Calkiní,0342,Getsemaní,*
+04,Campeche,001,Calkiní,9998,Localidades de una vivienda,5
+04,Campeche,001,Calkiní,9999,Localidades de dos viviendas,1
+04,Campeche,002,Campeche,0000,Total del Municipio,15599
+04,Campeche,002,Campeche,0001,San Francisco de Campeche,14221
+04,Campeche,002,Campeche,0068,Uayamón,3
+04,Campeche,002,Campeche,0070,Bethania,17
+04,Campeche,002,Campeche,0071,San Antonio Bobolá,6
+04,Campeche,002,Campeche,0072,Bolonchén Cahuich,2
+04,Campeche,002,Campeche,0073,Castamay,54
+04,Campeche,002,Campeche,0075,Chemblás,10
+04,Campeche,002,Campeche,0077,Chiná,258
+04,Campeche,002,Campeche,0081,Hampolol,40
+04,Campeche,002,Campeche,0082,Hobomó,14
+04,Campeche,002,Campeche,0086,Imí,52
+04,Campeche,002,Campeche,0087,Lerma,427
+04,Campeche,002,Campeche,0089,Mucuychakán,1
+04,Campeche,002,Campeche,0090,Nilchí,25
+04,Campeche,002,Campeche,0091,Nohakal,28
+04,Campeche,002,Campeche,0092,Uzahzil-Edzná (Nohyaxché),4
+04,Campeche,002,Campeche,0093,San Agustín Olá,6
+04,Campeche,002,Campeche,0094,Crucero Oxá,8
+04,Campeche,002,Campeche,0096,Pich,77
+04,Campeche,002,Campeche,0097,Pocyaxum,10
+04,Campeche,002,Campeche,0098,Cayal,14
+04,Campeche,002,Campeche,0100,San Camilo (Chencollí),2
+04,Campeche,002,Campeche,0101,San Francisco Kobén,37
+04,Campeche,002,Campeche,0104,Tikinmul,48
+04,Campeche,002,Campeche,0105,Tixmucuy,13
+04,Campeche,002,Campeche,0110,Alfredo V. Bonfil,31
+04,Campeche,002,Campeche,0118,Pueblo Nuevo,8
+04,Campeche,002,Campeche,0122,La Sierrita,*
+04,Campeche,002,Campeche,0135,El Jardín del Edén,*
+04,Campeche,002,Campeche,0160,El Bisturí,*
+04,Campeche,002,Campeche,0172,Melchor Ocampo,20
+04,Campeche,002,Campeche,0174,Chulbac,*
+04,Campeche,002,Campeche,0176,La Doble Jota,*
+04,Campeche,002,Campeche,0178,Ensenada,0
+04,Campeche,002,Campeche,0189,La Gaviota,*
+04,Campeche,002,Campeche,0192,San Antonio [Rancho],*
+04,Campeche,002,Campeche,0194,Grano de Oro,*
+04,Campeche,002,Campeche,0200,Horticultores de Kobén,1
+04,Campeche,002,Campeche,0202,Nueva Esperanza,*
+04,Campeche,002,Campeche,0245,Jesús María,*
+04,Campeche,002,Campeche,0246,Lubná,*
+04,Campeche,002,Campeche,0247,Santa Barbara [Complejo Industrial],*
+04,Campeche,002,Campeche,0249,Miguel Alemán (X-Campéu),0
+04,Campeche,002,Campeche,0252,Nicte-Há,*
+04,Campeche,002,Campeche,0255,San Martín,*
+04,Campeche,002,Campeche,0256,La Paz,0
+04,Campeche,002,Campeche,0260,El Porvenir,*
+04,Campeche,002,Campeche,0263,Quetzal Edzná,22
+04,Campeche,002,Campeche,0264,La Libertad,17
+04,Campeche,002,Campeche,0280,San Lorenzo,*
+04,Campeche,002,Campeche,0281,San Luciano,8
+04,Campeche,002,Campeche,0282,San Carlos Número 1,*
+04,Campeche,002,Campeche,0283,El Tesoro,*
+04,Campeche,002,Campeche,0287,Santa Anita,*
+04,Campeche,002,Campeche,0303,La Victoria,*
+04,Campeche,002,Campeche,0312,Kikab,13
+04,Campeche,002,Campeche,0313,Nuevo Pénjamo,3
+04,Campeche,002,Campeche,0316,Adolfo Ruiz Cortínez,20
+04,Campeche,002,Campeche,0318,San Miguel Allende,3
+04,Campeche,002,Campeche,0323,Frutas Tropicales,1
+04,Campeche,002,Campeche,0326,Mar Azul,0
+04,Campeche,002,Campeche,0329,Club Náutico y Deportivo de Campeche,0
+04,Campeche,002,Campeche,0334,Ninguno,*
+04,Campeche,002,Campeche,0336,Guanajuato,*
+04,Campeche,002,Campeche,0338,San Francisco Kobén [Centro de Rehabilitación Social],*
+04,Campeche,002,Campeche,0347,San Judas Tadeo,*
+04,Campeche,002,Campeche,0359,El Jilguero,*
+04,Campeche,002,Campeche,0365,Los Mangos,0
+04,Campeche,002,Campeche,0370,Siete Hermanos,*
+04,Campeche,002,Campeche,0376,La Esperanza,*
+04,Campeche,002,Campeche,0377,Santa Sara,*
+04,Campeche,002,Campeche,0385,Santa Ana,*
+04,Campeche,002,Campeche,0389,Los Cedros,*
+04,Campeche,002,Campeche,0395,Emulsiones Asfálticas de Campeche,*
+04,Campeche,002,Campeche,0402,San Francisco Uxmal,0
+04,Campeche,002,Campeche,0406,San Joaquín,*
+04,Campeche,002,Campeche,0407,Estanzuela,*
+04,Campeche,002,Campeche,0408,San Antonio,*
+04,Campeche,002,Campeche,0411,Grúas Campeche [Depósito de Vehículos],*
+04,Campeche,002,Campeche,0430,El Pegaso,*
+04,Campeche,002,Campeche,0445,Buenaventura,*
+04,Campeche,002,Campeche,0448,Kalá,*
+04,Campeche,002,Campeche,0465,Los Laureles,47
+04,Campeche,002,Campeche,0466,Guanaceví,0
+04,Campeche,002,Campeche,0501,Nuevo San Antonio Ebulá,4
+04,Campeche,002,Campeche,0506,EBORCA,*
+04,Campeche,002,Campeche,0517,San Felipe del Jesús,*
+04,Campeche,002,Campeche,0520,La Palma,0
+04,Campeche,002,Campeche,0522,Santa Concepción,*
+04,Campeche,002,Campeche,0523,El Yuco,*
+04,Campeche,002,Campeche,0553,La Adelita,*
+04,Campeche,002,Campeche,0557,El Chiapaneco,*
+04,Campeche,002,Campeche,0560,El Cortijo,*
+04,Campeche,002,Campeche,0566,Dzilché,*
+04,Campeche,002,Campeche,0570,Ninguno,*
+04,Campeche,002,Campeche,0577,Oreb y Sinaí,*
+04,Campeche,002,Campeche,0581,La Lenchita,*
+04,Campeche,002,Campeche,0584,Ninguno [Trituradora],*
+04,Campeche,002,Campeche,0585,Nueva Esperanza,2
+04,Campeche,002,Campeche,0587,Pichula CR,*
+04,Campeche,002,Campeche,0594,Leopardo,*
+04,Campeche,002,Campeche,0599,Saúl Alberto,*
+04,Campeche,002,Campeche,0612,Hermanos Colín,*
+04,Campeche,002,Campeche,0633,San Juan,*
+04,Campeche,002,Campeche,0635,Lágrimas Uno,*
+04,Campeche,002,Campeche,0642,Las Palomas,*
+04,Campeche,002,Campeche,0658,Chac Luum,*
+04,Campeche,002,Campeche,0659,Los Chalecos,*
+04,Campeche,002,Campeche,0660,Montichelo,*
+04,Campeche,002,Campeche,0668,Ninguno,*
+04,Campeche,002,Campeche,0678,La Esperanza,*
+04,Campeche,002,Campeche,0697,Jota Pe,*
+04,Campeche,002,Campeche,0699,El Gallo,*
+04,Campeche,002,Campeche,0711,Carlos Cano Cruz (Los Tlaxcaltecas),7
+04,Campeche,002,Campeche,0731,Santa Rosa,*
+04,Campeche,002,Campeche,0734,Ana María,*
+04,Campeche,002,Campeche,0751,La Torcaza,*
+04,Campeche,002,Campeche,0753,San Antonio,*
+04,Campeche,002,Campeche,0758,San Joaquín,*
+04,Campeche,002,Campeche,0759,San José,*
+04,Campeche,002,Campeche,0761,San Salvador,*
+04,Campeche,002,Campeche,0769,Cerro Verde,*
+04,Campeche,002,Campeche,0783,San Antonio la Paz,*
+04,Campeche,002,Campeche,0786,Sak-Katsín,*
+04,Campeche,002,Campeche,0799,Rancho Alegre,*
+04,Campeche,002,Campeche,0801,Chamuchín,*
+04,Campeche,002,Campeche,0812,Ninguno,*
+04,Campeche,002,Campeche,0832,San Antonio Cayal,*
+04,Campeche,002,Campeche,0836,La Guarida del Lobo,*
+04,Campeche,002,Campeche,0839,Paraíso (Frutas Tropicales),*
+04,Campeche,002,Campeche,0840,Sierra Verde de Cayal,0
+04,Campeche,002,Campeche,0843,Coyote Flaco,*
+04,Campeche,002,Campeche,0844,Nueva Esperanza,4
+04,Campeche,002,Campeche,0845,Dos Hermanos,*
+04,Campeche,002,Campeche,0851,El Cedro,*
+04,Campeche,002,Campeche,0860,San Pedro,*
+04,Campeche,002,Campeche,0861,San Pedro,*
+04,Campeche,002,Campeche,0866,El Establo,*
+04,Campeche,002,Campeche,0872,El Morenal,*
+04,Campeche,002,Campeche,0875,San Francisco,0
+04,Campeche,002,Campeche,0882,ABR Construcciones,*
+04,Campeche,002,Campeche,0883,AGROPAPAYA,*
+04,Campeche,002,Campeche,0884,Cristo en el Camino,*
+04,Campeche,002,Campeche,0886,El Ceibo,*
+04,Campeche,002,Campeche,0888,El Potrero,*
+04,Campeche,002,Campeche,0891,Ninguno [Grupo Acuícola Campechanos],*
+04,Campeche,002,Campeche,0894,La Guadalupana,*
+04,Campeche,002,Campeche,0895,La Lechería,*
+04,Campeche,002,Campeche,0902,Alazán,*
+04,Campeche,002,Campeche,0914,Ninguno,*
+04,Campeche,002,Campeche,0921,El Cortijo de la Carlota,*
+04,Campeche,002,Campeche,0922,Las Piscinas,*
+04,Campeche,002,Campeche,0923,El Estribo,*
+04,Campeche,002,Campeche,0927,Los Martínez,*
+04,Campeche,002,Campeche,0930,Oaxaquita,*
+04,Campeche,002,Campeche,0933,El Monasterio,*
+04,Campeche,002,Campeche,0937,El Triunfo,*
+04,Campeche,002,Campeche,0938,La Alegría,*
+04,Campeche,002,Campeche,0945,Los Rivero,*
+04,Campeche,002,Campeche,0950,La Bendición,*
+04,Campeche,002,Campeche,0952,Piedras Verdes,*
+04,Campeche,002,Campeche,0954,San Judas Tadeo,*
+04,Campeche,002,Campeche,0955,San Manuel,*
+04,Campeche,002,Campeche,0956,Santa Anita,*
+04,Campeche,002,Campeche,0957,Silos de Sierra Verde,*
+04,Campeche,002,Campeche,0958,Villa Gloria Cholul,*
+04,Campeche,002,Campeche,0960,Seet Ka'an (Rincón del Cielo),0
+04,Campeche,002,Campeche,0963,Santa Bárbara,*
+04,Campeche,002,Campeche,0964,El Roble,*
+04,Campeche,002,Campeche,0969,Chulbac [Hospedaje],*
+04,Campeche,002,Campeche,0970,El Borregazo [Restaurante],*
+04,Campeche,002,Campeche,0971,Elvis,*
+04,Campeche,002,Campeche,0972,El Milagro,*
+04,Campeche,002,Campeche,0973,Dídi [Rancho],*
+04,Campeche,002,Campeche,0975,Las Margaritas,*
+04,Campeche,002,Campeche,0976,Escondido,0
+04,Campeche,002,Campeche,0977,La Noria,*
+04,Campeche,002,Campeche,0979,Los Cocos,*
+04,Campeche,002,Campeche,0980,Lugar de Encuentro [Albergue],*
+04,Campeche,002,Campeche,0981,María Catalina,*
+04,Campeche,002,Campeche,0982,Santa Fé [Rancho],*
+04,Campeche,002,Campeche,0984,Maryjose [Rancho],*
+04,Campeche,002,Campeche,0986,Acuacultura de Tixmucuy,*
+04,Campeche,002,Campeche,0987,La Victoria [Rancho],*
+04,Campeche,002,Campeche,0989,El Moral 2 [Rancho],*
+04,Campeche,002,Campeche,0990,Potrero Largo [Rancho],*
+04,Campeche,002,Campeche,0992,El Cerro [Rancho],*
+04,Campeche,002,Campeche,0995,Edzná [Destiladora],*
+04,Campeche,002,Campeche,0996,Las Palmeras,*
+04,Campeche,002,Campeche,0997,Ninguno [Campo de Tiro],*
+04,Campeche,002,Campeche,0998,Don Raúl,*
+04,Campeche,002,Campeche,1000,Los Manguitos,*
+04,Campeche,002,Campeche,1001,Santa Clara [Rancho],*
+04,Campeche,002,Campeche,1002,Los Polo,*
+04,Campeche,002,Campeche,1003,La Esperanza,*
+04,Campeche,002,Campeche,1004,La Sangre de Cristo,*
+04,Campeche,002,Campeche,1006,Alejandro Aguilar,*
+04,Campeche,002,Campeche,1007,Paraíso [Rancho],*
+04,Campeche,002,Campeche,1008,La Herradura,*
+04,Campeche,002,Campeche,1009,Rancho Escondido,*
+04,Campeche,002,Campeche,9998,Localidades de una vivienda,10
+04,Campeche,002,Campeche,9999,Localidades de dos viviendas,1
+04,Campeche,003,Carmen,0000,Total del Municipio,10314
+04,Campeche,003,Carmen,0001,Ciudad del Carmen,9073
+04,Campeche,003,Carmen,0005,Nuevo Progreso,164
+04,Campeche,003,Carmen,0006,Atasta,80
+04,Campeche,003,Carmen,0007,Santa Isabel,0
+04,Campeche,003,Carmen,0013,Puerto Rico,18
+04,Campeche,003,Carmen,0016,El Playaso,0
+04,Campeche,003,Carmen,0022,El Manatinero,*
+04,Campeche,003,Carmen,0027,El Astillero,*
+04,Campeche,003,Carmen,0031,Santa Rita,3
+04,Campeche,003,Carmen,0055,Bahamita [Jaibera],1
+04,Campeche,003,Carmen,0057,Tortuguero,*
+04,Campeche,003,Carmen,0058,Abelardo L. Rodríguez,15
+04,Campeche,003,Carmen,0064,Ignacio Gutiérrez,11
+04,Campeche,003,Carmen,0065,José María Pino Suárez,7
+04,Campeche,003,Carmen,0066,Plan de Ayala,24
+04,Campeche,003,Carmen,0077,El Jobo,*
+04,Campeche,003,Carmen,0080,Oxcabal,*
+04,Campeche,003,Carmen,0081,Chicbul,41
+04,Campeche,003,Carmen,0082,Calax,1
+04,Campeche,003,Carmen,0089,Orizaba,*
+04,Campeche,003,Carmen,0094,Tichel,*
+04,Campeche,003,Carmen,0098,El Cimarrón,*
+04,Campeche,003,Carmen,0101,San Antonio Cárdenas,145
+04,Campeche,003,Carmen,0105,El Carmen,*
+04,Campeche,003,Carmen,0106,Santa María,*
+04,Campeche,003,Carmen,0108,Santa Serafina,*
+04,Campeche,003,Carmen,0117,La Veleta I,*
+04,Campeche,003,Carmen,0118,Nuevo Campechito,5
+04,Campeche,003,Carmen,0160,San Daniel,*
+04,Campeche,003,Carmen,0161,San Ramón (María de la Luz),*
+04,Campeche,003,Carmen,0163,La Guadalupana,*
+04,Campeche,003,Carmen,0169,El Mercurio,*
+04,Campeche,003,Carmen,0170,Santa Rosa,*
+04,Campeche,003,Carmen,0180,Balchacah,*
+04,Campeche,003,Carmen,0199,Isla Aguada,165
+04,Campeche,003,Carmen,0262,Colonia Emiliano Zapata,29
+04,Campeche,003,Carmen,0273,La Lagartera,*
+04,Campeche,003,Carmen,0277,Boca Nueva,*
+04,Campeche,003,Carmen,0300,El Ramón,*
+04,Campeche,003,Carmen,0324,Las Piedras [UNAM el Pom],*
+04,Campeche,003,Carmen,0364,Independencia,8
+04,Campeche,003,Carmen,0365,Chivoja,*
+04,Campeche,003,Carmen,0366,San Luis (Casa Blanca),*
+04,Campeche,003,Carmen,0398,San Fernando,*
+04,Campeche,003,Carmen,0399,El Paibe,*
+04,Campeche,003,Carmen,0404,El Suspiro,*
+04,Campeche,003,Carmen,0431,Los Tulipanes,*
+04,Campeche,003,Carmen,0450,Nohan,0
+04,Campeche,003,Carmen,0456,Polkay,*
+04,Campeche,003,Carmen,0457,El Trébol,*
+04,Campeche,003,Carmen,0458,La Guadalupe,*
+04,Campeche,003,Carmen,0459,La Pimienta,*
+04,Campeche,003,Carmen,0460,Vista Alegre,2
+04,Campeche,003,Carmen,0521,Paso San Juan [Rancho],*
+04,Campeche,003,Carmen,0523,Las Granjas,0
+04,Campeche,003,Carmen,0524,La Florida,0
+04,Campeche,003,Carmen,0611,Checubul,20
+04,Campeche,003,Carmen,0612,La Cristalina,19
+04,Campeche,003,Carmen,0613,Nicolás Bravo,4
+04,Campeche,003,Carmen,0614,Sabancuy,186
+04,Campeche,003,Carmen,0630,Estela,*
+04,Campeche,003,Carmen,0632,San Luis,*
+04,Campeche,003,Carmen,0634,La Noria,*
+04,Campeche,003,Carmen,0706,El Triunfo,*
+04,Campeche,003,Carmen,0720,Los Ángeles,*
+04,Campeche,003,Carmen,0727,Santa Gertrudis de Marentes,*
+04,Campeche,003,Carmen,0733,Bella Palizada,0
+04,Campeche,003,Carmen,0744,Bonanza,*
+04,Campeche,003,Carmen,0752,Borinque,*
+04,Campeche,003,Carmen,0756,La Bretaña,1
+04,Campeche,003,Carmen,0760,Buena Vista (Las Arboleras),0
+04,Campeche,003,Carmen,0794,Sulinán,*
+04,Campeche,003,Carmen,0801,Ribera el Carrizal,*
+04,Campeche,003,Carmen,0811,Centauro del Norte,4
+04,Campeche,003,Carmen,0815,San Salvador de los Cerrillos,*
+04,Campeche,003,Carmen,0829,Adolfo López Mateos,2
+04,Campeche,003,Carmen,0830,La Nueva Esperanza,3
+04,Campeche,003,Carmen,0841,El Conuco,*
+04,Campeche,003,Carmen,0842,El Pinal del Río,*
+04,Campeche,003,Carmen,0847,El Cortijo,*
+04,Campeche,003,Carmen,0853,El Crucero de San Elpidio,*
+04,Campeche,003,Carmen,0897,Doña Lidia,*
+04,Campeche,003,Carmen,0902,El Milagro de Dios [Rancho],*
+04,Campeche,003,Carmen,0913,Dos Hermanos,*
+04,Campeche,003,Carmen,0916,Loma Bonita,*
+04,Campeche,003,Carmen,0919,Don Bartolo,*
+04,Campeche,003,Carmen,0947,La Esperanza,*
+04,Campeche,003,Carmen,0949,La Esperanza,*
+04,Campeche,003,Carmen,0965,Fina Estampa,*
+04,Campeche,003,Carmen,0981,Las Gaviotas,*
+04,Campeche,003,Carmen,1018,El Herradero,*
+04,Campeche,003,Carmen,1020,Ranchachos,*
+04,Campeche,003,Carmen,1058,Agrogalbec,*
+04,Campeche,003,Carmen,1137,El Mameyal,*
+04,Campeche,003,Carmen,1138,Los Manantiales,1
+04,Campeche,003,Carmen,1142,San José Marentes,*
+04,Campeche,003,Carmen,1152,Mata del Tigre,*
+04,Campeche,003,Carmen,1159,Nicté-Ha,*
+04,Campeche,003,Carmen,1167,Mina de Oro,1
+04,Campeche,003,Carmen,1213,La Odisea,*
+04,Campeche,003,Carmen,1224,El Palay,*
+04,Campeche,003,Carmen,1234,Palmira,*
+04,Campeche,003,Carmen,1237,Palo Alto,*
+04,Campeche,003,Carmen,1238,Las Palomas,*
+04,Campeche,003,Carmen,1248,El Paraíso,*
+04,Campeche,003,Carmen,1285,Polboxal,1
+04,Campeche,003,Carmen,1289,El Porvenir,*
+04,Campeche,003,Carmen,1340,El Recuerdo,0
+04,Campeche,003,Carmen,1341,El Refugio,*
+04,Campeche,003,Carmen,1351,Ribera de San Francisco,0
+04,Campeche,003,Carmen,1369,Los Cedros,*
+04,Campeche,003,Carmen,1371,Sagrado Corazón de Jesús,*
+04,Campeche,003,Carmen,1373,La Salada,*
+04,Campeche,003,Carmen,1393,San Antonio,*
+04,Campeche,003,Carmen,1397,La Guadalupana,*
+04,Campeche,003,Carmen,1404,San Benito,1
+04,Campeche,003,Carmen,1410,San Carlos,*
+04,Campeche,003,Carmen,1423,Don Timo,*
+04,Campeche,003,Carmen,1425,El Esfuerzo [Rancho],*
+04,Campeche,003,Carmen,1448,Las Ceibas,*
+04,Campeche,003,Carmen,1453,San José,*
+04,Campeche,003,Carmen,1462,San José (El Desecho),*
+04,Campeche,003,Carmen,1465,San Juan,*
+04,Campeche,003,Carmen,1538,Santa Claudia,*
+04,Campeche,003,Carmen,1539,Santa Cruz,0
+04,Campeche,003,Carmen,1559,Santa Teresa,*
+04,Campeche,003,Carmen,1597,Salvador,*
+04,Campeche,003,Carmen,1599,La Tejana,*
+04,Campeche,003,Carmen,1605,Toluca,*
+04,Campeche,003,Carmen,1665,Brasil,*
+04,Campeche,003,Carmen,1667,La Xtabay,*
+04,Campeche,003,Carmen,1696,San Antonio,*
+04,Campeche,003,Carmen,1703,San Antonio Punta de Piedra,*
+04,Campeche,003,Carmen,1716,Las Araucarias,*
+04,Campeche,003,Carmen,1717,Pinzón,0
+04,Campeche,003,Carmen,1719,La Lupita,*
+04,Campeche,003,Carmen,1720,Santa Elena,*
+04,Campeche,003,Carmen,1722,La Envidia,0
+04,Campeche,003,Carmen,1749,Santa Cruz,*
+04,Campeche,003,Carmen,1758,El Anonal,*
+04,Campeche,003,Carmen,1776,Oxcabal,15
+04,Campeche,003,Carmen,1777,San Antonio,*
+04,Campeche,003,Carmen,1830,El Fénix (Ecoparque),1
+04,Campeche,003,Carmen,1834,El Pez de Oro,*
+04,Campeche,003,Carmen,1843,Cocodrilos Maya,0
+04,Campeche,003,Carmen,1847,Ensenada Grande,1
+04,Campeche,003,Carmen,1874,La Veleta,*
+04,Campeche,003,Carmen,1879,La Reata,*
+04,Campeche,003,Carmen,1905,Los Dos Potrillos,*
+04,Campeche,003,Carmen,2039,Veinte de Octubre,*
+04,Campeche,003,Carmen,2044,San Manuel,0
+04,Campeche,003,Carmen,2066,El Jobo,*
+04,Campeche,003,Carmen,2075,La Victoria,*
+04,Campeche,003,Carmen,2076,Centenario,*
+04,Campeche,003,Carmen,2078,San Miguel,*
+04,Campeche,003,Carmen,2079,La Galaxia,*
+04,Campeche,003,Carmen,2091,El Porvenir,*
+04,Campeche,003,Carmen,2200,Michoacán,*
+04,Campeche,003,Carmen,2203,Santa Ana,*
+04,Campeche,003,Carmen,2213,El Milagro,*
+04,Campeche,003,Carmen,2217,Lomas de Román,*
+04,Campeche,003,Carmen,2219,Los Tulipanes,*
+04,Campeche,003,Carmen,2221,Ribera Media San Francisco,0
+04,Campeche,003,Carmen,2222,Ribera Alta San Francisco,0
+04,Campeche,003,Carmen,2223,La Ponderosa,*
+04,Campeche,003,Carmen,2234,El Paraíso,*
+04,Campeche,003,Carmen,2245,La Guadalupe,*
+04,Campeche,003,Carmen,2247,Santa Isabel Uno,*
+04,Campeche,003,Carmen,2248,Generalísimo Morelos,4
+04,Campeche,003,Carmen,2249,Valle de Solidaridad,2
+04,Campeche,003,Carmen,2250,Murallas de Campeche,1
+04,Campeche,003,Carmen,2251,Fernando Foglio Miramontes,5
+04,Campeche,003,Carmen,2263,El Maculisal [Rancho],*
+04,Campeche,003,Carmen,2268,Beraca,2
+04,Campeche,003,Carmen,2271,Las 3 Marías,*
+04,Campeche,003,Carmen,2276,Los Corales,*
+04,Campeche,003,Carmen,2278,El Sacrificio,*
+04,Campeche,003,Carmen,2285,Santa Ana,*
+04,Campeche,003,Carmen,2287,Las Dos Concepciones (La Asunción Dos),*
+04,Campeche,003,Carmen,2288,San José del Carmen,*
+04,Campeche,003,Carmen,2334,CARABEEF (Montecristo),*
+04,Campeche,003,Carmen,2370,Nuevo Palizada,0
+04,Campeche,003,Carmen,2371,Justo Sierra,0
+04,Campeche,003,Carmen,2377,El Islote,*
+04,Campeche,003,Carmen,2379,San Miguelito,*
+04,Campeche,003,Carmen,2380,Camahuil,*
+04,Campeche,003,Carmen,2383,La Providencia,*
+04,Campeche,003,Carmen,2384,El Progreso del Sultán,*
+04,Campeche,003,Carmen,2386,Las Gemelas,*
+04,Campeche,003,Carmen,2387,San Fernando,*
+04,Campeche,003,Carmen,2388,El Colocal,0
+04,Campeche,003,Carmen,2389,Tres Marías,*
+04,Campeche,003,Carmen,2392,El Conejo,*
+04,Campeche,003,Carmen,2393,Santa Rosa,*
+04,Campeche,003,Carmen,2395,La Guadalupe,*
+04,Campeche,003,Carmen,2400,El Arbolito,*
+04,Campeche,003,Carmen,2403,Santa Martha,*
+04,Campeche,003,Carmen,2413,El Carmen,*
+04,Campeche,003,Carmen,2414,Santa Cruz,*
+04,Campeche,003,Carmen,2490,San Rafael,*
+04,Campeche,003,Carmen,2493,El Sacrificio,*
+04,Campeche,003,Carmen,2517,El Palomo,*
+04,Campeche,003,Carmen,2525,El Refugio,*
+04,Campeche,003,Carmen,2551,El Tigre,*
+04,Campeche,003,Carmen,2567,El Padrino,*
+04,Campeche,003,Carmen,2614,La Bomba,*
+04,Campeche,003,Carmen,2617,El Cairo,*
+04,Campeche,003,Carmen,2633,La Esperanza,*
+04,Campeche,003,Carmen,2643,El Chamizal,*
+04,Campeche,003,Carmen,2652,El Compa,*
+04,Campeche,003,Carmen,2700,El Faisán,*
+04,Campeche,003,Carmen,2706,La Giralda,*
+04,Campeche,003,Carmen,2717,Guanabal,*
+04,Campeche,003,Carmen,2724,Careyes (Huarixe),0
+04,Campeche,003,Carmen,2732,Cristo Rey,*
+04,Campeche,003,Carmen,2746,Los Almendros,*
+04,Campeche,003,Carmen,2757,San Rafael,*
+04,Campeche,003,Carmen,2758,Santa Lucía,*
+04,Campeche,003,Carmen,2798,Atila,*
+04,Campeche,003,Carmen,2799,El Talismán,*
+04,Campeche,003,Carmen,2804,El Ángel,*
+04,Campeche,003,Carmen,2827,El Paraíso,*
+04,Campeche,003,Carmen,2844,Isla Panlao,*
+04,Campeche,003,Carmen,2860,El Milagro,*
+04,Campeche,003,Carmen,2869,El Mango,*
+04,Campeche,003,Carmen,2871,Los Manguitos,*
+04,Campeche,003,Carmen,2885,El Cubilete,*
+04,Campeche,003,Carmen,2886,La Carmelita,*
+04,Campeche,003,Carmen,2896,La Paila,*
+04,Campeche,003,Carmen,2914,El Pepito,*
+04,Campeche,003,Carmen,2952,El Chivero II,*
+04,Campeche,003,Carmen,2954,El Roblar,*
+04,Campeche,003,Carmen,2959,El Sacrificio,*
+04,Campeche,003,Carmen,2966,San Andrés,1
+04,Campeche,003,Carmen,2968,San Antonio,*
+04,Campeche,003,Carmen,2975,La Paila,*
+04,Campeche,003,Carmen,2977,San Felipe,*
+04,Campeche,003,Carmen,2978,San Fernando,0
+04,Campeche,003,Carmen,2983,San Gabriel (Corpus Christi),*
+04,Campeche,003,Carmen,2999,La Victoria,*
+04,Campeche,003,Carmen,3016,San Román,*
+04,Campeche,003,Carmen,3022,San José,*
+04,Campeche,003,Carmen,3029,La Ensenada [Balneario],*
+04,Campeche,003,Carmen,3030,El Cedro,*
+04,Campeche,003,Carmen,3035,Santa Martha,*
+04,Campeche,003,Carmen,3044,Santa Soledad,*
+04,Campeche,003,Carmen,3057,La Tercia,*
+04,Campeche,003,Carmen,3059,Ninguno [Tierra sin Nombre],*
+04,Campeche,003,Carmen,3071,4 Hermanos,*
+04,Campeche,003,Carmen,3072,El Dorado,*
+04,Campeche,003,Carmen,3080,El Zapote,1
+04,Campeche,003,Carmen,3081,El Zapote,*
+04,Campeche,003,Carmen,3096,La Camelia,*
+04,Campeche,003,Carmen,3101,Las Margaritas,*
+04,Campeche,003,Carmen,3102,Blanca Citlally,*
+04,Campeche,003,Carmen,3104,El Tamarindo [Rancho],*
+04,Campeche,003,Carmen,3109,La Escondida,*
+04,Campeche,003,Carmen,3116,El Gallo,*
+04,Campeche,003,Carmen,3122,La Guadalupe,*
+04,Campeche,003,Carmen,3140,San Joaquín,0
+04,Campeche,003,Carmen,3150,San Juan [Rancho],*
+04,Campeche,003,Carmen,3151,La Irresponsable,*
+04,Campeche,003,Carmen,3155,Juan de la Cabada Vera,4
+04,Campeche,003,Carmen,3158,El Encanto,*
+04,Campeche,003,Carmen,3173,El Poquito,*
+04,Campeche,003,Carmen,3176,La Purísima,*
+04,Campeche,003,Carmen,3191,San José las Flores,0
+04,Campeche,003,Carmen,3194,San Luis,1
+04,Campeche,003,Carmen,3198,San Rafael,*
+04,Campeche,003,Carmen,3211,Vista Alegre,*
+04,Campeche,003,Carmen,3213,Dos de Marzo,*
+04,Campeche,003,Carmen,3214,Los Dos Hermanos,*
+04,Campeche,003,Carmen,3216,La Guadalupana,*
+04,Campeche,003,Carmen,3217,El Aguacatal,22
+04,Campeche,003,Carmen,3220,Valle Verde Campo Dos,*
+04,Campeche,003,Carmen,3221,Alto Lucero,*
+04,Campeche,003,Carmen,3223,La Casita,*
+04,Campeche,003,Carmen,3225,Anexo José Antonio,*
+04,Campeche,003,Carmen,3230,Don Paco,0
+04,Campeche,003,Carmen,3232,La Barca de Oro,*
+04,Campeche,003,Carmen,3233,Belén,*
+04,Campeche,003,Carmen,3235,Belisario Domínguez,2
+04,Campeche,003,Carmen,3236,San Miguel Allende,0
+04,Campeche,003,Carmen,3237,Santa Lucía,*
+04,Campeche,003,Carmen,3238,Brazil,*
+04,Campeche,003,Carmen,3239,El Río,*
+04,Campeche,003,Carmen,3240,Buenos Aires,*
+04,Campeche,003,Carmen,3242,El Cachito,*
+04,Campeche,003,Carmen,3244,Los Tres Hermanos,*
+04,Campeche,003,Carmen,3245,San Fernando,*
+04,Campeche,003,Carmen,3246,Los Capulines,*
+04,Campeche,003,Carmen,3247,El Moskit,*
+04,Campeche,003,Carmen,3248,Carlos V,0
+04,Campeche,003,Carmen,3250,El Carmen,*
+04,Campeche,003,Carmen,3252,El Potrillo,*
+04,Campeche,003,Carmen,3255,Las Ceibas,*
+04,Campeche,003,Carmen,3257,El Recuerdo,0
+04,Campeche,003,Carmen,3258,Cinco de Mayo,*
+04,Campeche,003,Carmen,3259,El Aguacate,*
+04,Campeche,003,Carmen,3260,Las Gemelas [Quinta],0
+04,Campeche,003,Carmen,3261,Los Pinos,*
+04,Campeche,003,Carmen,3262,Concepción,*
+04,Campeche,003,Carmen,3263,Conquista Campesina,17
+04,Campeche,003,Carmen,3264,Los Chapulines,*
+04,Campeche,003,Carmen,3269,El Audaz (El Crucero),*
+04,Campeche,003,Carmen,3271,El Kwanto,*
+04,Campeche,003,Carmen,3273,El Cubilete,*
+04,Campeche,003,Carmen,3275,Santo Tomás,*
+04,Campeche,003,Carmen,3277,El Chinal,0
+04,Campeche,003,Carmen,3278,San Francisco de Asís,*
+04,Campeche,003,Carmen,3280,Los Toritos,*
+04,Campeche,003,Carmen,3282,Las Delicias,*
+04,Campeche,003,Carmen,3283,La Ilusión,*
+04,Campeche,003,Carmen,3284,El Desprecio,*
+04,Campeche,003,Carmen,3285,El Destino,*
+04,Campeche,003,Carmen,3287,El Diamante,0
+04,Campeche,003,Carmen,3292,El Dorado,*
+04,Campeche,003,Carmen,3294,Los Laureles,*
+04,Campeche,003,Carmen,3296,Dos Hermanos,*
+04,Campeche,003,Carmen,3300,El Encanto,1
+04,Campeche,003,Carmen,3302,El Encanto,*
+04,Campeche,003,Carmen,3303,Encarnación,*
+04,Campeche,003,Carmen,3304,Enrique Rodríguez Cano,14
+04,Campeche,003,Carmen,3312,La Esperanza de Dios Cuatro,*
+04,Campeche,003,Carmen,3313,La Esperanza,*
+04,Campeche,003,Carmen,3317,La Espuela de Oro,*
+04,Campeche,003,Carmen,3318,La Estrella,1
+04,Campeche,003,Carmen,3321,Felipe Ángeles,9
+04,Campeche,003,Carmen,3325,Ibañez,*
+04,Campeche,003,Carmen,3327,Isla Florida,*
+04,Campeche,003,Carmen,3328,La Fortuna,*
+04,Campeche,003,Carmen,3331,El Recuerdo,*
+04,Campeche,003,Carmen,3332,El Herradero,*
+04,Campeche,003,Carmen,3333,Mamantel (Pancho Villa),34
+04,Campeche,003,Carmen,3335,El Egipcio,*
+04,Campeche,003,Carmen,3340,Valle Verde Campo Uno,0
+04,Campeche,003,Carmen,3345,Heras,*
+04,Campeche,003,Carmen,3352,La Higuera,*
+04,Campeche,003,Carmen,3354,Ignacio Zaragoza,7
+04,Campeche,003,Carmen,3355,La Ilusión,*
+04,Campeche,003,Carmen,3358,El Sembrador,*
+04,Campeche,003,Carmen,3362,La Florida,*
+04,Campeche,003,Carmen,3368,Los Laureles,*
+04,Campeche,003,Carmen,3370,Los Pericos,*
+04,Campeche,003,Carmen,3372,María del Socorro,*
+04,Campeche,003,Carmen,3380,El Invierno,*
+04,Campeche,003,Carmen,3382,El Jardín y el Plan del Toro,*
+04,Campeche,003,Carmen,3384,El Jazmín,*
+04,Campeche,003,Carmen,3386,Jimbal,*
+04,Campeche,003,Carmen,3387,José Antonio,*
+04,Campeche,003,Carmen,3389,Karina,*
+04,Campeche,003,Carmen,3390,Los Laureles,*
+04,Campeche,003,Carmen,3395,Licenciado Gustavo Díaz Ordaz (18 de Marzo),31
+04,Campeche,003,Carmen,3398,Loma Linda [Rancho],*
+04,Campeche,003,Carmen,3402,Mamantel Pueblo (Mamantel Viejo),5
+04,Campeche,003,Carmen,3407,Mayalam [Rancho],0
+04,Campeche,003,Carmen,3411,El Herradero,*
+04,Campeche,003,Carmen,3412,Mireya,*
+04,Campeche,003,Carmen,3414,Monterrey,*
+04,Campeche,003,Carmen,3416,El Nanzal,*
+04,Campeche,003,Carmen,3417,Las Nubes,*
+04,Campeche,003,Carmen,3419,Nueva Aventura,*
+04,Campeche,003,Carmen,3420,Nueva Chontalpa,9
+04,Campeche,003,Carmen,3427,El Jaripeo (Nuevo Mundo),*
+04,Campeche,003,Carmen,3428,Nuevo Valle,*
+04,Campeche,003,Carmen,3430,Ojo de Agua,7
+04,Campeche,003,Carmen,3431,Ojo de Agua de Cuyoc,0
+04,Campeche,003,Carmen,3432,La Olguita,*
+04,Campeche,003,Carmen,3434,El Otoño [Rancho],*
+04,Campeche,003,Carmen,3437,Palma Sola,0
+04,Campeche,003,Carmen,3438,El Corozal,*
+04,Campeche,003,Carmen,3439,El Potrillo,*
+04,Campeche,003,Carmen,3440,Las Palmitas,*
+04,Campeche,003,Carmen,3441,La Isla,*
+04,Campeche,003,Carmen,3444,El Paraíso,*
+04,Campeche,003,Carmen,3445,La Pasión,*
+04,Campeche,003,Carmen,3449,El Pensador Tabasqueño,*
+04,Campeche,003,Carmen,3450,La Pequeña,*
+04,Campeche,003,Carmen,3451,Los Pinos,*
+04,Campeche,003,Carmen,3452,Pital Nuevo,8
+04,Campeche,003,Carmen,3453,Pital Viejo,3
+04,Campeche,003,Carmen,3454,San Carlos [Aserradero],*
+04,Campeche,003,Carmen,3457,El Polvorón (Los Dos Arbolitos),*
+04,Campeche,003,Carmen,3461,El Porvenir,0
+04,Campeche,003,Carmen,3465,La Primavera,*
+04,Campeche,003,Carmen,3467,La Princesa,*
+04,Campeche,003,Carmen,3470,La Providencia,*
+04,Campeche,003,Carmen,3471,Rancho Grande,*
+04,Campeche,003,Carmen,3473,Pucteal,*
+04,Campeche,003,Carmen,3474,Puerta Blanca,0
+04,Campeche,003,Carmen,3475,Puntilla,*
+04,Campeche,003,Carmen,3477,Quebrache,6
+04,Campeche,003,Carmen,3480,El Ranchito,*
+04,Campeche,003,Carmen,3482,El Recuerdo,*
+04,Campeche,003,Carmen,3484,El Remolino,*
+04,Campeche,003,Carmen,3486,El Retorno,*
+04,Campeche,003,Carmen,3490,La Reyna,*
+04,Campeche,003,Carmen,3491,El Rosario,*
+04,Campeche,003,Carmen,3501,El Sacrificio,0
+04,Campeche,003,Carmen,3502,Samaria,*
+04,Campeche,003,Carmen,3511,San Antonio,0
+04,Campeche,003,Carmen,3514,San Carlos,1
+04,Campeche,003,Carmen,3515,San Jorge,*
+04,Campeche,003,Carmen,3516,San Armando,*
+04,Campeche,003,Carmen,3521,San Fernando,*
+04,Campeche,003,Carmen,3525,San Francisco,*
+04,Campeche,003,Carmen,3529,San Gerónimo,*
+04,Campeche,003,Carmen,3531,San Isidro,14
+04,Campeche,003,Carmen,3532,San Isidro,*
+04,Campeche,003,Carmen,3533,San Jorge de Coyoc,0
+04,Campeche,003,Carmen,3535,San José,*
+04,Campeche,003,Carmen,3536,San José,*
+04,Campeche,003,Carmen,3539,San José,*
+04,Campeche,003,Carmen,3540,San José Dos,*
+04,Campeche,003,Carmen,3541,San Juan,*
+04,Campeche,003,Carmen,3544,San Juan (El Cuadro Limón),*
+04,Campeche,003,Carmen,3552,San Lázaro,*
+04,Campeche,003,Carmen,3555,San Luis,*
+04,Campeche,003,Carmen,3556,San Luis,*
+04,Campeche,003,Carmen,3560,Por Poquito (San Manuel),*
+04,Campeche,003,Carmen,3566,San Marcos,*
+04,Campeche,003,Carmen,3572,San Miguelito,*
+04,Campeche,003,Carmen,3573,San Miguel,*
+04,Campeche,003,Carmen,3575,San Miguel,*
+04,Campeche,003,Carmen,3576,San Miguel,*
+04,Campeche,003,Carmen,3577,San Miguel,*
+04,Campeche,003,Carmen,3580,Kilómetro 59,2
+04,Campeche,003,Carmen,3582,Los Mota,*
+04,Campeche,003,Carmen,3583,San Rafael,0
+04,Campeche,003,Carmen,3584,San Ramón,*
+04,Campeche,003,Carmen,3585,Santa Zuleyda,*
+04,Campeche,003,Carmen,3588,Santa Bárbara,*
+04,Campeche,003,Carmen,3589,Santa Beatriz,*
+04,Campeche,003,Carmen,3592,Santa Cecilia [Rancho],*
+04,Campeche,003,Carmen,3594,Santa Cruz,*
+04,Campeche,003,Carmen,3599,San Reynaldo,*
+04,Campeche,003,Carmen,3601,Santa Isabel,*
+04,Campeche,003,Carmen,3603,Santa Julia,*
+04,Campeche,003,Carmen,3604,Santa Lucía,1
+04,Campeche,003,Carmen,3607,Santa Mónica,*
+04,Campeche,003,Carmen,3615,El Mirador (La Soledad),*
+04,Campeche,003,Carmen,3622,El Teniente,*
+04,Campeche,003,Carmen,3631,Tres Patines (San José),*
+04,Campeche,003,Carmen,3632,Belén,*
+04,Campeche,003,Carmen,3635,El Triunfo,4
+04,Campeche,003,Carmen,3636,La Unión,*
+04,Campeche,003,Carmen,3637,La Unión,*
+04,Campeche,003,Carmen,3640,La Veleta,0
+04,Campeche,003,Carmen,3642,Venustiano Carranza,1
+04,Campeche,003,Carmen,3643,El Vergel,*
+04,Campeche,003,Carmen,3644,La Victoria,0
+04,Campeche,003,Carmen,3645,La Victoria,*
+04,Campeche,003,Carmen,3648,El Encanto,*
+04,Campeche,003,Carmen,3653,El Aguacate,*
+04,Campeche,003,Carmen,3655,El Cristel,*
+04,Campeche,003,Carmen,3657,La Hormiga,*
+04,Campeche,003,Carmen,3661,Ninguno,*
+04,Campeche,003,Carmen,3662,Ninguno,*
+04,Campeche,003,Carmen,3663,La Llanta Amarilla,*
+04,Campeche,003,Carmen,3664,Ninguno,*
+04,Campeche,003,Carmen,3672,La Esperanza,*
+04,Campeche,003,Carmen,3681,San José,*
+04,Campeche,003,Carmen,3686,Ninguno,*
+04,Campeche,003,Carmen,3687,El Amarillo,*
+04,Campeche,003,Carmen,3692,San Juan,*
+04,Campeche,003,Carmen,3695,Las Garzas,*
+04,Campeche,003,Carmen,3698,El Sacrificio,*
+04,Campeche,003,Carmen,3699,El Tormento,*
+04,Campeche,003,Carmen,3712,Los Manueles,*
+04,Campeche,003,Carmen,3715,Las Palmas,*
+04,Campeche,003,Carmen,3716,Canta Rana,*
+04,Campeche,003,Carmen,3719,El Pez Azul,*
+04,Campeche,003,Carmen,3722,Rancho Nuevo Alto Lucero,0
+04,Campeche,003,Carmen,3732,La Sardina Dorada,*
+04,Campeche,003,Carmen,3734,El Sol,*
+04,Campeche,003,Carmen,3735,El Tamarindo,*
+04,Campeche,003,Carmen,3738,Los Tres Mosqueteros,*
+04,Campeche,003,Carmen,3740,La Unión,*
+04,Campeche,003,Carmen,3759,El Aguacatal [Fracción J],*
+04,Campeche,003,Carmen,3765,Anexo Mina de Oro,*
+04,Campeche,003,Carmen,3768,San Salvador,*
+04,Campeche,003,Carmen,3771,Bahamita Beach,0
+04,Campeche,003,Carmen,3772,El Balazo,*
+04,Campeche,003,Carmen,3781,El Arca,0
+04,Campeche,003,Carmen,3783,Venecia,*
+04,Campeche,003,Carmen,3785,Capricornio,*
+04,Campeche,003,Carmen,3788,El Carellito,*
+04,Campeche,003,Carmen,3789,El Carmen,0
+04,Campeche,003,Carmen,3798,El Cestiadero,*
+04,Campeche,003,Carmen,3804,Los Coquitos,0
+04,Campeche,003,Carmen,3809,Los Cuatro Hermanos,*
+04,Campeche,003,Carmen,3811,El Diamante,*
+04,Campeche,003,Carmen,3814,El Cocoite,*
+04,Campeche,003,Carmen,3818,Erma Esperanza,*
+04,Campeche,003,Carmen,3823,El Faisán,0
+04,Campeche,003,Carmen,3824,Las Flores,*
+04,Campeche,003,Carmen,3827,Las Flores,*
+04,Campeche,003,Carmen,3828,La Guadalupe,0
+04,Campeche,003,Carmen,3832,El Huerto del Edén,*
+04,Campeche,003,Carmen,3834,La Herradura,*
+04,Campeche,003,Carmen,3847,San Antonio,*
+04,Campeche,003,Carmen,3848,La Flor,0
+04,Campeche,003,Carmen,3854,Escalante [Constructora],*
+04,Campeche,003,Carmen,3858,Ninguno,*
+04,Campeche,003,Carmen,3867,Los Laureles,*
+04,Campeche,003,Carmen,3884,Las Gaviotas [Fraccionamiento],0
+04,Campeche,003,Carmen,3885,El Limonal,1
+04,Campeche,003,Carmen,3890,Palma de Mayorca (Macumba),*
+04,Campeche,003,Carmen,3894,San Lorenzo,*
+04,Campeche,003,Carmen,3899,El Milagro,*
+04,Campeche,003,Carmen,3904,El Pedacito,0
+04,Campeche,003,Carmen,3906,Santa Rosa,*
+04,Campeche,003,Carmen,3911,La Pita,*
+04,Campeche,003,Carmen,3914,Playa de la Colonia (La Ensenada),*
+04,Campeche,003,Carmen,3916,El Porvenir,*
+04,Campeche,003,Carmen,3922,El Amanecer,0
+04,Campeche,003,Carmen,3927,Los Laureles [Rastro Ejidal],*
+04,Campeche,003,Carmen,3932,El Regalo,0
+04,Campeche,003,Carmen,3938,Sacrificio,0
+04,Campeche,003,Carmen,3941,El Sacrificio,0
+04,Campeche,003,Carmen,3952,San Cristóbal,*
+04,Campeche,003,Carmen,3953,Los Laureles,*
+04,Campeche,003,Carmen,3958,San José,*
+04,Campeche,003,Carmen,3959,San José del Carmen,*
+04,Campeche,003,Carmen,3962,San Juanito,*
+04,Campeche,003,Carmen,3975,San Paulino,*
+04,Campeche,003,Carmen,3980,San Sebastián,*
+04,Campeche,003,Carmen,3982,San Víctor,1
+04,Campeche,003,Carmen,3983,Santa Cecilia,*
+04,Campeche,003,Carmen,3990,Santa Mónica,*
+04,Campeche,003,Carmen,3992,Santa Rosa,*
+04,Campeche,003,Carmen,4000,El Tauro,*
+04,Campeche,003,Carmen,4006,Tres Hermanos,*
+04,Campeche,003,Carmen,4007,Bravo de Bonfil,*
+04,Campeche,003,Carmen,4008,Las Cruces,*
+04,Campeche,003,Carmen,4011,La Trinidad,*
+04,Campeche,003,Carmen,4012,Tumbo de la Montaña 2,1
+04,Campeche,003,Carmen,4018,Las Yolis,*
+04,Campeche,003,Carmen,4023,Anexo el Reparo,*
+04,Campeche,003,Carmen,4030,San Elpidio [Caseta Fitozoosanitaria],*
+04,Campeche,003,Carmen,4031,El Cocalito,*
+04,Campeche,003,Carmen,4034,El Paraíso,*
+04,Campeche,003,Carmen,4039,Horizonte del Mar,*
+04,Campeche,003,Carmen,4043,Ninguno,*
+04,Campeche,003,Carmen,4051,Donato,*
+04,Campeche,003,Carmen,4061,El Relicario,*
+04,Campeche,003,Carmen,4067,Santa Beatriz (El Tiburón),*
+04,Campeche,003,Carmen,4071,Flamboyanes,*
+04,Campeche,003,Carmen,4077,Ninguno,*
+04,Campeche,003,Carmen,4082,Los Dos Becerros,*
+04,Campeche,003,Carmen,4083,San Juanito,*
+04,Campeche,003,Carmen,4098,Los Tamarindos,0
+04,Campeche,003,Carmen,4114,Bronco,*
+04,Campeche,003,Carmen,4117,Las Tranquitas,*
+04,Campeche,003,Carmen,4121,El Delfín,*
+04,Campeche,003,Carmen,4124,Montana,*
+04,Campeche,003,Carmen,4125,La Ceiba,*
+04,Campeche,003,Carmen,4126,Buenavista,*
+04,Campeche,003,Carmen,4130,El Rosario,*
+04,Campeche,003,Carmen,4133,La Veleta,*
+04,Campeche,003,Carmen,4135,Ninguno,*
+04,Campeche,003,Carmen,4146,Blanca Flor,*
+04,Campeche,003,Carmen,4148,Los Cuatro Hermanos,*
+04,Campeche,003,Carmen,4150,Casa Blanca,*
+04,Campeche,003,Carmen,4153,El Faisán,*
+04,Campeche,003,Carmen,4154,Eje Real,*
+04,Campeche,003,Carmen,4156,Caribal,*
+04,Campeche,003,Carmen,4157,La Huerta,*
+04,Campeche,003,Carmen,4158,La Esperancita,*
+04,Campeche,003,Carmen,4161,José Antonio,*
+04,Campeche,003,Carmen,4165,Ninguno,*
+04,Campeche,003,Carmen,4175,Ranchería Pejelagarto,*
+04,Campeche,003,Carmen,4180,El Guayacán,*
+04,Campeche,003,Carmen,4181,El Oasis,*
+04,Campeche,003,Carmen,4182,El Paraíso,*
+04,Campeche,003,Carmen,4183,Río Verde 1 [Campo Menonita],*
+04,Campeche,003,Carmen,4184,Las Golondrinas,0
+04,Campeche,003,Carmen,4185,Los Pinos,*
+04,Campeche,003,Carmen,4186,Mayaraqui [Grupo Ecoturismo],*
+04,Campeche,003,Carmen,4189,El Sacrificio,*
+04,Campeche,003,Carmen,4191,La Joya,*
+04,Campeche,003,Carmen,4192,La Prosperidad,*
+04,Campeche,003,Carmen,4194,San Felipe,*
+04,Campeche,003,Carmen,4201,Caribe Beach,*
+04,Campeche,003,Carmen,4203,La Mojarra,*
+04,Campeche,003,Carmen,4204,Kilómetro 18,*
+04,Campeche,003,Carmen,4211,Los Rosales,*
+04,Campeche,003,Carmen,4212,Los Alarcones,0
+04,Campeche,003,Carmen,4213,Los Arados,*
+04,Campeche,003,Carmen,4214,Los Encinos,*
+04,Campeche,003,Carmen,4216,Los Mangos,*
+04,Campeche,003,Carmen,4225,Cerrito la Bonita,1
+04,Campeche,003,Carmen,4228,Santa Lucía,*
+04,Campeche,003,Carmen,4231,Tierra Prometida,*
+04,Campeche,003,Carmen,4233,Tortugueros [Restaurante],*
+04,Campeche,003,Carmen,4240,Buganvilias,*
+04,Campeche,003,Carmen,4250,La Palmira,*
+04,Campeche,003,Carmen,4254,La Virgen de Guadalupe Dos,*
+04,Campeche,003,Carmen,4257,Ninguno,*
+04,Campeche,003,Carmen,4268,El Jabalí,*
+04,Campeche,003,Carmen,4272,El Paraíso,*
+04,Campeche,003,Carmen,4275,La Guadalupe,*
+04,Campeche,003,Carmen,4276,La Herradurita,*
+04,Campeche,003,Carmen,4277,La Montañita,*
+04,Campeche,003,Carmen,4280,San Joaquín [Rancho],*
+04,Campeche,003,Carmen,4282,Eben-Ezer,*
+04,Campeche,003,Carmen,4288,Ninguno,*
+04,Campeche,003,Carmen,4292,San Joaquín,*
+04,Campeche,003,Carmen,4299,Nuevo Sitio,*
+04,Campeche,003,Carmen,4301,La Herradura,*
+04,Campeche,003,Carmen,4314,La Vid Verdadera,*
+04,Campeche,003,Carmen,4318,Emmanuel,*
+04,Campeche,003,Carmen,4319,La Colmena,*
+04,Campeche,003,Carmen,4320,La Envidia,*
+04,Campeche,003,Carmen,4321,La Escondida,*
+04,Campeche,003,Carmen,4331,Ninguno,*
+04,Campeche,003,Carmen,4332,La Fé,*
+04,Campeche,003,Carmen,4335,La Lupita,*
+04,Campeche,003,Carmen,4336,Ninguno,*
+04,Campeche,003,Carmen,4346,El As de Oros,*
+04,Campeche,003,Carmen,4348,El Refugio,*
+04,Campeche,003,Carmen,4349,Las Mariposas [Rancho],*
+04,Campeche,003,Carmen,4351,María de la Luz,*
+04,Campeche,003,Carmen,4354,San Joaquín,*
+04,Campeche,003,Carmen,4355,San Juan,*
+04,Campeche,003,Carmen,4358,San Miguel,*
+04,Campeche,003,Carmen,4359,San Miguel,*
+04,Campeche,003,Carmen,4361,San Nicolás,*
+04,Campeche,003,Carmen,4364,El Oasis,*
+04,Campeche,003,Carmen,4365,Ninguno [Vulcanizadora],*
+04,Campeche,003,Carmen,4366,Santa Adelina,*
+04,Campeche,003,Carmen,4373,El Pucteíto,*
+04,Campeche,003,Carmen,4374,El Sacrificio,*
+04,Campeche,003,Carmen,4376,Cuatro Estrellas,*
+04,Campeche,003,Carmen,4377,Las Torcazas,*
+04,Campeche,003,Carmen,4378,Las Varas,*
+04,Campeche,003,Carmen,4385,Tres Palomas,*
+04,Campeche,003,Carmen,4386,Ninguno,*
+04,Campeche,003,Carmen,4393,Ninguno,*
+04,Campeche,003,Carmen,4396,Ninguno,*
+04,Campeche,003,Carmen,4401,Los Tres Hermanos,*
+04,Campeche,003,Carmen,4406,Cuatro Hermanos,*
+04,Campeche,003,Carmen,4408,Barco Hundido,*
+04,Campeche,003,Carmen,4413,El Chaparral,*
+04,Campeche,003,Carmen,4419,El Gran Poder,*
+04,Campeche,003,Carmen,4423,El Siloé (Las Cabañas),*
+04,Campeche,003,Carmen,4427,Floralma,*
+04,Campeche,003,Carmen,4433,Kilómetro Veintiséis y Medio,*
+04,Campeche,003,Carmen,4435,La Lupita,*
+04,Campeche,003,Carmen,4436,El Legado,*
+04,Campeche,003,Carmen,4438,La Veracruzana,*
+04,Campeche,003,Carmen,4444,San Miguel,*
+04,Campeche,003,Carmen,4452,Ninguno,*
+04,Campeche,003,Carmen,4458,Ninguno,*
+04,Campeche,003,Carmen,4467,Las Güeras,*
+04,Campeche,003,Carmen,4468,Ninguno,*
+04,Campeche,003,Carmen,4476,Los Cocales,*
+04,Campeche,003,Carmen,4477,Los Manguitos,*
+04,Campeche,003,Carmen,4478,Los Pishoyes,*
+04,Campeche,003,Carmen,4479,Los Rosales,*
+04,Campeche,003,Carmen,4480,Los Tucanes [Restaurante],*
+04,Campeche,003,Carmen,4483,Las Palmas,*
+04,Campeche,003,Carmen,4486,Rey [Rancho],*
+04,Campeche,003,Carmen,4487,Rancho Chico,*
+04,Campeche,003,Carmen,4492,San Ramón,*
+04,Campeche,003,Carmen,4499,Zacatal [Caseta de Cobro],*
+04,Campeche,003,Carmen,4501,Finca Pital,*
+04,Campeche,003,Carmen,4507,El Dólar,*
+04,Campeche,003,Carmen,4508,El Platanal,*
+04,Campeche,003,Carmen,4511,Franco Dos,*
+04,Campeche,003,Carmen,4513,Isla Aguada,*
+04,Campeche,003,Carmen,4514,Kenia,*
+04,Campeche,003,Carmen,4515,La Cascabel,*
+04,Campeche,003,Carmen,4517,La Doña,*
+04,Campeche,003,Carmen,4518,La Guadalupana,*
+04,Campeche,003,Carmen,4519,Punta del Este [Fraccionamiento],0
+04,Campeche,003,Carmen,4520,La Jungla,*
+04,Campeche,003,Carmen,4521,La Pasadita,*
+04,Campeche,003,Carmen,4522,La Pequeña Propiedad (Las Tres Flores),*
+04,Campeche,003,Carmen,4523,El Abuelo [Rancho],*
+04,Campeche,003,Carmen,4529,Los Pinos,*
+04,Campeche,003,Carmen,4530,Monte Sinaí,*
+04,Campeche,003,Carmen,4533,De Lujo,*
+04,Campeche,003,Carmen,4539,Paso San Juan [Rancho],*
+04,Campeche,003,Carmen,4540,La Alondrita,*
+04,Campeche,003,Carmen,4541,Rodsán [Reserva Ecológica],*
+04,Campeche,003,Carmen,4543,La Finquita [Rancho],*
+04,Campeche,003,Carmen,4545,Montecristo,*
+04,Campeche,003,Carmen,4548,Quinta Monforte,*
+04,Campeche,003,Carmen,4550,San Agustín,*
+04,Campeche,003,Carmen,4551,San Cipriano,*
+04,Campeche,003,Carmen,4552,San Enrique,*
+04,Campeche,003,Carmen,4555,San Miguel,*
+04,Campeche,003,Carmen,4558,Santa Lilia,*
+04,Campeche,003,Carmen,4560,Seis Hermanos,*
+04,Campeche,003,Carmen,4562,Palmicultores del Milenio (Vivero Independencia),*
+04,Campeche,003,Carmen,4563,El Nuevo Mundo,*
+04,Campeche,003,Carmen,4564,La Antorcha,4
+04,Campeche,003,Carmen,4567,Chichí Inés,*
+04,Campeche,003,Carmen,4568,El Cobre,*
+04,Campeche,003,Carmen,4570,El Garañón,*
+04,Campeche,003,Carmen,4572,El Paraíso de Checubul [Restaurante],*
+04,Campeche,003,Carmen,4576,La Rosita,*
+04,Campeche,003,Carmen,4577,Los Cocos,*
+04,Campeche,003,Carmen,4578,Pókar de Reyes,*
+04,Campeche,003,Carmen,4580,San Marcos,*
+04,Campeche,003,Carmen,4581,Xmanok,*
+04,Campeche,003,Carmen,4582,Barajas,*
+04,Campeche,003,Carmen,4584,Cuatro Hermanos,*
+04,Campeche,003,Carmen,4585,El Cáliz,*
+04,Campeche,003,Carmen,4589,El Ranchito,*
+04,Campeche,003,Carmen,4592,Las 3 Rosas,*
+04,Campeche,003,Carmen,4593,La Ilusión Ranchera,*
+04,Campeche,003,Carmen,4594,Colonché,*
+04,Campeche,003,Carmen,4598,El 290 [Rancho],*
+04,Campeche,003,Carmen,4599,Los Dos Potrillos,*
+04,Campeche,003,Carmen,4602,Poquito a Poco,*
+04,Campeche,003,Carmen,4603,Los Leones,*
+04,Campeche,003,Carmen,4604,El Caribe,*
+04,Campeche,003,Carmen,4605,El Compadre [Rancho],*
+04,Campeche,003,Carmen,4607,El Arenal,*
+04,Campeche,003,Carmen,4609,El Pargo,*
+04,Campeche,003,Carmen,4610,El Ranchito,*
+04,Campeche,003,Carmen,4612,Ninguno [Palapa],*
+04,Campeche,003,Carmen,4613,Ninguno [Palapas],*
+04,Campeche,003,Carmen,4615,Ninguno [Rancho],0
+04,Campeche,003,Carmen,4616,Quinta Aquino,*
+04,Campeche,003,Carmen,4617,Shi-Bralito,*
+04,Campeche,003,Carmen,4618,La Ceniza,*
+04,Campeche,003,Carmen,4622,La Playita,*
+04,Campeche,003,Carmen,4623,Chemitas Beach,*
+04,Campeche,003,Carmen,4624,Cocoyol,*
+04,Campeche,003,Carmen,4625,Santa Rita,*
+04,Campeche,003,Carmen,4627,La Guadalupe,*
+04,Campeche,003,Carmen,4628,La Granjita,*
+04,Campeche,003,Carmen,4629,Río Verde 8 [Campo Menonita],*
+04,Campeche,003,Carmen,4630,Los Cedros,*
+04,Campeche,003,Carmen,4631,La Corraleta,*
+04,Campeche,003,Carmen,4632,Bella Mar,*
+04,Campeche,003,Carmen,4634,Río Verde 9 [Campo Menonita],0
+04,Campeche,003,Carmen,4635,La Concepción,*
+04,Campeche,003,Carmen,4637,Ninguno [Criadero de Mojarras],*
+04,Campeche,003,Carmen,4638,Villa Vista Delfín,0
+04,Campeche,003,Carmen,4639,Río Verde 12 [Campo Menonita],*
+04,Campeche,003,Carmen,4640,El Naranjo,*
+04,Campeche,003,Carmen,4642,San Juanito,0
+04,Campeche,003,Carmen,4643,Lucas Hernández,*
+04,Campeche,003,Carmen,4644,Río Verde 10 [Campo Menonita],0
+04,Campeche,003,Carmen,4645,Río Verde 2 [Campo Menonita],2
+04,Campeche,003,Carmen,4646,El Triángulo,*
+04,Campeche,003,Carmen,4648,El Güero,*
+04,Campeche,003,Carmen,4649,Río Verde 3 [Campo Menonita],0
+04,Campeche,003,Carmen,4650,El Almendro,*
+04,Campeche,003,Carmen,4652,Río Verde 5 [Campo Menonita],*
+04,Campeche,003,Carmen,4653,Dios es Grande,*
+04,Campeche,003,Carmen,4654,Río Verde 4 [Campo Menonita],0
+04,Campeche,003,Carmen,4655,El Platanal,*
+04,Campeche,003,Carmen,4657,Esmeralda,*
+04,Campeche,003,Carmen,4659,Don Andrés,*
+04,Campeche,003,Carmen,4660,La Primavera,*
+04,Campeche,003,Carmen,4661,Santa Rosa,*
+04,Campeche,003,Carmen,4662,Las Cuatro Hermanas,*
+04,Campeche,003,Carmen,4663,El Doce,*
+04,Campeche,003,Carmen,4664,Israel,*
+04,Campeche,003,Carmen,4665,La Abeja,*
+04,Campeche,003,Carmen,4666,La Palapa,*
+04,Campeche,003,Carmen,4667,Las Palmas [Rancho],*
+04,Campeche,003,Carmen,4668,Polkay 2 [Rancho],*
+04,Campeche,003,Carmen,4670,Monte de Inn,*
+04,Campeche,003,Carmen,4671,Tortugas 2,*
+04,Campeche,003,Carmen,4672,La Jacaranda,*
+04,Campeche,003,Carmen,4673,El Póker,*
+04,Campeche,003,Carmen,4674,La Ceiba,*
+04,Campeche,003,Carmen,4675,Dos Potrillos,*
+04,Campeche,003,Carmen,4676,Don Mundo [Rancho],*
+04,Campeche,003,Carmen,4677,Chan Rosado,*
+04,Campeche,003,Carmen,4678,La Almendra,*
+04,Campeche,003,Carmen,4679,La Palmita,*
+04,Campeche,003,Carmen,4680,La Flor del Amaranto 2,*
+04,Campeche,003,Carmen,4682,El Paso 2,*
+04,Campeche,003,Carmen,4683,La Noria,*
+04,Campeche,003,Carmen,4684,Las Gemelas II,*
+04,Campeche,003,Carmen,9998,Localidades de una vivienda,27
+04,Campeche,003,Carmen,9999,Localidades de dos viviendas,5
+04,Campeche,004,Champotón,0000,Total del Municipio,2221
+04,Campeche,004,Champotón,0001,Champotón,1296
+04,Campeche,004,Champotón,0003,López Mateos (La Desconfianza),24
+04,Campeche,004,Champotón,0004,Arellano,18
+04,Campeche,004,Champotón,0005,Canasayab,3
+04,Campeche,004,Champotón,0010,Aquiles Serdán (Chuiná),30
+04,Campeche,004,Champotón,0012,Profesor Graciano Sánchez,13
+04,Campeche,004,Champotón,0014,Hool,26
+04,Campeche,004,Champotón,0016,La Joya,25
+04,Campeche,004,Champotón,0017,Ciudad del Sol,18
+04,Campeche,004,Champotón,0019,Moquel,16
+04,Campeche,004,Champotón,0021,La Noria,1
+04,Campeche,004,Champotón,0024,San Pablo Pixtún,43
+04,Campeche,004,Champotón,0027,Pustunich,10
+04,Campeche,004,Champotón,0028,Revolución,17
+04,Campeche,004,Champotón,0030,San Antonio Teop,0
+04,Campeche,004,Champotón,0033,San Juan Carpizo,1
+04,Campeche,004,Champotón,0034,San Pablo,*
+04,Campeche,004,Champotón,0036,Sihochac,107
+04,Campeche,004,Champotón,0038,Santa Cruz de Rovira,6
+04,Campeche,004,Champotón,0043,Vicente Guerrero,12
+04,Campeche,004,Champotón,0044,Villa de Guadalupe,5
+04,Campeche,004,Champotón,0047,Xbacab,57
+04,Campeche,004,Champotón,0050,San Antonio Yacasay,2
+04,Campeche,004,Champotón,0051,Yohaltún,21
+04,Campeche,004,Champotón,0052,El Zapote,2
+04,Campeche,004,Champotón,0062,San José Carpizo Uno (San Fernando),10
+04,Campeche,004,Champotón,0063,San José Carpizo Dos,1
+04,Campeche,004,Champotón,0082,Ulumal,18
+04,Campeche,004,Champotón,0085,La Fraternidad,*
+04,Campeche,004,Champotón,0086,Dzacabuchén,1
+04,Campeche,004,Champotón,0087,San Isidro,*
+04,Campeche,004,Champotón,0089,Chac Chaito,8
+04,Campeche,004,Champotón,0091,Ley Federal de Reforma Agraria,53
+04,Campeche,004,Champotón,0111,La Perseverancia,*
+04,Campeche,004,Champotón,0115,Ah-Kim-Pech,3
+04,Campeche,004,Champotón,0125,Buenaventura,1
+04,Campeche,004,Champotón,0130,Cañaveral,8
+04,Campeche,004,Champotón,0132,El Caporal,*
+04,Campeche,004,Champotón,0140,Chilam Balam,7
+04,Campeche,004,Champotón,0155,Santa Martha,*
+04,Campeche,004,Champotón,0166,La Estrella,*
+04,Campeche,004,Champotón,0191,Maya Tecún I,12
+04,Campeche,004,Champotón,0192,Maya Tecún II,17
+04,Campeche,004,Champotón,0195,Kukulkán,7
+04,Campeche,004,Champotón,0197,La Victoria,*
+04,Campeche,004,Champotón,0208,Santa Clara,*
+04,Campeche,004,Champotón,0218,Nayarit Castellot,3
+04,Campeche,004,Champotón,0220,López Portillo Número 2,1
+04,Campeche,004,Champotón,0232,Playa Azul,*
+04,Campeche,004,Champotón,0233,El Porvenir,6
+04,Campeche,004,Champotón,0237,El Fénix [Trituradora y Fábrica de Block],*
+04,Campeche,004,Champotón,0239,Nueva Esperanza Número 2 (Santo Domingo),4
+04,Campeche,004,Champotón,0241,La Aguada,*
+04,Campeche,004,Champotón,0243,San Antonio del Río,5
+04,Campeche,004,Champotón,0244,San Felipe Zakakal,*
+04,Campeche,004,Champotón,0249,San Eduardo,*
+04,Campeche,004,Champotón,0256,San Miguel,0
+04,Campeche,004,Champotón,0258,San Marcos,*
+04,Campeche,004,Champotón,0262,Santa Anita [Rancho],*
+04,Campeche,004,Champotón,0268,Santa Fe,*
+04,Campeche,004,Champotón,0271,Santa Teresita,*
+04,Campeche,004,Champotón,0275,Santa Cruz,*
+04,Campeche,004,Champotón,0307,Valle Hermoso,*
+04,Campeche,004,Champotón,0408,Santa Rosalía,*
+04,Campeche,004,Champotón,0416,Monte Alegre,*
+04,Campeche,004,Champotón,0418,Santa Isabel,*
+04,Campeche,004,Champotón,0419,Zacatecas Palmar,*
+04,Campeche,004,Champotón,0423,Monte Bravo,*
+04,Campeche,004,Champotón,0425,Guayajaca,*
+04,Campeche,004,Champotón,0430,Doña Lourdes,*
+04,Campeche,004,Champotón,0432,Carrillo Puerto,98
+04,Campeche,004,Champotón,0436,El Esfuerzo,*
+04,Campeche,004,Champotón,0437,San Isidro,*
+04,Campeche,004,Champotón,0442,Cinco de Febrero,16
+04,Campeche,004,Champotón,0448,Pixoyal,12
+04,Campeche,004,Champotón,0451,El Papalote [Rancho],*
+04,Campeche,004,Champotón,0453,Nueva Esperanza Uno (San Miguel Tobías),2
+04,Campeche,004,Champotón,0467,Marisol,*
+04,Campeche,004,Champotón,0496,Santa Rosa,*
+04,Campeche,004,Champotón,0497,El Tábano,*
+04,Campeche,004,Champotón,0500,Santa Clara,*
+04,Campeche,004,Champotón,0505,Dzubec,*
+04,Campeche,004,Champotón,0506,San José,*
+04,Campeche,004,Champotón,0515,San Gabriel,*
+04,Campeche,004,Champotón,0519,Santa Enriqueta,*
+04,Campeche,004,Champotón,0520,La Malinche,*
+04,Campeche,004,Champotón,0521,Villamar,12
+04,Campeche,004,Champotón,0526,Niop,*
+04,Campeche,004,Champotón,0529,Dimar,*
+04,Campeche,004,Champotón,0537,Seis Hermanos II,*
+04,Campeche,004,Champotón,0538,Seis Hermanos,*
+04,Campeche,004,Champotón,0564,Santo Domingo Kesté,85
+04,Campeche,004,Champotón,0570,La Joya,*
+04,Campeche,004,Champotón,0571,El Santuario,*
+04,Campeche,004,Champotón,0572,La Isla,*
+04,Campeche,004,Champotón,0582,Vomal,*
+04,Campeche,004,Champotón,0594,San Arturo,*
+04,Campeche,004,Champotón,0603,El Sauce,*
+04,Campeche,004,Champotón,0615,La Esperanza,*
+04,Campeche,004,Champotón,0637,Coronel Ortiz Ávila,0
+04,Campeche,004,Champotón,0641,Yacamex,*
+04,Campeche,004,Champotón,0642,Valle de Quetzalcóatl,4
+04,Campeche,004,Champotón,1603,Miguel Colorado,11
+04,Campeche,004,Champotón,1610,General Ortiz Ávila,6
+04,Campeche,004,Champotón,1614,Carlos Salinas de Gortari,3
+04,Campeche,004,Champotón,1615,Lázaro Cárdenas,1
+04,Campeche,004,Champotón,1618,Moch Cohuó,2
+04,Campeche,004,Champotón,1644,San Esteban,*
+04,Campeche,004,Champotón,1649,Los Jabines Uno,*
+04,Campeche,004,Champotón,1680,Los Almendros,0
+04,Campeche,004,Champotón,1690,El Cedro,*
+04,Campeche,004,Champotón,1696,El Copo,*
+04,Campeche,004,Champotón,1699,La Cuchilla,*
+04,Campeche,004,Champotón,1701,Dzitbalché Castellot,2
+04,Campeche,004,Champotón,1711,Los Pineda,*
+04,Campeche,004,Champotón,1712,Hermanos Vázquez,*
+04,Campeche,004,Champotón,1721,La Curva,*
+04,Campeche,004,Champotón,1726,Rancho Solo,0
+04,Campeche,004,Champotón,1734,Ninguno,*
+04,Campeche,004,Champotón,1744,El Garañón,*
+04,Campeche,004,Champotón,1754,José María Morelos y Pavón,15
+04,Campeche,004,Champotón,1757,El Laurel,*
+04,Campeche,004,Champotón,1763,Ignacio López Rayón,3
+04,Campeche,004,Champotón,1764,La Providencia,0
+04,Campeche,004,Champotón,1765,Miguel Allende,10
+04,Campeche,004,Champotón,1766,Nuevo Paraíso [Módulo],1
+04,Campeche,004,Champotón,1772,Nuevo San Luis,*
+04,Campeche,004,Champotón,1779,La Esmeralda (El Pimental),*
+04,Campeche,004,Champotón,1781,Los Platanitos [Rancho],*
+04,Campeche,004,Champotón,1786,PRONAGRA,*
+04,Campeche,004,Champotón,1787,Punta Xen,2
+04,Campeche,004,Champotón,1794,La Perseverancia Dos,*
+04,Campeche,004,Champotón,1796,San Antonio (Jaguactal),*
+04,Campeche,004,Champotón,1801,Santa Camila,*
+04,Campeche,004,Champotón,1806,San José la Huerta (San José),*
+04,Campeche,004,Champotón,1807,Santa Cecilia,*
+04,Campeche,004,Champotón,1812,Nohan (San Pablito),0
+04,Campeche,004,Champotón,1849,La Carolina,*
+04,Campeche,004,Champotón,1850,Los Laureles,*
+04,Campeche,004,Champotón,1856,Niche,*
+04,Campeche,004,Champotón,1857,Los Laureles,*
+04,Campeche,004,Champotón,1862,San Pedro,*
+04,Campeche,004,Champotón,1867,Las Delicias,*
+04,Campeche,004,Champotón,1876,El Milagro de San Ignacio,*
+04,Campeche,004,Champotón,1878,Ninguno,*
+04,Campeche,004,Champotón,1886,San Martín,*
+04,Campeche,004,Champotón,1889,Covadonga,*
+04,Campeche,004,Champotón,1896,El Paraíso,*
+04,Campeche,004,Champotón,1907,El Platanito,*
+04,Campeche,004,Champotón,1916,La Guadalupe [Playa],0
+04,Campeche,004,Champotón,1921,La Gloria,*
+04,Campeche,004,Champotón,1927,Santa Fe,*
+04,Campeche,004,Champotón,1941,El Ceibo [Rancho],*
+04,Campeche,004,Champotón,1943,El Portugués,*
+04,Campeche,004,Champotón,1956,Cuatro Caminos,*
+04,Campeche,004,Champotón,1962,La Herradura,*
+04,Campeche,004,Champotón,1967,Las Minas,*
+04,Campeche,004,Champotón,1968,Santa Ana [Mirador],*
+04,Campeche,004,Champotón,1969,Las Piedras [Desarrollo Ganadero],*
+04,Campeche,004,Champotón,1979,San Gabriel,*
+04,Campeche,004,Champotón,1988,Lucerito,*
+04,Campeche,004,Champotón,1991,El Águila Real,*
+04,Campeche,004,Champotón,1994,La Azteca,*
+04,Campeche,004,Champotón,1996,Las Cabañas,*
+04,Campeche,004,Champotón,1997,El Capricho,*
+04,Campeche,004,Champotón,2002,Aquiles Serdán [Vivero Forestal],*
+04,Campeche,004,Champotón,2004,La Champa,*
+04,Campeche,004,Champotón,2012,El Gallo,*
+04,Campeche,004,Champotón,2013,El Gavilán,*
+04,Campeche,004,Champotón,2014,El Huerto de Noel,*
+04,Campeche,004,Champotón,2045,Don Porfirio,*
+04,Campeche,004,Champotón,2046,Los Potrillos,*
+04,Campeche,004,Champotón,2050,Ninguno,*
+04,Campeche,004,Champotón,2053,Ninguno,*
+04,Campeche,004,Champotón,2066,Los Guajes,*
+04,Campeche,004,Champotón,2071,Zacatecas,*
+04,Campeche,004,Champotón,2075,El Jabalí,*
+04,Campeche,004,Champotón,2082,Los Manguitos,*
+04,Campeche,004,Champotón,2099,El Retorno,*
+04,Campeche,004,Champotón,2102,Los Rosales,*
+04,Campeche,004,Champotón,2125,El Silencio (El Gringo),*
+04,Campeche,004,Champotón,2127,Los Tamarindos,*
+04,Campeche,004,Champotón,2130,Nah Há (Casa de Agua),*
+04,Campeche,004,Champotón,2148,Villa de las Flores,3
+04,Campeche,004,Champotón,2155,Esmeralda,*
+04,Campeche,004,Champotón,2157,Nuevo Michoacán,1
+04,Campeche,004,Champotón,2158,El Manglar,*
+04,Campeche,004,Champotón,2162,San José,*
+04,Campeche,004,Champotón,2164,El Verdín,*
+04,Campeche,004,Champotón,2166,La Colilla,*
+04,Campeche,004,Champotón,2167,Las Cruces,*
+04,Campeche,004,Champotón,2169,La Gloria,*
+04,Campeche,004,Champotón,2174,Ninguno,*
+04,Campeche,004,Champotón,2176,Nissi,2
+04,Campeche,004,Champotón,2180,San Ignacio,*
+04,Campeche,004,Champotón,2186,Kilómetro Ciento Diecinueve,*
+04,Campeche,004,Champotón,2192,Yaxnik,*
+04,Campeche,004,Champotón,2199,El Aguaje,*
+04,Campeche,004,Champotón,2203,El Cocoyol,*
+04,Campeche,004,Champotón,2209,Santa Rosita,*
+04,Campeche,004,Champotón,2233,El Charrito,*
+04,Campeche,004,Champotón,2234,La Microonda,*
+04,Campeche,004,Champotón,2238,El Borrado,*
+04,Campeche,004,Champotón,2240,Machi,*
+04,Campeche,004,Champotón,2245,El Texano,*
+04,Campeche,004,Champotón,2247,Kilómetro Sesenta y Siete (Venustiano Carranza),5
+04,Campeche,004,Champotón,2248,La Conchita,*
+04,Campeche,004,Champotón,2249,La Esperanza,3
+04,Campeche,004,Champotón,2251,José Juárez [Rancho],*
+04,Campeche,004,Champotón,2256,Ninguno,*
+04,Campeche,004,Champotón,2260,Ninguno,*
+04,Campeche,004,Champotón,2266,Don Arturo,*
+04,Campeche,004,Champotón,2269,Los Naranjos,*
+04,Campeche,004,Champotón,2270,Monte de Horeb,*
+04,Campeche,004,Champotón,2273,Roma,*
+04,Campeche,004,Champotón,2275,El Sacrificio,*
+04,Campeche,004,Champotón,2290,El Rejoyal,*
+04,Campeche,004,Champotón,2302,El Cristo,*
+04,Campeche,004,Champotón,2312,Ninguno,*
+04,Campeche,004,Champotón,2314,Los Corderos,*
+04,Campeche,004,Champotón,2319,Las Carolinas,*
+04,Campeche,004,Champotón,2325,Ninguno,*
+04,Campeche,004,Champotón,2345,San Enrique,*
+04,Campeche,004,Champotón,2346,Piamonte,*
+04,Campeche,004,Champotón,2350,La Selva,0
+04,Campeche,004,Champotón,2351,Chuiná [Vivero Ex-Militar],*
+04,Campeche,004,Champotón,2356,Tres de Mayo,0
+04,Campeche,004,Champotón,2359,Peniel [Rancho],*
+04,Campeche,004,Champotón,2361,Rancho Maya,*
+04,Campeche,004,Champotón,2362,Los Álamos,*
+04,Campeche,004,Champotón,2367,El Manantial,*
+04,Campeche,004,Champotón,2368,El Verdín 2,*
+04,Campeche,004,Champotón,2372,La Guadalupe,*
+04,Campeche,004,Champotón,2376,Las Glorias,*
+04,Campeche,004,Champotón,2381,Ninguno,*
+04,Campeche,004,Champotón,2385,El Jarocho [Rancho],*
+04,Campeche,004,Champotón,2393,La Luz,*
+04,Campeche,004,Champotón,2397,El Cedro,*
+04,Campeche,004,Champotón,2400,Dos Hermanos,*
+04,Campeche,004,Champotón,2405,La Sabana [Rancho],*
+04,Campeche,004,Champotón,2413,Los Mangos [Rancho],*
+04,Campeche,004,Champotón,2414,La Herradura,*
+04,Campeche,004,Champotón,2415,San Isidro,*
+04,Campeche,004,Champotón,2423,María Bonita,*
+04,Campeche,004,Champotón,2426,La Fortaleza,*
+04,Campeche,004,Champotón,2433,Jireh,*
+04,Campeche,004,Champotón,2436,La Perla Dos,*
+04,Campeche,004,Champotón,2439,Los Manguitos Dos,*
+04,Campeche,004,Champotón,2444,Ninguno,*
+04,Campeche,004,Champotón,2446,Ninguno,*
+04,Campeche,004,Champotón,2448,Nuevo Río Verdito,*
+04,Campeche,004,Champotón,2450,San Juan,*
+04,Campeche,004,Champotón,2451,San Juan de los Ángeles,*
+04,Campeche,004,Champotón,2452,Santa Natalia,*
+04,Campeche,004,Champotón,2456,Los Dos Cerros,*
+04,Campeche,004,Champotón,2460,El Huiro,*
+04,Campeche,004,Champotón,2461,Kilómetro 31 [Rancho],*
+04,Campeche,004,Champotón,2467,La Bendición,*
+04,Campeche,004,Champotón,2468,Las Tres Cruces,*
+04,Campeche,004,Champotón,2470,San Miguel,*
+04,Campeche,004,Champotón,2472,El Platanar [Rancho],*
+04,Campeche,004,Champotón,2474,Ninguno [Manuel Reyes],*
+04,Campeche,004,Champotón,2477,La Lupita,*
+04,Campeche,004,Champotón,2479,Los Gavilanes [Rancho],*
+04,Campeche,004,Champotón,2481,El Compa Chuy,*
+04,Campeche,004,Champotón,2483,La Chingada [Rancho],*
+04,Campeche,004,Champotón,2484,Los Cascabeles [Rancho],*
+04,Campeche,004,Champotón,2485,Los Reyes,*
+04,Campeche,004,Champotón,2486,Trujillo,*
+04,Campeche,004,Champotón,2487,Efraín [Rancho],*
+04,Campeche,004,Champotón,2489,El Portón Rojo [Rancho],*
+04,Campeche,004,Champotón,2490,Las Granjas [Rancho],*
+04,Campeche,004,Champotón,2491,Rancho Alegre,*
+04,Campeche,004,Champotón,2493,San Lorenzo [Rancho],*
+04,Campeche,004,Champotón,2494,San Nicolás de las Garzas [Rancho],*
+04,Campeche,004,Champotón,2497,Ninguno [Rancho],*
+04,Campeche,004,Champotón,2498,San Antonio,*
+04,Campeche,004,Champotón,2499,El Brisantha,*
+04,Campeche,004,Champotón,2500,Ysabel,*
+04,Campeche,004,Champotón,2502,El Jabalí,*
+04,Campeche,004,Champotón,2503,Las Bugambilias,*
+04,Campeche,004,Champotón,2504,Santa Rosita,*
+04,Campeche,004,Champotón,2505,El Rosay,*
+04,Campeche,004,Champotón,2506,Ninguno [Rancho],*
+04,Campeche,004,Champotón,2507,La Granja,*
+04,Campeche,004,Champotón,2508,Ninguno [Rancho],*
+04,Campeche,004,Champotón,2509,La Guadalupe,*
+04,Campeche,004,Champotón,2510,El Retiro,*
+04,Campeche,004,Champotón,2511,El Palmero [Rancho],*
+04,Campeche,004,Champotón,2512,San José,*
+04,Campeche,004,Champotón,2513,El Guerrerense,*
+04,Campeche,004,Champotón,2514,La Victoria,*
+04,Campeche,004,Champotón,2517,La Fortaleza,*
+04,Campeche,004,Champotón,9998,Localidades de una vivienda,2
+04,Campeche,004,Champotón,9999,Localidades de dos viviendas,2
+04,Campeche,005,Hecelchakán,0000,Total del Municipio,1387
+04,Campeche,005,Hecelchakán,0001,Hecelchakán,655
+04,Campeche,005,Hecelchakán,0002,Cumpich,39
+04,Campeche,005,Hecelchakán,0003,Chunkanán,25
+04,Campeche,005,Hecelchakán,0004,Dzitnup,44
+04,Campeche,005,Hecelchakán,0005,Nohalal,19
+04,Campeche,005,Hecelchakán,0006,Pocboc,63
+04,Campeche,005,Hecelchakán,0007,Pomuch,429
+04,Campeche,005,Hecelchakán,0008,Santa Cruz,71
+04,Campeche,005,Hecelchakán,0009,Zodzil,24
+04,Campeche,005,Hecelchakán,0011,Dzotchén,4
+04,Campeche,005,Hecelchakán,0028,Montebello,6
+04,Campeche,005,Hecelchakán,0032,San Elías,*
+04,Campeche,005,Hecelchakán,0045,Yalnón [Campo Menonita],2
+04,Campeche,005,Hecelchakán,0046,Chaví Número Uno [Campo Menonita],0
+04,Campeche,005,Hecelchakán,0057,San Felipe Tikín,*
+04,Campeche,005,Hecelchakán,0065,Blanca Flor,6
+04,Campeche,005,Hecelchakán,0075,Santa Martha,*
+04,Campeche,005,Hecelchakán,0080,San Rafael,*
+04,Campeche,005,Hecelchakán,0091,Las Estrellas,*
+04,Campeche,005,Hecelchakán,0092,Chaví Número Dos [Campo Menonita],0
+04,Campeche,005,Hecelchakán,0103,San Juan de la Gorra,0
+04,Campeche,005,Hecelchakán,0114,Ninguno,*
+04,Campeche,005,Hecelchakán,0115,Ninguno,*
+04,Campeche,005,Hecelchakán,0124,Campo Menonita Yalnón Número Nueve,0
+04,Campeche,005,Hecelchakán,0125,Crucero de los Cedros,*
+04,Campeche,005,Hecelchakán,0126,Granjas Uno,*
+04,Campeche,005,Hecelchakán,0128,San Javier,*
+04,Campeche,005,Hecelchakán,9998,Localidades de una vivienda,0
+04,Campeche,005,Hecelchakán,9999,Localidades de dos viviendas,0
+04,Campeche,006,Hopelchén,0000,Total del Municipio,1180
+04,Campeche,006,Hopelchén,0001,Hopelchén,396
+04,Campeche,006,Hopelchén,0002,Becanchén,26
+04,Campeche,006,Hopelchén,0003,Bolonchén de Rejón,127
+04,Campeche,006,Hopelchén,0006,Crucero San Luis,23
+04,Campeche,006,Hopelchén,0007,Chan-Chen,3
+04,Campeche,006,Hopelchén,0008,Chencoh,15
+04,Campeche,006,Hopelchén,0013,Chuncedro,*
+04,Campeche,006,Hopelchén,0014,Chun-Ek,2
+04,Campeche,006,Hopelchén,0015,Chunchintok,26
+04,Campeche,006,Hopelchén,0017,Chunyaxnic,8
+04,Campeche,006,Hopelchén,0019,Dzibalchén,92
+04,Campeche,006,Hopelchén,0020,Francisco J. Mújica (Los Ucán),1
+04,Campeche,006,Hopelchén,0023,Vicente Guerrero,97
+04,Campeche,006,Hopelchén,0024,Ich-Ek,42
+04,Campeche,006,Hopelchén,0026,Cancabchén,21
+04,Campeche,006,Hopelchén,0027,Katab,19
+04,Campeche,006,Hopelchén,0029,Komchén,15
+04,Campeche,006,Hopelchén,0032,Pachuitz,9
+04,Campeche,006,Hopelchén,0033,Pakchén,5
+04,Campeche,006,Hopelchén,0037,Ramón Corona,4
+04,Campeche,006,Hopelchén,0041,San Antonio Yaxché,7
+04,Campeche,006,Hopelchén,0043,San Juan Bautista Sahcabchén,17
+04,Campeche,006,Hopelchén,0045,Rancho Sosa,*
+04,Campeche,006,Hopelchén,0046,Suc-Tuc,30
+04,Campeche,006,Hopelchén,0047,Xcanahaltún Huechil Unidos,10
+04,Campeche,006,Hopelchén,0048,Ukum,47
+04,Campeche,006,Hopelchén,0049,Xcalot Akal,3
+04,Campeche,006,Hopelchén,0050,El Poste,12
+04,Campeche,006,Hopelchén,0053,Xculoc,12
+04,Campeche,006,Hopelchén,0054,Xcupil,24
+04,Campeche,006,Hopelchén,0056,X-Canhá,7
+04,Campeche,006,Hopelchén,0057,Xmabén,46
+04,Campeche,006,Hopelchén,0058,Xmejía,17
+04,Campeche,006,Hopelchén,0062,Yaxché Akal,3
+04,Campeche,006,Hopelchén,0156,Chayil,*
+04,Campeche,006,Hopelchén,0254,San Isidro,*
+04,Campeche,006,Hopelchén,0276,Salomé,*
+04,Campeche,006,Hopelchén,0300,El Pedregal,3
+04,Campeche,006,Hopelchén,0303,Ucuchil Ex-Hacienda,*
+04,Campeche,006,Hopelchén,0319,X-Panzil,*
+04,Campeche,006,Hopelchén,0330,Nuevo Progreso Campo Uno,0
+04,Campeche,006,Hopelchén,0331,Nuevo Progreso Campo Dos,0
+04,Campeche,006,Hopelchén,0332,Nuevo Progreso Campo Tres,0
+04,Campeche,006,Hopelchén,0333,Nuevo Progreso Campo Seis,0
+04,Campeche,006,Hopelchén,0339,Noh-Há,*
+04,Campeche,006,Hopelchén,0536,Halchankán,*
+04,Campeche,006,Hopelchén,0568,Nuevo Progreso Campo Cinco,0
+04,Campeche,006,Hopelchén,0569,Nuevo Progreso Campo Siete,2
+04,Campeche,006,Hopelchén,0570,Nuevo Progreso Campo Cuatro,1
+04,Campeche,006,Hopelchén,0587,El Xuch,*
+04,Campeche,006,Hopelchén,0611,Ninguno,*
+04,Campeche,006,Hopelchén,0672,Nuevo Progreso Campo Ocho,1
+04,Campeche,006,Hopelchén,0673,Nuevo Progreso Campo Nueve,0
+04,Campeche,006,Hopelchén,0674,Nuevo Progreso Campo Díez,0
+04,Campeche,006,Hopelchén,0675,Nuevo Progreso Campo Doce,0
+04,Campeche,006,Hopelchén,0710,Santa Elvira,*
+04,Campeche,006,Hopelchén,0720,Barco-Haltún (Dos Cruces),*
+04,Campeche,006,Hopelchén,0727,Comac Construcciones [Quebradora],*
+04,Campeche,006,Hopelchén,0730,Longoria [Empresa],*
+04,Campeche,006,Hopelchén,0734,La Herradura,*
+04,Campeche,006,Hopelchén,0737,San Bernardo Huechil,*
+04,Campeche,006,Hopelchén,0744,Las Palmas,*
+04,Campeche,006,Hopelchén,0748,San Judas Tadeo,*
+04,Campeche,006,Hopelchén,0761,Nuevo Progreso Campo Once,0
+04,Campeche,006,Hopelchén,0763,Xbilincoc,1
+04,Campeche,006,Hopelchén,0766,Nuevo Chan Yaxché,0
+04,Campeche,006,Hopelchén,0769,Las Flores Cinco,0
+04,Campeche,006,Hopelchén,0770,Las Flores Cuatro,0
+04,Campeche,006,Hopelchén,0771,Las Flores Dos,0
+04,Campeche,006,Hopelchén,0772,Las Flores Tres,0
+04,Campeche,006,Hopelchén,0773,Las Flores Uno,0
+04,Campeche,006,Hopelchén,0780,La Nueva Trinidad Campo 2,0
+04,Campeche,006,Hopelchén,0781,La Nueva Trinidad Campo 3,0
+04,Campeche,006,Hopelchén,0782,La Nueva Trinidad Campo 1,1
+04,Campeche,006,Hopelchén,0783,Nuevo Durango Campo 2,0
+04,Campeche,006,Hopelchén,0784,Nuevo Durango Campo 1,0
+04,Campeche,006,Hopelchén,0785,Las Palmas Dos,0
+04,Campeche,006,Hopelchén,0786,Las Palmas Uno,0
+04,Campeche,006,Hopelchén,0794,El Temporal Campo 5,0
+04,Campeche,006,Hopelchén,0795,El Temporal Cuatro,0
+04,Campeche,006,Hopelchén,0796,El Temporal Campo 2,0
+04,Campeche,006,Hopelchén,0797,El Temporal Campo 3,0
+04,Campeche,006,Hopelchén,0798,El Temporal Campo 1,0
+04,Campeche,006,Hopelchén,0799,La Guadalupe,*
+04,Campeche,006,Hopelchén,0800,Santa Rosa [Campo Menonita],0
+04,Campeche,006,Hopelchén,0815,Las Flores Seis,0
+04,Campeche,006,Hopelchén,0816,El Pinzán,*
+04,Campeche,006,Hopelchén,0819,Nuevo Durango Campo 3,0
+04,Campeche,006,Hopelchén,0820,Nuevo Durango Campo 4,0
+04,Campeche,006,Hopelchén,0835,Santa Fe Dos,0
+04,Campeche,006,Hopelchén,0836,Campo Menonita Número Catorce,0
+04,Campeche,006,Hopelchén,0837,Campo Menonita Número Dieciséis,1
+04,Campeche,006,Hopelchén,0838,Campo Menonita Número Quince,0
+04,Campeche,006,Hopelchén,0840,Diego Maldonado,*
+04,Campeche,006,Hopelchén,0844,Nueva Trinidad Cuatro,0
+04,Campeche,006,Hopelchén,0845,Nuevo Durango Campo 5,0
+04,Campeche,006,Hopelchén,0846,Nuevo Durango Campo 6,1
+04,Campeche,006,Hopelchén,0847,Nuevo Durango Siete,0
+04,Campeche,006,Hopelchén,0848,Palmas Cuatro,1
+04,Campeche,006,Hopelchén,0849,Temporal Seis,0
+04,Campeche,006,Hopelchén,0854,Nueva Trinidad Cinco,0
+04,Campeche,006,Hopelchén,0859,Las Palmas 8,0
+04,Campeche,006,Hopelchén,0860,El Edén,*
+04,Campeche,006,Hopelchén,0861,La Fogata de Zapata,*
+04,Campeche,006,Hopelchén,0862,El Temporal Siete,0
+04,Campeche,006,Hopelchén,0864,La Chingada,*
+04,Campeche,006,Hopelchén,0865,La Estrella,0
+04,Campeche,006,Hopelchén,0866,La Gloria,*
+04,Campeche,006,Hopelchén,0868,La Selva,0
+04,Campeche,006,Hopelchén,0870,Las Maravillas,*
+04,Campeche,006,Hopelchén,0871,Las Palmas Tres,0
+04,Campeche,006,Hopelchén,0872,San Feliciano,*
+04,Campeche,006,Hopelchén,0874,Los Gemelos,*
+04,Campeche,006,Hopelchén,0880,San Isidro,*
+04,Campeche,006,Hopelchén,0882,Santa Fe Uno,0
+04,Campeche,006,Hopelchén,0888,Ninguno,*
+04,Campeche,006,Hopelchén,0891,Campo Menonita Número Diecisiete,0
+04,Campeche,006,Hopelchén,0894,El Temporal Ocho,0
+04,Campeche,006,Hopelchén,0896,La Chatarrera,*
+04,Campeche,006,Hopelchén,0898,Las Palmas Cinco,0
+04,Campeche,006,Hopelchén,0899,Las Palmas Seis,*
+04,Campeche,006,Hopelchén,0900,Las Palmas Siete,0
+04,Campeche,006,Hopelchén,0902,Los Venaditos,*
+04,Campeche,006,Hopelchén,0904,Ninguno,*
+04,Campeche,006,Hopelchén,0908,Ninguno,*
+04,Campeche,006,Hopelchén,0910,Yonke los Chenes [Deshuesadero],*
+04,Campeche,006,Hopelchén,0911,Nuevo Durango Nueve,0
+04,Campeche,006,Hopelchén,0912,Nuevo Durango Ocho,0
+04,Campeche,006,Hopelchén,0913,El Paraíso,0
+04,Campeche,006,Hopelchén,0914,El Ausente,*
+04,Campeche,006,Hopelchén,0915,El Ausente Dos,*
+04,Campeche,006,Hopelchén,0916,San José,*
+04,Campeche,006,Hopelchén,0922,Campo 1A,*
+04,Campeche,006,Hopelchén,0923,Ninguno [Rancho Agrícola],*
+04,Campeche,006,Hopelchén,0924,La Nueva Trinidad Campo 6,*
+04,Campeche,006,Hopelchén,0925,Las Flores Siete,0
+04,Campeche,006,Hopelchén,9998,Localidades de una vivienda,2
+04,Campeche,006,Hopelchén,9999,Localidades de dos viviendas,0
+04,Campeche,007,Palizada,0000,Total del Municipio,176
+04,Campeche,007,Palizada,0001,Palizada,95
+04,Campeche,007,Palizada,0003,Alamilla,3
+04,Campeche,007,Palizada,0004,El Almendro Segundo,*
+04,Campeche,007,Palizada,0008,Bacardí Ranch,*
+04,Campeche,007,Palizada,0024,Las Coculas,*
+04,Campeche,007,Palizada,0029,Ribera de la Corriente,5
+04,Campeche,007,Palizada,0032,El Cuyo,1
+04,Campeche,007,Palizada,0053,Isla de San Isidro,6
+04,Campeche,007,Palizada,0056,El Juncal,5
+04,Campeche,007,Palizada,0061,El Mangal,2
+04,Campeche,007,Palizada,0086,El Porvenir,0
+04,Campeche,007,Palizada,0098,El Borbotón,1
+04,Campeche,007,Palizada,0101,Tila,4
+04,Campeche,007,Palizada,0107,La Toza,0
+04,Campeche,007,Palizada,0108,Puerto Arturo,1
+04,Campeche,007,Palizada,0109,Ribera San Eduardo,3
+04,Campeche,007,Palizada,0110,Santa Isabel,10
+04,Campeche,007,Palizada,0111,Rivera de la Viuda,0
+04,Campeche,007,Palizada,0138,San Francisco,*
+04,Campeche,007,Palizada,0154,San Juan,3
+04,Campeche,007,Palizada,0158,San Juliancito,*
+04,Campeche,007,Palizada,0165,San Román,0
+04,Campeche,007,Palizada,0167,Santa Adelaida,*
+04,Campeche,007,Palizada,0169,Santa Cruz,5
+04,Campeche,007,Palizada,0173,Santa Elena,*
+04,Campeche,007,Palizada,0180,Santa Mónica (Santa Rita),*
+04,Campeche,007,Palizada,0196,El Triunfo,*
+04,Campeche,007,Palizada,0206,Plan del Carmen,0
+04,Campeche,007,Palizada,0211,Mata Larga,*
+04,Campeche,007,Palizada,0212,Mata del Chato,1
+04,Campeche,007,Palizada,0215,La Noria,*
+04,Campeche,007,Palizada,0222,El Freno,*
+04,Campeche,007,Palizada,0227,San Bartolo,*
+04,Campeche,007,Palizada,0238,Las Bodegas,0
+04,Campeche,007,Palizada,0240,Las Matillas,*
+04,Campeche,007,Palizada,0241,El Santuario,*
+04,Campeche,007,Palizada,0245,San Arsenio,*
+04,Campeche,007,Palizada,0254,Agropecuaria Mayacam,*
+04,Campeche,007,Palizada,0258,Brasilia,*
+04,Campeche,007,Palizada,0261,Santa Adelaida,*
+04,Campeche,007,Palizada,0269,El Carmen (San Marcos),*
+04,Campeche,007,Palizada,0274,La Concepción,0
+04,Campeche,007,Palizada,0281,El Olivo,0
+04,Campeche,007,Palizada,0284,El Chimal,*
+04,Campeche,007,Palizada,0286,San Silverio,*
+04,Campeche,007,Palizada,0294,Entre Hermanos,*
+04,Campeche,007,Palizada,0297,La Esmeralda,*
+04,Campeche,007,Palizada,0307,La Guadalupe,0
+04,Campeche,007,Palizada,0320,Lagón Dulce,6
+04,Campeche,007,Palizada,0321,Los Laureles,0
+04,Campeche,007,Palizada,0331,San Joaquín,*
+04,Campeche,007,Palizada,0333,Blanca Mariposa,*
+04,Campeche,007,Palizada,0346,Orgánicos del Trópico (Pancho Villa),0
+04,Campeche,007,Palizada,0348,Paso de los Caballos,0
+04,Campeche,007,Palizada,0356,El Porvenir,*
+04,Campeche,007,Palizada,0357,El Porvenir,*
+04,Campeche,007,Palizada,0371,El Rosario,*
+04,Campeche,007,Palizada,0378,San Antonio,1
+04,Campeche,007,Palizada,0392,San Hilario,*
+04,Campeche,007,Palizada,0400,San José,0
+04,Campeche,007,Palizada,0402,San José,*
+04,Campeche,007,Palizada,0406,San José Victoria,*
+04,Campeche,007,Palizada,0430,Santa Lucía,1
+04,Campeche,007,Palizada,0454,Tumbo de la Montaña 1,0
+04,Campeche,007,Palizada,0458,La Victoria,*
+04,Campeche,007,Palizada,0460,Vista Alegre,*
+04,Campeche,007,Palizada,0475,San Jorge,*
+04,Campeche,007,Palizada,0521,Ribera Gómez,3
+04,Campeche,007,Palizada,0578,La Nueva Esperanza,*
+04,Campeche,007,Palizada,0582,El Caribe,*
+04,Campeche,007,Palizada,0586,San Carlos,*
+04,Campeche,007,Palizada,0654,Villa Rosa,*
+04,Campeche,007,Palizada,0663,El Paraíso,0
+04,Campeche,007,Palizada,0667,Ribera Mariche,0
+04,Campeche,007,Palizada,0682,San Agustín (La Rebeza),8
+04,Campeche,007,Palizada,0717,Mata del Tigre,*
+04,Campeche,007,Palizada,0718,Ixtoc,*
+04,Campeche,007,Palizada,0753,El Popistal [Rancho],0
+04,Campeche,007,Palizada,0757,Morelia,*
+04,Campeche,007,Palizada,0759,Caribe Chico,*
+04,Campeche,007,Palizada,0762,Pavo Real,*
+04,Campeche,007,Palizada,0763,La Lámpara,*
+04,Campeche,007,Palizada,0765,San Miguel,*
+04,Campeche,007,Palizada,0784,La Teresita,*
+04,Campeche,007,Palizada,0824,Santa Adelaida [Caseta Fitozoosanitaria],*
+04,Campeche,007,Palizada,0826,La Concordia,*
+04,Campeche,007,Palizada,0828,Crucero Santa Adelaida,0
+04,Campeche,007,Palizada,0833,Tolloacán,*
+04,Campeche,007,Palizada,0834,San Francisco,*
+04,Campeche,007,Palizada,0836,El Bajío,*
+04,Campeche,007,Palizada,0845,La Bomba,*
+04,Campeche,007,Palizada,0846,Laguna Blanca,*
+04,Campeche,007,Palizada,0851,Anexo Mata Larga Primero,*
+04,Campeche,007,Palizada,0852,Constitución,*
+04,Campeche,007,Palizada,0854,Las Amapolas,*
+04,Campeche,007,Palizada,0855,El Radio (Álamos),*
+04,Campeche,007,Palizada,0856,Ribera del Playón,1
+04,Campeche,007,Palizada,0870,Santa Rosa,0
+04,Campeche,007,Palizada,0873,El Vergel,1
+04,Campeche,007,Palizada,0876,La Anona,*
+04,Campeche,007,Palizada,0877,La Envidia,*
+04,Campeche,007,Palizada,0880,Guadalupe,*
+04,Campeche,007,Palizada,0881,La Pera,*
+04,Campeche,007,Palizada,0883,Pancho Cruz,*
+04,Campeche,007,Palizada,0885,Atastillo (Los Chanes),0
+04,Campeche,007,Palizada,0886,Los Gavilanes,*
+04,Campeche,007,Palizada,0893,Gardenias,0
+04,Campeche,007,Palizada,0896,La Nueva Etapa,*
+04,Campeche,007,Palizada,0898,Texas,*
+04,Campeche,007,Palizada,0901,El Guayacán,*
+04,Campeche,007,Palizada,0902,Las Pailas [Rancho],*
+04,Campeche,007,Palizada,0903,Las Américas,*
+04,Campeche,007,Palizada,0904,Canales Uno,0
+04,Campeche,007,Palizada,0906,San Antonio de la Sabana,*
+04,Campeche,007,Palizada,0907,Colonia Adolfo López Mateos,*
+04,Campeche,007,Palizada,0911,Las Flores,*
+04,Campeche,007,Palizada,0912,Las Torres,*
+04,Campeche,007,Palizada,0915,El Pókar,*
+04,Campeche,007,Palizada,0920,Buenos Aires,*
+04,Campeche,007,Palizada,0923,Ribera Boca Chica,0
+04,Campeche,007,Palizada,0925,Canales Dos,*
+04,Campeche,007,Palizada,0926,Boquerón,*
+04,Campeche,007,Palizada,0927,Los Arbolitos,*
+04,Campeche,007,Palizada,0928,Los Manguitos,*
+04,Campeche,007,Palizada,0930,San Joaquín,*
+04,Campeche,007,Palizada,0931,San Juan,*
+04,Campeche,007,Palizada,0932,San Martín Dos,*
+04,Campeche,007,Palizada,0934,El Cabresto,1
+04,Campeche,007,Palizada,0937,El Charro Negro,*
+04,Campeche,007,Palizada,0938,El Carmen,*
+04,Campeche,007,Palizada,9998,Localidades de una vivienda,7
+04,Campeche,007,Palizada,9999,Localidades de dos viviendas,2
+04,Campeche,008,Tenabo,0000,Total del Municipio,385
+04,Campeche,008,Tenabo,0001,Tenabo,315
+04,Campeche,008,Tenabo,0002,Emiliano Zapata,12
+04,Campeche,008,Tenabo,0003,Kankí,4
+04,Campeche,008,Tenabo,0005,Tinún,35
+04,Campeche,008,Tenabo,0016,Xkuncheil,1
+04,Campeche,008,Tenabo,0051,San Pedro Corralché,1
+04,Campeche,008,Tenabo,0072,San Isidro,*
+04,Campeche,008,Tenabo,0078,El Encanto,*
+04,Campeche,008,Tenabo,0082,Los Robles Bohola,*
+04,Campeche,008,Tenabo,0095,La Laguna,*
+04,Campeche,008,Tenabo,0096,Nachehá,0
+04,Campeche,008,Tenabo,0098,Santa Rosa,13
+04,Campeche,008,Tenabo,0107,El Jabín,*
+04,Campeche,008,Tenabo,0112,Chaví Número Cuatro [Campo Menonita],0
+04,Campeche,008,Tenabo,0113,Chaví Número Tres [Campo Menonita],0
+04,Campeche,008,Tenabo,0114,La Bonita  [Rancho],*
+04,Campeche,008,Tenabo,0124,San Pedro [Quebradora],*
+04,Campeche,008,Tenabo,0133,Manahua (Kilómetro Veinticinco),*
+04,Campeche,008,Tenabo,0138,Chaví Número Cinco [Campo Menonita],0
+04,Campeche,008,Tenabo,0139,Chaví Número Seis [Campo Menonita],0
+04,Campeche,008,Tenabo,0149,Los Cocales,0
+04,Campeche,008,Tenabo,0150,Ninguno,*
+04,Campeche,008,Tenabo,0155,San Juan,*
+04,Campeche,008,Tenabo,0157,Tres Cerros,*
+04,Campeche,008,Tenabo,0158,Ninguno,*
+04,Campeche,008,Tenabo,0163,Los Venados de Edzná,*
+04,Campeche,008,Tenabo,0168,El Divino Niño,*
+04,Campeche,008,Tenabo,0170,Don Felipe [Rancho],*
+04,Campeche,008,Tenabo,9998,Localidades de una vivienda,4
+04,Campeche,009,Escárcega,0000,Total del Municipio,1690
+04,Campeche,009,Escárcega,0001,Escárcega,1315
+04,Campeche,009,Escárcega,0002,División del Norte,61
+04,Campeche,009,Escárcega,0015,Las Cabañas,0
+04,Campeche,009,Escárcega,0018,La Asunción,2
+04,Campeche,009,Escárcega,0019,El Potrero (El Aventurero),*
+04,Campeche,009,Escárcega,0025,Belén,5
+04,Campeche,009,Escárcega,0026,Benito Juárez Número 2 (La Polla),2
+04,Campeche,009,Escárcega,0037,Casado Ranch,*
+04,Campeche,009,Escárcega,0046,El Canutillo,*
+04,Campeche,009,Escárcega,0072,La Chiquita,*
+04,Campeche,009,Escárcega,0073,La Chiquita,2
+04,Campeche,009,Escárcega,0074,Macuca Dos (Chiricahua),*
+04,Campeche,009,Escárcega,0080,Colonia San Francisco (El Cinco),5
+04,Campeche,009,Escárcega,0082,Cocula,*
+04,Campeche,009,Escárcega,0108,Don Samuel,19
+04,Campeche,009,Escárcega,0110,Agua Salada,*
+04,Campeche,009,Escárcega,0119,La Gerónima,*
+04,Campeche,009,Escárcega,0120,El Tormento,0
+04,Campeche,009,Escárcega,0131,La Esperanza,2
+04,Campeche,009,Escárcega,0134,El Establo,*
+04,Campeche,009,Escárcega,0139,Flor de Mayo,*
+04,Campeche,009,Escárcega,0140,La Flor,4
+04,Campeche,009,Escárcega,0147,Francisco I. Madero,2
+04,Campeche,009,Escárcega,0151,El Gallo Samuel (El Gallito),*
+04,Campeche,009,Escárcega,0152,El Gallo,0
+04,Campeche,009,Escárcega,0163,General Rodolfo Fierros,5
+04,Campeche,009,Escárcega,0170,Guadalajara,0
+04,Campeche,009,Escárcega,0178,Haro,21
+04,Campeche,009,Escárcega,0190,El Huiro,4
+04,Campeche,009,Escárcega,0202,La Reforma,*
+04,Campeche,009,Escárcega,0203,Ninguno [Ganadera Uno],*
+04,Campeche,009,Escárcega,0219,El Pozo,*
+04,Campeche,009,Escárcega,0235,Jerusalén,0
+04,Campeche,009,Escárcega,0238,José de la Cruz Blanco,5
+04,Campeche,009,Escárcega,0242,Justicia Social,15
+04,Campeche,009,Escárcega,0247,Kilómetro Treinta y Seis,14
+04,Campeche,009,Escárcega,0252,Kilómetro Setenta y Cuatro,3
+04,Campeche,009,Escárcega,0255,El Lechugal,13
+04,Campeche,009,Escárcega,0256,La Libertad,22
+04,Campeche,009,Escárcega,0262,El Limón,*
+04,Campeche,009,Escárcega,0267,El Hular,*
+04,Campeche,009,Escárcega,0268,Luna,17
+04,Campeche,009,Escárcega,0281,Tepehuaje,*
+04,Campeche,009,Escárcega,0282,Matamoros,20
+04,Campeche,009,Escárcega,0288,Miguel Hidalgo (Caracol),0
+04,Campeche,009,Escárcega,0307,Santa Martha (El Naranjito),0
+04,Campeche,009,Escárcega,0308,El Naranjito,*
+04,Campeche,009,Escárcega,0309,El Naranjo,*
+04,Campeche,009,Escárcega,0320,Las Margaritas,*
+04,Campeche,009,Escárcega,0322,Nuevo Progreso Dos,17
+04,Campeche,009,Escárcega,0333,La Esperanza (Pachuca),*
+04,Campeche,009,Escárcega,0348,Las Piedras,*
+04,Campeche,009,Escárcega,0355,Herradero,*
+04,Campeche,009,Escárcega,0371,La Providencia,*
+04,Campeche,009,Escárcega,0383,Santa Fe,*
+04,Campeche,009,Escárcega,0386,El Retiro,1
+04,Campeche,009,Escárcega,0393,El Rosario (Puerto Escondido),*
+04,Campeche,009,Escárcega,0407,El Borrego de Oro,*
+04,Campeche,009,Escárcega,0432,San José,0
+04,Campeche,009,Escárcega,0458,San Martín,*
+04,Campeche,009,Escárcega,0468,El Corazón,*
+04,Campeche,009,Escárcega,0477,La Guadalupe,*
+04,Campeche,009,Escárcega,0486,Santa Sofía,*
+04,Campeche,009,Escárcega,0489,El Encanto (Selva Negra),*
+04,Campeche,009,Escárcega,0503,El Tormento (Bosque del Sol),*
+04,Campeche,009,Escárcega,0504,El Tornillo,0
+04,Campeche,009,Escárcega,0513,El Monarca,*
+04,Campeche,009,Escárcega,0515,San Ignacio,*
+04,Campeche,009,Escárcega,0530,El Venadito,*
+04,Campeche,009,Escárcega,0536,La Victoria,12
+04,Campeche,009,Escárcega,0550,Don Gume,*
+04,Campeche,009,Escárcega,0562,Las Amapolas,*
+04,Campeche,009,Escárcega,0576,El Carrizal,*
+04,Campeche,009,Escárcega,0581,Debrando,*
+04,Campeche,009,Escárcega,0583,El Búho,*
+04,Campeche,009,Escárcega,0586,La Fe,*
+04,Campeche,009,Escárcega,0587,Los Cuyos,*
+04,Campeche,009,Escárcega,0589,La Jeringa,*
+04,Campeche,009,Escárcega,0597,Rancho Alegre,*
+04,Campeche,009,Escárcega,0599,Santa Isabel,0
+04,Campeche,009,Escárcega,0604,Santa Anita,*
+04,Campeche,009,Escárcega,0605,Dos Hermanos,*
+04,Campeche,009,Escárcega,0606,San Pedro,0
+04,Campeche,009,Escárcega,0609,Los Huastecos,*
+04,Campeche,009,Escárcega,0610,El Oasis,*
+04,Campeche,009,Escárcega,0710,La Providencia,*
+04,Campeche,009,Escárcega,0714,Rancho Nuevo,*
+04,Campeche,009,Escárcega,0755,Los Gemelos,*
+04,Campeche,009,Escárcega,0756,Los Potrillos,*
+04,Campeche,009,Escárcega,0781,El Corriental,1
+04,Campeche,009,Escárcega,0785,El Diamante,*
+04,Campeche,009,Escárcega,0792,La Esperancita,*
+04,Campeche,009,Escárcega,0799,Tres Hermanos,*
+04,Campeche,009,Escárcega,0804,San Jorge,*
+04,Campeche,009,Escárcega,0815,San Carlos,*
+04,Campeche,009,Escárcega,0818,San Felipe,*
+04,Campeche,009,Escárcega,0820,El Mayor Luna Acosta,*
+04,Campeche,009,Escárcega,0823,Ninguno,*
+04,Campeche,009,Escárcega,0828,Chun Ox,*
+04,Campeche,009,Escárcega,0832,San Juan,*
+04,Campeche,009,Escárcega,0837,La Guadalupe,0
+04,Campeche,009,Escárcega,0839,La Almendra,*
+04,Campeche,009,Escárcega,0843,San Martín,*
+04,Campeche,009,Escárcega,0857,María de la Luz,*
+04,Campeche,009,Escárcega,0860,El Zacatecano,*
+04,Campeche,009,Escárcega,0861,Kilómetro Tres [Quebradora],*
+04,Campeche,009,Escárcega,0865,Nuevo Campeche (Tres Aguadas),1
+04,Campeche,009,Escárcega,0884,El Jobito,*
+04,Campeche,009,Escárcega,0889,San Luis,1
+04,Campeche,009,Escárcega,0897,Santa Martha,*
+04,Campeche,009,Escárcega,0927,San Ignacio,*
+04,Campeche,009,Escárcega,0936,Altamira de Zináparo,17
+04,Campeche,009,Escárcega,0941,Centenario,10
+04,Campeche,009,Escárcega,0945,Chan Laguna,2
+04,Campeche,009,Escárcega,0946,Ninguno [Lote Treinta y Seis],*
+04,Campeche,009,Escárcega,0947,Flor de Chiapas,2
+04,Campeche,009,Escárcega,0949,Las Gemelas,*
+04,Campeche,009,Escárcega,0950,El Carril,*
+04,Campeche,009,Escárcega,0951,La Guadalupe,*
+04,Campeche,009,Escárcega,0952,Gutembert Pérez,*
+04,Campeche,009,Escárcega,0955,Juan Rivera [Rancho],*
+04,Campeche,009,Escárcega,0956,Robles y Almendros,*
+04,Campeche,009,Escárcega,0957,El Cuarenta y Siete,*
+04,Campeche,009,Escárcega,0958,El Jaripeo,*
+04,Campeche,009,Escárcega,0959,Juan de la Barrera,2
+04,Campeche,009,Escárcega,0960,Juan Escutia,5
+04,Campeche,009,Escárcega,0961,El Jobal,0
+04,Campeche,009,Escárcega,0963,Laguna Grande,12
+04,Campeche,009,Escárcega,0964,Los Laureles,*
+04,Campeche,009,Escárcega,0965,Adolfo López Mateos,4
+04,Campeche,009,Escárcega,0966,Benito Juárez Número 3,1
+04,Campeche,009,Escárcega,0967,Miguel de la Madrid,2
+04,Campeche,009,Escárcega,0968,José López Portillo,7
+04,Campeche,009,Escárcega,0970,Las Maravillas,2
+04,Campeche,009,Escárcega,0973,El Mirador,*
+04,Campeche,009,Escárcega,0974,Rancho Palomo,*
+04,Campeche,009,Escárcega,0975,Moch-Cohuo,*
+04,Campeche,009,Escárcega,0979,Los Pocitos,*
+04,Campeche,009,Escárcega,0980,La Montaña,*
+04,Campeche,009,Escárcega,0981,El Porvenir,*
+04,Campeche,009,Escárcega,0982,San Marcos el Pedregal,*
+04,Campeche,009,Escárcega,0984,Las Ruinas,*
+04,Campeche,009,Escárcega,0986,David,*
+04,Campeche,009,Escárcega,0992,Lluvia de Oro,*
+04,Campeche,009,Escárcega,0993,La Bendición de Dios,*
+04,Campeche,009,Escárcega,0994,San José,1
+04,Campeche,009,Escárcega,1001,Sausalito,0
+04,Campeche,009,Escárcega,1002,Silvituc,10
+04,Campeche,009,Escárcega,1005,La Velueta,*
+04,Campeche,009,Escárcega,1006,El Edén,*
+04,Campeche,009,Escárcega,1007,Centenario [Unidad Ganadera Número Uno],*
+04,Campeche,009,Escárcega,1027,Los Laureles,*
+04,Campeche,009,Escárcega,1028,Ninguno,*
+04,Campeche,009,Escárcega,1032,Ninguno,*
+04,Campeche,009,Escárcega,1036,El Michoacano,*
+04,Campeche,009,Escárcega,1042,El Piamonte,*
+04,Campeche,009,Escárcega,1049,Santa Anita,*
+04,Campeche,009,Escárcega,1058,Moycruz [Triturados],*
+04,Campeche,009,Escárcega,1064,González (El Michoacano),*
+04,Campeche,009,Escárcega,1070,El Caracol (Los Morales),*
+04,Campeche,009,Escárcega,1082,Moya,*
+04,Campeche,009,Escárcega,1084,La Gloria,*
+04,Campeche,009,Escárcega,1087,Ninguno,*
+04,Campeche,009,Escárcega,1096,El Renegado,0
+04,Campeche,009,Escárcega,1106,Kilómetro Seis,*
+04,Campeche,009,Escárcega,1111,El Naranjito,*
+04,Campeche,009,Escárcega,1113,San Alejandro,*
+04,Campeche,009,Escárcega,1114,El Papayal,*
+04,Campeche,009,Escárcega,1115,Trituradora y Concretos del Sureste,*
+04,Campeche,009,Escárcega,1116,El Regalo,0
+04,Campeche,009,Escárcega,1118,Rancho Checo,*
+04,Campeche,009,Escárcega,1120,El Retorno,*
+04,Campeche,009,Escárcega,1123,San Juan,*
+04,Campeche,009,Escárcega,1124,Tres Hermanos,*
+04,Campeche,009,Escárcega,1125,Santa Cruz,0
+04,Campeche,009,Escárcega,1126,Santa Elyde,*
+04,Campeche,009,Escárcega,1131,Los Tres Compadres,*
+04,Campeche,009,Escárcega,1133,El Tropezón,*
+04,Campeche,009,Escárcega,1136,El Debate,*
+04,Campeche,009,Escárcega,1143,La Providencia 2,*
+04,Campeche,009,Escárcega,1144,El Huerto,*
+04,Campeche,009,Escárcega,1145,El Bien Amado,*
+04,Campeche,009,Escárcega,1146,Las Cafeteras,*
+04,Campeche,009,Escárcega,1147,Lázaro González,*
+04,Campeche,009,Escárcega,1148,La Esperanza,*
+04,Campeche,009,Escárcega,1149,Las Ruinas,*
+04,Campeche,009,Escárcega,1150,Los Girasoles,*
+04,Campeche,009,Escárcega,1151,Don Enrique [Rancho],*
+04,Campeche,009,Escárcega,1152,El Espejo,*
+04,Campeche,009,Escárcega,1153,El Pitayo,*
+04,Campeche,009,Escárcega,1154,Kilómetro 50.5,*
+04,Campeche,009,Escárcega,1787,San Luis,*
+04,Campeche,009,Escárcega,1790,La Pista,0
+04,Campeche,009,Escárcega,1794,Zináparo [Rancho],*
+04,Campeche,009,Escárcega,1795,Los Robles,0
+04,Campeche,009,Escárcega,1807,El Calabozo,*
+04,Campeche,009,Escárcega,1808,Los Mendoza,*
+04,Campeche,009,Escárcega,1811,X-Tok,0
+04,Campeche,009,Escárcega,1815,El Nanzal,*
+04,Campeche,009,Escárcega,1820,Ninguno,*
+04,Campeche,009,Escárcega,1827,La Primavera,*
+04,Campeche,009,Escárcega,1836,Las Cruces,*
+04,Campeche,009,Escárcega,1837,Ninguno,*
+04,Campeche,009,Escárcega,1844,Los Robles,*
+04,Campeche,009,Escárcega,1845,El Bejucal,*
+04,Campeche,009,Escárcega,1846,Rancho Australia,*
+04,Campeche,009,Escárcega,1848,Los Potrillos,*
+04,Campeche,009,Escárcega,1849,Santa Verónica,*
+04,Campeche,009,Escárcega,1851,Nuevo Amanecer,*
+04,Campeche,009,Escárcega,1853,El Retiro (Los Cocos),*
+04,Campeche,009,Escárcega,1854,Ignacio Magdaleno,0
+04,Campeche,009,Escárcega,1856,El Malecho,*
+04,Campeche,009,Escárcega,1857,Las 2 Hermanas,*
+04,Campeche,009,Escárcega,1862,Emiliano Zapata,0
+04,Campeche,009,Escárcega,1863,Bellavista,*
+04,Campeche,009,Escárcega,1867,San Antonio,*
+04,Campeche,009,Escárcega,1871,Miguel Hidalgo y Costilla,16
+04,Campeche,009,Escárcega,1874,Cuatro Milpas,*
+04,Campeche,009,Escárcega,1875,La Fortuna,*
+04,Campeche,009,Escárcega,1876,Columpio,*
+04,Campeche,009,Escárcega,1877,Los Tres Pocitos,*
+04,Campeche,009,Escárcega,1878,Tres Potrancas y Un Potrillo,*
+04,Campeche,009,Escárcega,1879,Alejandrina,*
+04,Campeche,009,Escárcega,1883,Kilómetro Veintiuno,*
+04,Campeche,009,Escárcega,1885,El Girasol,*
+04,Campeche,009,Escárcega,1891,Famela,*
+04,Campeche,009,Escárcega,1893,Joyli,*
+04,Campeche,009,Escárcega,1902,Los Tres Norteños,*
+04,Campeche,009,Escárcega,1903,San Román Junior,*
+04,Campeche,009,Escárcega,1908,Kilómetro 20,*
+04,Campeche,009,Escárcega,1914,San José,*
+04,Campeche,009,Escárcega,1918,Cohuo,*
+04,Campeche,009,Escárcega,1925,Los Gallitos,*
+04,Campeche,009,Escárcega,1926,Los Platanales,*
+04,Campeche,009,Escárcega,1928,Ninguno,*
+04,Campeche,009,Escárcega,1929,El Pedregal,*
+04,Campeche,009,Escárcega,1932,Tres Hermanos,*
+04,Campeche,009,Escárcega,1933,Agua Bendita,*
+04,Campeche,009,Escárcega,1934,El Alacrán,*
+04,Campeche,009,Escárcega,1936,El Escondido,*
+04,Campeche,009,Escárcega,1939,El Pedregal,*
+04,Campeche,009,Escárcega,1940,El Plebe,*
+04,Campeche,009,Escárcega,1941,El Tamarindo,*
+04,Campeche,009,Escárcega,1942,El Trueno,*
+04,Campeche,009,Escárcega,1943,La Argolla,*
+04,Campeche,009,Escárcega,1945,La Esmeralda,*
+04,Campeche,009,Escárcega,1948,Los Tres Hermanos,*
+04,Campeche,009,Escárcega,1949,El Guadalupano,*
+04,Campeche,009,Escárcega,1950,Ninguno,*
+04,Campeche,009,Escárcega,1952,San José García,*
+04,Campeche,009,Escárcega,1958,San Juanito,*
+04,Campeche,009,Escárcega,1960,Los Cocos,*
+04,Campeche,009,Escárcega,1963,Ninguno,*
+04,Campeche,009,Escárcega,1965,Solo Dios,0
+04,Campeche,009,Escárcega,1966,El Poder de Dios (Kilómetro 4),*
+04,Campeche,009,Escárcega,1967,El Crucero,*
+04,Campeche,009,Escárcega,1968,El Jabín,*
+04,Campeche,009,Escárcega,1969,El Mirador,*
+04,Campeche,009,Escárcega,1970,Los Cascabeles,*
+04,Campeche,009,Escárcega,1972,La Laguna,*
+04,Campeche,009,Escárcega,1973,Don Gerónimo [Rancho],*
+04,Campeche,009,Escárcega,1974,El Branboyán [Rancho],*
+04,Campeche,009,Escárcega,1975,El Gavilán de Oro [Rancho],*
+04,Campeche,009,Escárcega,1976,El Tesoro [Rancho],*
+04,Campeche,009,Escárcega,1980,San Humberto [Rancho],*
+04,Campeche,009,Escárcega,1982,El Encinal,*
+04,Campeche,009,Escárcega,1983,El Solitario,*
+04,Campeche,009,Escárcega,1984,El Mangal,*
+04,Campeche,009,Escárcega,1985,El Mirador,*
+04,Campeche,009,Escárcega,1986,El Sacrificio [Rancho],*
+04,Campeche,009,Escárcega,1988,Kilómetro 4 [Corralón],*
+04,Campeche,009,Escárcega,1989,La Ceiba,*
+04,Campeche,009,Escárcega,1990,La Gorda [Finca],*
+04,Campeche,009,Escárcega,1991,La Palma,*
+04,Campeche,009,Escárcega,1992,La Patrona [Rancho],*
+04,Campeche,009,Escárcega,1993,Landero (Kilómetro 4),*
+04,Campeche,009,Escárcega,1994,Los Cascabeles [Rancho],*
+04,Campeche,009,Escárcega,1995,Los Jagüeyes,*
+04,Campeche,009,Escárcega,1996,Los Soldados,*
+04,Campeche,009,Escárcega,1997,Salto de Agua,*
+04,Campeche,009,Escárcega,1998,San Francisco,*
+04,Campeche,009,Escárcega,1999,San Luis,*
+04,Campeche,009,Escárcega,2000,El Tornado,*
+04,Campeche,009,Escárcega,2002,Los Tulipanes,*
+04,Campeche,009,Escárcega,2003,Rancho Escondido,*
+04,Campeche,009,Escárcega,2004,Ninguno [Rancho],*
+04,Campeche,009,Escárcega,9998,Localidades de una vivienda,5
+04,Campeche,009,Escárcega,9999,Localidades de dos viviendas,1
+04,Campeche,010,Calakmul,0000,Total del Municipio,621
+04,Campeche,010,Calakmul,0001,Xpujil,171
+04,Campeche,010,Calakmul,0002,Dieciséis de Septiembre (Laguna Alvarado),3
+04,Campeche,010,Calakmul,0007,Los Alacranes,2
+04,Campeche,010,Calakmul,0008,Santa Lucía,*
+04,Campeche,010,Calakmul,0010,Los Robles,*
+04,Campeche,010,Calakmul,0013,Los Ángeles,14
+04,Campeche,010,Calakmul,0014,Araucarias,*
+04,Campeche,010,Calakmul,0016,El Jaguar,*
+04,Campeche,010,Calakmul,0018,Arroyo Negro,2
+04,Campeche,010,Calakmul,0019,Las Rosas,*
+04,Campeche,010,Calakmul,0021,Becán,10
+04,Campeche,010,Calakmul,0023,Bel-Há,2
+04,Campeche,010,Calakmul,0024,Bella Unión Veracruz (Los Chinos),3
+04,Campeche,010,Calakmul,0025,Benito Juárez Dos (Carolina),*
+04,Campeche,010,Calakmul,0026,Blasillo,4
+04,Campeche,010,Calakmul,0029,Las Ceibas,*
+04,Campeche,010,Calakmul,0031,Coyote 2,*
+04,Campeche,010,Calakmul,0033,Santo Domingo (El Sacrificio),6
+04,Campeche,010,Calakmul,0034,Las Florecitas,*
+04,Campeche,010,Calakmul,0035,La Estrella del Norte,*
+04,Campeche,010,Calakmul,0037,Carlos A. Madrazo,2
+04,Campeche,010,Calakmul,0040,El Carmen II (Las Carmelas),2
+04,Campeche,010,Calakmul,0046,Caña Brava,0
+04,Campeche,010,Calakmul,0049,Centauros del Norte,3
+04,Campeche,010,Calakmul,0053,Cerro de las Flores,5
+04,Campeche,010,Calakmul,0055,Chamisal,*
+04,Campeche,010,Calakmul,0057,Limón Grande,*
+04,Campeche,010,Calakmul,0060,El Chichonal,1
+04,Campeche,010,Calakmul,0062,El Campito,*
+04,Campeche,010,Calakmul,0064,Concepción,3
+04,Campeche,010,Calakmul,0066,Constitución,16
+04,Campeche,010,Calakmul,0068,Cristóbal Colón,3
+04,Campeche,010,Calakmul,0069,El Delfín,*
+04,Campeche,010,Calakmul,0073,El Mamey,*
+04,Campeche,010,Calakmul,0074,Dos Arbolitos,*
+04,Campeche,010,Calakmul,0075,Dos Lagunas,6
+04,Campeche,010,Calakmul,0076,Dos Lagunas,13
+04,Campeche,010,Calakmul,0077,Dos Naciones,5
+04,Campeche,010,Calakmul,0078,El Edén,*
+04,Campeche,010,Calakmul,0079,Emiliano Zapata,0
+04,Campeche,010,Calakmul,0081,La Estrella,*
+04,Campeche,010,Calakmul,0082,Felipe Ángeles,7
+04,Campeche,010,Calakmul,0083,Felipe Ángeles II,1
+04,Campeche,010,Calakmul,0091,La Guadalupe,1
+04,Campeche,010,Calakmul,0092,El Toro,*
+04,Campeche,010,Calakmul,0093,La Nueva Esperanza,*
+04,Campeche,010,Calakmul,0094,Guillermo Prieto,9
+04,Campeche,010,Calakmul,0095,Gustavo Díaz Ordaz (San Antonio Soda),7
+04,Campeche,010,Calakmul,0096,Heriberto Jara Corona,9
+04,Campeche,010,Calakmul,0097,Hermenegildo Galeana,2
+04,Campeche,010,Calakmul,0098,Justo Sierra Méndez 2,*
+04,Campeche,010,Calakmul,0099,Ingeniero Eugenio Echeverría Castellot,4
+04,Campeche,010,Calakmul,0100,Eugenio Echeverría Castellot (El Carrizal),2
+04,Campeche,010,Calakmul,0101,Ingeniero Ricardo Payro Jene (Polo Norte),19
+04,Campeche,010,Calakmul,0107,La Ilusión,*
+04,Campeche,010,Calakmul,0109,El Faisán,*
+04,Campeche,010,Calakmul,0110,Ninguno,*
+04,Campeche,010,Calakmul,0111,La Doctora,*
+04,Campeche,010,Calakmul,0118,Los Potros,*
+04,Campeche,010,Calakmul,0124,José María Morelos y Pavón (Civalito),8
+04,Campeche,010,Calakmul,0125,Josefa Ortíz de Domínguez (Icaiché),9
+04,Campeche,010,Calakmul,0127,Justo Sierra Méndez,3
+04,Campeche,010,Calakmul,0130,Los Laureles,*
+04,Campeche,010,Calakmul,0131,Lázaro Cárdenas Número 2 (Ojo de Agua),10
+04,Campeche,010,Calakmul,0132,Ley de Fomento Agropecuario (La Misteriosa),8
+04,Campeche,010,Calakmul,0136,La Huasteca,*
+04,Campeche,010,Calakmul,0139,La Lucha,5
+04,Campeche,010,Calakmul,0140,La Lucha,0
+04,Campeche,010,Calakmul,0141,El Manantial,4
+04,Campeche,010,Calakmul,0142,Manuel Castilla Brito,16
+04,Campeche,010,Calakmul,0143,Manuel Crescencio Rejón,3
+04,Campeche,010,Calakmul,0152,Narcizo Mendoza,6
+04,Campeche,010,Calakmul,0154,Niños Héroes,5
+04,Campeche,010,Calakmul,0158,Nueva Vida,5
+04,Campeche,010,Calakmul,0159,Nuevo Bécal (El 19),1
+04,Campeche,010,Calakmul,0160,Nuevo Campanario,6
+04,Campeche,010,Calakmul,0161,Nuevo Conhuás,6
+04,Campeche,010,Calakmul,0162,El Paraíso,*
+04,Campeche,010,Calakmul,0163,Los Pinos,*
+04,Campeche,010,Calakmul,0164,Nuevo Paraíso,0
+04,Campeche,010,Calakmul,0165,Nuevo Progreso,0
+04,Campeche,010,Calakmul,0166,Nuevo San José,3
+04,Campeche,010,Calakmul,0167,Nuevo Veracruz,1
+04,Campeche,010,Calakmul,0169,Progreso,*
+04,Campeche,010,Calakmul,0170,Once de Mayo,3
+04,Campeche,010,Calakmul,0171,Pablo García,12
+04,Campeche,010,Calakmul,0172,El Cocoyol,*
+04,Campeche,010,Calakmul,0175,El Paraíso,*
+04,Campeche,010,Calakmul,0176,Pioneros del Río Xnohá,4
+04,Campeche,010,Calakmul,0179,Cinco de Mayo (Plan de Ayala),5
+04,Campeche,010,Calakmul,0180,Plan de San Luis,0
+04,Campeche,010,Calakmul,0181,Isabel [Rancho],*
+04,Campeche,010,Calakmul,0185,El Porvenir,*
+04,Campeche,010,Calakmul,0186,El Porvenir,0
+04,Campeche,010,Calakmul,0188,El Potrillo (El Chivo),*
+04,Campeche,010,Calakmul,0190,La Providencia,*
+04,Campeche,010,Calakmul,0191,Puebla de Morelia,3
+04,Campeche,010,Calakmul,0192,Quiché de las Pailas,5
+04,Campeche,010,Calakmul,0194,El Refugio,3
+04,Campeche,010,Calakmul,0195,Ricardo Flores Magón (Laguna Cooxlí),2
+04,Campeche,010,Calakmul,0196,El Rosario,*
+04,Campeche,010,Calakmul,0200,El Hidalguense,*
+04,Campeche,010,Calakmul,0201,San Antonio,*
+04,Campeche,010,Calakmul,0202,El León,*
+04,Campeche,010,Calakmul,0206,San Francisco,*
+04,Campeche,010,Calakmul,0207,San Francisco,*
+04,Campeche,010,Calakmul,0209,Kilómetro Ciento Veinte,5
+04,Campeche,010,Calakmul,0210,San José,*
+04,Campeche,010,Calakmul,0211,San José,*
+04,Campeche,010,Calakmul,0212,San Juan del Río,*
+04,Campeche,010,Calakmul,0215,San Manuel,*
+04,Campeche,010,Calakmul,0217,San Miguel,2
+04,Campeche,010,Calakmul,0218,San Nicolás,*
+04,Campeche,010,Calakmul,0222,Yaaxché [Campamento],*
+04,Campeche,010,Calakmul,0224,Santa Cruz,*
+04,Campeche,010,Calakmul,0225,Santa Lucía,4
+04,Campeche,010,Calakmul,0228,Sara Simón,*
+04,Campeche,010,Calakmul,0236,Los Tambores de Emiliano Zapata,7
+04,Campeche,010,Calakmul,0237,Tepeyac,0
+04,Campeche,010,Calakmul,0238,El Tesoro,9
+04,Campeche,010,Calakmul,0239,Tierra Prometida,*
+04,Campeche,010,Calakmul,0240,El Tigre,*
+04,Campeche,010,Calakmul,0241,Tomás Aznar Barbachano (La Moza),4
+04,Campeche,010,Calakmul,0248,El Vivero,*
+04,Campeche,010,Calakmul,0251,Santa María,*
+04,Campeche,010,Calakmul,0253,Templo Maya,*
+04,Campeche,010,Calakmul,0255,Ninguno [Unidad Habitacional],1
+04,Campeche,010,Calakmul,0256,Unidad y Trabajo,4
+04,Campeche,010,Calakmul,0257,Unión 20 de Junio (Mancolona),10
+04,Campeche,010,Calakmul,0261,Valentín Gómez Farías,4
+04,Campeche,010,Calakmul,0262,Veinte de Noviembre,14
+04,Campeche,010,Calakmul,0264,Veintiuno de Mayo (Lechugal),8
+04,Campeche,010,Calakmul,0265,La Victoria,2
+04,Campeche,010,Calakmul,0266,La Virgencita de la Candelaria,6
+04,Campeche,010,Calakmul,0267,Los 3 Martínez,*
+04,Campeche,010,Calakmul,0268,Xbonil,11
+04,Campeche,010,Calakmul,0272,Zoh-Laguna (Álvaro Obregón),50
+04,Campeche,010,Calakmul,0282,El Corralito (5 Hermanos),*
+04,Campeche,010,Calakmul,0287,Las Tres Huastecas (El Vergel),1
+04,Campeche,010,Calakmul,0288,Rancho Seferino,*
+04,Campeche,010,Calakmul,0292,La Cueva del Jaguar [Restaurante],*
+04,Campeche,010,Calakmul,0298,El Papayal,*
+04,Campeche,010,Calakmul,0300,La Granja,*
+04,Campeche,010,Calakmul,0302,María Isabel,*
+04,Campeche,010,Calakmul,0304,El Milagro,*
+04,Campeche,010,Calakmul,0311,Río Bec Dreams,*
+04,Campeche,010,Calakmul,0313,El Porvenir,*
+04,Campeche,010,Calakmul,0324,La Selva,*
+04,Campeche,010,Calakmul,0328,La Providencia,*
+04,Campeche,010,Calakmul,0329,Los 6 Hermanos,*
+04,Campeche,010,Calakmul,0331,Parada San Ángel,*
+04,Campeche,010,Calakmul,0332,Ninguno [Ecohabitat],*
+04,Campeche,010,Calakmul,0337,Cinco de Mayo,1
+04,Campeche,010,Calakmul,0342,El Galgo,*
+04,Campeche,010,Calakmul,0346,Fuente de Vida,*
+04,Campeche,010,Calakmul,0348,La Tierra Prometida,*
+04,Campeche,010,Calakmul,0349,Ninguno,*
+04,Campeche,010,Calakmul,0355,Muebles FAC,*
+04,Campeche,010,Calakmul,0358,Ninguno,*
+04,Campeche,010,Calakmul,0365,Los Dos Hermanos,*
+04,Campeche,010,Calakmul,0366,El Sacrificio,*
+04,Campeche,010,Calakmul,0367,Los Pinos,*
+04,Campeche,010,Calakmul,0370,Don Fernando,*
+04,Campeche,010,Calakmul,0372,El Palmar,0
+04,Campeche,010,Calakmul,0374,El Tigrito,*
+04,Campeche,010,Calakmul,0376,Filomena,*
+04,Campeche,010,Calakmul,0378,La Trinidad,*
+04,Campeche,010,Calakmul,0380,Las Dos Marthas,*
+04,Campeche,010,Calakmul,0382,Los Siete Hermanos,*
+04,Campeche,010,Calakmul,0384,Ninguno,*
+04,Campeche,010,Calakmul,0385,Ríos de Agua Viva,*
+04,Campeche,010,Calakmul,0386,Ninguno,*
+04,Campeche,010,Calakmul,0387,Multiservicios de Calakmul [Gasolinera],*
+04,Campeche,010,Calakmul,0389,Planada de Morelia,*
+04,Campeche,010,Calakmul,0393,Los Cuatro Hermanos,*
+04,Campeche,010,Calakmul,0395,El Amigo,*
+04,Campeche,010,Calakmul,0396,El Cerro,*
+04,Campeche,010,Calakmul,0398,El Mirador,*
+04,Campeche,010,Calakmul,0399,San Miguel,*
+04,Campeche,010,Calakmul,0400,El Salvador,*
+04,Campeche,010,Calakmul,0401,Santa Elena,*
+04,Campeche,010,Calakmul,0402,Lorena,*
+04,Campeche,010,Calakmul,0403,Los Olivos,*
+04,Campeche,010,Calakmul,0404,Las Orquídeas,*
+04,Campeche,010,Calakmul,9998,Localidades de una vivienda,3
+04,Campeche,010,Calakmul,9999,Localidades de dos viviendas,2
+04,Campeche,011,Candelaria,0000,Total del Municipio,645
+04,Campeche,011,Candelaria,0001,Candelaria,246
+04,Campeche,011,Candelaria,0002,El Limón [Rancho],*
+04,Campeche,011,Candelaria,0003,Tres de Mayo,*
+04,Campeche,011,Candelaria,0004,Cuatro Hermanos,*
+04,Campeche,011,Candelaria,0005,Los Cuatro Hermanos,0
+04,Campeche,011,Candelaria,0007,El Achotal,*
+04,Campeche,011,Candelaria,0010,El Centenario,*
+04,Campeche,011,Candelaria,0014,Monte Horeb [Rancho],*
+04,Campeche,011,Candelaria,0015,Aguas Malas (Tres Cruces),0
+04,Campeche,011,Candelaria,0016,El Alazán,*
+04,Campeche,011,Candelaria,0017,Rancho Alegre,*
+04,Campeche,011,Candelaria,0018,Alianza Productora,1
+04,Campeche,011,Candelaria,0020,Alvarín,*
+04,Campeche,011,Candelaria,0021,La Amapola,*
+04,Campeche,011,Candelaria,0023,Los Amigos,*
+04,Campeche,011,Candelaria,0028,Las Maravillas 2 [Campo Menonita],3
+04,Campeche,011,Candelaria,0029,Las Maravillas 3 [Campo Menonita],0
+04,Campeche,011,Candelaria,0031,Las Maravillas 4 [Campo Menonita],0
+04,Campeche,011,Candelaria,0032,Las Maravillas 5 [Campo Menonita],*
+04,Campeche,011,Candelaria,0033,La Espuela (El Ceibo),*
+04,Campeche,011,Candelaria,0034,El Arpón Uno,*
+04,Campeche,011,Candelaria,0036,Arroyo de Cuba,0
+04,Campeche,011,Candelaria,0037,Arroyo del Julubal,0
+04,Campeche,011,Candelaria,0038,Arroyo San Juan (Las Golondrinas),8
+04,Campeche,011,Candelaria,0040,El Astillero,0
+04,Campeche,011,Candelaria,0041,Benito Juárez Uno,35
+04,Campeche,011,Candelaria,0043,Ninguno [Rancho],*
+04,Campeche,011,Candelaria,0044,El Diamante,*
+04,Campeche,011,Candelaria,0047,Las Bugambilias,*
+04,Campeche,011,Candelaria,0049,Caballo de San Lázaro,*
+04,Campeche,011,Candelaria,0051,California,*
+04,Campeche,011,Candelaria,0055,Los 5 Hermanos [Rancho],*
+04,Campeche,011,Candelaria,0058,Las Palmas,*
+04,Campeche,011,Candelaria,0060,La Herradura,*
+04,Campeche,011,Candelaria,0061,Las Muñecas,0
+04,Campeche,011,Candelaria,0062,Cantemó,*
+04,Campeche,011,Candelaria,0067,El Capulín,0
+04,Campeche,011,Candelaria,0068,Las Maravillas 1 [Campo Menonita],0
+04,Campeche,011,Candelaria,0069,Los Cardenales,*
+04,Campeche,011,Candelaria,0071,Carlos Sansores Pérez (La Paz),0
+04,Campeche,011,Candelaria,0073,El Nuevo Paraguas,2
+04,Campeche,011,Candelaria,0075,El Carmen,*
+04,Campeche,011,Candelaria,0080,El Cayuco,0
+04,Campeche,011,Candelaria,0081,Las Maravillas,*
+04,Campeche,011,Candelaria,0082,Quinta los Cocos,*
+04,Campeche,011,Candelaria,0084,San José,*
+04,Campeche,011,Candelaria,0086,El Halcón,*
+04,Campeche,011,Candelaria,0089,El Cenote (La Estrella),*
+04,Campeche,011,Candelaria,0090,San Luis,*
+04,Campeche,011,Candelaria,0092,F88,*
+04,Campeche,011,Candelaria,0094,El Charro,*
+04,Campeche,011,Candelaria,0097,El Chechenal,0
+04,Campeche,011,Candelaria,0099,El Chilar,0
+04,Campeche,011,Candelaria,0100,El Chilar,*
+04,Campeche,011,Candelaria,0106,La Providencia,*
+04,Campeche,011,Candelaria,0111,El Corozal,*
+04,Campeche,011,Candelaria,0114,Los Cuyos,*
+04,Campeche,011,Candelaria,0115,Corte Pajaral,3
+04,Campeche,011,Candelaria,0118,Los Cuatro Hermanos,*
+04,Campeche,011,Candelaria,0119,Cuauhtémoc,4
+04,Campeche,011,Candelaria,0120,Santa María,*
+04,Campeche,011,Candelaria,0125,El Crucero,*
+04,Campeche,011,Candelaria,0126,El Cuyo,*
+04,Campeche,011,Candelaria,0128,Nuevas Delicias I,0
+04,Campeche,011,Candelaria,0130,Las Delicias,3
+04,Campeche,011,Candelaria,0133,El Desengaño,*
+04,Campeche,011,Candelaria,0135,El Desengaño,13
+04,Campeche,011,Candelaria,0137,El Destino,1
+04,Campeche,011,Candelaria,0139,Hernández,*
+04,Campeche,011,Candelaria,0149,El Ranchito,*
+04,Campeche,011,Candelaria,0150,Casa Blanca,*
+04,Campeche,011,Candelaria,0151,La Ilusión,*
+04,Campeche,011,Candelaria,0153,Emiliano Zapata,4
+04,Campeche,011,Candelaria,0154,El Encanto,0
+04,Campeche,011,Candelaria,0157,El Cambio,*
+04,Campeche,011,Candelaria,0158,El Tulipán,*
+04,Campeche,011,Candelaria,0160,Escondido,*
+04,Campeche,011,Candelaria,0161,El Escondido,*
+04,Campeche,011,Candelaria,0166,La Esmeralda,7
+04,Campeche,011,Candelaria,0167,El Espejo,*
+04,Campeche,011,Candelaria,0169,Esperanza,1
+04,Campeche,011,Candelaria,0172,La Esperanza,0
+04,Campeche,011,Candelaria,0173,La Esperanza,*
+04,Campeche,011,Candelaria,0174,San Reymundo [Rancho],*
+04,Campeche,011,Candelaria,0175,La Esperanza,0
+04,Campeche,011,Candelaria,0183,Las Flores,*
+04,Campeche,011,Candelaria,0184,El Granito,*
+04,Campeche,011,Candelaria,0187,Estado de México,7
+04,Campeche,011,Candelaria,0188,Estrella del Sur,3
+04,Campeche,011,Candelaria,0189,La Estrella,*
+04,Campeche,011,Candelaria,0190,El Faisán,0
+04,Campeche,011,Candelaria,0192,El Farol,*
+04,Campeche,011,Candelaria,0193,Santa Rosa,*
+04,Campeche,011,Candelaria,0194,Flor de Chiapas,3
+04,Campeche,011,Candelaria,0195,Los Pollitos,0
+04,Campeche,011,Candelaria,0197,La Florida Tres,0
+04,Campeche,011,Candelaria,0198,La Florida (El Cuatro),1
+04,Campeche,011,Candelaria,0199,La Fortuna,0
+04,Campeche,011,Candelaria,0202,Francisco I. Madero,1
+04,Campeche,011,Candelaria,0204,La Franelita,*
+04,Campeche,011,Candelaria,0206,Las Gaviotas,*
+04,Campeche,011,Candelaria,0207,General Francisco J. Mújica,7
+04,Campeche,011,Candelaria,0208,El Girasol,*
+04,Campeche,011,Candelaria,0212,Las Golondrinas,7
+04,Campeche,011,Candelaria,0214,Lázaro Cárdenas,9
+04,Campeche,011,Candelaria,0223,Los Gavilanes,*
+04,Campeche,011,Candelaria,0225,Héctor Pérez Morales,4
+04,Campeche,011,Candelaria,0238,Ignacio Zaragoza (El Salvaje),1
+04,Campeche,011,Candelaria,0244,El Mostrenco,*
+04,Campeche,011,Candelaria,0249,El Laurel,*
+04,Campeche,011,Candelaria,0255,San Fernando,*
+04,Campeche,011,Candelaria,0262,San Juan,*
+04,Campeche,011,Candelaria,0263,El Abalanzadero,*
+04,Campeche,011,Candelaria,0264,El Jabín,*
+04,Campeche,011,Candelaria,0266,El Sacrificio,*
+04,Campeche,011,Candelaria,0276,Centenario,*
+04,Campeche,011,Candelaria,0284,Pejelagarto II,*
+04,Campeche,011,Candelaria,0285,San Carlos,*
+04,Campeche,011,Candelaria,0290,El Jazmín,*
+04,Campeche,011,Candelaria,0294,Laguna la Perdida,1
+04,Campeche,011,Candelaria,0298,Los Laureles Dos,*
+04,Campeche,011,Candelaria,0302,Justo Sierra Méndez,3
+04,Campeche,011,Candelaria,0310,La Llave,*
+04,Campeche,011,Candelaria,0311,Miguel Ángel,*
+04,Campeche,011,Candelaria,0314,La Lucha,1
+04,Campeche,011,Candelaria,0317,Luinal,3
+04,Campeche,011,Candelaria,0319,El Machetazo,8
+04,Campeche,011,Candelaria,0320,El Machiche [Aserradero],*
+04,Campeche,011,Candelaria,0325,El Mamey,2
+04,Campeche,011,Candelaria,0333,Las Margaritas,*
+04,Campeche,011,Candelaria,0334,María Luisa,*
+04,Campeche,011,Candelaria,0339,Las Melinas,*
+04,Campeche,011,Candelaria,0340,Miguel Alemán,8
+04,Campeche,011,Candelaria,0341,Miguel de la Madrid (El Pañuelo),3
+04,Campeche,011,Candelaria,0342,Miguel Hidalgo y Costilla,8
+04,Campeche,011,Candelaria,0343,El Mirador Primero,3
+04,Campeche,011,Candelaria,0344,La Misteriosa,2
+04,Campeche,011,Candelaria,0345,La Mixteca,*
+04,Campeche,011,Candelaria,0346,La Mojina,*
+04,Campeche,011,Candelaria,0347,El Monarca (Las Tablitas),*
+04,Campeche,011,Candelaria,0348,Monclova,10
+04,Campeche,011,Candelaria,0350,El Otoño,0
+04,Campeche,011,Candelaria,0355,El Naranjo,18
+04,Campeche,011,Candelaria,0356,El Naranjo [Finca],*
+04,Campeche,011,Candelaria,0357,El Naranjo,*
+04,Campeche,011,Candelaria,0358,Narcizo Mendoza,0
+04,Campeche,011,Candelaria,0360,Nueva Delicias II,1
+04,Campeche,011,Candelaria,0361,Nueva Esperanza,3
+04,Campeche,011,Candelaria,0362,Nueva Esperanza,*
+04,Campeche,011,Candelaria,0363,Nueva Esperanza,*
+04,Campeche,011,Candelaria,0366,La Nueva Lucha,0
+04,Campeche,011,Candelaria,0367,Nueva Rosita,5
+04,Campeche,011,Candelaria,0368,Los Dos Guacamayos,*
+04,Campeche,011,Candelaria,0369,San Manuel Nuevo Canutillo,5
+04,Campeche,011,Candelaria,0371,Nuevo Coahuila,9
+04,Campeche,011,Candelaria,0372,Nuevo Comalcalco,1
+04,Campeche,011,Candelaria,0373,El Nuevo Ferrocarril,*
+04,Campeche,011,Candelaria,0375,Nuevo Marente,*
+04,Campeche,011,Candelaria,0377,Nuevo Progreso,*
+04,Campeche,011,Candelaria,0379,Tres Hermanos (Rancho Nuevo Dos),*
+04,Campeche,011,Candelaria,0381,La Olla,2
+04,Campeche,011,Candelaria,0382,Pablo García,3
+04,Campeche,011,Candelaria,0383,Pablo Torres Burgos,3
+04,Campeche,011,Candelaria,0386,Triunfo Uno,0
+04,Campeche,011,Candelaria,0387,Mílpa Vieja,*
+04,Campeche,011,Candelaria,0388,San Pedro (Salto Grande),*
+04,Campeche,011,Candelaria,0390,El Palmar,*
+04,Campeche,011,Candelaria,0391,El Palmar (San Pedro),*
+04,Campeche,011,Candelaria,0393,La Palma,*
+04,Campeche,011,Candelaria,0395,La Palma,*
+04,Campeche,011,Candelaria,0396,Las Palmitas,0
+04,Campeche,011,Candelaria,0397,Las Palomas,*
+04,Campeche,011,Candelaria,0398,Las Palomas Dos,*
+04,Campeche,011,Candelaria,0399,San Román,1
+04,Campeche,011,Candelaria,0401,El Paraguas,0
+04,Campeche,011,Candelaria,0403,Paraíso Nuevo,8
+04,Campeche,011,Candelaria,0405,El Paraíso [Finca],*
+04,Campeche,011,Candelaria,0406,El Paraíso,*
+04,Campeche,011,Candelaria,0407,El Paso del Cuervo (El Cuervo),*
+04,Campeche,011,Candelaria,0408,Paso Real,*
+04,Campeche,011,Candelaria,0412,El Pedregal,5
+04,Campeche,011,Candelaria,0413,El Pedregal,*
+04,Campeche,011,Candelaria,0416,Pedro Baranda,5
+04,Campeche,011,Candelaria,0417,Pejelagarto,22
+04,Campeche,011,Candelaria,0418,La Pelusa,0
+04,Campeche,011,Candelaria,0427,Balankax,3
+04,Campeche,011,Candelaria,0428,El Pocito,6
+04,Campeche,011,Candelaria,0431,Los Pollos,0
+04,Campeche,011,Candelaria,0435,El Porvenir,3
+04,Campeche,011,Candelaria,0437,El Porvenir,*
+04,Campeche,011,Candelaria,0438,Los Potrillos,*
+04,Campeche,011,Candelaria,0448,La Providencia,*
+04,Campeche,011,Candelaria,0452,El Ramonal II (Los Manguitos),0
+04,Campeche,011,Candelaria,0453,El Ramonal,2
+04,Campeche,011,Candelaria,0454,El Pimiental Dos,1
+04,Campeche,011,Candelaria,0456,Rancho Alegre,*
+04,Campeche,011,Candelaria,0457,Rancho Bonito,*
+04,Campeche,011,Candelaria,0459,Rancho Grande,*
+04,Campeche,011,Candelaria,0461,Rancho Nuevo,*
+04,Campeche,011,Candelaria,0462,Rayo Solar,*
+04,Campeche,011,Candelaria,0463,El Recreo,*
+04,Campeche,011,Candelaria,0464,Los Cedros,*
+04,Campeche,011,Candelaria,0466,El Recuerdo,*
+04,Campeche,011,Candelaria,0469,San Fernando,*
+04,Campeche,011,Candelaria,0478,Tres Reyes,0
+04,Campeche,011,Candelaria,0479,Los Robles,*
+04,Campeche,011,Candelaria,0483,El Rubí,*
+04,Campeche,011,Candelaria,0485,Las Ruinas,*
+04,Campeche,011,Candelaria,0487,El Sacrificio,0
+04,Campeche,011,Candelaria,0488,El Sacrificio II,0
+04,Campeche,011,Candelaria,0493,Salto Ahogado,*
+04,Campeche,011,Candelaria,0498,San Antonio,*
+04,Campeche,011,Candelaria,0502,San Antonio,0
+04,Campeche,011,Candelaria,0506,San Antonio,0
+04,Campeche,011,Candelaria,0507,San Antonio California II,*
+04,Campeche,011,Candelaria,0517,San Dimas,3
+04,Campeche,011,Candelaria,0518,San Felipe,*
+04,Campeche,011,Candelaria,0519,Yasú,*
+04,Campeche,011,Candelaria,0520,El Herradero,*
+04,Campeche,011,Candelaria,0522,San Florencio,*
+04,Campeche,011,Candelaria,0523,San Francisco,*
+04,Campeche,011,Candelaria,0530,San Isidro,*
+04,Campeche,011,Candelaria,0532,San Joaquín,*
+04,Campeche,011,Candelaria,0533,San Jorge,*
+04,Campeche,011,Candelaria,0541,San José,*
+04,Campeche,011,Candelaria,0542,Ana Sofía [Rancho],*
+04,Campeche,011,Candelaria,0546,San José de las Montañas,5
+04,Campeche,011,Candelaria,0550,San Juan,*
+04,Campeche,011,Candelaria,0551,San Juan,2
+04,Campeche,011,Candelaria,0553,La Lucha,*
+04,Campeche,011,Candelaria,0554,San Lorenzo,*
+04,Campeche,011,Candelaria,0559,Santa Cruz,*
+04,Campeche,011,Candelaria,0561,El Herradero,*
+04,Campeche,011,Candelaria,0565,San Miguel,0
+04,Campeche,011,Candelaria,0566,San Miguel,11
+04,Campeche,011,Candelaria,0576,San Rafael del Río Caribe,0
+04,Campeche,011,Candelaria,0583,San Román,*
+04,Campeche,011,Candelaria,0586,San Salvador,*
+04,Campeche,011,Candelaria,0587,Tres Hermanas,*
+04,Campeche,011,Candelaria,0588,Santa Amelia,*
+04,Campeche,011,Candelaria,0589,Santa Ana,*
+04,Campeche,011,Candelaria,0597,Santa Elena,*
+04,Campeche,011,Candelaria,0599,Santa Fe,*
+04,Campeche,011,Candelaria,0602,Santa Lucía,2
+04,Campeche,011,Candelaria,0603,Santa Lucía,*
+04,Campeche,011,Candelaria,0612,Santa Rosa,1
+04,Campeche,011,Candelaria,0616,Santo Domingo,2
+04,Campeche,011,Candelaria,0617,Santo Domingo,*
+04,Campeche,011,Candelaria,0618,Santo Domingo (El Cuyo),0
+04,Campeche,011,Candelaria,0619,El Sarzal,*
+04,Campeche,011,Candelaria,0621,Nueva Esperanza,*
+04,Campeche,011,Candelaria,0627,El Tucán,*
+04,Campeche,011,Candelaria,0629,Solidaridad,1
+04,Campeche,011,Candelaria,0630,El Solitario,*
+04,Campeche,011,Candelaria,0635,El Tablón,0
+04,Campeche,011,Candelaria,0638,El Taziztal,1
+04,Campeche,011,Candelaria,0639,Tenancingo,0
+04,Campeche,011,Candelaria,0642,El Tigre,0
+04,Campeche,011,Candelaria,0644,Francisco Villa,0
+04,Campeche,011,Candelaria,0648,El Tintal,*
+04,Campeche,011,Candelaria,0650,La Tolva,*
+04,Campeche,011,Candelaria,0651,La Tómbola,2
+04,Campeche,011,Candelaria,0655,El Toro,*
+04,Campeche,011,Candelaria,0656,El Toro,*
+04,Campeche,011,Candelaria,0658,La Toñita,*
+04,Campeche,011,Candelaria,0659,El Treinta,0
+04,Campeche,011,Candelaria,0664,Tres Hermanos,*
+04,Campeche,011,Candelaria,0666,Tres Reyes,3
+04,Campeche,011,Candelaria,0668,El Triunfo (Los Tochos),*
+04,Campeche,011,Candelaria,0670,El Tulipán (El Imposible),0
+04,Campeche,011,Candelaria,0672,El Tumbo,*
+04,Campeche,011,Candelaria,0673,La Unión,*
+04,Campeche,011,Candelaria,0674,El Último Esfuerzo,*
+04,Campeche,011,Candelaria,0676,La Unión,0
+04,Campeche,011,Candelaria,0677,La Unión (Dos Arroyos),2
+04,Campeche,011,Candelaria,0680,Venustiano Carranza,14
+04,Campeche,011,Candelaria,0682,El Vergel,*
+04,Campeche,011,Candelaria,0683,Vicente Guerrero,2
+04,Campeche,011,Candelaria,0684,Vicente Guerrero Número 2,1
+04,Campeche,011,Candelaria,0685,Vicente Lombardo Toledano,0
+04,Campeche,011,Candelaria,0689,Vista Mar,*
+04,Campeche,011,Candelaria,0694,La Zanja (La Palma),2
+04,Campeche,011,Candelaria,0696,Primer Presidente de México (Guadalupe Victoria),8
+04,Campeche,011,Candelaria,0698,El Borbonal,*
+04,Campeche,011,Candelaria,0699,El Girasol,0
+04,Campeche,011,Candelaria,0704,Las Pozas de Ventura,*
+04,Campeche,011,Candelaria,0707,Los Alacranes,*
+04,Campeche,011,Candelaria,0710,F10 [Rancho],*
+04,Campeche,011,Candelaria,0713,El Cascabel,*
+04,Campeche,011,Candelaria,0715,El Centenario (El Edén),*
+04,Campeche,011,Candelaria,0716,La Vikina,*
+04,Campeche,011,Candelaria,0718,El Chiapaneco,*
+04,Campeche,011,Candelaria,0720,Concepción,*
+04,Campeche,011,Candelaria,0722,Los Cuyos,*
+04,Campeche,011,Candelaria,0725,La Fe,*
+04,Campeche,011,Candelaria,0730,La Guadalupe,*
+04,Campeche,011,Candelaria,0733,Miramontes,*
+04,Campeche,011,Candelaria,0737,La Calzada,*
+04,Campeche,011,Candelaria,0740,Candelaria [Centro Ovino],*
+04,Campeche,011,Candelaria,0748,Jericó,*
+04,Campeche,011,Candelaria,0752,Las Margaritas Dos,*
+04,Campeche,011,Candelaria,0753,Nuevo Sinaloa,0
+04,Campeche,011,Candelaria,0757,Las Nuevas Victorias,*
+04,Campeche,011,Candelaria,0762,El Paso,*
+04,Campeche,011,Candelaria,0765,Los Tabachines,*
+04,Campeche,011,Candelaria,0767,El Porvenir,*
+04,Campeche,011,Candelaria,0772,Rancho Alegre Tres,*
+04,Campeche,011,Candelaria,0773,Rancho Bravo,*
+04,Campeche,011,Candelaria,0775,Rancho Nuevo,*
+04,Campeche,011,Candelaria,0779,Don Danilo,*
+04,Campeche,011,Candelaria,0781,San Julián,0
+04,Campeche,011,Candelaria,0789,San Sebastián,*
+04,Campeche,011,Candelaria,0790,Copa,*
+04,Campeche,011,Candelaria,0795,Santa Rita,*
+04,Campeche,011,Candelaria,0799,El Tulipán,*
+04,Campeche,011,Candelaria,0801,La Unión,0
+04,Campeche,011,Candelaria,0811,La Peregrina,1
+04,Campeche,011,Candelaria,0813,Buenavista,*
+04,Campeche,011,Candelaria,0814,Adolfo López Mateos,3
+04,Campeche,011,Candelaria,0817,El Águila,*
+04,Campeche,011,Candelaria,0818,Dos Hermanos,*
+04,Campeche,011,Candelaria,0822,El Sinaí,*
+04,Campeche,011,Candelaria,0824,Los Cedros,*
+04,Campeche,011,Candelaria,0825,La Laguna,*
+04,Campeche,011,Candelaria,0831,Ninguno,*
+04,Campeche,011,Candelaria,0832,Acapulco,*
+04,Campeche,011,Candelaria,0835,Agua Azul,1
+04,Campeche,011,Candelaria,0837,La Alejandría,*
+04,Campeche,011,Candelaria,0841,San Ramón,*
+04,Campeche,011,Candelaria,0842,El Arpón Tres,*
+04,Campeche,011,Candelaria,0846,Los Rosales,*
+04,Campeche,011,Candelaria,0857,El Castaño,*
+04,Campeche,011,Candelaria,0859,La Casualidad,*
+04,Campeche,011,Candelaria,0868,El Columpio,*
+04,Campeche,011,Candelaria,0872,La Corriente Uno,*
+04,Campeche,011,Candelaria,0873,Los Guayacanes,*
+04,Campeche,011,Candelaria,0876,La Cumbre,*
+04,Campeche,011,Candelaria,0884,Dos Hermanos,*
+04,Campeche,011,Candelaria,0890,La Esperancita Dos,0
+04,Campeche,011,Candelaria,0894,Los Magueyes,*
+04,Campeche,011,Candelaria,0895,La Fortuna (Las Glorias),*
+04,Campeche,011,Candelaria,0896,La Galera,*
+04,Campeche,011,Candelaria,0906,Hermanos Cruz,0
+04,Campeche,011,Candelaria,0908,La Herradura,*
+04,Campeche,011,Candelaria,0921,El Colibrí,*
+04,Campeche,011,Candelaria,0930,San Antonio,*
+04,Campeche,011,Candelaria,0933,Los Limones,*
+04,Campeche,011,Candelaria,0938,El Farolito,*
+04,Campeche,011,Candelaria,0939,Ninguno,*
+04,Campeche,011,Candelaria,0941,Montebello,*
+04,Campeche,011,Candelaria,0943,Rancho Alegre,*
+04,Campeche,011,Candelaria,0944,La Guadalupe,*
+04,Campeche,011,Candelaria,0945,El Cerro del Águila,*
+04,Campeche,011,Candelaria,0946,Perseverancia,*
+04,Campeche,011,Candelaria,0948,La Curva,*
+04,Campeche,011,Candelaria,0950,Los Jabines Uno,*
+04,Campeche,011,Candelaria,0951,El Jurel,*
+04,Campeche,011,Candelaria,0952,Kilómetro Quince la Reforma,*
+04,Campeche,011,Candelaria,0958,Lomas de los Ángeles (El Roblar),*
+04,Campeche,011,Candelaria,0970,Naranjito,*
+04,Campeche,011,Candelaria,0972,El Naranjito,*
+04,Campeche,011,Candelaria,0986,Aguada Seca (El Poder de Dios),*
+04,Campeche,011,Candelaria,0988,El Porvenir (El Arroyón),*
+04,Campeche,011,Candelaria,0989,El Porvenir,*
+04,Campeche,011,Candelaria,0990,El Porvenir,*
+04,Campeche,011,Candelaria,0992,Poza del Danto (Campamento del Danto),0
+04,Campeche,011,Candelaria,0996,Quinta Tres Hermanos,*
+04,Campeche,011,Candelaria,0997,Los Ramonales,*
+04,Campeche,011,Candelaria,0999,Rancho Alegre,*
+04,Campeche,011,Candelaria,1000,Rancho Nuevo,0
+04,Campeche,011,Candelaria,1002,El Recuerdo,*
+04,Campeche,011,Candelaria,1014,San Joaquín,*
+04,Campeche,011,Candelaria,1018,San José,*
+04,Campeche,011,Candelaria,1021,San José de la Sabana,*
+04,Campeche,011,Candelaria,1025,San Rafael,*
+04,Campeche,011,Candelaria,1028,San Román,0
+04,Campeche,011,Candelaria,1031,La Gloria,*
+04,Campeche,011,Candelaria,1056,Los Tres Hermanos López,*
+04,Campeche,011,Candelaria,1057,Tres Letras (Cayucón),*
+04,Campeche,011,Candelaria,1058,Triunfo Dos,*
+04,Campeche,011,Candelaria,1062,Cuatro Hermanos,*
+04,Campeche,011,Candelaria,1064,La Veleta,*
+04,Campeche,011,Candelaria,1068,Las Almendras,*
+04,Campeche,011,Candelaria,1081,La Corneta [Isla],*
+04,Campeche,011,Candelaria,1082,Los Cuyos,*
+04,Campeche,011,Candelaria,1087,La Guadalupe,*
+04,Campeche,011,Candelaria,1099,La Calzada,3
+04,Campeche,011,Candelaria,1102,Los Limones,*
+04,Campeche,011,Candelaria,1110,La Isla del Regreso,*
+04,Campeche,011,Candelaria,1115,La Lucha,*
+04,Campeche,011,Candelaria,1121,Las Tres Potrillas,*
+04,Campeche,011,Candelaria,1125,El Piedral (El Muerto),*
+04,Campeche,011,Candelaria,1137,Los Pavorreales,*
+04,Campeche,011,Candelaria,1141,El Vergel,*
+04,Campeche,011,Candelaria,1143,Licenciado José Antonio González Curi,0
+04,Campeche,011,Candelaria,1146,El Charro,*
+04,Campeche,011,Candelaria,1148,El Fantasma (Los Chileros),1
+04,Campeche,011,Candelaria,1152,El Calabozo,0
+04,Campeche,011,Candelaria,1153,Casa Blanca,*
+04,Campeche,011,Candelaria,1154,Ninguno,*
+04,Campeche,011,Candelaria,1155,Champas Quemadas,1
+04,Campeche,011,Candelaria,1160,Cuatro Hermanos,*
+04,Campeche,011,Candelaria,1162,El Crucero,*
+04,Campeche,011,Candelaria,1166,La Guadalupe Dos,*
+04,Campeche,011,Candelaria,1169,Ninguno,*
+04,Campeche,011,Candelaria,1176,La Veleta,*
+04,Campeche,011,Candelaria,1177,Rancho Nuevo,*
+04,Campeche,011,Candelaria,1181,Otate,*
+04,Campeche,011,Candelaria,1187,El Esfuerzo,*
+04,Campeche,011,Candelaria,1192,Ninguno,*
+04,Campeche,011,Candelaria,1193,Ninguno,*
+04,Campeche,011,Candelaria,1195,Santa Isabel,*
+04,Campeche,011,Candelaria,1199,Ninguno,*
+04,Campeche,011,Candelaria,1212,San Vicente,*
+04,Campeche,011,Candelaria,1218,El Espejo,*
+04,Campeche,011,Candelaria,1225,Las Mariposas,*
+04,Campeche,011,Candelaria,1227,Las Palmas,*
+04,Campeche,011,Candelaria,1231,Río Caribe (Caribe),0
+04,Campeche,011,Candelaria,1235,San José,*
+04,Campeche,011,Candelaria,1241,La Trinidad,*
+04,Campeche,011,Candelaria,1242,El Piche,*
+04,Campeche,011,Candelaria,1245,Dos Hermanos,*
+04,Campeche,011,Candelaria,1246,La Curva,*
+04,Campeche,011,Candelaria,1255,Tres de Mayo Dos,0
+04,Campeche,011,Candelaria,1261,El Diamante,0
+04,Campeche,011,Candelaria,1262,El Dólar,*
+04,Campeche,011,Candelaria,1266,El Jurel,*
+04,Campeche,011,Candelaria,1268,El Limonario,*
+04,Campeche,011,Candelaria,1273,Ignacio Zaragoza (El Pulguero),0
+04,Campeche,011,Candelaria,1278,Los Álvarez,*
+04,Campeche,011,Candelaria,1279,El Tintal Capricho,0
+04,Campeche,011,Candelaria,1284,La Copa,*
+04,Campeche,011,Candelaria,1291,La Laguna,*
+04,Campeche,011,Candelaria,1296,Las Palmas,*
+04,Campeche,011,Candelaria,1299,El Chinal Dos,*
+04,Campeche,011,Candelaria,1300,Las Maravillas,*
+04,Campeche,011,Candelaria,1304,Las Tres Estrellas,*
+04,Campeche,011,Candelaria,1308,Ninguno,*
+04,Campeche,011,Candelaria,1312,Ninguno,*
+04,Campeche,011,Candelaria,1313,El Alacrán,*
+04,Campeche,011,Candelaria,1315,Ninguno [Laura María Pérez],*
+04,Campeche,011,Candelaria,1316,Lupita,*
+04,Campeche,011,Candelaria,1318,El Mirador,*
+04,Campeche,011,Candelaria,1326,Los Framboyanes,*
+04,Campeche,011,Candelaria,1328,Los Potrillos,*
+04,Campeche,011,Candelaria,1329,Los Tres Potrillos,*
+04,Campeche,011,Candelaria,1331,Paraíso,*
+04,Campeche,011,Candelaria,1336,San Antonio,*
+04,Campeche,011,Candelaria,1339,El Relámpago,*
+04,Campeche,011,Candelaria,1342,San Miguelito,*
+04,Campeche,011,Candelaria,1344,Santa Lucía,*
+04,Campeche,011,Candelaria,1347,Villa de Guadalupe,*
+04,Campeche,011,Candelaria,1349,La Amapola,*
+04,Campeche,011,Candelaria,1352,El Manguito,*
+04,Campeche,011,Candelaria,1355,El Carril [Rancho],*
+04,Campeche,011,Candelaria,1357,El Potrillo [Rancho],*
+04,Campeche,011,Candelaria,1358,El Escondido,0
+04,Campeche,011,Candelaria,1360,R-2007,*
+04,Campeche,011,Candelaria,1364,2 Hermanos,0
+04,Campeche,011,Candelaria,1367,El Mirador,*
+04,Campeche,011,Candelaria,1368,El Carmen [Hacienda],*
+04,Campeche,011,Candelaria,1370,El Amigo,*
+04,Campeche,011,Candelaria,1371,El Monarca,*
+04,Campeche,011,Candelaria,1373,San Fernando,*
+04,Campeche,011,Candelaria,1374,San Fernando,*
+04,Campeche,011,Candelaria,1378,Colonia Ferrocarril,*
+04,Campeche,011,Candelaria,1379,Don Blas,*
+04,Campeche,011,Candelaria,1380,El Solitario,*
+04,Campeche,011,Candelaria,1381,Grano de Oro,*
+04,Campeche,011,Candelaria,1384,La Esperanza,*
+04,Campeche,011,Candelaria,1388,Las Américas,0
+04,Campeche,011,Candelaria,1390,Ninguno,*
+04,Campeche,011,Candelaria,1399,Emiliano Zapata III,6
+04,Campeche,011,Candelaria,1400,Tres de Mayo Tres,0
+04,Campeche,011,Candelaria,1401,Arroyo Veinticuatro de Mayo,0
+04,Campeche,011,Candelaria,1402,Balancancito,1
+04,Campeche,011,Candelaria,1403,El Encanto 2,3
+04,Campeche,011,Candelaria,1406,Isla del Paraíso,4
+04,Campeche,011,Candelaria,1411,Los Saucedos,*
+04,Campeche,011,Candelaria,1412,Nueva Rosita II,0
+04,Campeche,011,Candelaria,1413,Nuevo Tabasco,0
+04,Campeche,011,Candelaria,1414,San Fernando,2
+04,Campeche,011,Candelaria,1418,La Esperancita,1
+04,Campeche,011,Candelaria,1420,El Diamante 2,*
+04,Campeche,011,Candelaria,1422,San Antonio Número 2,1
+04,Campeche,011,Candelaria,1425,San Gabriel,*
+04,Campeche,011,Candelaria,1427,Camino Real,*
+04,Campeche,011,Candelaria,1430,Dos Hermanos,*
+04,Campeche,011,Candelaria,1432,El Acintal,*
+04,Campeche,011,Candelaria,1436,El Chapoteadero,*
+04,Campeche,011,Candelaria,1438,El Espejo,*
+04,Campeche,011,Candelaria,1439,El Gavilán,*
+04,Campeche,011,Candelaria,1441,El Julián,*
+04,Campeche,011,Candelaria,1443,El Palmar,*
+04,Campeche,011,Candelaria,1445,El Recuerdo,*
+04,Campeche,011,Candelaria,1446,El Retazo,*
+04,Campeche,011,Candelaria,1447,El Sauce,*
+04,Campeche,011,Candelaria,1448,San Lázaro,*
+04,Campeche,011,Candelaria,1449,El Teniente,*
+04,Campeche,011,Candelaria,1453,La Carmelita,*
+04,Campeche,011,Candelaria,1454,La Curva 1,0
+04,Campeche,011,Candelaria,1455,La Guadalupe,*
+04,Campeche,011,Candelaria,1459,La Isla del Esfuerzo,*
+04,Campeche,011,Candelaria,1463,Las Piedras,*
+04,Campeche,011,Candelaria,1466,San José,*
+04,Campeche,011,Candelaria,1469,Las Golondrinas,*
+04,Campeche,011,Candelaria,1470,San Pedro,*
+04,Campeche,011,Candelaria,1472,Los Dos Potrillos,*
+04,Campeche,011,Candelaria,1475,San Cristóbal de las Casas,*
+04,Campeche,011,Candelaria,1476,Los Potrillos,*
+04,Campeche,011,Candelaria,1479,Nego Eben-Ezer,*
+04,Campeche,011,Candelaria,1482,San Antonio,*
+04,Campeche,011,Candelaria,1484,San Cristóbal,*
+04,Campeche,011,Candelaria,1485,San Antonino,*
+04,Campeche,011,Candelaria,1492,Santa Elena,*
+04,Campeche,011,Candelaria,1493,Santa Rosa,*
+04,Campeche,011,Candelaria,1495,Santa Sofía,*
+04,Campeche,011,Candelaria,1497,Nuevo Comalcalco II,0
+04,Campeche,011,Candelaria,1498,Pulguero II,0
+04,Campeche,011,Candelaria,1499,Nuevo Relámpago,0
+04,Campeche,011,Candelaria,1501,Sal Si Puedes II,0
+04,Campeche,011,Candelaria,1502,El Último Esfuerzo,0
+04,Campeche,011,Candelaria,1504,La Tigra,1
+04,Campeche,011,Candelaria,1505,Azteca,*
+04,Campeche,011,Candelaria,1507,El Esfuerzo,*
+04,Campeche,011,Candelaria,1513,La Envidia,*
+04,Campeche,011,Candelaria,1515,Centenario Dos,0
+04,Campeche,011,Candelaria,1516,Chilam Balam,1
+04,Campeche,011,Candelaria,1521,El Cubano,*
+04,Campeche,011,Candelaria,1522,El Encanto,0
+04,Campeche,011,Candelaria,1524,El Manantial,*
+04,Campeche,011,Candelaria,1528,El Piedralito,*
+04,Campeche,011,Candelaria,1530,El Pitayo,*
+04,Campeche,011,Candelaria,1536,La Bendición de Dios,*
+04,Campeche,011,Candelaria,1537,La Bendición,*
+04,Campeche,011,Candelaria,1540,La Flor,*
+04,Campeche,011,Candelaria,1541,La Flor,*
+04,Campeche,011,Candelaria,1543,La Guadalupe,*
+04,Campeche,011,Candelaria,1547,La Lucha,*
+04,Campeche,011,Candelaria,1548,El Piñón [Rancho],*
+04,Campeche,011,Candelaria,1549,La Palma,*
+04,Campeche,011,Candelaria,1550,La Peña,*
+04,Campeche,011,Candelaria,1554,Loma Linda,*
+04,Campeche,011,Candelaria,1556,Los Ceibos,*
+04,Campeche,011,Candelaria,1558,Los Laureles Uno,*
+04,Campeche,011,Candelaria,1562,Vista Alegre,*
+04,Campeche,011,Candelaria,1564,Ninguno,*
+04,Campeche,011,Candelaria,1565,Ninguno,*
+04,Campeche,011,Candelaria,1566,Ninguno,*
+04,Campeche,011,Candelaria,1568,San Antonio,*
+04,Campeche,011,Candelaria,1569,Ninguno,*
+04,Campeche,011,Candelaria,1570,Los Cuatro Hermanos,0
+04,Campeche,011,Candelaria,1572,Ninguno,*
+04,Campeche,011,Candelaria,1575,San Francisco,*
+04,Campeche,011,Candelaria,1576,San Juan,*
+04,Campeche,011,Candelaria,1577,San Juan,*
+04,Campeche,011,Candelaria,1578,San Román,*
+04,Campeche,011,Candelaria,1580,Seven Stars,*
+04,Campeche,011,Candelaria,1582,Tres Hermanos,*
+04,Campeche,011,Candelaria,1584,Laguna de Oro,1
+04,Campeche,011,Candelaria,1587,Los Manantiales,*
+04,Campeche,011,Candelaria,1590,Los Dos Potrillos,*
+04,Campeche,011,Candelaria,1594,Los Aguacates,*
+04,Campeche,011,Candelaria,1595,Tres Piedras,0
+04,Campeche,011,Candelaria,1598,El Gachutín,*
+04,Campeche,011,Candelaria,1599,El Milagro,*
+04,Campeche,011,Candelaria,1600,El Tenampa,*
+04,Campeche,011,Candelaria,1601,La Amapola,*
+04,Campeche,011,Candelaria,1602,La Candelaria,*
+04,Campeche,011,Candelaria,1603,Muñoz Ramírez,*
+04,Campeche,011,Candelaria,1604,Quinta Dubai,*
+04,Campeche,011,Candelaria,1605,Santa Cecilia,*
+04,Campeche,011,Candelaria,1606,Villalobos,*
+04,Campeche,011,Candelaria,1608,El Potrillo,*
+04,Campeche,011,Candelaria,1609,El Miedo [Rancho],*
+04,Campeche,011,Candelaria,1611,El Sacrificio,*
+04,Campeche,011,Candelaria,1612,El Saino [Rancho],*
+04,Campeche,011,Candelaria,1613,El Sinaí [Rancho],*
+04,Campeche,011,Candelaria,1614,El Suspiro,*
+04,Campeche,011,Candelaria,1615,Erlín Nieto [Rancho],*
+04,Campeche,011,Candelaria,1616,La Esmeralda,*
+04,Campeche,011,Candelaria,1617,La Explanada,*
+04,Campeche,011,Candelaria,1618,La Fortuna [Rancho],*
+04,Campeche,011,Candelaria,1619,La Providencia,*
+04,Campeche,011,Candelaria,1620,Los Pavorreales,*
+04,Campeche,011,Candelaria,1621,Montecristo [Rancho],*
+04,Campeche,011,Candelaria,1622,El Mirador,*
+04,Campeche,011,Candelaria,1623,Santa Lucía,*
+04,Campeche,011,Candelaria,1624,El Jazmín,*
+04,Campeche,011,Candelaria,1625,La Ilusión,0
+04,Campeche,011,Candelaria,1627,Laguna las Isabeles,0
+04,Campeche,011,Candelaria,1628,San Luis,*
+04,Campeche,011,Candelaria,1629,Cuatro Hermanos,*
+04,Campeche,011,Candelaria,1630,El Guásimo,*
+04,Campeche,011,Candelaria,1631,El Mirador,*
+04,Campeche,011,Candelaria,1632,El Pavo Real,*
+04,Campeche,011,Candelaria,1634,El Porvenir,*
+04,Campeche,011,Candelaria,1635,La Flor,*
+04,Campeche,011,Candelaria,1636,La Piedra,*
+04,Campeche,011,Candelaria,1638,Las Palmas,*
+04,Campeche,011,Candelaria,1639,Los Gavilanes,*
+04,Campeche,011,Candelaria,1641,Los Tres Hermanos Andariegos,*
+04,Campeche,011,Candelaria,1642,Arnulfo Aguilar,*
+04,Campeche,011,Candelaria,1643,Beristanley Zubieta,*
+04,Campeche,011,Candelaria,1645,Sacrificio [Rancho],*
+04,Campeche,011,Candelaria,1647,Santa Bárbara,*
+04,Campeche,011,Candelaria,1648,Saura Rueda,*
+04,Campeche,011,Candelaria,1649,Solín,*
+04,Campeche,011,Candelaria,1651,Damián,*
+04,Campeche,011,Candelaria,1652,La Ilusión,*
+04,Campeche,011,Candelaria,1654,Samán,*
+04,Campeche,011,Candelaria,1655,San Vicente,*
+04,Campeche,011,Candelaria,1656,El Corralito,*
+04,Campeche,011,Candelaria,1658,Acapulco Dos,*
+04,Campeche,011,Candelaria,1660,La Antena,*
+04,Campeche,011,Candelaria,9998,Localidades de una vivienda,19
+04,Campeche,011,Candelaria,9999,Localidades de dos viviendas,1
+04,Campeche,012,Seybaplaya,0000,Total del Municipio,622
+04,Campeche,012,Seybaplaya,0001,Seybaplaya,471
+04,Campeche,012,Seybaplaya,0002,5 de Mayo,*
+04,Campeche,012,Seybaplaya,0003,Acapulquito,*
+04,Campeche,012,Seybaplaya,0008,Canta Mar,*
+04,Campeche,012,Seybaplaya,0010,Corillos,*
+04,Campeche,012,Seybaplaya,0011,Costa Blanca,*
+04,Campeche,012,Seybaplaya,0012,El Huanal,*
+04,Campeche,012,Seybaplaya,0016,Haltunchén,0
+04,Campeche,012,Seybaplaya,0019,La Soledad,*
+04,Campeche,012,Seybaplaya,0021,Monte Frio (El Molón),*
+04,Campeche,012,Seybaplaya,0027,Ninguno,*
+04,Campeche,012,Seybaplaya,0035,Pedregal,*
+04,Campeche,012,Seybaplaya,0039,Quinta del Sol,*
+04,Campeche,012,Seybaplaya,0046,San Judas Tadeo,*
+04,Campeche,012,Seybaplaya,0050,Santa Isabel (Xcanteil),*
+04,Campeche,012,Seybaplaya,0051,Santa Rita,*
+04,Campeche,012,Seybaplaya,0055,Villa Madero,116
+04,Campeche,012,Seybaplaya,0056,Xkeulil,35
+04,Campeche,012,Seybaplaya,9998,Localidades de una vivienda,0
+04,Campeche,012,Seybaplaya,9999,Localidades de dos viviendas,0
