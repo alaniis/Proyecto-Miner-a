@@ -1,0 +1,1324 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,P18A24A
+29,Tlaxcala,000,Total de la entidad Tlaxcala,0000,Total de la Entidad,53377
+29,Tlaxcala,000,Total de la entidad Tlaxcala,9998,Localidades de una vivienda,25
+29,Tlaxcala,000,Total de la entidad Tlaxcala,9999,Localidades de dos viviendas,12
+29,Tlaxcala,001,Amaxac de Guerrero,0000,Total del Municipio,567
+29,Tlaxcala,001,Amaxac de Guerrero,0001,Amaxac de Guerrero,541
+29,Tlaxcala,001,Amaxac de Guerrero,0002,San Damián Tlacocalpan,26
+29,Tlaxcala,001,Amaxac de Guerrero,0012,La Preciosa [Rancho],*
+29,Tlaxcala,001,Amaxac de Guerrero,0013,Amintla,*
+29,Tlaxcala,001,Amaxac de Guerrero,9998,Localidades de una vivienda,*
+29,Tlaxcala,001,Amaxac de Guerrero,9999,Localidades de dos viviendas,*
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0000,Total del Municipio,830
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0001,Apetatitlán,220
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0002,Belén Atzitzimititlán,208
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0003,San Matías Tepetomatitlán,155
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0004,Tecolotla,48
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0005,Tlatempan,181
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,0006,La Loma [Colonia],18
+29,Tlaxcala,003,Atlangatepec,0000,Total del Municipio,169
+29,Tlaxcala,003,Atlangatepec,0001,Atlangatepec,16
+29,Tlaxcala,003,Atlangatepec,0004,Segunda Fracción de Olivares,*
+29,Tlaxcala,003,Atlangatepec,0006,Ex-Hacienda San José Atlanga,*
+29,Tlaxcala,003,Atlangatepec,0007,Colonia Agrícola San Luis,4
+29,Tlaxcala,003,Atlangatepec,0008,San Pedro Ecatepec,42
+29,Tlaxcala,003,Atlangatepec,0010,Santa Clara Ozumba,5
+29,Tlaxcala,003,Atlangatepec,0011,Santa María Tepetzala,1
+29,Tlaxcala,003,Atlangatepec,0012,San José de Santa Rosa Zacapexco,1
+29,Tlaxcala,003,Atlangatepec,0013,Ex-Hacienda San Antonio Tepetzala,*
+29,Tlaxcala,003,Atlangatepec,0014,Colonia Benito Juárez (Tezoyo),15
+29,Tlaxcala,003,Atlangatepec,0017,La Trasquila,12
+29,Tlaxcala,003,Atlangatepec,0018,Santiago Villalta,11
+29,Tlaxcala,003,Atlangatepec,0019,Vista Hermosa,0
+29,Tlaxcala,003,Atlangatepec,0022,Zumpango,40
+29,Tlaxcala,003,Atlangatepec,0025,La Cañada,*
+29,Tlaxcala,003,Atlangatepec,0026,Cerro de las Flores,0
+29,Tlaxcala,003,Atlangatepec,0027,Ex-Hacienda la Trasquila,0
+29,Tlaxcala,003,Atlangatepec,0028,El Ocotal,*
+29,Tlaxcala,003,Atlangatepec,0029,Santa Elena,1
+29,Tlaxcala,003,Atlangatepec,0031,Villa de las Flores,3
+29,Tlaxcala,003,Atlangatepec,0032,Colonia Loma Bonita,13
+29,Tlaxcala,003,Atlangatepec,0033,Rancho Jericó,*
+29,Tlaxcala,003,Atlangatepec,0034,Guadiana [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0035,San Antonio Zacapexco,*
+29,Tlaxcala,003,Atlangatepec,0036,Xuxtepec,*
+29,Tlaxcala,003,Atlangatepec,0037,La Flor [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0038,El Fuerte Apache [Centro Turístico],*
+29,Tlaxcala,003,Atlangatepec,0040,Cuarta Fracción de Olivares,*
+29,Tlaxcala,003,Atlangatepec,0041,La Cuchilla (El Alcanfor),1
+29,Tlaxcala,003,Atlangatepec,0042,Fracción San Pedro Ecatepec,*
+29,Tlaxcala,003,Atlangatepec,0046,Mauro Vázquez,*
+29,Tlaxcala,003,Atlangatepec,0048,Villa Quinta Olivares [Centro Vacacional],*
+29,Tlaxcala,003,Atlangatepec,0049,Rancho Xalnene,1
+29,Tlaxcala,003,Atlangatepec,0053,Los Patos [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0056,Tepitzilapa,*
+29,Tlaxcala,003,Atlangatepec,0057,Tercera Fracción de Olivares,*
+29,Tlaxcala,003,Atlangatepec,0060,La Loma (El Cerrito),1
+29,Tlaxcala,003,Atlangatepec,0064,La Cañada [Rancho],0
+29,Tlaxcala,003,Atlangatepec,0065,El Catorce,*
+29,Tlaxcala,003,Atlangatepec,0074,El Ocote,*
+29,Tlaxcala,003,Atlangatepec,0080,El Encino [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0082,El Potrero [Rancho],0
+29,Tlaxcala,003,Atlangatepec,0083,La Palma,1
+29,Tlaxcala,003,Atlangatepec,0084,Las Barrancas [Rancho],0
+29,Tlaxcala,003,Atlangatepec,0085,Las Tinajas [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0087,Los Encinos [Rancho],0
+29,Tlaxcala,003,Atlangatepec,0089,San Francisco [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0090,Filemón Hernández,*
+29,Tlaxcala,003,Atlangatepec,0092,San Simón,*
+29,Tlaxcala,003,Atlangatepec,0094,Las Tinajas (La Tepozanera),*
+29,Tlaxcala,003,Atlangatepec,0095,Vista Hermosa,*
+29,Tlaxcala,003,Atlangatepec,0096,Luis Echeverría [Establo Bovino],*
+29,Tlaxcala,003,Atlangatepec,0102,La Providencia,0
+29,Tlaxcala,003,Atlangatepec,0105,La Joya,*
+29,Tlaxcala,003,Atlangatepec,0106,Rancho Guadalupe,0
+29,Tlaxcala,003,Atlangatepec,0107,Unidad Habitacional I,0
+29,Tlaxcala,003,Atlangatepec,0108,Almeya,*
+29,Tlaxcala,003,Atlangatepec,0109,El Capricho,*
+29,Tlaxcala,003,Atlangatepec,0110,El Colibrí,*
+29,Tlaxcala,003,Atlangatepec,0114,San Antonio Zacapexco (San Pedro Zacapexco),0
+29,Tlaxcala,003,Atlangatepec,0116,Camino Real,*
+29,Tlaxcala,003,Atlangatepec,0118,Jesús García,*
+29,Tlaxcala,003,Atlangatepec,0119,Villa Esperanza [Rancho],*
+29,Tlaxcala,003,Atlangatepec,0121,Alcatraces,*
+29,Tlaxcala,003,Atlangatepec,0122,Finca el Cristo,*
+29,Tlaxcala,003,Atlangatepec,0126,El Embarcadero,*
+29,Tlaxcala,003,Atlangatepec,0127,Francisco Vázquez Jiménez,0
+29,Tlaxcala,003,Atlangatepec,0130,Las Caridades,*
+29,Tlaxcala,003,Atlangatepec,0131,San Isidro,*
+29,Tlaxcala,003,Atlangatepec,0133,Cerro de la Cantera,*
+29,Tlaxcala,003,Atlangatepec,9998,Localidades de una vivienda,0
+29,Tlaxcala,003,Atlangatepec,9999,Localidades de dos viviendas,1
+29,Tlaxcala,004,Atltzayanca,0000,Total del Municipio,418
+29,Tlaxcala,004,Atltzayanca,0001,Atlzayanca,156
+29,Tlaxcala,004,Atltzayanca,0002,San Francisco Axopilco,*
+29,Tlaxcala,004,Atltzayanca,0003,San José Buenavista,1
+29,Tlaxcala,004,Atltzayanca,0004,Concepción Hidalgo,85
+29,Tlaxcala,004,Atltzayanca,0005,Felipe Carrillo Puerto,17
+29,Tlaxcala,004,Atltzayanca,0006,La Garita,2
+29,Tlaxcala,004,Atltzayanca,0007,Lázaro Cárdenas,7
+29,Tlaxcala,004,Atltzayanca,0008,Mesa Redonda,4
+29,Tlaxcala,004,Atltzayanca,0009,Miahuapan el Bajo,0
+29,Tlaxcala,004,Atltzayanca,0010,Nexnopala,9
+29,Tlaxcala,004,Atltzayanca,0011,Rancho Ocotla,*
+29,Tlaxcala,004,Atltzayanca,0015,La Rincona,0
+29,Tlaxcala,004,Atltzayanca,0016,San Antonio Tecopilco,6
+29,Tlaxcala,004,Atltzayanca,0018,San José Xalasco,*
+29,Tlaxcala,004,Atltzayanca,0019,San Juan Ocotitla,1
+29,Tlaxcala,004,Atltzayanca,0020,Santa Cruz Pocitos,32
+29,Tlaxcala,004,Atltzayanca,0021,Santa María las Cuevas,17
+29,Tlaxcala,004,Atltzayanca,0023,Xaltitla,12
+29,Tlaxcala,004,Atltzayanca,0024,Colonia Delicias,5
+29,Tlaxcala,004,Atltzayanca,0028,San José Pilancón,7
+29,Tlaxcala,004,Atltzayanca,0030,Rancho Blanco,*
+29,Tlaxcala,004,Atltzayanca,0037,Ranchería de Pocitos,30
+29,Tlaxcala,004,Atltzayanca,0039,Santa Martha [Rancho],0
+29,Tlaxcala,004,Atltzayanca,0042,Carreta,*
+29,Tlaxcala,004,Atltzayanca,0043,Xarero Xaltitla,0
+29,Tlaxcala,004,Atltzayanca,0046,Mazehualpa,1
+29,Tlaxcala,004,Atltzayanca,0049,Loma de Junguito,9
+29,Tlaxcala,004,Atltzayanca,0050,San Miguel Franco [Ranchería],1
+29,Tlaxcala,004,Atltzayanca,0051,Miahuapan el Alto,0
+29,Tlaxcala,004,Atltzayanca,0052,Colonia Nazareth,13
+29,Tlaxcala,004,Atltzayanca,0055,San José Miravalle,0
+29,Tlaxcala,004,Atltzayanca,0064,San Antonio Zoapila,*
+29,Tlaxcala,004,Atltzayanca,0073,La Soledad Loma de Ocotla [Ranchería],3
+29,Tlaxcala,004,Atltzayanca,0079,Santa Margarita [Rancho],*
+29,Tlaxcala,004,Atltzayanca,0083,Los Ocalitos,0
+29,Tlaxcala,004,Atltzayanca,0096,Aurelio Aguilar,*
+29,Tlaxcala,004,Atltzayanca,0103,Rancho de Jesús,*
+29,Tlaxcala,004,Atltzayanca,0107,Techachalco,*
+29,Tlaxcala,004,Atltzayanca,0109,Huerta Lizet,*
+29,Tlaxcala,004,Atltzayanca,0110,San Miguel,*
+29,Tlaxcala,004,Atltzayanca,0115,El Desmonte,*
+29,Tlaxcala,004,Atltzayanca,0116,La Lobera,*
+29,Tlaxcala,004,Atltzayanca,9998,Localidades de una vivienda,0
+29,Tlaxcala,004,Atltzayanca,9999,Localidades de dos viviendas,0
+29,Tlaxcala,005,Apizaco,0000,Total del Municipio,4009
+29,Tlaxcala,005,Apizaco,0001,Ciudad de Apizaco,2498
+29,Tlaxcala,005,Apizaco,0002,Cerrito de Guadalupe,118
+29,Tlaxcala,005,Apizaco,0003,Guadalupe Texcalac,41
+29,Tlaxcala,005,Apizaco,0004,Jagüey Prieto,*
+29,Tlaxcala,005,Apizaco,0005,José María Morelos,35
+29,Tlaxcala,005,Apizaco,0006,Colonia San Isidro,116
+29,Tlaxcala,005,Apizaco,0007,San Luis Apizaquito,412
+29,Tlaxcala,005,Apizaco,0009,Santa Anita Huiloac,459
+29,Tlaxcala,005,Apizaco,0010,Santa María Texcalac,312
+29,Tlaxcala,005,Apizaco,0011,Actipan,*
+29,Tlaxcala,005,Apizaco,0017,Ejido de San Dionisio,*
+29,Tlaxcala,005,Apizaco,0019,Los Gemelos [Rancho],*
+29,Tlaxcala,005,Apizaco,0021,San José Tetel (La Quebradora),2
+29,Tlaxcala,005,Apizaco,0023,Cuarta Manzana,3
+29,Tlaxcala,005,Apizaco,0026,Tlalcoyotla,*
+29,Tlaxcala,005,Apizaco,0027,Tochac,0
+29,Tlaxcala,005,Apizaco,0029,Unidad Deportiva,0
+29,Tlaxcala,005,Apizaco,0030,Fraccionamiento Jardines de San Francisco,9
+29,Tlaxcala,005,Apizaco,0032,Ejido de Santa Úrsula,2
+29,Tlaxcala,005,Apizaco,0033,Primera Sección,2
+29,Tlaxcala,005,Apizaco,0035,La Bomba,*
+29,Tlaxcala,005,Apizaco,0036,San Patricio [Rancho],*
+29,Tlaxcala,005,Apizaco,9998,Localidades de una vivienda,0
+29,Tlaxcala,005,Apizaco,9999,Localidades de dos viviendas,*
+29,Tlaxcala,006,Calpulalpan,0000,Total del Municipio,1876
+29,Tlaxcala,006,Calpulalpan,0001,Heroica Ciudad de Calpulalpan,1471
+29,Tlaxcala,006,Calpulalpan,0002,Amantla,*
+29,Tlaxcala,006,Calpulalpan,0005,Coecillos,*
+29,Tlaxcala,006,Calpulalpan,0007,El Carmen,1
+29,Tlaxcala,006,Calpulalpan,0008,Mazapa,56
+29,Tlaxcala,006,Calpulalpan,0009,San Bartolomé del Monte,*
+29,Tlaxcala,006,Calpulalpan,0010,San Cristóbal Zacacalco,14
+29,Tlaxcala,006,Calpulalpan,0012,San Felipe Sultepec,38
+29,Tlaxcala,006,Calpulalpan,0014,Los Tres Hermanos,*
+29,Tlaxcala,006,Calpulalpan,0015,San Marcos Guaquilpan,77
+29,Tlaxcala,006,Calpulalpan,0016,San Mateo Aticpac,28
+29,Tlaxcala,006,Calpulalpan,0018,Santiago Cuaula,124
+29,Tlaxcala,006,Calpulalpan,0019,La Soledad,37
+29,Tlaxcala,006,Calpulalpan,0023,Zoquiapan,*
+29,Tlaxcala,006,Calpulalpan,0024,NCPE Gustavo Díaz Ordaz,12
+29,Tlaxcala,006,Calpulalpan,0032,Los Palacios,*
+29,Tlaxcala,006,Calpulalpan,0036,Santa Cruz,1
+29,Tlaxcala,006,Calpulalpan,0037,Santa Teresa,0
+29,Tlaxcala,006,Calpulalpan,0038,La Venta,1
+29,Tlaxcala,006,Calpulalpan,0049,San José,*
+29,Tlaxcala,006,Calpulalpan,0054,Los Pinos,1
+29,Tlaxcala,006,Calpulalpan,0056,Herlinda Hernández,*
+29,Tlaxcala,006,Calpulalpan,0057,San José (Los Hornos),*
+29,Tlaxcala,006,Calpulalpan,0060,Hermanos García,0
+29,Tlaxcala,006,Calpulalpan,0061,Monte de San Agustín,*
+29,Tlaxcala,006,Calpulalpan,0077,Rancho Hermenegildo,*
+29,Tlaxcala,006,Calpulalpan,0079,Las Dalias,*
+29,Tlaxcala,006,Calpulalpan,0081,Los Díaz,*
+29,Tlaxcala,006,Calpulalpan,0093,Los Mogotes,0
+29,Tlaxcala,006,Calpulalpan,0094,La Quebradora,*
+29,Tlaxcala,006,Calpulalpan,0097,La Providencia (El Ocote),*
+29,Tlaxcala,006,Calpulalpan,0098,David Sánchez,*
+29,Tlaxcala,006,Calpulalpan,0099,Los Mejía,*
+29,Tlaxcala,006,Calpulalpan,0102,La Palma,2
+29,Tlaxcala,006,Calpulalpan,0105,Las Auras,0
+29,Tlaxcala,006,Calpulalpan,0117,El Rosario,1
+29,Tlaxcala,006,Calpulalpan,0119,La Blanca,0
+29,Tlaxcala,006,Calpulalpan,0124,Puente del Ocomique,*
+29,Tlaxcala,006,Calpulalpan,0129,Los Montalvo,*
+29,Tlaxcala,006,Calpulalpan,0132,El Carmen [Rancho],*
+29,Tlaxcala,006,Calpulalpan,0138,Marcelino Cruz,*
+29,Tlaxcala,006,Calpulalpan,0140,La Morena,*
+29,Tlaxcala,006,Calpulalpan,0141,Loma Bonita,*
+29,Tlaxcala,006,Calpulalpan,0142,Raymundo Álvarez Guerrero,*
+29,Tlaxcala,006,Calpulalpan,0147,Rancho del Venado,*
+29,Tlaxcala,006,Calpulalpan,0148,San Isidro [Rancho],*
+29,Tlaxcala,006,Calpulalpan,0149,El Mirador,*
+29,Tlaxcala,006,Calpulalpan,0155,San Miguel,*
+29,Tlaxcala,006,Calpulalpan,0156,San Vicente,2
+29,Tlaxcala,006,Calpulalpan,0161,San Antonio (San Pedro),*
+29,Tlaxcala,006,Calpulalpan,0166,Barranca del Tizar,*
+29,Tlaxcala,006,Calpulalpan,0169,Loma de San Agustín,0
+29,Tlaxcala,006,Calpulalpan,0174,La Ocotera [Rancho],*
+29,Tlaxcala,006,Calpulalpan,0177,El Convento de la Soledad,1
+29,Tlaxcala,006,Calpulalpan,0187,San Rodrigo,*
+29,Tlaxcala,006,Calpulalpan,0201,Las Palomas,*
+29,Tlaxcala,006,Calpulalpan,0206,Rodolfo Ávila,*
+29,Tlaxcala,006,Calpulalpan,0207,Samuel Labastida,*
+29,Tlaxcala,006,Calpulalpan,0212,El Triángulo,*
+29,Tlaxcala,006,Calpulalpan,0214,Ángel Pelcastre,*
+29,Tlaxcala,006,Calpulalpan,0218,Jacarandas,*
+29,Tlaxcala,006,Calpulalpan,0222,La Providencia,*
+29,Tlaxcala,006,Calpulalpan,0225,Cola del Potrero,*
+29,Tlaxcala,006,Calpulalpan,0228,Santa Isabel Mixtitlán,2
+29,Tlaxcala,006,Calpulalpan,0232,Los Compadres [Rancho],*
+29,Tlaxcala,006,Calpulalpan,0234,San Francisco,*
+29,Tlaxcala,006,Calpulalpan,0235,El Piñón,*
+29,Tlaxcala,006,Calpulalpan,0244,Fraccionamiento Ángeles,4
+29,Tlaxcala,006,Calpulalpan,0250,Rancho Pajaritos,*
+29,Tlaxcala,006,Calpulalpan,0255,Candelario Hernández,*
+29,Tlaxcala,006,Calpulalpan,0261,Las Colmenas [Rancho],*
+29,Tlaxcala,006,Calpulalpan,0266,La Loma,*
+29,Tlaxcala,006,Calpulalpan,0267,El Jarocho,*
+29,Tlaxcala,006,Calpulalpan,0268,Las Peñas [Rancho],*
+29,Tlaxcala,006,Calpulalpan,0269,San José,*
+29,Tlaxcala,006,Calpulalpan,9998,Localidades de una vivienda,2
+29,Tlaxcala,006,Calpulalpan,9999,Localidades de dos viviendas,1
+29,Tlaxcala,007,El Carmen Tequexquitla,0000,Total del Municipio,556
+29,Tlaxcala,007,El Carmen Tequexquitla,0001,Villa de El Carmen Tequexquitla,490
+29,Tlaxcala,007,El Carmen Tequexquitla,0002,La Soledad,11
+29,Tlaxcala,007,El Carmen Tequexquitla,0003,Ocotlán Temalacayucan,3
+29,Tlaxcala,007,El Carmen Tequexquitla,0005,Colonia Vicente Guerrero,4
+29,Tlaxcala,007,El Carmen Tequexquitla,0006,Barrio de Guadalupe,48
+29,Tlaxcala,007,El Carmen Tequexquitla,0010,Sebastián García,*
+29,Tlaxcala,007,El Carmen Tequexquitla,9998,Localidades de una vivienda,*
+29,Tlaxcala,008,Cuapiaxtla,0000,Total del Municipio,467
+29,Tlaxcala,008,Cuapiaxtla,0001,Cuapiaxtla,319
+29,Tlaxcala,008,Cuapiaxtla,0002,La Asunción Rascona,*
+29,Tlaxcala,008,Cuapiaxtla,0004,Egipto,*
+29,Tlaxcala,008,Cuapiaxtla,0005,Colonia Ignacio Allende,44
+29,Tlaxcala,008,Cuapiaxtla,0007,Colonia José María Morelos,11
+29,Tlaxcala,008,Cuapiaxtla,0010,Colonia Manuel Ávila Camacho,12
+29,Tlaxcala,008,Cuapiaxtla,0011,Plan de Ayala,16
+29,Tlaxcala,008,Cuapiaxtla,0012,La Providencia,*
+29,Tlaxcala,008,Cuapiaxtla,0014,San Cristóbal del Río,*
+29,Tlaxcala,008,Cuapiaxtla,0015,Ex-Hacienda San Francisco Cuexcomatepec,*
+29,Tlaxcala,008,Cuapiaxtla,0016,San Francisco Cuexcontzi,41
+29,Tlaxcala,008,Cuapiaxtla,0017,San Isidro Cuexcontzi,*
+29,Tlaxcala,008,Cuapiaxtla,0020,Rancho Mazarraza,*
+29,Tlaxcala,008,Cuapiaxtla,0022,San Miguel Teometitla,*
+29,Tlaxcala,008,Cuapiaxtla,0023,Santa Fe Uno,*
+29,Tlaxcala,008,Cuapiaxtla,0026,El Tejocote,*
+29,Tlaxcala,008,Cuapiaxtla,0027,Colonia Loma Bonita,5
+29,Tlaxcala,008,Cuapiaxtla,0028,San Rafael Tepatlaxco (Unión y Progreso),0
+29,Tlaxcala,008,Cuapiaxtla,0029,Santa Beatriz la Nueva,11
+29,Tlaxcala,008,Cuapiaxtla,0031,Santa Rebeca,*
+29,Tlaxcala,008,Cuapiaxtla,0033,Colonia del Valle,2
+29,Tlaxcala,008,Cuapiaxtla,0035,Granja de Guadalupe,*
+29,Tlaxcala,008,Cuapiaxtla,0036,Santa Fe,*
+29,Tlaxcala,008,Cuapiaxtla,0049,Tecoac [Granja Porcina],*
+29,Tlaxcala,008,Cuapiaxtla,0056,Ejido de Allende,0
+29,Tlaxcala,008,Cuapiaxtla,0057,La Granja (Camino a Franco),6
+29,Tlaxcala,008,Cuapiaxtla,0065,Palma de Tres Brazos (Fracción Santo Domingo),*
+29,Tlaxcala,008,Cuapiaxtla,0067,Rancho Cerón,*
+29,Tlaxcala,008,Cuapiaxtla,9998,Localidades de una vivienda,0
+29,Tlaxcala,008,Cuapiaxtla,9999,Localidades de dos viviendas,*
+29,Tlaxcala,009,Cuaxomulco,0000,Total del Municipio,200
+29,Tlaxcala,009,Cuaxomulco,0001,Cuaxomulco,119
+29,Tlaxcala,009,Cuaxomulco,0002,San Miguel Buenavista,34
+29,Tlaxcala,009,Cuaxomulco,0003,San Lorenzo Xaltelulco,38
+29,Tlaxcala,009,Cuaxomulco,0004,Zacamolpa,9
+29,Tlaxcala,010,Chiautempan,0000,Total del Municipio,3352
+29,Tlaxcala,010,Chiautempan,0001,Santa Ana Chiautempan,2601
+29,Tlaxcala,010,Chiautempan,0005,San Pedro Muñoztla,165
+29,Tlaxcala,010,Chiautempan,0006,San Bartolomé Cuahuixmatlac,187
+29,Tlaxcala,010,Chiautempan,0008,San Rafael Tepatlaxco,80
+29,Tlaxcala,010,Chiautempan,0010,Santa Cruz Tetela,13
+29,Tlaxcala,010,Chiautempan,0012,San Pedro Tlalcuapan de Nicolás Bravo,171
+29,Tlaxcala,010,Chiautempan,0013,San Pedro Xochiteotla,130
+29,Tlaxcala,010,Chiautempan,0020,San Antoñotla,1
+29,Tlaxcala,010,Chiautempan,0023,Santa Fe Esperanza,1
+29,Tlaxcala,010,Chiautempan,0038,Tlalcolijia,*
+29,Tlaxcala,010,Chiautempan,0044,Colonia Libertad,2
+29,Tlaxcala,010,Chiautempan,0047,Ixcotlancuentlac,*
+29,Tlaxcala,010,Chiautempan,0049,Potrero Calzolc,*
+29,Tlaxcala,010,Chiautempan,0053,Tronquera (Huexotitla),*
+29,Tlaxcala,010,Chiautempan,0058,Ojocotla,*
+29,Tlaxcala,010,Chiautempan,9998,Localidades de una vivienda,0
+29,Tlaxcala,010,Chiautempan,9999,Localidades de dos viviendas,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0000,Total del Municipio,153
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0001,Muñoz,94
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0003,San Bartolo Cuamantzingo,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0004,San Isidro Chipila,6
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0006,Guadalupe Cuauhtémoc,11
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0007,San José Cuamantzingo,40
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0009,Ex-Hacienda de Guadalupe,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0011,Ejido Muñoz,1
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0012,María Fragoso,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0025,Los Maizales [Rancho],*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0033,Ejido de Zacatepec,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0034,La Loma de Zacatepec,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0036,Rancho la Bodega,*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,0042,El Sabinal [Rancho],*
+29,Tlaxcala,011,Muñoz de Domingo Arenas,9998,Localidades de una vivienda,1
+29,Tlaxcala,011,Muñoz de Domingo Arenas,9999,Localidades de dos viviendas,0
+29,Tlaxcala,012,Españita,0000,Total del Municipio,186
+29,Tlaxcala,012,Españita,0001,Españita,69
+29,Tlaxcala,012,Españita,0002,Álvaro Obregón,1
+29,Tlaxcala,012,Españita,0004,La Concepción,*
+29,Tlaxcala,012,Españita,0005,La Constancia,12
+29,Tlaxcala,012,Españita,0006,Francisco I. Madero el Viejo,1
+29,Tlaxcala,012,Españita,0008,La Joya,0
+29,Tlaxcala,012,Españita,0009,La Magdalena Cuextotitla,16
+29,Tlaxcala,012,Españita,0010,Miguel Aldama,4
+29,Tlaxcala,012,Españita,0011,Las Pilas,1
+29,Tlaxcala,012,Españita,0012,La Reforma,17
+29,Tlaxcala,012,Españita,0014,San Agustín,1
+29,Tlaxcala,012,Españita,0015,San Francisco Mitepec,10
+29,Tlaxcala,012,Españita,0016,San Juan Mitepec,5
+29,Tlaxcala,012,Españita,0018,San Miguel el Piñón,8
+29,Tlaxcala,012,Españita,0019,San Miguel Pipiyola,12
+29,Tlaxcala,012,Españita,0020,San Miguel Tepalca,*
+29,Tlaxcala,012,Españita,0022,Vicente Guerrero,21
+29,Tlaxcala,012,Españita,0025,Barrio de Torres,8
+29,Tlaxcala,012,Españita,0031,San Pablo,0
+29,Tlaxcala,012,Españita,0043,Rancho Guillén,*
+29,Tlaxcala,012,Españita,0048,El Agua Santa (Las Tinas),*
+29,Tlaxcala,012,Españita,0069,El Vergel,*
+29,Tlaxcala,012,Españita,9998,Localidades de una vivienda,0
+29,Tlaxcala,012,Españita,9999,Localidades de dos viviendas,*
+29,Tlaxcala,013,Huamantla,0000,Total del Municipio,3135
+29,Tlaxcala,013,Huamantla,0001,Huamantla,2445
+29,Tlaxcala,013,Huamantla,0002,Colonia Altamira Guadalupe,9
+29,Tlaxcala,013,Huamantla,0005,San Pedro el Batán,*
+29,Tlaxcala,013,Huamantla,0006,Benito Juárez,68
+29,Tlaxcala,013,Huamantla,0008,El Carmen Xalpatlahuaya,59
+29,Tlaxcala,013,Huamantla,0009,Ex-Hacienda la Compañía,*
+29,Tlaxcala,013,Huamantla,0010,La Providencia (El Conquián),1
+29,Tlaxcala,013,Huamantla,0012,Colonia Cuauhtémoc,25
+29,Tlaxcala,013,Huamantla,0013,Colonia Chapultepec,25
+29,Tlaxcala,013,Huamantla,0014,Ex-Hacienda de Guadalupe,*
+29,Tlaxcala,013,Huamantla,0015,Colonia Hermenegildo Galeana,42
+29,Tlaxcala,013,Huamantla,0016,Ignacio Zaragoza,183
+29,Tlaxcala,013,Huamantla,0018,José María Morelos,17
+29,Tlaxcala,013,Huamantla,0019,Lázaro Cárdenas,24
+29,Tlaxcala,013,Huamantla,0021,San Martín Notario,*
+29,Tlaxcala,013,Huamantla,0025,Los Pilares,17
+29,Tlaxcala,013,Huamantla,0031,San Diego Meca,0
+29,Tlaxcala,013,Huamantla,0032,San Francisco Tecóac [Colonia],15
+29,Tlaxcala,013,Huamantla,0034,San Miguel Vista Hermosa [Rancho],*
+29,Tlaxcala,013,Huamantla,0035,San Miguel Báez,*
+29,Tlaxcala,013,Huamantla,0036,Santa Ana Ríos,*
+29,Tlaxcala,013,Huamantla,0037,Santa Clara Sotoltepec,1
+29,Tlaxcala,013,Huamantla,0039,NCP San José Teacalco,3
+29,Tlaxcala,013,Huamantla,0042,Ranchería de Torres,3
+29,Tlaxcala,013,Huamantla,0044,San José Xicohténcatl,110
+29,Tlaxcala,013,Huamantla,0045,Santa María Magdalena Xonecuila,0
+29,Tlaxcala,013,Huamantla,0046,Colonia el Valle,15
+29,Tlaxcala,013,Huamantla,0047,NCP José María Morelos,8
+29,Tlaxcala,013,Huamantla,0048,Colonia Licenciado Mauro Angulo,3
+29,Tlaxcala,013,Huamantla,0049,General Francisco Villa,17
+29,Tlaxcala,013,Huamantla,0052,San Cristóbal de la Laguna,*
+29,Tlaxcala,013,Huamantla,0053,Los Álamos [Rancho],0
+29,Tlaxcala,013,Huamantla,0054,Colonia Agrícola San Martín Notario,2
+29,Tlaxcala,013,Huamantla,0071,La Lima [Ranchería],2
+29,Tlaxcala,013,Huamantla,0075,Rancho Cabildo,*
+29,Tlaxcala,013,Huamantla,0076,Colonia Francisco I. Madero la Mesa,3
+29,Tlaxcala,013,Huamantla,0077,Colonia Francisco Villa Tecóac,15
+29,Tlaxcala,013,Huamantla,0079,San Francisco Notario,0
+29,Tlaxcala,013,Huamantla,0084,Colonia Acasillados San Martín Notario,7
+29,Tlaxcala,013,Huamantla,0090,Colonia Francisco I. Madero Tecóac,3
+29,Tlaxcala,013,Huamantla,0092,Santa Margarita,*
+29,Tlaxcala,013,Huamantla,0097,El Molino [Ranchería],4
+29,Tlaxcala,013,Huamantla,0100,Establo Tecopilco,0
+29,Tlaxcala,013,Huamantla,0101,Ampliación Felipe Carrillo Puerto,2
+29,Tlaxcala,013,Huamantla,0107,El Rosario,*
+29,Tlaxcala,013,Huamantla,0110,Ejido Yancuitlalpan,0
+29,Tlaxcala,013,Huamantla,0118,Fracción la Natividad,0
+29,Tlaxcala,013,Huamantla,0122,Cerro Alto,*
+29,Tlaxcala,013,Huamantla,0129,San Diego Xalpatlahuaya,3
+29,Tlaxcala,013,Huamantla,0140,Cornelio Márquez,*
+29,Tlaxcala,013,Huamantla,0147,Fracción Santa Ana Ríos,0
+29,Tlaxcala,013,Huamantla,0148,Fracción Xonecuila (Las Palmas),*
+29,Tlaxcala,013,Huamantla,0153,San Rafael Tepatlaxco el Bajo,2
+29,Tlaxcala,013,Huamantla,0169,Chapultepec [Gasolinera],*
+29,Tlaxcala,013,Huamantla,0182,Ex-Hacienda San Bartolo,*
+29,Tlaxcala,013,Huamantla,0185,Fracción de Xonecuila,*
+29,Tlaxcala,013,Huamantla,0188,Ernesto Gómez,*
+29,Tlaxcala,013,Huamantla,0193,El Porvenir,*
+29,Tlaxcala,013,Huamantla,0194,El Mirador,*
+29,Tlaxcala,013,Huamantla,0198,El Pilar,*
+29,Tlaxcala,013,Huamantla,0199,Los Pinos Dos,*
+29,Tlaxcala,013,Huamantla,0200,Los Pinos,*
+29,Tlaxcala,013,Huamantla,0204,El Durazno,0
+29,Tlaxcala,013,Huamantla,0205,Rancho Alegre,*
+29,Tlaxcala,013,Huamantla,0207,El Rebombeo,*
+29,Tlaxcala,013,Huamantla,0209,Los Pinos [Rancho],*
+29,Tlaxcala,013,Huamantla,0213,Santa Rita,*
+29,Tlaxcala,013,Huamantla,0215,Tirso Gutiérrez,*
+29,Tlaxcala,013,Huamantla,0216,Tubera Guadalupe,*
+29,Tlaxcala,013,Huamantla,0224,José Juan Romero López,*
+29,Tlaxcala,013,Huamantla,0229,San Antonio los Pinos,*
+29,Tlaxcala,013,Huamantla,0230,La Perseverancia,*
+29,Tlaxcala,013,Huamantla,0235,El Cristo (Don Carmelo),*
+29,Tlaxcala,013,Huamantla,0236,Jorge Pioquinto,*
+29,Tlaxcala,013,Huamantla,0237,La Mesita,0
+29,Tlaxcala,013,Huamantla,0238,Pozo Blanco (El Colectivo),0
+29,Tlaxcala,013,Huamantla,0239,Martín Santiago Vázquez,*
+29,Tlaxcala,013,Huamantla,0241,Real de la Paz,*
+29,Tlaxcala,013,Huamantla,0243,Trinidad Altamirano Hernández,*
+29,Tlaxcala,013,Huamantla,0244,Víctor Lima (El Establito),*
+29,Tlaxcala,013,Huamantla,0247,Ejido Atenco,*
+29,Tlaxcala,013,Huamantla,0248,La Loma (Juan Flores),0
+29,Tlaxcala,013,Huamantla,0251,Santa Magdalena,*
+29,Tlaxcala,013,Huamantla,0258,El Cheff,*
+29,Tlaxcala,013,Huamantla,0259,El Desmonte,*
+29,Tlaxcala,013,Huamantla,0260,El Repartidor,*
+29,Tlaxcala,013,Huamantla,0266,La Cañada,*
+29,Tlaxcala,013,Huamantla,0267,La Constanza,*
+29,Tlaxcala,013,Huamantla,0268,Leones de Montecristo,*
+29,Tlaxcala,013,Huamantla,0269,Loma Bonita,*
+29,Tlaxcala,013,Huamantla,0273,El Gran Rey,*
+29,Tlaxcala,013,Huamantla,0274,El Huerto,0
+29,Tlaxcala,013,Huamantla,0277,Rancho Alegre,*
+29,Tlaxcala,013,Huamantla,0278,Castillotla [Rancho],*
+29,Tlaxcala,013,Huamantla,0279,Pozo Once,*
+29,Tlaxcala,013,Huamantla,0280,Venancio Márquez,*
+29,Tlaxcala,013,Huamantla,9998,Localidades de una vivienda,2
+29,Tlaxcala,013,Huamantla,9999,Localidades de dos viviendas,0
+29,Tlaxcala,014,Hueyotlipan,0000,Total del Municipio,443
+29,Tlaxcala,014,Hueyotlipan,0001,Hueyotlipan,215
+29,Tlaxcala,014,Hueyotlipan,0003,La Cruz Techalote [Colonia],2
+29,Tlaxcala,014,Hueyotlipan,0005,Ignacio Zaragoza,17
+29,Tlaxcala,014,Hueyotlipan,0006,Santa María Ixcotla,17
+29,Tlaxcala,014,Hueyotlipan,0008,Colonia Adolfo López Mateos,23
+29,Tlaxcala,014,Hueyotlipan,0009,La Purísima [Rancho],*
+29,Tlaxcala,014,Hueyotlipan,0010,San Diego Recoba,15
+29,Tlaxcala,014,Hueyotlipan,0011,San Andrés Cuaximala,5
+29,Tlaxcala,014,Hueyotlipan,0015,San Fernando,*
+29,Tlaxcala,014,Hueyotlipan,0017,San Lorenzo Techalote,16
+29,Tlaxcala,014,Hueyotlipan,0018,San Manuel Tlalpan,2
+29,Tlaxcala,014,Hueyotlipan,0020,San Simeón Xipetzinco,105
+29,Tlaxcala,014,Hueyotlipan,0023,Santiago Tlalpan,24
+29,Tlaxcala,014,Hueyotlipan,0026,El Carmen (Las Carrozas),0
+29,Tlaxcala,014,Hueyotlipan,0031,Agua Limpia,1
+29,Tlaxcala,014,Hueyotlipan,0035,NCP San Antonio Techalote,1
+29,Tlaxcala,014,Hueyotlipan,0039,Loma Bonita,*
+29,Tlaxcala,014,Hueyotlipan,0043,Santa Lucía,*
+29,Tlaxcala,014,Hueyotlipan,0045,Emilio Sánchez Piedras,0
+29,Tlaxcala,014,Hueyotlipan,0070,Potrero Grande,*
+29,Tlaxcala,014,Hueyotlipan,0071,Rancho Dos Hermanos,*
+29,Tlaxcala,014,Hueyotlipan,0074,El Jardín,*
+29,Tlaxcala,014,Hueyotlipan,0080,El Paraíso,*
+29,Tlaxcala,014,Hueyotlipan,9998,Localidades de una vivienda,0
+29,Tlaxcala,014,Hueyotlipan,9999,Localidades de dos viviendas,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0000,Total del Municipio,1536
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0001,Villa Mariano Matamoros,317
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0002,Alpotzonga de Lira y Ortega,24
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0003,San Antonio Atotonilco,104
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0005,La Caridad Cuaxonacayo,6
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0007,Espíritu Santo,11
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0012,San Juan Nepopualco,7
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0015,San Gabriel Popocatla,68
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0019,San Antonio Tecóac,56
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0020,San Antonio Tizostoc,104
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0021,San Cristóbal Oxtotlapango,1
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0022,San Diego Xocoyucan,191
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0025,San Marcos Jilotepec,11
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0026,San Miguel la Presa,11
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0027,San Nicolás,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0030,Santa Cruz el Porvenir,67
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0031,Santa Inés Tecuexcomac,121
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0032,Santa Justina Ecatepec,231
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0033,Santa María,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0034,Santa Rosa de Lima,6
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0035,Santiago Xochimilco,26
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0036,La Soledad,3
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0038,La Trinidad Tenexyecac,160
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0040,La Virgen,2
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0045,San José Escandona,1
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0051,Alpotzonga,1
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0060,Capula,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0066,El Centenario,2
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0069,Rancho Miguel Ángel,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0070,San Rafael [Rancho],1
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0073,Río Chiquito,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0077,La Suiza [Rancho],*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0079,Las Coquitas [Rancho],*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0085,Las Rositas,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0091,Rancho Mira el Sol,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0094,Las Moras (Las Moradillas),0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0096,Fracción la Virgen,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0105,San Lucas,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0111,La Fiscala,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0117,Los Pérez [Rancho],*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0118,Colonia Ejido Santa Justina Ecatepec,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0125,La Huérfana,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0145,El Refugio,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0148,Tláloc,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0153,Las Torres,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0154,Rancho Escondido,0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0156,San Francisco [Colonia],0
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0157,El Retorno [Rancho],*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0162,San José,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0163,La Venta,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0164,Rancho Montecristo,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0165,Efrén Morales,*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0166,Tma SSSS Gas [Gasera],*
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,0167,Colonia El Progreso,2
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,9998,Localidades de una vivienda,2
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,9999,Localidades de dos viviendas,0
+29,Tlaxcala,016,Ixtenco,0000,Total del Municipio,322
+29,Tlaxcala,016,Ixtenco,0001,Ixtenco,322
+29,Tlaxcala,016,Ixtenco,0007,Los Álamos,*
+29,Tlaxcala,016,Ixtenco,0011,La Era,0
+29,Tlaxcala,016,Ixtenco,0019,El Desmonte,0
+29,Tlaxcala,016,Ixtenco,0020,El Encino,*
+29,Tlaxcala,016,Ixtenco,0021,Los Sabinos,*
+29,Tlaxcala,016,Ixtenco,0022,San Juan,*
+29,Tlaxcala,016,Ixtenco,0023,El Cerrito,*
+29,Tlaxcala,016,Ixtenco,0024,Ranchería de  Pilares,*
+29,Tlaxcala,016,Ixtenco,9998,Localidades de una vivienda,0
+29,Tlaxcala,016,Ixtenco,9999,Localidades de dos viviendas,*
+29,Tlaxcala,017,Mazatecochco de José María Morelos,0000,Total del Municipio,304
+29,Tlaxcala,017,Mazatecochco de José María Morelos,0001,Mazatecochco,304
+29,Tlaxcala,017,Mazatecochco de José María Morelos,0007,Zacatecoma,*
+29,Tlaxcala,017,Mazatecochco de José María Morelos,0015,San Juan Ixhualco,*
+29,Tlaxcala,017,Mazatecochco de José María Morelos,0018,San Isidro,*
+29,Tlaxcala,017,Mazatecochco de José María Morelos,9998,Localidades de una vivienda,0
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0000,Total del Municipio,1750
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0001,Contla,1410
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0002,San Felipe Cuauhtenco,98
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0003,Ixtlahuaca,44
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0004,San José Aztatla,116
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0006,Santa María Aquiáhuac,24
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0007,La Luz [Barrio],29
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0008,Ocotlán Tepatlaxco,29
+29,Tlaxcala,018,Contla de Juan Cuamatzi,0009,Capula,0
+29,Tlaxcala,019,Tepetitla de Lardizábal,0000,Total del Municipio,1033
+29,Tlaxcala,019,Tepetitla de Lardizábal,0001,Tepetitla,431
+29,Tlaxcala,019,Tepetitla de Lardizábal,0004,Guadalupe Victoria,23
+29,Tlaxcala,019,Tepetitla de Lardizábal,0007,San Mateo Ayecac,204
+29,Tlaxcala,019,Tepetitla de Lardizábal,0009,Villa Alta,375
+29,Tlaxcala,019,Tepetitla de Lardizábal,0013,Los Morelia,*
+29,Tlaxcala,019,Tepetitla de Lardizábal,9998,Localidades de una vivienda,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0000,Total del Municipio,262
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0001,Sanctórum,138
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0003,Estación Contadero,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0004,Francisco Villa,106
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0007,La Providencia,1
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0010,San Nicolás el Grande,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0013,Los Alpinos,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0014,Esquibajas,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0018,Santa Cruz,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0019,San Leonardo Arroyo,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0022,Balconcillos,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0043,La Presa de Pozuelos,0
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0045,San Nicolás (Farfán),*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0052,Juan Antonio,0
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0055,NCP Álvaro Obregón,17
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0060,Las Palomas,0
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0062,Doña Evelia (Los Alpinos),*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0074,Cuatro Vientos,0
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0075,Dos Potrillos,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,0077,Santa Teresa,*
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,9998,Localidades de una vivienda,0
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,9999,Localidades de dos viviendas,0
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0000,Total del Municipio,593
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0001,Ciudad de Nanacamilpa,453
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0004,Domingo Arenas (La Calera),26
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0005,Francisco I. Madero,37
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0006,Ixtafiayuca,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0007,Media Caballería,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0008,Miguel Lira y Ortega,15
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0011,San Felipe Hidalgo,53
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0013,San Isidro,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0017,Colonia Tepuente,4
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0024,El Carmen [Rancho],*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0026,Rancho Tebarroso (El Capitán),*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0036,Cuatro Caminos,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0041,El Mirador,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0042,Los Rosales,0
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0045,Los Delgadillo,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0049,La Candelaria,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0054,Mifive,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0068,Agua Escondida,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0076,Los Ceibos,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0087,Techolulco,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0097,José Eduardo Hernández Fernández,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0105,Constantino Zavala,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0109,Los Reyes II [Granja],*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0113,El Cristo [Rancho],*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0114,Javier Olvera,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0120,Mario Espejel,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0127,El Refugio del Guerrero [Rancho],*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0132,La Loma de Mazapa,2
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0134,Pueblo Nuevo,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0138,La Loma de Enmedio,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0141,El Ciprés,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0148,Santa Clara (El Corte),*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0165,Colonia Antorchista San Cayetano,0
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0166,Colonia La Unión,1
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0167,San Pedro el Carmen,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0170,Villas del Bosque Santa Clara,*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,0171,Margarito [Rancho],*
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,9998,Localidades de una vivienda,1
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,9999,Localidades de dos viviendas,1
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,0000,Total del Municipio,277
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,0001,Acuamanala,86
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,0003,Concepción Chimalpa,97
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,0004,Guadalupe Hidalgo,64
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,0005,Olextla de Juárez,30
+29,Tlaxcala,023,Natívitas,0000,Total del Municipio,1035
+29,Tlaxcala,023,Natívitas,0001,Natívitas,82
+29,Tlaxcala,023,Natívitas,0002,San Miguel Analco,45
+29,Tlaxcala,023,Natívitas,0003,San Bernabé Capula,51
+29,Tlaxcala,023,Natívitas,0004,Santo Tomás la Concordia,136
+29,Tlaxcala,023,Natívitas,0005,Guadalupe Victoria,55
+29,Tlaxcala,023,Natívitas,0006,Jesús Tepactepec,54
+29,Tlaxcala,023,Natívitas,0007,San Antonio Teacalco,0
+29,Tlaxcala,023,Natívitas,0008,San José Atoyatenco,62
+29,Tlaxcala,023,Natívitas,0009,San Miguel del Milagro,37
+29,Tlaxcala,023,Natívitas,0010,San Miguel Xochitecatitla,64
+29,Tlaxcala,023,Natívitas,0011,San Rafael Tenanyecac,146
+29,Tlaxcala,023,Natívitas,0014,Santa Clara Atoyac,3
+29,Tlaxcala,023,Natívitas,0016,Santiago Michac,162
+29,Tlaxcala,023,Natívitas,0017,San Vicente Xiloxochitla,93
+29,Tlaxcala,023,Natívitas,0021,San Francisco Tenexyecac,27
+29,Tlaxcala,023,Natívitas,0022,San Juan Tepactepec,2
+29,Tlaxcala,023,Natívitas,0023,San Miguel Tlale,9
+29,Tlaxcala,023,Natívitas,0024,Ex-Hacienda Santa Elena,3
+29,Tlaxcala,023,Natívitas,0027,Miguel Saloma,0
+29,Tlaxcala,023,Natívitas,0028,San Antonio,*
+29,Tlaxcala,023,Natívitas,0030,Loma Verde,0
+29,Tlaxcala,023,Natívitas,0033,El Rosario [Rancho],*
+29,Tlaxcala,023,Natívitas,0034,Matamoros,*
+29,Tlaxcala,023,Natívitas,0035,Rutilo Vázquez,*
+29,Tlaxcala,023,Natívitas,0037,NCP Santa Elena Teacalco,0
+29,Tlaxcala,023,Natívitas,0038,Zanja Real,1
+29,Tlaxcala,023,Natívitas,0042,Colecturía,0
+29,Tlaxcala,023,Natívitas,0056,Tepenberna,*
+29,Tlaxcala,023,Natívitas,0061,Jardínes de Tepactepec,0
+29,Tlaxcala,023,Natívitas,0064,San Isidro,*
+29,Tlaxcala,023,Natívitas,0065,Los Rodríguez,1
+29,Tlaxcala,023,Natívitas,0066,Cuanopala [Rancho],*
+29,Tlaxcala,023,Natívitas,9998,Localidades de una vivienda,1
+29,Tlaxcala,023,Natívitas,9999,Localidades de dos viviendas,*
+29,Tlaxcala,024,Panotla,0000,Total del Municipio,1583
+29,Tlaxcala,024,Panotla,0001,Panotla,717
+29,Tlaxcala,024,Panotla,0004,Jesús Acatitla,34
+29,Tlaxcala,024,Panotla,0005,San Ambrosio Texantla,40
+29,Tlaxcala,024,Panotla,0006,San Francisco Temetzontla,118
+29,Tlaxcala,024,Panotla,0007,San Jorge Tezoquipan,272
+29,Tlaxcala,024,Panotla,0008,San Mateo Huexoyucan,61
+29,Tlaxcala,024,Panotla,0009,Santa Catalina Apatlahco,3
+29,Tlaxcala,024,Panotla,0010,Santa Cruz Techachalco,103
+29,Tlaxcala,024,Panotla,0011,San Tadeo Huiloapan,116
+29,Tlaxcala,024,Panotla,0017,Nixtlalpa (Colonia las Palmas),1
+29,Tlaxcala,024,Panotla,0018,El Nopal,1
+29,Tlaxcala,024,Panotla,0019,Santa Martha [Rancho],*
+29,Tlaxcala,024,Panotla,0020,La Plana (Los Volcanes),6
+29,Tlaxcala,024,Panotla,0024,Chichiapas,0
+29,Tlaxcala,024,Panotla,0025,Fraccionamiento la Virgen,85
+29,Tlaxcala,024,Panotla,0026,La Hacienda Vieja,1
+29,Tlaxcala,024,Panotla,0028,Camino a San Miguel,0
+29,Tlaxcala,024,Panotla,0029,Fraccionamiento Santa Elena,11
+29,Tlaxcala,024,Panotla,0030,Unidad Habitacional II,14
+29,Tlaxcala,024,Panotla,9998,Localidades de una vivienda,*
+29,Tlaxcala,025,San Pablo del Monte,0000,Total del Municipio,2690
+29,Tlaxcala,025,San Pablo del Monte,0001,Ciudad de San Pablo del Monte,2531
+29,Tlaxcala,025,San Pablo del Monte,0002,San Isidro Buen Suceso,147
+29,Tlaxcala,025,San Pablo del Monte,0003,Ex-Hacienda Guadalupe Xaltelulco,0
+29,Tlaxcala,025,San Pablo del Monte,0006,Acopilco,4
+29,Tlaxcala,025,San Pablo del Monte,0007,Ahuashuame,5
+29,Tlaxcala,025,San Pablo del Monte,0009,Ocopipila,*
+29,Tlaxcala,025,San Pablo del Monte,0011,Tetzacual,2
+29,Tlaxcala,025,San Pablo del Monte,0013,Xahuén Vargas,1
+29,Tlaxcala,025,San Pablo del Monte,0022,Hueyocotl,0
+29,Tlaxcala,025,San Pablo del Monte,0024,Cacamila San Antonio,0
+29,Tlaxcala,025,San Pablo del Monte,0025,Calaquiotli,*
+29,Tlaxcala,025,San Pablo del Monte,0028,Ocoilacas,*
+29,Tlaxcala,025,San Pablo del Monte,0029,San José Tecosahuatla,*
+29,Tlaxcala,025,San Pablo del Monte,0030,Xahuentepizila,0
+29,Tlaxcala,025,San Pablo del Monte,0038,Moxontitla,0
+29,Tlaxcala,025,San Pablo del Monte,0039,Papanasno,*
+29,Tlaxcala,025,San Pablo del Monte,0040,Pilazol,0
+29,Tlaxcala,025,San Pablo del Monte,0041,Rancho Escondido,*
+29,Tlaxcala,025,San Pablo del Monte,0042,Sais,*
+29,Tlaxcala,025,San Pablo del Monte,0044,Tectepetla,*
+29,Tlaxcala,025,San Pablo del Monte,0050,Tlaxtlaxcantla,0
+29,Tlaxcala,025,San Pablo del Monte,9998,Localidades de una vivienda,*
+29,Tlaxcala,025,San Pablo del Monte,9999,Localidades de dos viviendas,0
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0000,Total del Municipio,1015
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0001,Santa Cruz Tlaxcala,294
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0002,Guadalupe Tlachco,128
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0003,Jesús Huitznáhuac,49
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0004,San Lucas Tlacochcalco,108
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0005,San Miguel Contla,429
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0016,Xamistla,5
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0018,Alejandro Peña Conde,0
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0021,El Tesoro (Bautista) [Rancho],2
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0026,Luis Reyes,*
+29,Tlaxcala,026,Santa Cruz Tlaxcala,0027,San Diego [Rancho],*
+29,Tlaxcala,026,Santa Cruz Tlaxcala,9998,Localidades de una vivienda,*
+29,Tlaxcala,027,Tenancingo,0000,Total del Municipio,384
+29,Tlaxcala,027,Tenancingo,0001,Tenancingo,384
+29,Tlaxcala,027,Tenancingo,0007,Concepción Acopilco,0
+29,Tlaxcala,027,Tenancingo,0011,Tepepantlalpa (Magdalena Reyes),0
+29,Tlaxcala,027,Tenancingo,0013,Tecoac,*
+29,Tlaxcala,027,Tenancingo,9998,Localidades de una vivienda,*
+29,Tlaxcala,028,Teolocholco,0000,Total del Municipio,1091
+29,Tlaxcala,028,Teolocholco,0001,Teolocholco,829
+29,Tlaxcala,028,Teolocholco,0002,El Carmen Aztama,152
+29,Tlaxcala,028,Teolocholco,0003,Acxotla del Monte,94
+29,Tlaxcala,028,Teolocholco,0004,Cuaxinca,15
+29,Tlaxcala,028,Teolocholco,0007,Popozotzi,*
+29,Tlaxcala,028,Teolocholco,0010,Ayocalco,0
+29,Tlaxcala,028,Teolocholco,0015,Cuahtenco,*
+29,Tlaxcala,028,Teolocholco,0021,La Vuelta,*
+29,Tlaxcala,028,Teolocholco,0023,Texalepila,0
+29,Tlaxcala,028,Teolocholco,0026,Zapahua,*
+29,Tlaxcala,028,Teolocholco,0027,Alailazotl,*
+29,Tlaxcala,028,Teolocholco,0028,Tepochmetlatl,*
+29,Tlaxcala,028,Teolocholco,0032,Tepizila,1
+29,Tlaxcala,028,Teolocholco,0033,Apachco,*
+29,Tlaxcala,028,Teolocholco,0043,Román Zitlalpopocatl,*
+29,Tlaxcala,028,Teolocholco,0044,Tepetumayo,0
+29,Tlaxcala,028,Teolocholco,0045,Xaxantila,*
+29,Tlaxcala,028,Teolocholco,0047,Sesehuatlán,*
+29,Tlaxcala,028,Teolocholco,0048,Ixtlahuac,*
+29,Tlaxcala,028,Teolocholco,0049,Tlacahigualol,*
+29,Tlaxcala,028,Teolocholco,9998,Localidades de una vivienda,0
+29,Tlaxcala,028,Teolocholco,9999,Localidades de dos viviendas,*
+29,Tlaxcala,029,Tepeyanco,0000,Total del Municipio,578
+29,Tlaxcala,029,Tepeyanco,0001,Tepeyanco,151
+29,Tlaxcala,029,Tepeyanco,0002,Las Águilas [Colonia],18
+29,Tlaxcala,029,Tepeyanco,0003,San Cosme Atlamaxac,141
+29,Tlaxcala,029,Tepeyanco,0004,La Aurora,71
+29,Tlaxcala,029,Tepeyanco,0006,Colonia Guerrero,31
+29,Tlaxcala,029,Tepeyanco,0009,Santiago Tlacochcalco,47
+29,Tlaxcala,029,Tepeyanco,0011,San Pedro Xalcaltzinco,109
+29,Tlaxcala,029,Tepeyanco,0017,Armando Sánchez,*
+29,Tlaxcala,029,Tepeyanco,0018,Gerardo Franco,0
+29,Tlaxcala,029,Tepeyanco,0022,Antorcha Campesina,10
+29,Tlaxcala,029,Tepeyanco,0023,Colonia Guadalupe,0
+29,Tlaxcala,029,Tepeyanco,0024,El Potrero,0
+29,Tlaxcala,029,Tepeyanco,9998,Localidades de una vivienda,*
+29,Tlaxcala,030,Terrenate,0000,Total del Municipio,329
+29,Tlaxcala,030,Terrenate,0001,Terrenate,141
+29,Tlaxcala,030,Terrenate,0002,Los Ameles (Acolco),4
+29,Tlaxcala,030,Terrenate,0010,El Capulín [Colonia],16
+29,Tlaxcala,030,Terrenate,0012,El Capulín [Rancho],1
+29,Tlaxcala,030,Terrenate,0014,Carpintería (El Carpintero),*
+29,Tlaxcala,030,Terrenate,0015,Cerrito de Guadalupe,1
+29,Tlaxcala,030,Terrenate,0017,Cortesco,2
+29,Tlaxcala,030,Terrenate,0022,Guadalupe Victoria,17
+29,Tlaxcala,030,Terrenate,0031,La Noria [Rancho],*
+29,Tlaxcala,030,Terrenate,0033,El Pilancón,*
+29,Tlaxcala,030,Terrenate,0035,El Rincón [Ranchería],0
+29,Tlaxcala,030,Terrenate,0038,Nicolás Bravo,55
+29,Tlaxcala,030,Terrenate,0041,San José Villarreal,13
+29,Tlaxcala,030,Terrenate,0042,Tenexac,*
+29,Tlaxcala,030,Terrenate,0047,Toluca de Guadalupe,69
+29,Tlaxcala,030,Terrenate,0054,Comunidad Cuatro Caminos (El Rosario),0
+29,Tlaxcala,030,Terrenate,0063,La Mesa (La Cumbre) [Rancho],3
+29,Tlaxcala,030,Terrenate,0070,La Presa [Rancho],*
+29,Tlaxcala,030,Terrenate,0072,San Juan Villarreal [Rancho],1
+29,Tlaxcala,030,Terrenate,0073,Santa Ana [Rancho],0
+29,Tlaxcala,030,Terrenate,0074,Tlacaxolo,*
+29,Tlaxcala,030,Terrenate,0076,Rancho Viejo,*
+29,Tlaxcala,030,Terrenate,0077,La Candelaria [Rancho],*
+29,Tlaxcala,030,Terrenate,0079,San Pedro de Guadalupe,*
+29,Tlaxcala,030,Terrenate,0080,Rancho Puerta Colorada,*
+29,Tlaxcala,030,Terrenate,0085,Los Ameles [Rancho],*
+29,Tlaxcala,030,Terrenate,0087,San Isidro [Rancho],*
+29,Tlaxcala,030,Terrenate,0095,El Capulín [Rancho],3
+29,Tlaxcala,030,Terrenate,0096,Rancho Guadalupe,0
+29,Tlaxcala,030,Terrenate,0106,La Pera,*
+29,Tlaxcala,030,Terrenate,0112,La Cañada,*
+29,Tlaxcala,030,Terrenate,0118,El Dorado [Rancho],*
+29,Tlaxcala,030,Terrenate,0121,El Ocote (Las Pozas) [Rancho],1
+29,Tlaxcala,030,Terrenate,0124,Los Capulines [Rancho],*
+29,Tlaxcala,030,Terrenate,0129,El Mirador,0
+29,Tlaxcala,030,Terrenate,0134,José Melquiades Hernández Altamirano (Rancho el Barril),*
+29,Tlaxcala,030,Terrenate,0139,Rosendo Gómez Hernández,*
+29,Tlaxcala,030,Terrenate,0144,La Caldera,0
+29,Tlaxcala,030,Terrenate,0146,Cristalaco,0
+29,Tlaxcala,030,Terrenate,0148,Mallórico de Fermín Altamirano (El Paraíso),*
+29,Tlaxcala,030,Terrenate,0149,Paso Hondo,0
+29,Tlaxcala,030,Terrenate,0154,Manuel Pérez Flores,*
+29,Tlaxcala,030,Terrenate,0156,El Arracada [Rancho],*
+29,Tlaxcala,030,Terrenate,0157,El Ocote,1
+29,Tlaxcala,030,Terrenate,0158,El Sauce,*
+29,Tlaxcala,030,Terrenate,0159,La Estrella,*
+29,Tlaxcala,030,Terrenate,0160,Reforma,*
+29,Tlaxcala,030,Terrenate,9998,Localidades de una vivienda,1
+29,Tlaxcala,030,Terrenate,9999,Localidades de dos viviendas,0
+29,Tlaxcala,031,Tetla de la Solidaridad,0000,Total del Municipio,1375
+29,Tlaxcala,031,Tetla de la Solidaridad,0001,Tetla,776
+29,Tlaxcala,031,Tetla de la Solidaridad,0003,Capulac,37
+29,Tlaxcala,031,Tetla de la Solidaridad,0010,San Bartolomé Matlalohcan,267
+29,Tlaxcala,031,Tetla de la Solidaridad,0011,San Francisco Atexcatzinco,225
+29,Tlaxcala,031,Tetla de la Solidaridad,0013,San José Piedras Negras,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0015,Santa Fe la Troje,13
+29,Tlaxcala,031,Tetla de la Solidaridad,0017,José María Morelos y Pavón,28
+29,Tlaxcala,031,Tetla de la Solidaridad,0018,Plan de Ayala,14
+29,Tlaxcala,031,Tetla de la Solidaridad,0019,El Prado,1
+29,Tlaxcala,031,Tetla de la Solidaridad,0020,San Isidro Piedras Negras,6
+29,Tlaxcala,031,Tetla de la Solidaridad,0022,Santa Rosa Mena [Colonia],2
+29,Tlaxcala,031,Tetla de la Solidaridad,0026,San Gregorio,1
+29,Tlaxcala,031,Tetla de la Solidaridad,0027,San Isidro,0
+29,Tlaxcala,031,Tetla de la Solidaridad,0028,Santa Margarita,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0033,Ricardo Flores Magón,1
+29,Tlaxcala,031,Tetla de la Solidaridad,0034,Santa Margarita,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0039,La Concepción,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0040,La Loma [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0046,Santa María Zotoluca [Granja Porcina],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0047,Juan Lima Olivares,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0049,Santa Rosa [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0053,Las Arenas,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0056,El Corazón,0
+29,Tlaxcala,031,Tetla de la Solidaridad,0057,Ejido de Apizaquito,0
+29,Tlaxcala,031,Tetla de la Solidaridad,0060,Fracción el Derramadero,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0061,Rancho de Gómez,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0066,NCPE San Francisco Tepeyanco,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0067,San Miguel [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0069,Alejandro López Ávila (Los Temontones),*
+29,Tlaxcala,031,Tetla de la Solidaridad,0070,La Avenida,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0074,Alvarado [Cartonera],0
+29,Tlaxcala,031,Tetla de la Solidaridad,0076,Juan Antonio Gálvez [Cartonera],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0080,Felipe Gutiérrez,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0083,Guillermo Macías,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0089,La Divina Providencia,1
+29,Tlaxcala,031,Tetla de la Solidaridad,0090,El Grillo [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0095,El Cazador [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0097,Ricardo Aguirre Martínez [Cartonera],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0098,Fidel Castillo,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0099,Rancho Santa Cruz,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0102,La Cabaña del Indio [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0104,Ahuatepec,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0106,María de la Luz Sánchez,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0109,Cuitzillo [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0110,Domingo Suárez,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0111,La Monera [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0112,Las Cabañas del Abuelo,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0115,Braulio Noya,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0117,El Ocote,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0120,Ernestina Báez Hernández,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0123,Martin Piedras Hernández,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0127,Rancho Santa Teresa 3 Potrillos,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0130,El Retoñaje,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0132,Monte de Piedad [Rancho],*
+29,Tlaxcala,031,Tetla de la Solidaridad,0133,San Judas Tadeo,*
+29,Tlaxcala,031,Tetla de la Solidaridad,0134,Las Mismas Mulas,*
+29,Tlaxcala,031,Tetla de la Solidaridad,9998,Localidades de una vivienda,3
+29,Tlaxcala,031,Tetla de la Solidaridad,9999,Localidades de dos viviendas,0
+29,Tlaxcala,032,Tetlatlahuca,0000,Total del Municipio,576
+29,Tlaxcala,032,Tetlatlahuca,0001,Tetlatlahuca,220
+29,Tlaxcala,032,Tetlatlahuca,0002,San Andrés Cuamilpa,69
+29,Tlaxcala,032,Tetlatlahuca,0003,San Bartolomé Tenango,71
+29,Tlaxcala,032,Tetlatlahuca,0006,Santa Ana Portales,34
+29,Tlaxcala,032,Tetlatlahuca,0007,Santa Cruz Aquiahuac,176
+29,Tlaxcala,032,Tetlatlahuca,0008,Piedras Blancas  (La Cabaña),0
+29,Tlaxcala,032,Tetlatlahuca,0012,Santa Cruz Capulinares,2
+29,Tlaxcala,032,Tetlatlahuca,0014,Guetulio Suárez López,*
+29,Tlaxcala,032,Tetlatlahuca,0019,Atenco,1
+29,Tlaxcala,032,Tetlatlahuca,0024,La Cachorra,1
+29,Tlaxcala,032,Tetlatlahuca,0028,Santa Águeda,*
+29,Tlaxcala,032,Tetlatlahuca,0029,El Columpio,*
+29,Tlaxcala,032,Tetlatlahuca,0032,Los Pinos,*
+29,Tlaxcala,032,Tetlatlahuca,0033,Val'Quirico,2
+29,Tlaxcala,032,Tetlatlahuca,0034,Los Pirules,*
+29,Tlaxcala,032,Tetlatlahuca,9998,Localidades de una vivienda,0
+29,Tlaxcala,032,Tetlatlahuca,9999,Localidades de dos viviendas,0
+29,Tlaxcala,033,Tlaxcala,0000,Total del Municipio,5629
+29,Tlaxcala,033,Tlaxcala,0001,Tlaxcala de Xicohténcatl,830
+29,Tlaxcala,033,Tlaxcala,0008,Ocotlán,1395
+29,Tlaxcala,033,Tlaxcala,0009,San Buenaventura Atempan,116
+29,Tlaxcala,033,Tlaxcala,0010,San Diego Metepec,213
+29,Tlaxcala,033,Tlaxcala,0011,San Esteban Tizatlán,373
+29,Tlaxcala,033,Tlaxcala,0012,San Gabriel Cuauhtla,545
+29,Tlaxcala,033,Tlaxcala,0013,San Hipólito Chimalpa,185
+29,Tlaxcala,033,Tlaxcala,0014,San Lucas Cuauhtelulpan,192
+29,Tlaxcala,033,Tlaxcala,0015,San Sebastián Atlahapa,281
+29,Tlaxcala,033,Tlaxcala,0016,Santa María Acuitlapilco,933
+29,Tlaxcala,033,Tlaxcala,0017,Santa María Ixtulco,366
+29,Tlaxcala,033,Tlaxcala,0018,Pueblo Heroico de la Trinidad Tepehitec,199
+29,Tlaxcala,033,Tlaxcala,0021,La Era,*
+29,Tlaxcala,033,Tlaxcala,0022,Cruz Blanca,*
+29,Tlaxcala,033,Tlaxcala,0023,Potrero Grande,*
+29,Tlaxcala,033,Tlaxcala,0024,Potrero Chico (Colina del Sol),0
+29,Tlaxcala,033,Tlaxcala,9998,Localidades de una vivienda,*
+29,Tlaxcala,033,Tlaxcala,9999,Localidades de dos viviendas,1
+29,Tlaxcala,034,Tlaxco,0000,Total del Municipio,1222
+29,Tlaxcala,034,Tlaxco,0001,Tlaxco,605
+29,Tlaxcala,034,Tlaxco,0002,Acopinalco del Peñón,68
+29,Tlaxcala,034,Tlaxco,0006,San José Atotonilco,64
+29,Tlaxcala,034,Tlaxco,0008,La Candelaria,*
+29,Tlaxcala,034,Tlaxco,0009,Capilla de Tepeyahualco,3
+29,Tlaxcala,034,Tlaxco,0010,Los Capulines,0
+29,Tlaxcala,034,Tlaxco,0011,Casa Blanca,23
+29,Tlaxcala,034,Tlaxco,0013,La Ciénega,3
+29,Tlaxcala,034,Tlaxco,0014,Conzoquio,0
+29,Tlaxcala,034,Tlaxco,0015,El Convento,0
+29,Tlaxcala,034,Tlaxco,0016,Corralillos,*
+29,Tlaxcala,034,Tlaxco,0018,Los Charcos,2
+29,Tlaxcala,034,Tlaxco,0019,San Antonio Chapultepec,0
+29,Tlaxcala,034,Tlaxco,0022,Graciano Sánchez,7
+29,Tlaxcala,034,Tlaxco,0023,El Grullo,*
+29,Tlaxcala,034,Tlaxco,0025,La Herradura,0
+29,Tlaxcala,034,Tlaxco,0026,San Antonio Huexotitla,5
+29,Tlaxcala,034,Tlaxco,0029,El Jardín,*
+29,Tlaxcala,034,Tlaxco,0030,José María Morelos Buenavista,53
+29,Tlaxcala,034,Tlaxco,0033,Lagunilla,49
+29,Tlaxcala,034,Tlaxco,0035,La Lomita,*
+29,Tlaxcala,034,Tlaxco,0037,La Magdalena Soltepec,19
+29,Tlaxcala,034,Tlaxco,0038,Mariano Matamoros,29
+29,Tlaxcala,034,Tlaxco,0039,Comisión Federal de Electricidad-La Martinica,5
+29,Tlaxcala,034,Tlaxco,0040,Mazaquiáhuac,4
+29,Tlaxcala,034,Tlaxco,0041,Las Mesas,1
+29,Tlaxcala,034,Tlaxco,0042,El Mirador,0
+29,Tlaxcala,034,Tlaxco,0043,La Tronconera,*
+29,Tlaxcala,034,Tlaxco,0044,Ojo de Agua,7
+29,Tlaxcala,034,Tlaxco,0045,La Palma,7
+29,Tlaxcala,034,Tlaxco,0046,El Paraíso,1
+29,Tlaxcala,034,Tlaxco,0047,El Pardo,*
+29,Tlaxcala,034,Tlaxco,0054,Rancho Nuevo,*
+29,Tlaxcala,034,Tlaxco,0058,La Rosa,0
+29,Tlaxcala,034,Tlaxco,0059,El Rosario,45
+29,Tlaxcala,034,Tlaxco,0060,San Agustín [Rancho],0
+29,Tlaxcala,034,Tlaxco,0071,San José de las Delicias [Rancho Cinegético],*
+29,Tlaxcala,034,Tlaxco,0072,San Lorenzo Soltepec,28
+29,Tlaxcala,034,Tlaxco,0077,San Pedro la Cueva,6
+29,Tlaxcala,034,Tlaxco,0078,Santa Fe,3
+29,Tlaxcala,034,Tlaxco,0079,Santa Rosa [Rancho],*
+29,Tlaxcala,034,Tlaxco,0080,Santa María Zotoluca,2
+29,Tlaxcala,034,Tlaxco,0081,El Santísimo [Rancho],*
+29,Tlaxcala,034,Tlaxco,0084,Tecomalucan,16
+29,Tlaxcala,034,Tlaxco,0086,San José Tepeyahualco,15
+29,Tlaxcala,034,Tlaxco,0087,Ex-Hacienda San José Tepeyahualco,*
+29,Tlaxcala,034,Tlaxco,0088,Los Teteles,*
+29,Tlaxcala,034,Tlaxco,0089,Tetzitzilica,2
+29,Tlaxcala,034,Tlaxco,0090,Rancho Toltecapa,*
+29,Tlaxcala,034,Tlaxco,0091,Las Tórtolas,*
+29,Tlaxcala,034,Tlaxco,0093,La Trasquila,*
+29,Tlaxcala,034,Tlaxco,0094,Máximo Rojas Xalóstoc,30
+29,Tlaxcala,034,Tlaxco,0098,Guadalupe Huexotitla,4
+29,Tlaxcala,034,Tlaxco,0100,Santa Rosa de Lima,0
+29,Tlaxcala,034,Tlaxco,0101,Unión Ejidal Tierra y Libertad,70
+29,Tlaxcala,034,Tlaxco,0102,La Lobera,0
+29,Tlaxcala,034,Tlaxco,0106,Diego Muñoz Camargo,0
+29,Tlaxcala,034,Tlaxco,0112,Las Palomas [Rancho],*
+29,Tlaxcala,034,Tlaxco,0113,San Diego Quintanilla,3
+29,Tlaxcala,034,Tlaxco,0114,Alta Luz,*
+29,Tlaxcala,034,Tlaxco,0117,Maguey Cenizo,4
+29,Tlaxcala,034,Tlaxco,0125,Agua Escondida,1
+29,Tlaxcala,034,Tlaxco,0126,El Carmen,*
+29,Tlaxcala,034,Tlaxco,0132,El Pato [Rancho],*
+29,Tlaxcala,034,Tlaxco,0138,Titichilco,2
+29,Tlaxcala,034,Tlaxco,0147,Ejido San José Atotonilco,2
+29,Tlaxcala,034,Tlaxco,0149,El Tecorral,1
+29,Tlaxcala,034,Tlaxco,0155,San Baltazar,*
+29,Tlaxcala,034,Tlaxco,0156,El Colibrí [Rancho],*
+29,Tlaxcala,034,Tlaxco,0158,NCPE la Herradura,2
+29,Tlaxcala,034,Tlaxco,0159,Llanos de Teopa (Valle Escondido),1
+29,Tlaxcala,034,Tlaxco,0160,Loma de Enmedio,0
+29,Tlaxcala,034,Tlaxco,0161,Las Maravillas [Rancho],*
+29,Tlaxcala,034,Tlaxco,0162,El Matorral,*
+29,Tlaxcala,034,Tlaxco,0164,La Pera,*
+29,Tlaxcala,034,Tlaxco,0167,Rancho de la Providencia,*
+29,Tlaxcala,034,Tlaxco,0169,San Juan,*
+29,Tlaxcala,034,Tlaxco,0170,San Martín [Rancho],*
+29,Tlaxcala,034,Tlaxco,0173,San Ricardo,*
+29,Tlaxcala,034,Tlaxco,0174,Santa Cruz [Rancho],*
+29,Tlaxcala,034,Tlaxco,0175,El Sotol,*
+29,Tlaxcala,034,Tlaxco,0177,Las Vigas,8
+29,Tlaxcala,034,Tlaxco,0179,El Volador,*
+29,Tlaxcala,034,Tlaxco,0180,Zacatonal (Colonia Iturbide),*
+29,Tlaxcala,034,Tlaxco,0181,Las Arandelas,*
+29,Tlaxcala,034,Tlaxco,0192,Dos Barrancas,*
+29,Tlaxcala,034,Tlaxco,0193,El Potrero Mazayolo [Rancho],*
+29,Tlaxcala,034,Tlaxco,0194,La Vega,0
+29,Tlaxcala,034,Tlaxco,0201,El Potrero [Rancho],*
+29,Tlaxcala,034,Tlaxco,0206,El Fresno,*
+29,Tlaxcala,034,Tlaxco,0210,Los Laureles,0
+29,Tlaxcala,034,Tlaxco,0211,La Loma del Cortijo,0
+29,Tlaxcala,034,Tlaxco,0214,Nuevo Quintanilla,*
+29,Tlaxcala,034,Tlaxco,0232,Las Ánimas,*
+29,Tlaxcala,034,Tlaxco,0235,El Jagüey,4
+29,Tlaxcala,034,Tlaxco,0239,El Catorce,*
+29,Tlaxcala,034,Tlaxco,0244,Ejido Río Blanco (El Doce),1
+29,Tlaxcala,034,Tlaxco,0247,El Embarcadero,*
+29,Tlaxcala,034,Tlaxco,0263,El Llano,0
+29,Tlaxcala,034,Tlaxco,0264,El Valle,*
+29,Tlaxcala,034,Tlaxco,0267,La Loma del Jardín,1
+29,Tlaxcala,034,Tlaxco,0268,El Mirador,*
+29,Tlaxcala,034,Tlaxco,0269,El Nacimiento,*
+29,Tlaxcala,034,Tlaxco,0270,Ojo de Agua,0
+29,Tlaxcala,034,Tlaxco,0273,La Parada del Conejo (La Cieneguilla),*
+29,Tlaxcala,034,Tlaxco,0274,El Paraje,*
+29,Tlaxcala,034,Tlaxco,0292,Los Serrano [Rancho],*
+29,Tlaxcala,034,Tlaxco,0296,Rancho Seco el Viejo,*
+29,Tlaxcala,034,Tlaxco,0299,Rancho Campo David,3
+29,Tlaxcala,034,Tlaxco,0306,El Tintero,*
+29,Tlaxcala,034,Tlaxco,0307,Tlaquexpa,0
+29,Tlaxcala,034,Tlaxco,0314,Los Aztecas [Rancho],*
+29,Tlaxcala,034,Tlaxco,0335,Agua Escondida Zotoluca,0
+29,Tlaxcala,034,Tlaxco,0344,Cabaña Rivera,*
+29,Tlaxcala,034,Tlaxco,0349,El Chupadero,*
+29,Tlaxcala,034,Tlaxco,0360,Jorge Conde López,*
+29,Tlaxcala,034,Tlaxco,0365,La Mesa del Cielo,*
+29,Tlaxcala,034,Tlaxco,0367,Las Palomas,*
+29,Tlaxcala,034,Tlaxco,0370,Metla (los Pinos),0
+29,Tlaxcala,034,Tlaxco,0371,El Pedregal,*
+29,Tlaxcala,034,Tlaxco,0372,Piedra Blanca,*
+29,Tlaxcala,034,Tlaxco,0373,Los Polos,*
+29,Tlaxcala,034,Tlaxco,0378,El Xochío,*
+29,Tlaxcala,034,Tlaxco,0380,Rancho Tablón de Guadalupe Payuca,*
+29,Tlaxcala,034,Tlaxco,0383,El Potrillo,*
+29,Tlaxcala,034,Tlaxco,0386,San José el Escombro,*
+29,Tlaxcala,034,Tlaxco,0387,Santa Cruz Rancho Seco,0
+29,Tlaxcala,034,Tlaxco,0390,El Mirador (Teresa Rivera),*
+29,Tlaxcala,034,Tlaxco,0392,Tierra Nueva,0
+29,Tlaxcala,034,Tlaxco,0396,Juan Arroyo (San Isidro),*
+29,Tlaxcala,034,Tlaxco,0397,Emilio Guarneros Carrillo,*
+29,Tlaxcala,034,Tlaxco,0407,El Coyote,0
+29,Tlaxcala,034,Tlaxco,0408,José Fajardo Arroyo,*
+29,Tlaxcala,034,Tlaxco,0410,Antonio Rodríguez (La Rayuela),0
+29,Tlaxcala,034,Tlaxco,0411,El Compadre,*
+29,Tlaxcala,034,Tlaxco,0416,Los Pinos (Israel Olvera de Jesús),*
+29,Tlaxcala,034,Tlaxco,0419,Rancho de los Domínguez,*
+29,Tlaxcala,034,Tlaxco,0420,Los Tres Compadres [Rancho],*
+29,Tlaxcala,034,Tlaxco,0422,Las Jacarandas [Rancho],*
+29,Tlaxcala,034,Tlaxco,0424,Casa Goyri,*
+29,Tlaxcala,034,Tlaxco,0431,La Pradera del Potro,*
+29,Tlaxcala,034,Tlaxco,0432,La Soledad,*
+29,Tlaxcala,034,Tlaxco,0434,Santa Elena,*
+29,Tlaxcala,034,Tlaxco,0435,Santa María de Guadalupe,*
+29,Tlaxcala,034,Tlaxco,0436,La Loma,2
+29,Tlaxcala,034,Tlaxco,0438,La Soledad (El Carril),*
+29,Tlaxcala,034,Tlaxco,0439,Jacques Rivera [Rancho],*
+29,Tlaxcala,034,Tlaxco,0440,Los Pacher [Rancho],*
+29,Tlaxcala,034,Tlaxco,0442,El Lindero,*
+29,Tlaxcala,034,Tlaxco,9998,Localidades de una vivienda,8
+29,Tlaxcala,034,Tlaxco,9999,Localidades de dos viviendas,3
+29,Tlaxcala,035,Tocatlán,0000,Total del Municipio,206
+29,Tlaxcala,035,Tocatlán,0001,Tocatlán,205
+29,Tlaxcala,035,Tocatlán,0003,Acocotla,1
+29,Tlaxcala,035,Tocatlán,0004,La Cañada,*
+29,Tlaxcala,035,Tocatlán,0005,Santa Cruz [Rancho],*
+29,Tlaxcala,035,Tocatlán,9998,Localidades de una vivienda,*
+29,Tlaxcala,035,Tocatlán,9999,Localidades de dos viviendas,*
+29,Tlaxcala,036,Totolac,0000,Total del Municipio,1220
+29,Tlaxcala,036,Totolac,0001,San Juan Totolac,420
+29,Tlaxcala,036,Totolac,0002,Acxotla del Río,166
+29,Tlaxcala,036,Totolac,0003,La Candelaria Teotlalpan,85
+29,Tlaxcala,036,Totolac,0005,Los Reyes Quiahuixtlán,132
+29,Tlaxcala,036,Totolac,0006,San Francisco Ocotelulco,143
+29,Tlaxcala,036,Totolac,0007,San Miguel Tlamahuco,58
+29,Tlaxcala,036,Totolac,0008,Santiago Tepeticpac,86
+29,Tlaxcala,036,Totolac,0009,La Trinidad Chimalpa,53
+29,Tlaxcala,036,Totolac,0010,Cerro del Metecatzi,0
+29,Tlaxcala,036,Totolac,0013,Zaragoza,77
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0000,Total del Municipio,210
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0001,Zitlaltépec,176
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0002,Colonia Francisco Javier Mina,22
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0004,San Juan Bautista Mier,11
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0005,Ex-Hacienda San Juan Bautista,0
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0013,San Bernardino [Rancho],*
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0016,Guadalupe los Capulines,1
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0019,Barranca de San Nicolás,*
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0023,Julián de la Cruz Ramírez (Rancho la Loma),*
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,0024,Rancho Guadalupe (Ejido del Rincón Zitlaltepec),0
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,9998,Localidades de una vivienda,*
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,9999,Localidades de dos viviendas,*
+29,Tlaxcala,038,Tzompantepec,0000,Total del Municipio,780
+29,Tlaxcala,038,Tzompantepec,0001,Tzompantepec,82
+29,Tlaxcala,038,Tzompantepec,0002,San Andrés Ahuashuatepec,617
+29,Tlaxcala,038,Tzompantepec,0004,San Juan Quetzalcoapan,36
+29,Tlaxcala,038,Tzompantepec,0005,San Mateo Inophil,10
+29,Tlaxcala,038,Tzompantepec,0006,Xaltianquisco,25
+29,Tlaxcala,038,Tzompantepec,0014,Rancho Amoltepec,*
+29,Tlaxcala,038,Tzompantepec,0021,La Providencia las Huertas [Rancho],*
+29,Tlaxcala,038,Tzompantepec,0026,Rancho Cruztitla (Coyoeca),*
+29,Tlaxcala,038,Tzompantepec,0028,Mazapa (Rancho los Juanes),0
+29,Tlaxcala,038,Tzompantepec,0030,Cuayecatl,*
+29,Tlaxcala,038,Tzompantepec,0031,Lucas Flores,*
+29,Tlaxcala,038,Tzompantepec,0032,Fraccionamiento el Divino Salvador,8
+29,Tlaxcala,038,Tzompantepec,9998,Localidades de una vivienda,0
+29,Tlaxcala,038,Tzompantepec,9999,Localidades de dos viviendas,*
+29,Tlaxcala,039,Xaloztoc,0000,Total del Municipio,929
+29,Tlaxcala,039,Xaloztoc,0001,Xaloztoc,431
+29,Tlaxcala,039,Xaloztoc,0002,San Pedro Tlacotepec,158
+29,Tlaxcala,039,Xaloztoc,0003,Guadalupe Texmolac,109
+29,Tlaxcala,039,Xaloztoc,0005,Colonia Velazco,21
+29,Tlaxcala,039,Xaloztoc,0006,Colonia Venustiano Carranza,139
+29,Tlaxcala,039,Xaloztoc,0007,Santa Cruz Zacatzontetla,36
+29,Tlaxcala,039,Xaloztoc,0008,Colonia José López Portillo,32
+29,Tlaxcala,039,Xaloztoc,0011,La Colmena,*
+29,Tlaxcala,039,Xaloztoc,0012,Los Corrales,*
+29,Tlaxcala,039,Xaloztoc,0014,El Jagüey Prieto,0
+29,Tlaxcala,039,Xaloztoc,0019,Nicolás Bravo [Granja Avícola],*
+29,Tlaxcala,039,Xaloztoc,0024,Las Brisas,*
+29,Tlaxcala,039,Xaloztoc,0025,San Fernando [Rancho],*
+29,Tlaxcala,039,Xaloztoc,0026,Florencia Sánchez Nava,3
+29,Tlaxcala,039,Xaloztoc,0027,Celino Sánchez Conde,*
+29,Tlaxcala,039,Xaloztoc,0030,Rancho José Pilar,*
+29,Tlaxcala,039,Xaloztoc,0031,Rancho R77,*
+29,Tlaxcala,039,Xaloztoc,0032,San Juan [Rancho],*
+29,Tlaxcala,039,Xaloztoc,0033,El Señor de Chalma [Rancho],*
+29,Tlaxcala,039,Xaloztoc,0034,La Candelaria,*
+29,Tlaxcala,039,Xaloztoc,0035,FDX [Rancho],*
+29,Tlaxcala,039,Xaloztoc,9998,Localidades de una vivienda,0
+29,Tlaxcala,039,Xaloztoc,9999,Localidades de dos viviendas,*
+29,Tlaxcala,040,Xaltocan,0000,Total del Municipio,362
+29,Tlaxcala,040,Xaltocan,0001,Xaltocan,36
+29,Tlaxcala,040,Xaltocan,0004,La Ascensión Huitzcolotepec,40
+29,Tlaxcala,040,Xaltocan,0006,Las Mesas [Colonia],8
+29,Tlaxcala,040,Xaltocan,0007,La Retama,1
+29,Tlaxcala,040,Xaltocan,0010,San Simón Tlatlahuquitepec,116
+29,Tlaxcala,040,Xaltocan,0011,Santa Bárbara Acuicuizcatepec,36
+29,Tlaxcala,040,Xaltocan,0013,Topilco de Juárez,84
+29,Tlaxcala,040,Xaltocan,0014,San José Texopa,8
+29,Tlaxcala,040,Xaltocan,0016,Cuatla,28
+29,Tlaxcala,040,Xaltocan,0018,Atzacoalco,0
+29,Tlaxcala,040,Xaltocan,0020,Agua Bendita,0
+29,Tlaxcala,040,Xaltocan,0036,Cinco Santos,*
+29,Tlaxcala,040,Xaltocan,0039,Valentín Flores Hernández,*
+29,Tlaxcala,040,Xaltocan,0044,Nueva Ampliación Adolfo Ruiz Cortínez,*
+29,Tlaxcala,040,Xaltocan,0045,Nueva Ampliación Camino a Xaltocan,0
+29,Tlaxcala,040,Xaltocan,0048,Rancho Alva,*
+29,Tlaxcala,040,Xaltocan,0049,Rancho Zárate,*
+29,Tlaxcala,040,Xaltocan,0051,Rubén Sánchez,*
+29,Tlaxcala,040,Xaltocan,0053,Cañada de Chipila,0
+29,Tlaxcala,040,Xaltocan,0055,San Pedro,*
+29,Tlaxcala,040,Xaltocan,0057,María Eugenia García (El Cerro),*
+29,Tlaxcala,040,Xaltocan,0058,San Isidro,3
+29,Tlaxcala,040,Xaltocan,0059,Zozoquítla,*
+29,Tlaxcala,040,Xaltocan,0061,Los Arrieta [Rancho],*
+29,Tlaxcala,040,Xaltocan,0062,La Tabla,*
+29,Tlaxcala,040,Xaltocan,9998,Localidades de una vivienda,2
+29,Tlaxcala,040,Xaltocan,9999,Localidades de dos viviendas,0
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0000,Total del Municipio,1265
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0001,Papalotla,1115
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0004,San Marcos Contla,150
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0014,El Piecito,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0015,San Diego Buenavista,0
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0016,Tepizila,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0017,Xaltonac,0
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0018,Copachigia,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0019,Zacatecoma,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,9998,Localidades de una vivienda,0
+29,Tlaxcala,041,Papalotla de Xicohténcatl,9999,Localidades de dos viviendas,*
+29,Tlaxcala,042,Xicohtzinco,0000,Total del Municipio,657
+29,Tlaxcala,042,Xicohtzinco,0001,Xicohtzinco,657
+29,Tlaxcala,043,Yauhquemehcan,0000,Total del Municipio,2065
+29,Tlaxcala,043,Yauhquemehcan,0001,San Dionisio Yauhquemehcan,170
+29,Tlaxcala,043,Yauhquemehcan,0002,El Rosario Ocotoxco,47
+29,Tlaxcala,043,Yauhquemehcan,0003,San Benito Xaltocan,349
+29,Tlaxcala,043,Yauhquemehcan,0004,San Francisco Tlacuilohcan,90
+29,Tlaxcala,043,Yauhquemehcan,0005,San Lorenzo Tlacualoyan,66
+29,Tlaxcala,043,Yauhquemehcan,0006,Santa María Atlihuetzian,196
+29,Tlaxcala,043,Yauhquemehcan,0007,Santa Úrsula Zimatepec,500
+29,Tlaxcala,043,Yauhquemehcan,0008,San José Tetel,396
+29,Tlaxcala,043,Yauhquemehcan,0009,Barrio de Atencingo,29
+29,Tlaxcala,043,Yauhquemehcan,0011,Hualcaltzinco,179
+29,Tlaxcala,043,Yauhquemehcan,0012,San José Tepoxtla,31
+29,Tlaxcala,043,Yauhquemehcan,0017,Chimalpa,3
+29,Tlaxcala,043,Yauhquemehcan,0019,Cuarta Sección,2
+29,Tlaxcala,043,Yauhquemehcan,0020,Tlatelpa,*
+29,Tlaxcala,043,Yauhquemehcan,0021,La Soledad (El Charco) [Rancho],2
+29,Tlaxcala,043,Yauhquemehcan,0022,Serafín Sánchez García,*
+29,Tlaxcala,043,Yauhquemehcan,0023,El Llano,2
+29,Tlaxcala,043,Yauhquemehcan,0024,Tepetexco,*
+29,Tlaxcala,043,Yauhquemehcan,0026,El Llano Dos,0
+29,Tlaxcala,043,Yauhquemehcan,0027,Las Rocas [Rancho],*
+29,Tlaxcala,043,Yauhquemehcan,9998,Localidades de una vivienda,2
+29,Tlaxcala,043,Yauhquemehcan,9999,Localidades de dos viviendas,*
+29,Tlaxcala,044,Zacatelco,0000,Total del Municipio,1998
+29,Tlaxcala,044,Zacatelco,0001,Zacatelco,1993
+29,Tlaxcala,044,Zacatelco,0007,Domingo Arenas,4
+29,Tlaxcala,044,Zacatelco,0008,Campo Dolores,1
+29,Tlaxcala,044,Zacatelco,0018,Tlatelpa,*
+29,Tlaxcala,044,Zacatelco,9998,Localidades de una vivienda,*
+29,Tlaxcala,045,Benito Juárez,0000,Total del Municipio,179
+29,Tlaxcala,045,Benito Juárez,0001,Benito Juárez,178
+29,Tlaxcala,045,Benito Juárez,0004,Jagüey de Novillos,*
+29,Tlaxcala,045,Benito Juárez,0006,Ampliación los Pinos,1
+29,Tlaxcala,045,Benito Juárez,0010,Cinco Hilos,*
+29,Tlaxcala,045,Benito Juárez,0011,Los Carlos [Rancho],*
+29,Tlaxcala,045,Benito Juárez,0012,Rancho Alegre (La Alborada),*
+29,Tlaxcala,045,Benito Juárez,9998,Localidades de una vivienda,0
+29,Tlaxcala,046,Emiliano Zapata,0000,Total del Municipio,93
+29,Tlaxcala,046,Emiliano Zapata,0001,Emiliano Zapata,72
+29,Tlaxcala,046,Emiliano Zapata,0002,Ahilitla,0
+29,Tlaxcala,046,Emiliano Zapata,0005,El Capulitic,0
+29,Tlaxcala,046,Emiliano Zapata,0006,El Ciprés,0
+29,Tlaxcala,046,Emiliano Zapata,0007,Colonia Gustavo Díaz Ordaz,16
+29,Tlaxcala,046,Emiliano Zapata,0009,Los Encinos,0
+29,Tlaxcala,046,Emiliano Zapata,0010,Loma de Vacas,*
+29,Tlaxcala,046,Emiliano Zapata,0013,Rancho Coamila,2
+29,Tlaxcala,046,Emiliano Zapata,0014,Rancho Cruz Verde,*
+29,Tlaxcala,046,Emiliano Zapata,0015,El Epazote [Rancho],2
+29,Tlaxcala,046,Emiliano Zapata,0016,Rancho Guardamonte,0
+29,Tlaxcala,046,Emiliano Zapata,0017,Las Palomas [Rancho],0
+29,Tlaxcala,046,Emiliano Zapata,0018,Rancho Ojo de Agua,0
+29,Tlaxcala,046,Emiliano Zapata,0019,San Nicolás [Rancho],*
+29,Tlaxcala,046,Emiliano Zapata,0020,Rancho Tres Ríos,0
+29,Tlaxcala,046,Emiliano Zapata,0021,Rancho Vista Hermosa,0
+29,Tlaxcala,046,Emiliano Zapata,0022,Tecoaquillo,*
+29,Tlaxcala,046,Emiliano Zapata,0023,Tipitzila,0
+29,Tlaxcala,046,Emiliano Zapata,0024,Tlaximaloya (La Amapola),*
+29,Tlaxcala,046,Emiliano Zapata,0028,Fracción el Durazno,*
+29,Tlaxcala,046,Emiliano Zapata,0030,La Mancera,*
+29,Tlaxcala,046,Emiliano Zapata,0031,El Tejocote,*
+29,Tlaxcala,046,Emiliano Zapata,0032,La Loma,1
+29,Tlaxcala,046,Emiliano Zapata,0035,La Venta,*
+29,Tlaxcala,046,Emiliano Zapata,0037,San Isidro [Rancho],*
+29,Tlaxcala,046,Emiliano Zapata,9998,Localidades de una vivienda,0
+29,Tlaxcala,046,Emiliano Zapata,9999,Localidades de dos viviendas,0
+29,Tlaxcala,047,Lázaro Cárdenas,0000,Total del Municipio,76
+29,Tlaxcala,047,Lázaro Cárdenas,0001,Lázaro Cárdenas,72
+29,Tlaxcala,047,Lázaro Cárdenas,0006,Rancho Atlixtaca,*
+29,Tlaxcala,047,Lázaro Cárdenas,0007,La Mancera [Rancho],*
+29,Tlaxcala,047,Lázaro Cárdenas,0008,Rancho Maribel,*
+29,Tlaxcala,047,Lázaro Cárdenas,0009,San José de la Laguna,4
+29,Tlaxcala,047,Lázaro Cárdenas,0010,El Palomar,*
+29,Tlaxcala,047,Lázaro Cárdenas,0013,Víctor Carmona,*
+29,Tlaxcala,047,Lázaro Cárdenas,9998,Localidades de una vivienda,0
+29,Tlaxcala,047,Lázaro Cárdenas,9999,Localidades de dos viviendas,*
+29,Tlaxcala,048,La Magdalena Tlaltelulco,0000,Total del Municipio,94
+29,Tlaxcala,048,La Magdalena Tlaltelulco,0001,La Magdalena Tlaltelulco,94
+29,Tlaxcala,049,San Damián Texóloc,0000,Total del Municipio,265
+29,Tlaxcala,049,San Damián Texóloc,0001,San Damián Texóloc,265
+29,Tlaxcala,049,San Damián Texóloc,0004,Luis Echeverría Álvarez,0
+29,Tlaxcala,049,San Damián Texóloc,0006,Tlaxala,*
+29,Tlaxcala,049,San Damián Texóloc,9999,Localidades de dos viviendas,*
+29,Tlaxcala,050,San Francisco Tetlanohcan,0000,Total del Municipio,513
+29,Tlaxcala,050,San Francisco Tetlanohcan,0001,San Francisco Tetlanohcan,513
+29,Tlaxcala,050,San Francisco Tetlanohcan,0003,Achichihualoya,*
+29,Tlaxcala,050,San Francisco Tetlanohcan,0009,Elizabeth Pacheco Romero,*
+29,Tlaxcala,050,San Francisco Tetlanohcan,0011,San Miguel [Rancho],*
+29,Tlaxcala,050,San Francisco Tetlanohcan,9998,Localidades de una vivienda,*
+29,Tlaxcala,050,San Francisco Tetlanohcan,9999,Localidades de dos viviendas,*
+29,Tlaxcala,051,San Jerónimo Zacualpan,0000,Total del Municipio,159
+29,Tlaxcala,051,San Jerónimo Zacualpan,0001,San Jerónimo Zacualpan,158
+29,Tlaxcala,051,San Jerónimo Zacualpan,0002,La Herradura [Rancho],1
+29,Tlaxcala,051,San Jerónimo Zacualpan,0006,Una Flor en el Pantano,*
+29,Tlaxcala,051,San Jerónimo Zacualpan,9998,Localidades de una vivienda,*
+29,Tlaxcala,052,San José Teacalco,0000,Total del Municipio,173
+29,Tlaxcala,052,San José Teacalco,0001,San José Teacalco,168
+29,Tlaxcala,052,San José Teacalco,0006,El Encinal Dos de Mayo,4
+29,Tlaxcala,052,San José Teacalco,0007,Ex-Rancho San Nicolás Cuatlapanga,*
+29,Tlaxcala,052,San José Teacalco,0008,San Rafael [Rancho],*
+29,Tlaxcala,052,San José Teacalco,0011,Colonia Ecológica,1
+29,Tlaxcala,052,San José Teacalco,0012,San Luis,*
+29,Tlaxcala,052,San José Teacalco,0013,San Pedro Mártir,0
+29,Tlaxcala,052,San José Teacalco,0014,El Durazno,*
+29,Tlaxcala,052,San José Teacalco,0015,Altos de Mesa,*
+29,Tlaxcala,052,San José Teacalco,0016,Dolores,*
+29,Tlaxcala,052,San José Teacalco,0017,El Santuario,*
+29,Tlaxcala,052,San José Teacalco,0018,El Tecolote [Rancho],*
+29,Tlaxcala,052,San José Teacalco,0019,La Concepción,*
+29,Tlaxcala,052,San José Teacalco,0020,Yolican Malintzi,*
+29,Tlaxcala,052,San José Teacalco,9998,Localidades de una vivienda,0
+29,Tlaxcala,053,San Juan Huactzinco,0000,Total del Municipio,369
+29,Tlaxcala,053,San Juan Huactzinco,0001,San Juan Huactzinco,369
+29,Tlaxcala,053,San Juan Huactzinco,0007,Milpa Alta,*
+29,Tlaxcala,053,San Juan Huactzinco,9999,Localidades de dos viviendas,*
+29,Tlaxcala,054,San Lorenzo Axocomanitla,0000,Total del Municipio,239
+29,Tlaxcala,054,San Lorenzo Axocomanitla,0001,San Lorenzo Axocomanitla,239
+29,Tlaxcala,054,San Lorenzo Axocomanitla,0002,El Rancho,*
+29,Tlaxcala,054,San Lorenzo Axocomanitla,9998,Localidades de una vivienda,*
+29,Tlaxcala,055,San Lucas Tecopilco,0000,Total del Municipio,108
+29,Tlaxcala,055,San Lucas Tecopilco,0001,San Lucas Tecopilco,98
+29,Tlaxcala,055,San Lucas Tecopilco,0002,Las Cañadas,4
+29,Tlaxcala,055,San Lucas Tecopilco,0006,San José Rosastitla,1
+29,Tlaxcala,055,San Lucas Tecopilco,0008,Loma Bonita,*
+29,Tlaxcala,055,San Lucas Tecopilco,0009,Tlaxcantitla,4
+29,Tlaxcala,055,San Lucas Tecopilco,0010,Toltecapa,*
+29,Tlaxcala,055,San Lucas Tecopilco,0011,Xilomantla,*
+29,Tlaxcala,055,San Lucas Tecopilco,0013,El Llano,*
+29,Tlaxcala,055,San Lucas Tecopilco,0014,Cauatla,*
+29,Tlaxcala,055,San Lucas Tecopilco,0015,Las Cañadas,1
+29,Tlaxcala,055,San Lucas Tecopilco,0016,Maximino (El Llano),*
+29,Tlaxcala,055,San Lucas Tecopilco,0018,El Ranchito,*
+29,Tlaxcala,055,San Lucas Tecopilco,0019,Los Álamos,*
+29,Tlaxcala,055,San Lucas Tecopilco,0023,El Tejocote,*
+29,Tlaxcala,055,San Lucas Tecopilco,0025,Los Magueyales,*
+29,Tlaxcala,055,San Lucas Tecopilco,9998,Localidades de una vivienda,0
+29,Tlaxcala,055,San Lucas Tecopilco,9999,Localidades de dos viviendas,0
+29,Tlaxcala,056,Santa Ana Nopalucan,0000,Total del Municipio,374
+29,Tlaxcala,056,Santa Ana Nopalucan,0001,Santa Ana Nopalucan,374
+29,Tlaxcala,056,Santa Ana Nopalucan,0004,San Ignacio [Rancho],*
+29,Tlaxcala,056,Santa Ana Nopalucan,9998,Localidades de una vivienda,*
+29,Tlaxcala,057,Santa Apolonia Teacalco,0000,Total del Municipio,250
+29,Tlaxcala,057,Santa Apolonia Teacalco,0001,Santa Apolonia Teacalco,250
+29,Tlaxcala,057,Santa Apolonia Teacalco,0011,La Besana del Puente (Acuilco),*
+29,Tlaxcala,057,Santa Apolonia Teacalco,0013,La Capilla,*
+29,Tlaxcala,057,Santa Apolonia Teacalco,9998,Localidades de una vivienda,*
+29,Tlaxcala,058,Santa Catarina Ayometla,0000,Total del Municipio,387
+29,Tlaxcala,058,Santa Catarina Ayometla,0001,Santa Catarina Ayometla,387
+29,Tlaxcala,058,Santa Catarina Ayometla,0002,Palula,0
+29,Tlaxcala,059,Santa Cruz Quilehtla,0000,Total del Municipio,217
+29,Tlaxcala,059,Santa Cruz Quilehtla,0001,Santa Cruz Quilehtla,174
+29,Tlaxcala,059,Santa Cruz Quilehtla,0002,Ayometitla,43
+29,Tlaxcala,059,Santa Cruz Quilehtla,0003,Potrero,0
+29,Tlaxcala,059,Santa Cruz Quilehtla,0004,Schneider Electric México [Fábrica],*
+29,Tlaxcala,059,Santa Cruz Quilehtla,0005,Chimalpa [Rancho],0
+29,Tlaxcala,059,Santa Cruz Quilehtla,9998,Localidades de una vivienda,*
+29,Tlaxcala,060,Santa Isabel Xiloxoxtla,0000,Total del Municipio,244
+29,Tlaxcala,060,Santa Isabel Xiloxoxtla,0001,Santa Isabel Xiloxoxtla,244
