@@ -1,0 +1,6 @@
+Campo,Tipo,Descripción
+NOM_ENT,Texto,"Nombre de la Entidad Federativa (Estado). Ej. ""Guanajuato"", ""Nuevo León""."
+NOM_MUN,Texto,"Nombre del Municipio. Ej. ""Abasolo"", ""Monterrey""."
+NOM_LOC,Texto,"Nivel de agregación de la localidad. En este archivo, parece que todos los registros dicen ""Total del Municipio"", lo que confirma que es una tabla de resumen municipal (no por colonia)."
+POBTOT,Numérico (Float),Población Total del municipio (todos los habitantes).
+P18A24A,Numérico (Entero),"Población de 18 a 24 años que asiste a la escuela. Esta es tu variable proxy para ""Estudiantes Universitarios"" o de nivel Superior."

@@ -1,0 +1,3 @@
+Campo,Tipo,Descripción
+NOM_ENT,Texto,Nombre de la Entidad Federativa (Estado). Cobertura total de los 32 estados de México.
+GASTO_PROM_TRI,Numérico (Float),Gasto corriente promedio trimestral por hogar (Pesos Mexicanos). Representa cuánto gasta en promedio una familia en ese estado cada tres meses.

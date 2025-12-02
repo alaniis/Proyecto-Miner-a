@@ -1,0 +1,3 @@
+Campo,Tipo,Descripción
+NOM_ENT,Texto,Nombre de la Entidad Federativa (Estado). Cobertura total de los 32 estados de México.
+INGRESO_TRI,Numérico (Float),Ingreso corriente promedio trimestral por hogar (Pesos Mexicanos). Representa el total de percepciones monetarias y no monetarias que recibe un hogar promedio en ese estado cada tres meses.
