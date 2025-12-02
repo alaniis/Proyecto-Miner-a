@@ -1,0 +1,10 @@
+Campo,Tipo,Descripción
+NOM_ENT,Texto,Nombre de la Entidad Federativa (Estado).
+NOM_MUN,Texto,Nombre del Municipio.
+INGRESO_HOGAR_TRI,Numérico (Float),"Ingreso Trimestral Estimado por Hogar (Municipal). Parece ser una estimación o desagregación del ingreso estatal ajustado al nivel municipal (o un dato directo si la fuente lo permitía). Nota: Revisa la escala, valores como ~260,000 MXN trimestrales (~86k mensuales) suenan altos para un promedio general, podría ser un percentil alto o un agregado ajustado."
+GASTO_MUN_TRI,Numérico (Float),"Gasto Trimestral Estimado (Municipal). Gasto promedio de los hogares en el municipio. Valores como ~19,000 MXN trimestrales (~6.3k mensuales) parecen más alineados con el gasto promedio de hogares típicos."
+POBR_CAR_PROM,Numérico (Float),Intensidad de Pobreza: Promedio de carencias sociales (0-6) de la población pobre en el municipio.
+VUL_CAR_PROM,Numérico (Float),Intensidad de Vulnerabilidad (Carencias): Promedio de carencias de la población vulnerable.
+VUL_ING_POR,Numérico (Float),Vulnerabilidad por Ingreso (%): Porcentaje de población sin carencias pero con ingresos insuficientes.
+CAR_SALUD_PROM,Numérico (Float),Intensidad Carencia Salud: Promedio de carencias en población sin acceso a salud.
+CAR_SEG_SOC_PROM,Numérico (Float),Intensidad Carencia Seg. Social: Promedio de carencias en población sin seguridad social.
