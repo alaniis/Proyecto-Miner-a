@@ -254,5 +254,7 @@ Este proyecto fue desarrollado manteniendo altos estándares de calidad en el pr
 
 **Fonseca González Bruno**
 
+**Minerva Estrada Montaño Abril**
+
 ## 📜 Licencia y Uso
 Este proyecto tiene fines académicos y de investigación. Los datos originales pertenecen a sus respectivas fuentes gubernamentales (INEGI, SEP, CONEVAL). El código de preprocesamiento es de uso libre bajo referencia de los autores.
