@@ -1,0 +1,8 @@
+Nombre de la Columna,Tipo de Dato (Python),Descripción Detallada,Valores Posibles / Rango,Notas Importantes
+ENTIDAD,int64,Clave geoestadística del estado (Entidad Federativa).,9 (Corresponde exclusivamente a Ciudad de México).,Útil para hacer joins con otros mapas o bases nacionales.
+NOM_ENT,object (String),Nombre oficial de la entidad.,"""Ciudad de México"".","Redundante si solo analizas CDMX, pero útil para validar."
+MUN,int64,Clave geoestadística del municipio (Alcaldía).,"2, 3, 4... (Códigos oficiales de alcaldías como Azcapotzalco, Coyoacán, etc.).","0: Representa el ""Total de la Entidad"" (suma de todas las alcaldías)."
+NOM_MUN,object (String),Nombre de la Alcaldía (Municipio).,"""Azcapotzalco"", ""Coyoacán"", ""Iztapalapa"", etc.","""Total de la entidad..."" indica filas resumen."
+LOC,int64,Clave geoestadística de la localidad.,"1, 2, 3... (Códigos de colonias/pueblos específicos).","0: Representa el ""Total del Municipio"" (suma de todas las localidades de esa alcaldía).9998/9999: Localidades dispersas no especificadas."
+NOM_LOC,object (String),"Nombre de la localidad (Colonia, Pueblo, Barrio).","""Total de la Entidad"", ""Total del Municipio"", nombres específicos de colonias.",
+P18A24A,object (Mixto),Población de 18 a 24 años que asiste a la escuela.,Numérico (Cantidad de personas).,"OJO: Contiene asteriscos (*) que significan ""Dato confidencial"" (población muy pequeña, 1 o 2 personas) para proteger el anonimato. Debes limpiarlos."

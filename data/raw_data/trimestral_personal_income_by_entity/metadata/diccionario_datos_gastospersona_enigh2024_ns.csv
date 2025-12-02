@@ -1,0 +1,185 @@
+Tabla:,,GASTOSPERSONA,,,,,
+,,,,,,,
+Insumos:,,,,,,,
+"ENIGHC14NC.TR_ENIGHV2024_REMESPECIE
+ENIGHC14NC.TR_ENIGHV2024_GASTOEDUCA
+ENIGHC14NC.TR_ENIGHV2024_TRANSPORTEPUBLICO",,,,,,,
+,,,,,,,
+Construcción general:,,,,,,,
+"La conformación de esta tabla se realiza uniendo los registros de cada una de las tablas que contienen información de gasto a nivel persona. Previamente a cada tabla se le asigna un tipo de gasto se construyen o renombran las variables que forman la llave y en su caso se agrega la información a nivel hogar.
+El tratamiento para cada tabla es el siguiente:
+
+ENIGHC14NC.TR_ENIGHV2024_REMESPECIE, se agrega la información a nivel FOLIOVIV FOLIOHOG NUMREN CLAVE tipo_gasto MES_DIA FREC INST, se crea la variable tipo_gasto con valor igual a G4, se construye la variable mes_dia (ver nota).
+",,,,,,,
+"ENIGHC14NC.TR_ENIGHV2024_GASTOEDUCA, se crea la variable tipo_gasto con valor igual a G1 y se crea la variable que complementa la llave:
+mes_dia='0000'.
+
+ENIGHC14NC.TR_ENIGHV2024_TRANSPORTEPUBLICO, se crea la variable tipo_gasto con valor igual a G1, se construye la variable mes_dia (ver nota).
+",,,,,,,
+Se unen todas las tablas anteriores y se crea la variable de gasto_nm según el tipo de gasto (ver nota) y se trimestralizan el gasto y el gasto no monetario según su clave y tipo de gasto (ver nota). Se renombran las variables (para explotación) de acuerdo a la lista de variables.,,,,,,,
+,,,,,,,
+Lista de variables:,,,,,,,
+#,Variable,,Tipo,Categorías / valores nulos,,Construcción / Observaciones,
+,Explotación,Validación,,Valor,Etiqueta,,
+1,folioviv,FOLIOVIV,C (10),NOT NULL,,"Identificador de la vivienda compuesto por dos dígitos con la clave de la entidad federativa, uno con el ámbito (urbano, código diferente a 6; rural, código 6), cuatro dígitos del número consecutivo de la upm, un dígito de la decena de levantamiento y dos dígitos con un número consecutivo para la vivienda seleccionada.",
+2,foliohog,FOLIOHOG,C (1),NOT NULL,,"Identificador del hogar, el código 1 identifica al hogar principal y del 2 al 5 los hogares adicionales",
+3,numren,NUMREN,C (2),NOT NULL,,Número consecutivo en el registro de personas del hogar,
+4,clave,CLAVE,C (6),NOT NULL,,Categorías en catálogo de gastos,
+5,tipo_gasto,,C (2),NOT NULL,,Variable construida (ver nota),
+,,,,G1,Gasto monetario en bienes y servicios para el hogar,,
+,,,,G4,Gasto no monetario y/o monetario por remuneraciones en especie,,
+6,mes_dia,DIA,C (4),NOT NULL,,"Se construye a partir de la variable DIA (ver nota), categorías en catálogo de fechas",
+7,frec_rem,FREC,C (1),NULL,,,
+,,,,1,Una vez a la semana,,
+,,,,2,Dos veces a la semana,,
+,,,,3,Tres veces a la semana,,
+,,,,4,Cuatro veces a la semana,,
+,,,,5,Cinco veces a la semana,,
+,,,,6,Seis veces a la semana,,
+,,,,7,Una vez a la quincena,,
+,,,,8,Una vez al mes,,
+,,,,9,Otros,,
+8,inst,INST,C (2),NULL,,Institución que proporciona los productos y servicios para el cuidado de la salud.,
+,,,,01,"Médicos, laboratorios y hospitales particulares",,
+,,,,02,Servicios médicos del IMSS,,
+,,,,03,Servicios médicos del ISSSTE,,
+,,,,04,Servicios médicos de PEMEX,,
+,,,,05,Servicios médicos de la Marina,,
+,,,,06,Servicios médicos del Ejército,,
+,,,,07,Servicios médicos de la SSA,,
+,,,,09,Servicios médicos del DIF,,
+,,,,10,Servicios médicos de universidades públicas,,
+,,,,11,"Otros servicios médicos:Cruz Roja, Cruz Verde, etc.",,
+,,,,12,Servicios médicos provenientes del programa Prospera/Bienestar,,
+,,,,13,Provenientes de otro hogar,,
+9,forma_pag1,FPAGO1,C (2),NOT NULL,,"Variable recodificada (ver nota)
+RECODE FPAGO1 ('1'='01') ('2'='02') ('3'='03') ('4'='04')('5'='05')('6'='06')('7'='07')('8'='08')('9'='09') (' '='00') INTO forma_pag1.",
+,,,,00,No aplica,,
+,,,,01,Efectivo,,
+,,,,02,Fiado (persona particular o establecimiento comercial),,
+,,,,03,Domiciliación,,
+,,,,04,Transferencia electrónica de fondos,,
+,,,,05,Tarjeta de crédito,,
+,,,,06,Tarjeta de débito,,
+,,,,07,Cheque,,
+,,,,08,Vale,,
+,,,,09,Pago móvil,,
+,,,,10,Otro,,
+10,forma_pag2,FPAGO2,C (2),NOT NULL,,"Variable recodificada (ver nota)
+RECODE FPAGO2 ('1'='01') ('2'='02') ('3'='03') ('4'='04')('5'='05')('6'='06')('7'='07')('8'='08')('9'='09') (' '='00') INTO forma_pag2.",
+,,,,00,No aplica,,
+,,,,01,Efectivo,,
+,,,,02,Fiado (persona particular o establecimiento comercial),,
+,,,,03,Domiciliación,,
+,,,,04,Transferencia electrónica de fondos,,
+,,,,05,Tarjeta de crédito,,
+,,,,06,Tarjeta de débito,,
+,,,,07,Cheque,,
+,,,,08,Vale,,
+,,,,09,Pago móvil,,
+,,,,10,Otro,,
+11,forma_pag3,FPAGO3,C (2),NOT NULL,,"Variable recodificada (ver nota)
+RECODE FPAGO3 ('1'='01') ('2'='02') ('3'='03') ('4'='04')('5'='05')('6'='06')('7'='07')('8'='08')('9'='09') (' '='00') INTO forma_pag3.",
+,,,,00,No aplica,,
+,,,,01,Efectivo,,
+,,,,02,Fiado (persona particular o establecimiento comercial),,
+,,,,03,Domiciliación,,
+,,,,04,Transferencia electrónica de fondos,,
+,,,,05,Tarjeta de crédito,,
+,,,,06,Tarjeta de débito,,
+,,,,07,Cheque,,
+,,,,08,Vale,,
+,,,,09,Pago móvil,,
+,,,,10,Otro,,
+12,inscrip,INSCRIP,N (9),NULL,,,
+13,colegia,COLEGIA,N (9),NULL,,,
+14,cantidad,CANTIDAD,"N (10,3)",NULL,,,
+15,gasto,GASTO,"N (10,2)",NULL,,,
+16,costo,COSTO,"N (10,2)",NULL,,,
+17,gasto_tri,,"N (12,2)",NULL,,Variable construida (ver nota),
+18,gasto_nm,,"N (10,2)",NULL,,Variable construida (ver nota),
+19,gas_nm_tri,,"N (12,2)",NULL,,Variable construida (ver nota),
+20,entidad,,C (2),NOT NULL,,Variable construida con las claves de la entidad ENIGHC14NC.TC_MUESTRAS;,
+21,est_dis,EDIS_EG,C (3),NOT NULL,,Variable definida en el diseño muestral,
+22,upm,UPM_DIS,C (7),NOT NULL,,Variable definida en el diseño muestral,
+23,factor,FACTOR,N (5),NOT NULL,,Factor de expansión proporcionado por el área de muestras,
+,,,,,,,
+,,,,,,,
+Codificación del tipo de gasto (tipo_gasto),,,,,,,
+,TABLA,,,tipo_gasto,,,
+,ENIGHC14NC.TR_ENIGHV2024_REMESPECIE,,,G4,Gasto no monetario y/o monetario por remuneraciones en especie,,
+,ENIGHC14NC.TR_ENIGHV2024_GASTOEDUCA,,,G1,Gasto monetario en bienes y servicios para el hogar,,
+,ENIGHC14NC.TR_ENIGHV2024_TRANSPORTEPUBLIC,,,,,,
+,,,,,,,
+,,,,,,,
+Construcción de la variable  MES_DIA,,,,,,,
+Si la DECENA (valor 8 de la cadena folioviv) es igual a:,,y la variable DIA es igual a:,"entonces,  MES_DIA es igual a:",Si la DECENA (valor 8 de la cadena folioviv) es igual a:,,y la variable DIA es igual a:,"entonces,  MES_DIA es igual a:"
+1,,1,0820,6,,1,1009
+1,,2,0821,6,,2,1010
+1,,3,0822,6,,3,1011
+1,,4,0823,6,,4,1012
+1,,5,0824,6,,5,1013
+1,,6,0825,6,,6,1014
+1,,7,0826,6,,7,1015
+2,,1,0830,7,,1,1019
+2,,2,0831,7,,2,1020
+2,,3,0901,7,,3,1021
+2,,4,0902,7,,4,1022
+2,,5,0903,7,,5,1023
+2,,6,0904,7,,6,1024
+2,,7,0905,7,,7,1025
+3,,1,0909,8,,1,1029
+3,,2,0910,8,,2,1030
+3,,3,0911,8,,3,1031
+3,,4,0912,8,,4,1101
+3,,5,0913,8,,5,1102
+3,,6,0914,8,,6,1103
+3,,7,0915,8,,7,1104
+4,,1,0919,9,,1,1108
+4,,2,0920,9,,2,1109
+4,,3,0921,9,,3,1110
+4,,4,0922,9,,4,1111
+4,,5,0923,9,,5,1112
+4,,6,0924,9,,6,1113
+4,,7,0925,9,,7,1114
+5,,1,0929,1 – 9,,0,0000
+5,,2,0930,,,,
+5,,3,1001,,,,
+5,,4,1002,,,,
+5,,5,1003,,,,
+5,,6,1004,,,,
+5,,7,1005,,,,
+,,,,,,,
+,,,,,,,
+,Construcción gasto_nm,,,,,,
+,tipo_gasto,,gasto_nm,,,,
+,G4,,costo – gasto,,,,
+,G4 y gasto=NULL,,costo,,,,
+,,,,,,,
+,,,,,,,
+,Construcción de gasto_tri y gas_nm_tri,,,,,,
+,,,,,,,
+,"Trimestralización de GASTOS DIRECTOS a nivel PERSONA, dependen de la decena y periodo del gasto determinado por la clave.",,,,,,
+,PERIODO DE REFERENCIA,DECENA,Factor de ajuste trimestral,CLAVE,,CONSTRUCCIÓN / OBSERVACIONES,
+,DIARIO,"0, 2 – 9",12.8571428571,GD,,"gasto_tri=gasto * (factor de ajuste trimestral)
+
+gas_nm_tri=gasto_nm * (factor de ajuste trimestral)",
+,,,,,,,
+,MENSUAL,"2 – 5, 9, 0",2.9032258064,"GM, GR",,,
+,,6 – 8,3.0000000000,,,,
+,TRIMESTRAL,"2 – 9, 0",0.9782608695,GT,,,
+,,,,,,,
+,SEMESTRAL,2,0.4945054945,"GS, ES",,,
+,,"3 – 5, 9, 0",0.4891304347,,,,
+,,6 – 8,0.4918032786,,,,
+," Nota:  La decena es el dígito 8 de la variable folioviv; no habrá redondeo, sólo truncar a dos decimales.",,,,,,
+,,,,,,,
+,,,,,,,
+,Catálogo de siglas y claves según su periodo de referencia,,,,,,
+,PERIODO DE REFERENCIA,TIPO,DESCRIPCIÓN,CLAVES,,,
+,DIARIO,GD,Gastos diarios,"011111, 011112, 011113, 011121, 011122, 011131, 011132, 011133, 011134, 011135, 011136, 011137, 011138, 011139, 01113A, 011140, 011150, 011191, 011192, 011193, 011194, 011195, 011196, 011210, 011221, 011222, 011223, 011224, 011225, 011226, 011227, 011228, 011229, 01122A, 01122B, 01122C, 01122D, 01122F, 01122G, 01122H, 01122I, 011231, 011232, 011233, 011234, 011235, 011241, 011242, 011243, 011244, 011245, 011246, 011247, 011251, 011252, 011253, 011254, 011255, 011256, 011310, 011321, 011322, 011323, 011324, 011331, 011332, 011341, 011342, 011343, 011351, 011352, 011360, 011370, 011411, 011412, 011420, 011432, 011433, 011441, 011442, 011451, 011452, 011454, 011455, 011456, 011460, 011471, 011472, 011473, 011481, 011482, 011490, 011511, 011512, 011520, 011530, 011591, 011592, 011593, 011611, 011612, 011613, 011614, 011615, 011616, 011617, 011621, 011622, 011623, 011624, 011631, 011632, 011633, 011634, 011635, 011641, 011642, 011651, 011652, 011653, 011654, 011660, 011670, 011680, 011691, 011692, 011711, 011712, 011713, 011721, 011722, 011723, 011724, 011725, 011726, 011727, 011728, 011729, 01172A, 011731, 011732, 011733, 011741, 011742, 011743, 011744, 011745, 011746, 011747, 011748, 011749, 011751, 011752, 011753, 011754, 011755, 011761, 011762, 011763, 011764, 011770, 011781, 011782, 011791, 011792, 011793, 011794, 011795, 011796, 011797, 011798, 011799, 01179A, 011810, 011820, 011831, 011832, 011833, 011834, 011841, 011842, 011843, 011851, 011852, 011853, 011861, 011862, 011891, 011892, 011893, 011911, 011912, 011921, 011922, 011923, 011924, 011925, 011931, 011932, 011933, 011934, 011935, 011936, 011937, 011938, 011942, 011943, 011944, 011945, 011946, 011991, 011992, 011993, 011995, 011996, 012100, 012201, 012202, 012203, 012301, 012302, 012400, 012501, 012502, 012601, 012602, 012603, 012604, 012901, 012902, 012903, 012904, 012905, 012907, 013000, 021101, 021102, 021103, 021104, 021105, 021211, 021212, 021213, 021220, 021301, 021302, 021303, 021901, 021902, 023010, 023020, 023090, 073111, 073121, 073122, 073123, 073212, 073213, 073214, 073215, 073221, 073222, 073290, 073600, 093221, 111111, 111112, 111113, 111114, 111115, 111116, 111121, 111122, 111123, 111124, 111125, 111126, 181111, 181112, 181113, 181114, 181115, 181116, 181117, 181118, 181119, 181120, 181121, 181122, 181123, 181124, 181125, 181126, 181127, 181128, 181129, 181130, 181131, 181132, 181133, 181134, 181135, 181136, 181137, 181138, 181139, 181140, 181141, 181142, 181143, 181144, 181145, 181146, 181147, 181148, 181149, 181150, 181151, 181152, 181153, 181154, 181155, 181156, 181157, 181158, 181159, 181160, 181161, 181162, 181163, 181164, 181165, 181166, 181167, 181168, 181169, 181170, 181171, 181211, 181212",,,
+,MENSUAL,GM,Gastos mensuales,"031411, 031412, 041103, 041104, 041105, 041211, 041212, 041221, 041222, 043203, 043204, 044200, 044310, 044320, 044411, 044412, 044491, 044492, 045222, 045300, 045410, 045420, 045430, 045490, 045502, 055221, 055222, 056112, 056113, 056114, 056115, 056116, 056117, 056118, 056119, 05611A, 05611B, 05611C, 05611D, 05611E, 056192, 056193, 056194, 056195, 056196, 056197, 056198, 05619A, 05619B, 05619C, 056211, 056212, 056291, 056292, 056293, 056294, 056295, 072134, 072210, 072221, 072222, 072230, 072240, 072302, 072303, 072306, 072412, 072431, 073230, 074110, 074120, 074920, 081200, 081322, 081502, 081503, 082003, 083103, 083104, 083201, 083302, 083303, 083921, 083922, 083923, 083990, 094312, 094611, 094612, 094613, 094615, 094616, 094622, 094623, 094624, 094625, 094630, 094700, 095201, 095202, 095204, 095205, 095206, 096101, 096102, 096103, 096104, 096105, 096201, 096202, 096901, 096903, 096904, 097111, 097112, 097113, 097191, 097192, 097193, 097194, 097210, 097220, 097301, 097302, 097401, 097402, 097403, 097404, 097405, 097406, 097407, 097408, 101011, 101012, 101013, 101014, 101015, 101021, 101022, 101023, 101024, 101025, 102001, 102002, 102003, 102004, 102005, 103001, 103002, 103003, 103004, 103005, 104011, 104012, 104013, 104014, 104015, 104016, 104017, 104018, 104019, 10401A, 105010, 105091, 105092, 105093, 112030, 131111, 131112, 131113, 131120, 131201, 131202, 131203, 131204, 131205, 131206, 131207, 131208, 13120A, 13120B, 13120C, 13120D, 13120E, 13120F, 13120G, 13120H, 13120I, 13120J, 13120K, 13120L, 13120M, 13120N, 131311, 131312, 131313, 131321, 131322, 131323, 133011, 133012, 133013, 133014, 171101, 171319, 174111, 174112, 174113, 174114, 174115",,,
+,,GR,Gastos mensuales contra recibos,"044110, 045100, 045210, 045221, 083101, 083102, 083202, 083301, 083401, 083402, 083403, 083404, 083405, 083924, 171611, 171612, 171613",,,
+,TRIMESTRAL,GT,Gastos trimestrales,"011994, 031100, 031211, 031212, 031213, 031214, 031215, 031216, 031217, 031218, 031219, 03121A, 03121B, 03121C, 03121D, 03121E, 03121F, 03121G, 03121H, 03121I, 03121J, 031221, 031222, 031223, 031224, 031225, 031226, 031227, 031228, 031229, 03122A, 03122B, 03122C, 03122D, 03122E, 03122F, 03122G, 03122H, 03122I, 03122J, 03122K, 03122L, 03122M, 03122N, 03122O, 031231, 031232, 031235, 031236, 031237, 031238, 031239, 03123A, 03123B, 03123C, 031241, 031242, 031243, 031244, 031245, 031311, 031312, 031313, 031314, 031316, 031320, 031420, 032111, 032112, 032113, 032114, 032115, 032116, 032117, 032118, 032119, 032121, 032122, 032123, 032124, 032125, 032126, 032127, 032128, 032129, 032131, 032132, 032133, 032134, 032135, 032136, 032137, 032138, 032139, 03213A, 03213B, 03213C, 03213D, 032201, 032202, 051111, 051142, 051144, 051145, 052111, 052112, 052113, 052121, 052122, 052123, 052124, 052131, 052132, 052191, 052192, 052193, 052200, 054011, 054012, 054013, 054021, 054022, 054023, 054031, 054032, 054033, 054034, 054035, 054036, 054040, 055101, 055102, 055211, 055212, 055301, 055302, 055303, 056111, 056191, 061111, 061112, 061113, 061114, 061115, 061116, 061117, 061118, 061119, 06111A, 06111B, 06111C, 06111D, 06111E, 06111F, 06111G, 06111H, 06111I, 06111J, 06111K, 06111L, 061120, 061211, 061212, 061221, 061222, 061223, 061230, 061311, 061312, 061320, 061331, 061332, 061333, 061334, 061335, 061336, 061337, 061338, 061401, 061402, 062110, 062191, 062192, 062193, 062194, 062195, 062196, 062197, 062198, 062210, 062291, 062292, 062311, 062312, 062313, 062321, 062322, 062323, 063101, 063102, 063103, 063104, 063105, 063106, 063200, 064101, 064102, 064103, 064201, 064202, 093122, 121202, 131209, 132111, 132112, 132113, 132120, 132200, 132911, 132912, 132913, 132914, 132915, 132916, 132917, 132918, 132919, 13291B, 132921, 132922, 133021, 133022, 172111, 172112, 172113, 172114, 172115, 172116, 172117, 172118, 172119, 17211A, 17211B, 172121, 172122, 172123, 172124",,,
+,SEMESTRAL,GS,Gastos semestrales,"024000, 031315, 043111, 043112, 043121, 043122, 043201, 043202, 044120, 051112, 051113, 051114, 051115, 051116, 051121, 051122, 051130, 051141, 051143, 051201, 051202, 051203, 053111, 053112, 053113, 053114, 053115, 053121, 053122, 053131, 053132, 053133, 053134, 053140, 053190, 053211, 053212, 053213, 053214, 053215, 053221, 053222, 053291, 053292, 053293, 053301, 053302, 053303, 055223, 056199, 071110, 071120, 071200, 071300, 071401, 071402, 072110, 072121, 072122, 072131, 072132, 072133, 072301, 072304, 072305, 072307, 072308, 072309, 072420, 072432, 072440, 073112, 073211, 073310, 073320, 073401, 073402, 073500, 074911, 074912, 081100, 081311, 081312, 081313, 081321, 081323, 081324, 081325, 081401, 081402, 081403, 081404, 081405, 081406, 081407, 081408, 081409, 08140A, 081501, 081505, 081910, 081920, 082001, 082002, 083501, 083502, 091111, 091112, 091113, 091114, 091121, 091122, 091130, 091210, 091220, 091230, 091241, 091242, 091243, 091290, 092111, 092112, 092113, 092114, 092115, 092116, 092117, 092118, 092121, 092122, 092131, 092211, 092212, 092213, 092220, 093110, 093121, 093123, 093210, 093222, 094100, 094210, 094220, 094311, 094320, 094400, 094501, 094502, 094621, 095100, 096300, 096902, 096905, 096906, 098001, 098002, 098003, 098004, 112011, 112012, 112013, 112014, 112020, 112090, 121101, 121102, 121201, 121300, 121411, 121412, 121420, 121900, 122100, 122200, 122910, 122990, 13291A, 133030, 133091, 133092, 139010, 139020, 139091, 139092, 139093, 139094, 139096, 173111, 173112, 173113, 173121, 173133, 173134, 173135, 173136, 173411, 173412, 173413, 173414, 173415, 173416, 173417",,,
+,,ES,Erogaciones semestrales,"173511, 173512, 173513, 173514, 173515, 173516, 173517, 173518, 173519, 173520, 173521, 173522, 173523, 173524, 173525, 173526",,,
