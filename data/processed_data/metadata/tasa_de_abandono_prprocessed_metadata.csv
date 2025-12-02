@@ -1,0 +1,4 @@
+Campo,Tipo,Descripción
+NOM_ENT,Texto,Nombre de la Entidad Federativa (Estado). Corresponde a los 32 estados de México.
+Nivel,Texto,"Nivel educativo al que refiere el dato. En este archivo, todos los registros son ""Superior"" (Licenciatura, Ingeniería, Técnico Superior)."
+TASA_ABANDONO,Numérico (Float),Porcentaje de alumnos que abandonaron sus estudios superiores en la entidad durante el ciclo escolar de referencia (2024).

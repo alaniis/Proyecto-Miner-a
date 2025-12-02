@@ -1,0 +1,8 @@
+Campo,Tipo,Descripción
+NOM_ENT,Texto,Nombre de la Entidad Federativa (Estado).
+NOM_MUN,Texto,Nombre del Municipio. Llave para unir con otros datos municipales.
+POBR_CAR_PROM,Numérico,Intensidad de la Pobreza (Carencias Promedio): Promedio de carencias sociales (de 0 a 6) que tienen las personas identificadas como pobres. Un número más alto indica pobreza más profunda.
+VUL_CAR_PROM,Numérico,Intensidad de Vulnerabilidad Social: Promedio de carencias sociales de la población que es vulnerable por carencias (pero tiene ingresos suficientes).
+VUL_ING_POR,Numérico,"Vulnerabilidad por Ingreso (%): Porcentaje de la población que NO tiene carencias sociales, pero su ingreso es tan bajo que está en riesgo de caer en pobreza si hay una crisis económica."
+CAR_SALUD_PROM,Numérico,Intensidad en Falta de Salud: Promedio de carencias sociales que sufren específicamente las personas que ya tienen carencia por acceso a servicios de salud. (Mide la interseccionalidad de las carencias).
+CAR_SEG_SOC_PROM,Numérico,Intensidad en Falta de Seguridad Social: Promedio de carencias sociales de las personas que no tienen seguridad social.
