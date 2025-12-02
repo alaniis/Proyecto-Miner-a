@@ -20,7 +20,7 @@ El notebook procesa el dataset maestro generado previamente para construir métr
 ```mermaid
 flowchart TD
     Input[(data_final_proyecto_final.csv)] --> Normalizacion[Normalización Min-Max]
-    Input --> Funciones[Funciones de Valor\n(Cóncavas/Convexas)]
+    Input --> Funciones["Funciones de Valor\n(Cóncavas/Convexas)"]
     
     Normalizacion --> Ponderacion1[Ponderación Lineal]
     Funciones --> Ponderacion2[Ponderación No-Lineal]
@@ -35,6 +35,7 @@ flowchart TD
     Clasificacion --> JoinGeo
     
     JoinGeo --> Mapas[Visualización Geoespacial]
+
 ```
 # 📂 Documentación Técnica del Notebook (Indices.ipynb)
 1. 📏 Normalización Lineal (Min-Max)
